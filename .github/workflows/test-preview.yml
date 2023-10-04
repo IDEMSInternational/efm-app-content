@@ -24,16 +24,14 @@ on:
     branches:
       - main
 concurrency:
-  group: deployment-preview-${{ github.workflow }}-${{ github.ref }}
+  group: "test-preview"
   cancel-in-progress: true
 jobs:
   build_action:  
     if: contains(github.event.pull_request.labels.*.name, 'test - preview')
-
     uses: ./.github/workflows/app-build.yml
     with:
       artifact-name: www      
-      build-flags: --configuration "production,preview"
     secrets: inherit
   
 
@@ -88,23 +86,11 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: "${{ secrets.GITHUB_TOKEN }}"
-          firebaseServiceAccount: "${{ secrets.FIREBASE_SERVICE_ACCOUNT }}"
-          projectId: plh-teens-app1
-          target: "${{needs.build.outputs.DEPLOYMENT_NAME}}"
+          firebaseServiceAccount: "${{ env.FIREBASE_SERVICE_ACCOUNT }}"
+          projectId: "${{ env.FIREBASE_PROJECT_ID }}"
+          target: "${{ env.FIREBASE_HOSTING_TARGET }}"
           expires: 14d
         env:
           FIREBASE_CLI_PREVIEWS: hostingchannels
 
-
-
-      # Deploy to firebase
-      - id: deploy
-        uses: FirebaseExtended/action-hosting-deploy@v0
-        with:
-          repoToken: "${{ secrets.GITHUB_TOKEN }}"
-          firebaseServiceAccount: "${{ env.FIREBASE_SERVICE_ACCOUNT }}"
-          projectId: "${{ env.FIREBASE_PROJECT_ID }}"
-          channelId: "${{ env.FIREBASE_HOSTING_CHANNEL }}"
-          target: ${{ github.base_ref }} #"${{ env.FIREBASE_HOSTING_TARGET }}"
-          expires: "14d"
 
