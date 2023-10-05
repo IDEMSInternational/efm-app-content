@@ -5,8 +5,7 @@ This package contains data used in the early family math app
 https://early-family-math.web.app
 
 ## Syncing data updates (automatic)
-A pull request syncing all spreadsheets and assets can be created automatically by running the following GitHub workflow:
-https://github.com/IDEMSInternational/efm-app-content/actions/workflows/sync-content.yml
+A pull request syncing all spreadsheets and assets can be created automatically by running the following GitHub workflow: [Sync Content](https://github.com/IDEMSInternational/efm-app-content/actions/workflows/sync-content.yml)
 
 ## Syncing data updates (manual)
 Data can be syncd from corresponding google drive folders via the script
