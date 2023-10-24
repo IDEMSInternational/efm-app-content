@@ -2,8 +2,8 @@ import { generateDeploymentConfig } from "scripts";
 const config = generateDeploymentConfig("early_family_math");
 
 config.google_drive = {
-  sheets_folder_id: "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
-  assets_folder_id: "1VkoezEbbeCIeV5IksorFt5lFp6AURYur",
+  sheets_folder_ids: ["1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"],
+  assets_folder_ids: ["1VkoezEbbeCIeV5IksorFt5lFp6AURYur"],
 };
 config.translations = {
   filter_language_codes: ["us_en", "es_es"],
@@ -13,7 +13,7 @@ config.translations = {
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/efm-app-content.git",
-  content_tag_latest: "1.1.2",
+  content_tag_latest: "1.1.3",
 };
 
 config.app_data.output_path = "./app_data";
