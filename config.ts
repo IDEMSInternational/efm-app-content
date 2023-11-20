@@ -13,7 +13,7 @@ config.translations = {
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/efm-app-content.git",
-  content_tag_latest: "1.1.3",
+  content_tag_latest: "1.1.4",
 };
 
 config.app_data.output_path = "./app_data";
