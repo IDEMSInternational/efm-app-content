@@ -336,6 +336,12 @@
     }
   },
   "template": {
+    "app_launch_calculations": {
+      "flow_type": "template",
+      "flow_name": "app_launch_calculations",
+      "process_on_start": 1,
+      "_xlsxPath": "app_launch_calculations.xlsx"
+    },
     "app_menu": {
       "flow_type": "template",
       "flow_name": "app_menu",
