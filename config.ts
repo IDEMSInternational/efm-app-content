@@ -16,6 +16,8 @@ config.git = {
   content_tag_latest: "1.1.4",
 };
 
+config.api.db_name = "early_family_math"
+
 config.app_data.output_path = "./app_data";
 
 // Override constants
