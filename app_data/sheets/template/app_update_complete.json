@@ -6,26 +6,11 @@
     {
       "type": "text",
       "name": "text",
-      "value": "@global.app_name has downloaded an update. Please restart the app to finish installation.",
+      "value": "EFM App has downloaded an update. Please restart the app to finish installation.",
       "_translations": {
         "value": {}
       },
-      "_nested_name": "text",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@global.app_name has downloaded an update. Please restart the app to finish installation.",
-            "matchedExpression": "@global.app_name",
-            "type": "global",
-            "fieldName": "app_name"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@global.app_name": [
-          "value"
-        ]
-      }
+      "_nested_name": "text"
     },
     {
       "type": "button",
