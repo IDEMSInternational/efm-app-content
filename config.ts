@@ -13,7 +13,7 @@ config.translations = {
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/efm-app-content.git",
-  content_tag_latest: "1.1.4",
+  content_tag_latest: "1.1.5",
 };
 
 config.api.db_name = "early_family_math"
