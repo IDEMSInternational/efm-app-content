@@ -4753,5 +4753,21 @@
     "filePath": "global/EFMStorybooks/EFM-SB-WIMC-Cover.jpg",
     "md5Checksum": "effbce88ad7197190af54c99766915ec",
     "size_kb": 119.7
+  },
+  "android/icon-background.png": {
+    "md5Checksum": "12c68f0e8007b8d9c0bd02ea9e96f61b",
+    "size_kb": 7
+  },
+  "android/icon-foreground.png": {
+    "md5Checksum": "86e4a40f83aac8c71c7e513ee4705cf9",
+    "size_kb": 53.9
+  },
+  "android/icon.png": {
+    "md5Checksum": "1566e2586e3ee63ceb819d8df366d33f",
+    "size_kb": 75.2
+  },
+  "android/splash.png": {
+    "md5Checksum": "3c626865c2d132ff6624d012665feb44",
+    "size_kb": 155.1
   }
 }
