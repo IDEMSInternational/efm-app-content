@@ -161,6 +161,41 @@
       "_nested_name": "dg_options"
     },
     {
+      "name": "now",
+      "value": "@calc(timestamp())",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "now",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@calc(timestamp())",
+            "matchedExpression": "@calc(timestamp())",
+            "type": "calc",
+            "fieldName": "timestamp()"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@calc(timestamp())": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "book_click_history",
+      "value": "_book_click_history",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "book_click_history"
+    },
+    {
       "type": "display_group",
       "name": "dg_beginning_sb",
       "condition": "@local.box_beginner",
@@ -182,6 +217,145 @@
           "name": "activity_buttons",
           "value": "@data.efm_storybooks",
           "rows": [
+            {
+              "name": "book_id",
+              "value": "@item.id",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "dg_beginning_sb.activity_buttons.book_id",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "click_history_field_name",
+              "value": "@local.book_id@local.book_click_history",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "dg_beginning_sb.activity_buttons.click_history_field_name",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.book_id@local.book_click_history",
+                    "matchedExpression": "@local.book_id",
+                    "type": "local",
+                    "fieldName": "book_id"
+                  },
+                  {
+                    "fullExpression": "@local.book_id@local.book_click_history",
+                    "matchedExpression": "@local.book_click_history",
+                    "type": "local",
+                    "fieldName": "book_click_history"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.book_id": [
+                  "value"
+                ],
+                "@local.book_click_history": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "books_click_history",
+              "value": "@fields.@local.click_history_field_name ;  @local.now",
+              "_translations": {
+                "value": {}
+              },
+              "condition": "!!(@fields.@local.click_history_field_name)",
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "dg_beginning_sb.activity_buttons.books_click_history",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@fields.@local.click_history_field_name ;  @local.now",
+                    "matchedExpression": "@local.click_history_field_name",
+                    "type": "local",
+                    "fieldName": "click_history_field_name"
+                  },
+                  {
+                    "fullExpression": "@fields.@local.click_history_field_name ;  @local.now",
+                    "matchedExpression": "@local.now",
+                    "type": "local",
+                    "fieldName": "now"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "!!(@fields.@local.click_history_field_name)",
+                    "matchedExpression": "@local.click_history_field_name",
+                    "type": "local",
+                    "fieldName": "click_history_field_name"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.click_history_field_name": [
+                  "value",
+                  "condition"
+                ],
+                "@local.now": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "books_click_history",
+              "value": "@local.now",
+              "_translations": {
+                "value": {}
+              },
+              "condition": "!(@fields.@local.click_history_field_name)",
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "dg_beginning_sb.activity_buttons.books_click_history",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.now",
+                    "matchedExpression": "@local.now",
+                    "type": "local",
+                    "fieldName": "now"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "!(@fields.@local.click_history_field_name)",
+                    "matchedExpression": "@local.click_history_field_name",
+                    "type": "local",
+                    "fieldName": "click_history_field_name"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.now": [
+                  "value"
+                ],
+                "@local.click_history_field_name": [
+                  "condition"
+                ]
+              }
+            },
             {
               "type": "button",
               "name": "button_sb",
@@ -208,6 +382,16 @@
                   ],
                   "_raw": "click | go_to: efm_story_template",
                   "_cleaned": "click | go_to: efm_story_template"
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "set_field",
+                  "args": [
+                    "@local.click_history_field_name",
+                    "@local.books_click_history"
+                  ],
+                  "_raw": "click | set_field:@local.click_history_field_name: @local.books_click_history",
+                  "_cleaned": "click | set_field:@local.click_history_field_name: @local.books_click_history"
                 }
               ],
               "condition": "@item.book_level == \"beginner\"",
@@ -253,6 +437,54 @@
                         "fieldName": "id"
                       }
                     ]
+                  },
+                  "2": {
+                    "args": {
+                      "0": [
+                        {
+                          "fullExpression": "@local.click_history_field_name",
+                          "matchedExpression": "@local.click_history_field_name",
+                          "type": "local",
+                          "fieldName": "click_history_field_name"
+                        }
+                      ],
+                      "1": [
+                        {
+                          "fullExpression": "@local.books_click_history",
+                          "matchedExpression": "@local.books_click_history",
+                          "type": "local",
+                          "fieldName": "books_click_history"
+                        }
+                      ]
+                    },
+                    "_raw": [
+                      {
+                        "fullExpression": "click | set_field:@local.click_history_field_name: @local.books_click_history",
+                        "matchedExpression": "@local.click_history_field_name",
+                        "type": "local",
+                        "fieldName": "click_history_field_name"
+                      },
+                      {
+                        "fullExpression": "click | set_field:@local.click_history_field_name: @local.books_click_history",
+                        "matchedExpression": "@local.books_click_history",
+                        "type": "local",
+                        "fieldName": "books_click_history"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | set_field:@local.click_history_field_name: @local.books_click_history",
+                        "matchedExpression": "@local.click_history_field_name",
+                        "type": "local",
+                        "fieldName": "click_history_field_name"
+                      },
+                      {
+                        "fullExpression": "click | set_field:@local.click_history_field_name: @local.books_click_history",
+                        "matchedExpression": "@local.books_click_history",
+                        "type": "local",
+                        "fieldName": "books_click_history"
+                      }
+                    ]
                   }
                 },
                 "condition": [
@@ -272,6 +504,16 @@
                   "action_list.0.args.1",
                   "action_list.0._raw",
                   "action_list.0._cleaned"
+                ],
+                "@local.click_history_field_name": [
+                  "action_list.2.args.0",
+                  "action_list.2._raw",
+                  "action_list.2._cleaned"
+                ],
+                "@local.books_click_history": [
+                  "action_list.2.args.1",
+                  "action_list.2._raw",
+                  "action_list.2._cleaned"
                 ],
                 "@item.book_level": [
                   "condition"
@@ -337,6 +579,145 @@
           "value": "@data.efm_storybooks",
           "rows": [
             {
+              "name": "book_id",
+              "value": "@item.id",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "dg_intermediate_sb.activity_buttons.book_id",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.id",
+                    "matchedExpression": "@item.id",
+                    "type": "item",
+                    "fieldName": "id"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@item.id": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "click_history_field_name",
+              "value": "@local.book_id@local.book_click_history",
+              "_translations": {
+                "value": {}
+              },
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "dg_intermediate_sb.activity_buttons.click_history_field_name",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.book_id@local.book_click_history",
+                    "matchedExpression": "@local.book_id",
+                    "type": "local",
+                    "fieldName": "book_id"
+                  },
+                  {
+                    "fullExpression": "@local.book_id@local.book_click_history",
+                    "matchedExpression": "@local.book_click_history",
+                    "type": "local",
+                    "fieldName": "book_click_history"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.book_id": [
+                  "value"
+                ],
+                "@local.book_click_history": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "books_click_history",
+              "value": "@fields.@local.click_history_field_name ;  @local.now",
+              "_translations": {
+                "value": {}
+              },
+              "condition": "!!(@fields.@local.click_history_field_name)",
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "dg_intermediate_sb.activity_buttons.books_click_history",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@fields.@local.click_history_field_name ;  @local.now",
+                    "matchedExpression": "@local.click_history_field_name",
+                    "type": "local",
+                    "fieldName": "click_history_field_name"
+                  },
+                  {
+                    "fullExpression": "@fields.@local.click_history_field_name ;  @local.now",
+                    "matchedExpression": "@local.now",
+                    "type": "local",
+                    "fieldName": "now"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "!!(@fields.@local.click_history_field_name)",
+                    "matchedExpression": "@local.click_history_field_name",
+                    "type": "local",
+                    "fieldName": "click_history_field_name"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.click_history_field_name": [
+                  "value",
+                  "condition"
+                ],
+                "@local.now": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "books_click_history",
+              "value": "@local.now",
+              "_translations": {
+                "value": {}
+              },
+              "condition": "!(@fields.@local.click_history_field_name)",
+              "exclude_from_translation": true,
+              "type": "set_variable",
+              "_nested_name": "dg_intermediate_sb.activity_buttons.books_click_history",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.now",
+                    "matchedExpression": "@local.now",
+                    "type": "local",
+                    "fieldName": "now"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "!(@fields.@local.click_history_field_name)",
+                    "matchedExpression": "@local.click_history_field_name",
+                    "type": "local",
+                    "fieldName": "click_history_field_name"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.now": [
+                  "value"
+                ],
+                "@local.click_history_field_name": [
+                  "condition"
+                ]
+              }
+            },
+            {
               "type": "button",
               "name": "button_sb",
               "value": "@item.title",
@@ -362,6 +743,16 @@
                   ],
                   "_raw": "click | go_to: efm_story_template",
                   "_cleaned": "click | go_to: efm_story_template"
+                },
+                {
+                  "trigger": "click",
+                  "action_id": "set_field",
+                  "args": [
+                    "@local.click_history_field_name",
+                    "@local.books_click_history"
+                  ],
+                  "_raw": "click | set_field:@local.click_history_field_name: @local.books_click_history",
+                  "_cleaned": "click | set_field:@local.click_history_field_name: @local.books_click_history"
                 }
               ],
               "condition": "@item.book_level == \"intermediate\"",
@@ -407,6 +798,54 @@
                         "fieldName": "id"
                       }
                     ]
+                  },
+                  "2": {
+                    "args": {
+                      "0": [
+                        {
+                          "fullExpression": "@local.click_history_field_name",
+                          "matchedExpression": "@local.click_history_field_name",
+                          "type": "local",
+                          "fieldName": "click_history_field_name"
+                        }
+                      ],
+                      "1": [
+                        {
+                          "fullExpression": "@local.books_click_history",
+                          "matchedExpression": "@local.books_click_history",
+                          "type": "local",
+                          "fieldName": "books_click_history"
+                        }
+                      ]
+                    },
+                    "_raw": [
+                      {
+                        "fullExpression": "click | set_field:@local.click_history_field_name: @local.books_click_history",
+                        "matchedExpression": "@local.click_history_field_name",
+                        "type": "local",
+                        "fieldName": "click_history_field_name"
+                      },
+                      {
+                        "fullExpression": "click | set_field:@local.click_history_field_name: @local.books_click_history",
+                        "matchedExpression": "@local.books_click_history",
+                        "type": "local",
+                        "fieldName": "books_click_history"
+                      }
+                    ],
+                    "_cleaned": [
+                      {
+                        "fullExpression": "click | set_field:@local.click_history_field_name: @local.books_click_history",
+                        "matchedExpression": "@local.click_history_field_name",
+                        "type": "local",
+                        "fieldName": "click_history_field_name"
+                      },
+                      {
+                        "fullExpression": "click | set_field:@local.click_history_field_name: @local.books_click_history",
+                        "matchedExpression": "@local.books_click_history",
+                        "type": "local",
+                        "fieldName": "books_click_history"
+                      }
+                    ]
                   }
                 },
                 "condition": [
@@ -426,6 +865,16 @@
                   "action_list.0.args.1",
                   "action_list.0._raw",
                   "action_list.0._cleaned"
+                ],
+                "@local.click_history_field_name": [
+                  "action_list.2.args.0",
+                  "action_list.2._raw",
+                  "action_list.2._cleaned"
+                ],
+                "@local.books_click_history": [
+                  "action_list.2.args.1",
+                  "action_list.2._raw",
+                  "action_list.2._cleaned"
                 ],
                 "@item.book_level": [
                   "condition"
