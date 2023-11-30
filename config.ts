@@ -16,6 +16,13 @@ config.git = {
   content_tag_latest: "1.1.5",
 };
 
+config.android = {
+  splash_asset_path: "./app_data/assets/android/splash.png",
+  icon_asset_path: "./app_data/assets/android/icon.png",
+  icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
+  icon_asset_background_path: "./app_data/assets/android/icon-background.png",
+};
+
 config.api.db_name = "early_family_math"
 
 config.app_data.output_path = "./app_data";
