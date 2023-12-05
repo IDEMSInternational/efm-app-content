@@ -34,8 +34,6 @@ jobs:
     with:
       artifact-name: www    
       build-flags: --configuration "production,preview"
-      deployment: ${{ github.base_ref }}   
-    secrets: inherit
   
   deploy_preview:  
     needs: build
@@ -44,7 +42,7 @@ jobs:
       urls: ${{ steps.deploy.outputs.urls }}
     steps:
       - uses: actions/checkout@v3
-      
+
       - name: Download Build Artifact
         uses: actions/download-artifact@v3
         with:
