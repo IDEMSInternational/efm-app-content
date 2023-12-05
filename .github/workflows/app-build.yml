@@ -1,9 +1,11 @@
 ##################################################################################
 #         About
 ##################################################################################
-#Builds app within content repo. Allows for parent repo. 
-#Must specify all below secrets and variables - see documentation for details
-
+# Builds app within content repo. Allows for parent repo. 
+# Must specify all below secrets and variables - see documentation for details
+#
+#         Version : 1.0
+#
 ##################################################################################
 #         Configuration
 ##################################################################################
@@ -19,7 +21,13 @@ env:
 ##################################################################################
 #         Main Code
 ##################################################################################
-name: App - Build
+name: Build App
+
+# Only keep one active build per ref (e.g. pr branch, push branch, triggering workflow ref)
+concurrency:
+  group: app-build-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
 on:
   workflow_call:
     inputs:
@@ -31,14 +39,27 @@ on:
         description: Additional flags to pass to build command (e.g. base-href)
         type: string
         default: ""
+      branch:
+        description: Name of branch to build (defaults to event trigger sha)
+        type: string
+        default: ""
+
+    outputs:
+      GIT_SHA:
+        description: "Git SHA of build head"
+        value: ${{ jobs.configure_build.outputs.GIT_SHA }}
+
 jobs:
   build:
+    outputs:
+      GIT_SHA: ${{ steps.populate.outputs.GIT_SHA }}
+
     runs-on: ubuntu-latest
     steps:
-      - name: initialize repository
-        uses: actions/checkout@v3
-        with: 
-          fetch-depth: 0 
+    #  - name: initialize repository
+    #    uses: actions/checkout@v3
+    #    with: 
+    #      fetch-depth: 0 
 
       - name: Check out app code
         uses: actions/checkout@v3
@@ -57,19 +78,22 @@ jobs:
       - name: Checkout deployment
         uses: actions/checkout@v3
         with:
+          ref: ${{inputs.branch}}
           path: ".idems_app/deployments/${{env.DEPLOYMENT_NAME}}"
+
       - name: Populate Encryption key
         if: env.DEPLOYMENT_PRIVATE_KEY != ''
         run: echo "${{env.DEPLOYMENT_PRIVATE_KEY}}" > ./.idems_app/deployments/${{env.DEPLOYMENT_NAME}}/encrypted/private.key
 
-        # TODO - populate firebase as part of deployment set
       - name: Populate Firebase Config
         if: env.FIREBASE_CONFIG != ''
         run: echo 'export const firebaseConfig = ${{env.FIREBASE_CONFIG}}' > src/environments/firebaseConfig.ts
+
       - name: Setup Node
         uses: actions/setup-node@v3
         with:
           node-version: 18.x
+
       - name: Cache node modules
         uses: actions/cache@v3
         with:
@@ -88,15 +112,8 @@ jobs:
       - name: Build
         run: yarn build ${{inputs.build-flags}}
 
-        # Use github pages upload artifact action to compress and upload
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1.0.8
         with:
           path: "www/"
           name: ${{inputs.artifact-name}}
-##################################################################################
-#         Links
-##################################################################################
-
-# Create a reusable workflow to build deployment app
-# https://colinsalmcorner.com/musings-on-reusable-workflows/

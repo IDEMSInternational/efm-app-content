@@ -3,9 +3,10 @@
 ##################################################################################
 # Deploy preview url for labelled PRs
 # Specifies deployment target based on pr target branch
-# Master -> plh_global
-# Deployment/{deployment_name} -> {deployment_name}
-
+# Must specify all below secrets and variables - see documentation for details
+#
+#         Version : 1.0
+#
 ##################################################################################
 #         Configuration
 ##################################################################################
@@ -19,29 +20,31 @@ env:
 #         Main Code
 ##################################################################################
 name: Deployment Preview
+concurrency:
+  group: deployment-preview-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
 on:
   pull_request:
-    branches:
-      - main
-concurrency:
-  group: "test-preview"
-  cancel-in-progress: true
+    types: [labeled, synchronize]
+
 jobs:
-  build_action:  
+  build:  
     if: contains(github.event.pull_request.labels.*.name, 'test - preview')
     uses: ./.github/workflows/app-build.yml
     with:
-      artifact-name: www      
+      artifact-name: www    
+      build-flags: --configuration "production,preview"
+      deployment: ${{ github.base_ref }}   
     secrets: inherit
   
-
   deploy_preview:  
-    needs: build_action
+    needs: build
     runs-on: ubuntu-latest
     outputs:
       urls: ${{ steps.deploy.outputs.urls }}
     steps:
       - uses: actions/checkout@v3
+      
       - name: Download Build Artifact
         uses: actions/download-artifact@v3
         with:
