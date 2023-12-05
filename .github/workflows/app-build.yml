@@ -82,7 +82,7 @@ jobs:
 
       - name: Populate Firebase Config
         if: env.FIREBASE_CONFIG != ''
-        run: echo env.FIREBASE_CONFIG > src/environments/firebaseConfig.ts
+        run: echo 'export const firebaseConfig = ${{env.FIREBASE_CONFIG}}' > src/environments/firebaseConfig.ts
 
       - name: Setup Node
         uses: actions/setup-node@v3
