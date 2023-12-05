@@ -56,11 +56,6 @@ jobs:
 
     runs-on: ubuntu-latest
     steps:
-    #  - name: initialize repository
-    #    uses: actions/checkout@v3
-    #    with: 
-    #      fetch-depth: 0 
-
       - name: Check out app code
         uses: actions/checkout@v3
         with:
@@ -87,7 +82,7 @@ jobs:
 
       - name: Populate Firebase Config
         if: env.FIREBASE_CONFIG != ''
-        run: echo 'export const firebaseConfig = ${{env.FIREBASE_CONFIG}}' > src/environments/firebaseConfig.ts
+        run: echo env.FIREBASE_CONFIG > src/environments/firebaseConfig.ts
 
       - name: Setup Node
         uses: actions/setup-node@v3
