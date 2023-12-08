@@ -29,8 +29,15 @@ on:
 
 jobs:
   build:  
+#    if: contains(github.event.pull_request.labels.*.name, 'test - preview')
+#    uses: ./.github/workflows/app-build.yml
+#    with:
+#      artifact-name: www    
+#      build-flags: --configuration "production,preview"
+#    secrets: inherit
+
     if: contains(github.event.pull_request.labels.*.name, 'test - preview')
-    uses: ./.github/workflows/app-build.yml
+    uses: IDEMSInternational/parenting-app-ui/.github/workflows/test-app-build.yml
     with:
       artifact-name: www    
       build-flags: --configuration "production,preview"
