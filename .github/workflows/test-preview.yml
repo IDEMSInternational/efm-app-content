@@ -37,7 +37,7 @@ jobs:
 #    secrets: inherit
 
     if: contains(github.event.pull_request.labels.*.name, 'test - preview')
-    uses: IDEMSInternational/parenting-app-ui/.github/workflows/test-app-build.yml
+    uses: IDEMSInternational/parenting-app-ui/.github/workflows/test-app-build.yml@master
     with:
       artifact-name: www    
       build-flags: --configuration "production,preview"
