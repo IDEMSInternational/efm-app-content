@@ -5,8 +5,19 @@ name: Perform content sync and create a PR
 
 on:
   workflow_dispatch:
-
+     inputs:
+        pr-title:
+          description: Title for PR
+          type: string
+          default: sync content from google sheets
+        pr-body:
+          description: Description for PR
+          type: string
+          default: Automated PR creation from actions
 jobs:
   sync_content:
     uses: IDEMSInternational/parenting-app-ui/.github/workflows/contentflows/reusable-content-sync.yml@master
+    with:
+      pr-title: ${{ inputs.pr-title }}
+      pr-body: ${{ inputs.pr-body }}
     secrets: inherit
