@@ -1,0 +1,12 @@
+##################################################################################
+#         Calls workflow from code repo
+##################################################################################
+name: Perform content sync and create a PR
+
+on:
+  workflow_dispatch:
+
+jobs:
+  sync_content:
+    uses: IDEMSInternational/parenting-app-ui/.github/workflows/reusable-content-sync.yml@master
+    secrets: inherit
