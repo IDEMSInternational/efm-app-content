@@ -8,5 +8,5 @@ on:
 
 jobs:
   sync_content:
-    uses: IDEMSInternational/parenting-app-ui/.github/workflows/contentflows/reusable-android-release.yml@master
+    uses: IDEMSInternational/parenting-app-ui/.github/workflows/reusable-android-release.yml@master
     secrets: inherit

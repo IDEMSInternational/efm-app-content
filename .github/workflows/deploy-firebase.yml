@@ -10,6 +10,6 @@ on:
 
 jobs:
   sync_content:
-    uses: IDEMSInternational/parenting-app-ui/.github/workflows/contentflows/reusable-deploy-web-preview.yml@master
+    uses: IDEMSInternational/parenting-app-ui/.github/workflows/reusable-deploy-web-preview.yml@master
     secrets: inherit
 

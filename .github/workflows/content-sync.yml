@@ -16,7 +16,7 @@ on:
           default: Automated PR creation from actions
 jobs:
   sync_content:
-    uses: IDEMSInternational/parenting-app-ui/.github/workflows/contentflows/reusable-content-sync.yml@master
+    uses: IDEMSInternational/parenting-app-ui/.github/workflows/reusable-content-sync.yml@master
     with:
       pr-title: ${{ inputs.pr-title }}
       pr-body: ${{ inputs.pr-body }}
