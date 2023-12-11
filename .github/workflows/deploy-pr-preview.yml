@@ -1,0 +1,13 @@
+##################################################################################
+#         Calls workflow from code repo
+##################################################################################
+name: Deployment Preview
+
+on:
+  pull_request:
+    types: [labeled, synchronize]
+
+jobs:
+  pr_preview:
+    uses: IDEMSInternational/parenting-app-ui/.github/workflows/reusable-deploy-pr-preview.yml@master
+    secrets: inherit
