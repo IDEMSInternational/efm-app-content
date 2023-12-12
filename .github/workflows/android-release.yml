@@ -7,6 +7,6 @@ on:
   workflow_dispatch:
 
 jobs:
-  sync_content:
+  android_release:
     uses: IDEMSInternational/parenting-app-ui/.github/workflows/reusable-android-release.yml@master
     secrets: inherit
