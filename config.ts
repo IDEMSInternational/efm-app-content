@@ -5,11 +5,6 @@ config.google_drive = {
   sheets_folder_ids: ["1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"],
   assets_folder_ids: ["1VkoezEbbeCIeV5IksorFt5lFp6AURYur"],
 };
-config.translations = {
-  filter_language_codes: ["us_en", "es_es"],
-  translated_strings_path: "packages/app-data/translations_source/from_translators",
-  source_strings_path: "packages/app-data/translations_source/to_translate",
-};
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/efm-app-content.git",
