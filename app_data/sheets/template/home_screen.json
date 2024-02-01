@@ -35,7 +35,9 @@
           "name": "spacer",
           "value": "Welcome!",
           "_translations": {
-            "value": {}
+            "value": {
+              "es_es": true
+            }
           },
           "style_list": [
             "flex:1"
@@ -216,7 +218,9 @@
           "name": "button_storybooks",
           "value": "Storybooks",
           "_translations": {
-            "value": {}
+            "value": {
+              "es_es": true
+            }
           },
           "action_list": [
             {
@@ -336,7 +340,9 @@
           "name": "button_storybooks",
           "value": "Storybooks",
           "_translations": {
-            "value": {}
+            "value": {
+              "es_es": true
+            }
           },
           "action_list": [
             {
@@ -544,7 +550,9 @@
           "name": "button_activities",
           "value": "Activities",
           "_translations": {
-            "value": {}
+            "value": {
+              "es_es": true
+            }
           },
           "action_list": [
             {
@@ -664,7 +672,9 @@
           "name": "button_activities",
           "value": "Activities",
           "_translations": {
-            "value": {}
+            "value": {
+              "es_es": true
+            }
           },
           "action_list": [
             {
