@@ -113,7 +113,7 @@
     {
       "type": "items",
       "name": "activity_buttons",
-      "value": "@data.efm_act",
+      "value": "@data.efm_act_v_two",
       "rows": [
         {
           "name": "activity_type",
@@ -280,19 +280,19 @@
               "action_id": "set_field",
               "args": [
                 "current_activity",
-                "data.efm_act.@item.id"
+                "data.efm_act_v_two.@item.id"
               ],
-              "_raw": "click | set_field:current_activity: data.efm_act.@item.id",
-              "_cleaned": "click | set_field:current_activity: data.efm_act.@item.id"
+              "_raw": "click | set_field:current_activity: data.efm_act_v_two.@item.id",
+              "_cleaned": "click | set_field:current_activity: data.efm_act_v_two.@item.id"
             },
             {
               "trigger": "click",
               "action_id": "go_to",
               "args": [
-                "efm_activity_template"
+                "efm_activity_v_two_template"
               ],
-              "_raw": "click | go_to: efm_activity_template",
-              "_cleaned": "click | go_to: efm_activity_template"
+              "_raw": "click | go_to: efm_activity_v_two_template",
+              "_cleaned": "click | go_to: efm_activity_v_two_template"
             }
           ],
           "condition": "@local.ok_type_and_chapter && @local.ok_new_page",
@@ -315,7 +315,7 @@
                 "args": {
                   "1": [
                     {
-                      "fullExpression": "data.efm_act.@item.id",
+                      "fullExpression": "data.efm_act_v_two.@item.id",
                       "matchedExpression": "@item.id",
                       "type": "item",
                       "fieldName": "id"
@@ -324,7 +324,7 @@
                 },
                 "_raw": [
                   {
-                    "fullExpression": "click | set_field:current_activity: data.efm_act.@item.id",
+                    "fullExpression": "click | set_field:current_activity: data.efm_act_v_two.@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -332,7 +332,7 @@
                 ],
                 "_cleaned": [
                   {
-                    "fullExpression": "click | set_field:current_activity: data.efm_act.@item.id",
+                    "fullExpression": "click | set_field:current_activity: data.efm_act_v_two.@item.id",
                     "matchedExpression": "@item.id",
                     "type": "item",
                     "fieldName": "id"
@@ -413,15 +413,15 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@data.efm_act",
-            "matchedExpression": "@data.efm_act",
+            "fullExpression": "@data.efm_act_v_two",
+            "matchedExpression": "@data.efm_act_v_two",
             "type": "data",
-            "fieldName": "efm_act"
+            "fieldName": "efm_act_v_two"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@data.efm_act": [
+        "@data.efm_act_v_two": [
           "value"
         ]
       }

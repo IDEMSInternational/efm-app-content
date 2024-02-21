@@ -1,4 +1,29 @@
 {
+  "200NumberShapesAddingEvensOdds.svg": {
+    "filePath": "global/200NumberShapesAddingEvensOdds.svg",
+    "md5Checksum": "033212841fb5516178eabf4c687a7db8",
+    "size_kb": 21.4
+  },
+  "200NumberShapesEvensOdds.svg": {
+    "filePath": "global/200NumberShapesEvensOdds.svg",
+    "md5Checksum": "757971736fe181362c10881342dcecd0",
+    "size_kb": 12.2
+  },
+  "200SimTriangle0.svg": {
+    "filePath": "global/200SimTriangle0.svg",
+    "md5Checksum": "c78dda7493c72d3ab80fbd9b06fb4fd9",
+    "size_kb": 5.3
+  },
+  "200SimTriangle13579.svg": {
+    "filePath": "global/200SimTriangle13579.svg",
+    "md5Checksum": "28ee49db768da680d4700f4560a8c386",
+    "size_kb": 24.6
+  },
+  "200SimilarStars.svg": {
+    "filePath": "global/200SimilarStars.svg",
+    "md5Checksum": "96654faaa3212d46b9c75f7754317f44",
+    "size_kb": 4.1
+  },
   "AVeryTallMan.pdf": {
     "filePath": "global/AVeryTallMan.pdf",
     "md5Checksum": "84e44618fb0d32eec170d8dd6a4aa857",
@@ -39,6 +64,11 @@
     "md5Checksum": "b1ac6f8004d30439206d7c870538e76c",
     "size_kb": 16.9
   },
+  "EFM105GoFishMatch.svg": {
+    "filePath": "global/EFM105GoFishMatch.svg",
+    "md5Checksum": "8da0a731faa245f90416718b03b58ad5",
+    "size_kb": 11.9
+  },
   "EFM105MemoryChallenge.svg": {
     "filePath": "global/EFM105MemoryChallenge.svg",
     "md5Checksum": "d04f1396095b8b0cc894189a9a1b0e32",
@@ -68,6 +98,11 @@
     "filePath": "global/EFM110NumberLineforNim.svg",
     "md5Checksum": "e0e5b8e041093eb222a8497db8604367",
     "size_kb": 21
+  },
+  "EFM110NumberLineforNimReverse.svg": {
+    "filePath": "global/EFM110NumberLineforNimReverse.svg",
+    "md5Checksum": "7d78e5c27837fe28a6225a11681a99d6",
+    "size_kb": 20.7
   },
   "EFM110WithinOneorTwo.svg": {
     "filePath": "global/EFM110WithinOneorTwo.svg",
@@ -113,6 +148,11 @@
     "filePath": "global/EFM125ImThinkingofaNumber2.svg",
     "md5Checksum": "21b176fb422a0d84aa6b4cdbfe721f9a",
     "size_kb": 14.4
+  },
+  "EFM125ImThinkingofaNumberAll.svg": {
+    "filePath": "global/EFM125ImThinkingofaNumberAll.svg",
+    "md5Checksum": "85f9db1fd53de5b0710a92896f8dcaa5",
+    "size_kb": 43.8
   },
   "EFM125NumberLineBattleship.svg": {
     "filePath": "global/EFM125NumberLineBattleship.svg",
@@ -173,6 +213,16 @@
     "filePath": "global/EFM135MakingSquares.svg",
     "md5Checksum": "6d3090685051155bf24cedb0b3396b70",
     "size_kb": 26.7
+  },
+  "EFM135MakingSquaresComplex.svg": {
+    "filePath": "global/EFM135MakingSquaresComplex.svg",
+    "md5Checksum": "54deea3868a3df11e81ea59aeacbf154",
+    "size_kb": 12.8
+  },
+  "EFM135MakingSquaresSimple.svg": {
+    "filePath": "global/EFM135MakingSquaresSimple.svg",
+    "md5Checksum": "8c9bbb8ddb190d67e0c753dbd77329aa",
+    "size_kb": 16
   },
   "EFM135PatternsConnecttheDots.svg": {
     "filePath": "global/EFM135PatternsConnecttheDots.svg",
@@ -664,6 +714,11 @@
     "md5Checksum": "9d75071afc846ff3c89215ed5200c6e5",
     "size_kb": 10.2
   },
+  "EFM70EachOfTheseIsDifferentExample.svg": {
+    "filePath": "global/EFM70EachOfTheseIsDifferentExample.svg",
+    "md5Checksum": "199cd1761ddec1a716187b30c0c1fc43",
+    "size_kb": 4.7
+  },
   "EFM70Fork.svg": {
     "filePath": "global/EFM70Fork.svg",
     "md5Checksum": "d9dc338d1b81fd17bb4f1718ce7e334c",
@@ -673,6 +728,11 @@
     "filePath": "global/EFM70ForkGold.svg",
     "md5Checksum": "30e321cf7a1c67fb369aa3dd2074d977",
     "size_kb": 9.9
+  },
+  "EFM70ForkSpoonGold.svg": {
+    "filePath": "global/EFM70ForkSpoonGold.svg",
+    "md5Checksum": "81d88c3c17296227a08ab6f66b0c0ba1",
+    "size_kb": 14.9
   },
   "EFM70GoingInCircles.svg": {
     "filePath": "global/EFM70GoingInCircles.svg",
@@ -1518,6 +1578,91 @@
     "filePath": "global/EFMStorybooks/EFM-SB-ALD-Cover.jpg",
     "md5Checksum": "c0cc8a3ebd7999c4397db9d9711d9d46",
     "size_kb": 76.4
+  },
+  "EFMStorybooks/EFM-SB-ASM-1.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-1.jpg",
+    "md5Checksum": "253dd0a193d4d9a38c3c8c499f1c85b0",
+    "size_kb": 24.2
+  },
+  "EFMStorybooks/EFM-SB-ASM-10.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-10.jpg",
+    "md5Checksum": "bca8420845ae47f6dba0686b2ce09ae8",
+    "size_kb": 19.7
+  },
+  "EFMStorybooks/EFM-SB-ASM-11.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-11.jpg",
+    "md5Checksum": "3d28fdccd210b047e39a19126efc5c49",
+    "size_kb": 6.6
+  },
+  "EFMStorybooks/EFM-SB-ASM-12.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-12.jpg",
+    "md5Checksum": "6bb3416e17fc983a06eb5393b60aca9c",
+    "size_kb": 10.6
+  },
+  "EFMStorybooks/EFM-SB-ASM-13.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-13.jpg",
+    "md5Checksum": "bb1f00b4223846361265e1497c122d97",
+    "size_kb": 13.6
+  },
+  "EFMStorybooks/EFM-SB-ASM-14.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-14.jpg",
+    "md5Checksum": "7489816db6ee8830d4c7a1ff4d5bd924",
+    "size_kb": 16
+  },
+  "EFMStorybooks/EFM-SB-ASM-15.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-15.jpg",
+    "md5Checksum": "211ff2e2cbbf17828460347e58972db7",
+    "size_kb": 13.7
+  },
+  "EFMStorybooks/EFM-SB-ASM-16.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-16.jpg",
+    "md5Checksum": "98eb666c5014c24ac7a18d3b41cea682",
+    "size_kb": 102.7
+  },
+  "EFMStorybooks/EFM-SB-ASM-2.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-2.jpg",
+    "md5Checksum": "dca1bd673a33f01b19dccac11d71ef3c",
+    "size_kb": 21.7
+  },
+  "EFMStorybooks/EFM-SB-ASM-3.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-3.jpg",
+    "md5Checksum": "c9b4d94f166dccdb93f7c595798a866e",
+    "size_kb": 12.1
+  },
+  "EFMStorybooks/EFM-SB-ASM-4.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-4.jpg",
+    "md5Checksum": "e83799ca9114007219b832ce51496a67",
+    "size_kb": 20.4
+  },
+  "EFMStorybooks/EFM-SB-ASM-5.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-5.jpg",
+    "md5Checksum": "7b752778f0ef4bed277bc6fe12e35249",
+    "size_kb": 15.2
+  },
+  "EFMStorybooks/EFM-SB-ASM-6.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-6.jpg",
+    "md5Checksum": "d587ce724b2c79b3a32ca743b1fd2b99",
+    "size_kb": 19.3
+  },
+  "EFMStorybooks/EFM-SB-ASM-7.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-7.jpg",
+    "md5Checksum": "b21f4edcd6c78a0e27feac4c77578ce1",
+    "size_kb": 11.4
+  },
+  "EFMStorybooks/EFM-SB-ASM-8.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-8.jpg",
+    "md5Checksum": "fbea1ca6630a24f52427943926da33b3",
+    "size_kb": 18.8
+  },
+  "EFMStorybooks/EFM-SB-ASM-9.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-9.jpg",
+    "md5Checksum": "cba85668e753cf3342f1fd1eaacd0254",
+    "size_kb": 6.9
+  },
+  "EFMStorybooks/EFM-SB-ASM-Cover.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-ASM-Cover.jpg",
+    "md5Checksum": "211ff2e2cbbf17828460347e58972db7",
+    "size_kb": 13.7
   },
   "EFMStorybooks/EFM-SB-ATSM-1.jpg": {
     "filePath": "global/EFMStorybooks/EFM-SB-ATSM-1.jpg",
@@ -2684,6 +2829,76 @@
     "md5Checksum": "4931eadedfab0027192681d24cfa54e0",
     "size_kb": 104.8
   },
+  "EFMStorybooks/EFM-SB-EATOM-1.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-EATOM-1.jpg",
+    "md5Checksum": "1fc3387f754ad1c2b2b59af321750d15",
+    "size_kb": 44.5
+  },
+  "EFMStorybooks/EFM-SB-EATOM-10.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-EATOM-10.jpg",
+    "md5Checksum": "d75ba5a93e25aba683324974bac0cba8",
+    "size_kb": 46.3
+  },
+  "EFMStorybooks/EFM-SB-EATOM-11.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-EATOM-11.jpg",
+    "md5Checksum": "0e5c755afac1528190bb811bbe2093fd",
+    "size_kb": 30.6
+  },
+  "EFMStorybooks/EFM-SB-EATOM-12.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-EATOM-12.jpg",
+    "md5Checksum": "dc859d6841393b93ff7900b7c7d3ea52",
+    "size_kb": 32.6
+  },
+  "EFMStorybooks/EFM-SB-EATOM-13.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-EATOM-13.jpg",
+    "md5Checksum": "05b4211dcf01da635241eb3c24163051",
+    "size_kb": 124.2
+  },
+  "EFMStorybooks/EFM-SB-EATOM-2.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-EATOM-2.jpg",
+    "md5Checksum": "0455cfb41df4d4f5761552ab0139bbf9",
+    "size_kb": 35.6
+  },
+  "EFMStorybooks/EFM-SB-EATOM-3.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-EATOM-3.jpg",
+    "md5Checksum": "bde4061c0375c747b90cb112d8806a6e",
+    "size_kb": 43.6
+  },
+  "EFMStorybooks/EFM-SB-EATOM-4.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-EATOM-4.jpg",
+    "md5Checksum": "3ec77d900385b8a1d5679d108018ddeb",
+    "size_kb": 44.8
+  },
+  "EFMStorybooks/EFM-SB-EATOM-5.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-EATOM-5.jpg",
+    "md5Checksum": "9c1028062682549b9713e413d0f3547c",
+    "size_kb": 28.1
+  },
+  "EFMStorybooks/EFM-SB-EATOM-6.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-EATOM-6.jpg",
+    "md5Checksum": "63d9b39d7da573faa04bd5bdd591866d",
+    "size_kb": 52
+  },
+  "EFMStorybooks/EFM-SB-EATOM-7.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-EATOM-7.jpg",
+    "md5Checksum": "28eb65d12a890be4263b41df63e5189a",
+    "size_kb": 41.9
+  },
+  "EFMStorybooks/EFM-SB-EATOM-8.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-EATOM-8.jpg",
+    "md5Checksum": "3fe781c08971778bf883625a87e7db04",
+    "size_kb": 41.1
+  },
+  "EFMStorybooks/EFM-SB-EATOM-9.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-EATOM-9.jpg",
+    "md5Checksum": "945de4855d72eb4fe3a56658aa415fe4",
+    "size_kb": 38.9
+  },
+  "EFMStorybooks/EFM-SB-EATOM-Cover.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-EATOM-Cover.jpg",
+    "md5Checksum": "3fe781c08971778bf883625a87e7db04",
+    "size_kb": 41.1
+  },
   "EFMStorybooks/EFM-SB-FA-1.jpg": {
     "filePath": "global/EFMStorybooks/EFM-SB-FA-1.jpg",
     "md5Checksum": "78156ac9fb8fa6f377f53e2bcb7dae46",
@@ -3104,6 +3319,56 @@
     "md5Checksum": "8ab25d64bbc7d4fcea01570739c15311",
     "size_kb": 134.1
   },
+  "EFMStorybooks/EFM-SB-FSAD-1.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-FSAD-1.jpg",
+    "md5Checksum": "1d30d13ea9c538cf3dd4923930101d5f",
+    "size_kb": 38.7
+  },
+  "EFMStorybooks/EFM-SB-FSAD-2.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-FSAD-2.jpg",
+    "md5Checksum": "f72b6a2299fc32fd737b3c432479dc96",
+    "size_kb": 34.2
+  },
+  "EFMStorybooks/EFM-SB-FSAD-3.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-FSAD-3.jpg",
+    "md5Checksum": "28b66d3bfdd5c71b744edd4fd3155afb",
+    "size_kb": 43.5
+  },
+  "EFMStorybooks/EFM-SB-FSAD-4.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-FSAD-4.jpg",
+    "md5Checksum": "3a6aeeb9bbefcf29ac431a696ee625a9",
+    "size_kb": 31.5
+  },
+  "EFMStorybooks/EFM-SB-FSAD-5.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-FSAD-5.jpg",
+    "md5Checksum": "a187a473d9d8e782f82bb657690156b1",
+    "size_kb": 38.9
+  },
+  "EFMStorybooks/EFM-SB-FSAD-6.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-FSAD-6.jpg",
+    "md5Checksum": "6d4616eb7a8e5c0a7d3a30965391b122",
+    "size_kb": 32.5
+  },
+  "EFMStorybooks/EFM-SB-FSAD-7.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-FSAD-7.jpg",
+    "md5Checksum": "4f07ea51a7da67a2f0a2b08d4b57dda0",
+    "size_kb": 38.7
+  },
+  "EFMStorybooks/EFM-SB-FSAD-8.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-FSAD-8.jpg",
+    "md5Checksum": "a51b771414b664ae58a57cd22d6191aa",
+    "size_kb": 28.6
+  },
+  "EFMStorybooks/EFM-SB-FSAD-9.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-FSAD-9.jpg",
+    "md5Checksum": "d6da0cb4d839a98835fb96575f2b4f92",
+    "size_kb": 112.1
+  },
+  "EFMStorybooks/EFM-SB-FSAD-Cover.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-FSAD-Cover.jpg",
+    "md5Checksum": "6d4616eb7a8e5c0a7d3a30965391b122",
+    "size_kb": 32.5
+  },
   "EFMStorybooks/EFM-SB-HAT-1.jpg": {
     "filePath": "global/EFMStorybooks/EFM-SB-HAT-1.jpg",
     "md5Checksum": "0f689de40f1ec4e77178a186c2ff00a8",
@@ -3503,6 +3768,116 @@
     "filePath": "global/EFMStorybooks/EFM-SB-ITALM-Cover.jpg",
     "md5Checksum": "8a79a56d780ff59e25d459c22310c915",
     "size_kb": 22.4
+  },
+  "EFMStorybooks/EFM-SB-KAHN-1.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-1.jpg",
+    "md5Checksum": "81fb7c90ffec8864eb38480c4e0c707b",
+    "size_kb": 24.5
+  },
+  "EFMStorybooks/EFM-SB-KAHN-10.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-10.jpg",
+    "md5Checksum": "72f153d1cfadc3a62fa669c9cba2578e",
+    "size_kb": 17.7
+  },
+  "EFMStorybooks/EFM-SB-KAHN-11.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-11.jpg",
+    "md5Checksum": "87b369b1ade6aa0e20cfa1bb09a29dbf",
+    "size_kb": 18.7
+  },
+  "EFMStorybooks/EFM-SB-KAHN-12.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-12.jpg",
+    "md5Checksum": "f5b2e78d1f723524e5fd02fd5d8f2df4",
+    "size_kb": 19.5
+  },
+  "EFMStorybooks/EFM-SB-KAHN-13.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-13.jpg",
+    "md5Checksum": "c3d25fdf1aefb6493f7a13ae96d3fdfa",
+    "size_kb": 20.9
+  },
+  "EFMStorybooks/EFM-SB-KAHN-14.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-14.jpg",
+    "md5Checksum": "eae6f0afd7b5a85a1f9a49f24b7ade58",
+    "size_kb": 15.5
+  },
+  "EFMStorybooks/EFM-SB-KAHN-15.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-15.jpg",
+    "md5Checksum": "f4337839418ee5f7e67c19c951a491bc",
+    "size_kb": 19.8
+  },
+  "EFMStorybooks/EFM-SB-KAHN-16.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-16.jpg",
+    "md5Checksum": "df9f4ef7398b2f643f6796f796f6ffb0",
+    "size_kb": 21.9
+  },
+  "EFMStorybooks/EFM-SB-KAHN-17.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-17.jpg",
+    "md5Checksum": "3412b3b6a7822ca73f9b3617b30dc13f",
+    "size_kb": 16.9
+  },
+  "EFMStorybooks/EFM-SB-KAHN-18.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-18.jpg",
+    "md5Checksum": "cd15140e9e54ba7d0e4dfe2b7acfbb65",
+    "size_kb": 20.5
+  },
+  "EFMStorybooks/EFM-SB-KAHN-19.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-19.jpg",
+    "md5Checksum": "85de3256f526f68262c7e23b06379d59",
+    "size_kb": 19.3
+  },
+  "EFMStorybooks/EFM-SB-KAHN-2.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-2.jpg",
+    "md5Checksum": "e103b440e97150f8a95feed43bf3689a",
+    "size_kb": 24.8
+  },
+  "EFMStorybooks/EFM-SB-KAHN-20.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-20.jpg",
+    "md5Checksum": "3fe9e65f617e5a12878df3a4e1165392",
+    "size_kb": 3.5
+  },
+  "EFMStorybooks/EFM-SB-KAHN-21.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-21.jpg",
+    "md5Checksum": "aac911bd0855e5e87fedfc23e07318c7",
+    "size_kb": 114.1
+  },
+  "EFMStorybooks/EFM-SB-KAHN-3.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-3.jpg",
+    "md5Checksum": "03f1c768e9be189db36269871f6ceef8",
+    "size_kb": 19.4
+  },
+  "EFMStorybooks/EFM-SB-KAHN-4.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-4.jpg",
+    "md5Checksum": "a1e8de43204031a6e58845b23c897d2e",
+    "size_kb": 20.7
+  },
+  "EFMStorybooks/EFM-SB-KAHN-5.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-5.jpg",
+    "md5Checksum": "0454a9cad1b6d700133a552252662a97",
+    "size_kb": 17.2
+  },
+  "EFMStorybooks/EFM-SB-KAHN-6.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-6.jpg",
+    "md5Checksum": "4c1fdedbeea39f15366ed1cb4673cb74",
+    "size_kb": 19.7
+  },
+  "EFMStorybooks/EFM-SB-KAHN-7.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-7.jpg",
+    "md5Checksum": "bb8297835ac05a028cd68b124d72716d",
+    "size_kb": 20.3
+  },
+  "EFMStorybooks/EFM-SB-KAHN-8.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-8.jpg",
+    "md5Checksum": "54ecca6aac969308c189a4eeb92c4547",
+    "size_kb": 10.8
+  },
+  "EFMStorybooks/EFM-SB-KAHN-9.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-9.jpg",
+    "md5Checksum": "7f2ceabcc2c6a7a9e3ca372f30dbb7f8",
+    "size_kb": 20.7
+  },
+  "EFMStorybooks/EFM-SB-KAHN-Cover.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-KAHN-Cover.jpg",
+    "md5Checksum": "df9f4ef7398b2f643f6796f796f6ffb0",
+    "size_kb": 21.9
   },
   "EFMStorybooks/EFM-SB-LATA-1.jpg": {
     "filePath": "global/EFMStorybooks/EFM-SB-LATA-1.jpg",
@@ -3904,6 +4279,76 @@
     "md5Checksum": "e4fb5a71a7bce4d4433b3be4e4061ad7",
     "size_kb": 67.4
   },
+  "EFMStorybooks/EFM-SB-MRR-1.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-MRR-1.jpg",
+    "md5Checksum": "50c7e078d5f26f21dc33b713c58b927f",
+    "size_kb": 38.5
+  },
+  "EFMStorybooks/EFM-SB-MRR-10.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-MRR-10.jpg",
+    "md5Checksum": "9c58ffe9f73a28388c19154903ac00cf",
+    "size_kb": 27.9
+  },
+  "EFMStorybooks/EFM-SB-MRR-11.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-MRR-11.jpg",
+    "md5Checksum": "b4d681fabf02ff545a6ea6ee090e4d7b",
+    "size_kb": 36.7
+  },
+  "EFMStorybooks/EFM-SB-MRR-12.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-MRR-12.jpg",
+    "md5Checksum": "c8e04c97ad17ae6453dfe40e7ab1c1ec",
+    "size_kb": 47.3
+  },
+  "EFMStorybooks/EFM-SB-MRR-13.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-MRR-13.jpg",
+    "md5Checksum": "6a275cbe78605af170a28dfe4a5562a5",
+    "size_kb": 114.1
+  },
+  "EFMStorybooks/EFM-SB-MRR-2.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-MRR-2.jpg",
+    "md5Checksum": "c890d635305506d8e75fb8912186c7d4",
+    "size_kb": 42
+  },
+  "EFMStorybooks/EFM-SB-MRR-3.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-MRR-3.jpg",
+    "md5Checksum": "14710da0ce53bd6615d524363b438b6b",
+    "size_kb": 37.6
+  },
+  "EFMStorybooks/EFM-SB-MRR-4.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-MRR-4.jpg",
+    "md5Checksum": "f835545e26b1fc3984dc890f96ec4b29",
+    "size_kb": 38.5
+  },
+  "EFMStorybooks/EFM-SB-MRR-5.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-MRR-5.jpg",
+    "md5Checksum": "c6725cf88c8b28843cbd8cd65d410bc4",
+    "size_kb": 32.7
+  },
+  "EFMStorybooks/EFM-SB-MRR-6.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-MRR-6.jpg",
+    "md5Checksum": "464468dce97a40807eb0187a5311c527",
+    "size_kb": 46.6
+  },
+  "EFMStorybooks/EFM-SB-MRR-7.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-MRR-7.jpg",
+    "md5Checksum": "fce2273e8163896e4b55e434241c2517",
+    "size_kb": 57.3
+  },
+  "EFMStorybooks/EFM-SB-MRR-8.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-MRR-8.jpg",
+    "md5Checksum": "9a3487f311d395c8f340507faa8a7454",
+    "size_kb": 37.8
+  },
+  "EFMStorybooks/EFM-SB-MRR-9.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-MRR-9.jpg",
+    "md5Checksum": "3f553c45de5843b3fc627c0bb8cb137e",
+    "size_kb": 33.6
+  },
+  "EFMStorybooks/EFM-SB-MRR-Cover.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-MRR-Cover.jpg",
+    "md5Checksum": "fce2273e8163896e4b55e434241c2517",
+    "size_kb": 57.3
+  },
   "EFMStorybooks/EFM-SB-MSC-1.jpg": {
     "filePath": "global/EFMStorybooks/EFM-SB-MSC-1.jpg",
     "md5Checksum": "1a4a77702ad68e08fd9dc3af92eaa434",
@@ -4074,6 +4519,166 @@
     "md5Checksum": "94e7c68603d9053e7a6028e21068bb5c",
     "size_kb": 76
   },
+  "EFMStorybooks/EFM-SB-SFTSOS-1.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SFTSOS-1.jpg",
+    "md5Checksum": "d1868895d1fb041a4558f7ff01964c00",
+    "size_kb": 11.9
+  },
+  "EFMStorybooks/EFM-SB-SFTSOS-10.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SFTSOS-10.jpg",
+    "md5Checksum": "3108f88413d997b989acf39045ce749a",
+    "size_kb": 11.1
+  },
+  "EFMStorybooks/EFM-SB-SFTSOS-11.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SFTSOS-11.jpg",
+    "md5Checksum": "cd4e0f50b28cc7da7e81f8dfc185fce9",
+    "size_kb": 12.6
+  },
+  "EFMStorybooks/EFM-SB-SFTSOS-12.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SFTSOS-12.jpg",
+    "md5Checksum": "48b561e356645d527431d351d621b281",
+    "size_kb": 20
+  },
+  "EFMStorybooks/EFM-SB-SFTSOS-13.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SFTSOS-13.jpg",
+    "md5Checksum": "614e6cd83e1cc4efd824f130132d3d40",
+    "size_kb": 149.6
+  },
+  "EFMStorybooks/EFM-SB-SFTSOS-2.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SFTSOS-2.jpg",
+    "md5Checksum": "6c540b575ec879fdb03476cc1741cb5f",
+    "size_kb": 9.9
+  },
+  "EFMStorybooks/EFM-SB-SFTSOS-3.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SFTSOS-3.jpg",
+    "md5Checksum": "27c882b525493196a55673e77c4db202",
+    "size_kb": 11.1
+  },
+  "EFMStorybooks/EFM-SB-SFTSOS-4.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SFTSOS-4.jpg",
+    "md5Checksum": "f3d1968cb33c1b5e59a8a9b486c1447b",
+    "size_kb": 13.1
+  },
+  "EFMStorybooks/EFM-SB-SFTSOS-5.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SFTSOS-5.jpg",
+    "md5Checksum": "1b00f26865cbfa8f3e30b0c3316966a6",
+    "size_kb": 10.6
+  },
+  "EFMStorybooks/EFM-SB-SFTSOS-6.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SFTSOS-6.jpg",
+    "md5Checksum": "10141573d9539f2c34186a5cc8fbb8d1",
+    "size_kb": 10.4
+  },
+  "EFMStorybooks/EFM-SB-SFTSOS-7.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SFTSOS-7.jpg",
+    "md5Checksum": "1fbd89521b869a00c89903a4be941b4d",
+    "size_kb": 13.4
+  },
+  "EFMStorybooks/EFM-SB-SFTSOS-8.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SFTSOS-8.jpg",
+    "md5Checksum": "a98fdf6e6c93ab1683c4634ed6a10630",
+    "size_kb": 18.2
+  },
+  "EFMStorybooks/EFM-SB-SFTSOS-9.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SFTSOS-9.jpg",
+    "md5Checksum": "28b5a8537b3cbd42f9235a43c7003039",
+    "size_kb": 11.3
+  },
+  "EFMStorybooks/EFM-SB-SFTSOS-Cover.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SFTSOS-Cover.jpg",
+    "md5Checksum": "d1868895d1fb041a4558f7ff01964c00",
+    "size_kb": 11.9
+  },
+  "EFMStorybooks/EFM-SB-SIF-1.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-1.jpg",
+    "md5Checksum": "ec71bdcc3c7731b11f8de6f420e24a63",
+    "size_kb": 14.3
+  },
+  "EFMStorybooks/EFM-SB-SIF-10.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-10.jpg",
+    "md5Checksum": "7af964464f20051c930395fa3e0240ba",
+    "size_kb": 12.6
+  },
+  "EFMStorybooks/EFM-SB-SIF-11.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-11.jpg",
+    "md5Checksum": "0d6360b00fa6d92d9be2a711597867ec",
+    "size_kb": 13.4
+  },
+  "EFMStorybooks/EFM-SB-SIF-12.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-12.jpg",
+    "md5Checksum": "c4fc1e9ba0dab8605b160890c4615fe2",
+    "size_kb": 13.3
+  },
+  "EFMStorybooks/EFM-SB-SIF-13.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-13.jpg",
+    "md5Checksum": "e98e0cb03e97e1e2610ad773fa4f9150",
+    "size_kb": 16
+  },
+  "EFMStorybooks/EFM-SB-SIF-14.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-14.jpg",
+    "md5Checksum": "cbe816dc1513c9a97a78ff31e950c3ab",
+    "size_kb": 12.9
+  },
+  "EFMStorybooks/EFM-SB-SIF-15.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-15.jpg",
+    "md5Checksum": "1afdf5f26e017b4523a7f54812ccdc41",
+    "size_kb": 15.1
+  },
+  "EFMStorybooks/EFM-SB-SIF-16.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-16.jpg",
+    "md5Checksum": "24c41ac41acd8e2820b4a69b82fed99b",
+    "size_kb": 19.8
+  },
+  "EFMStorybooks/EFM-SB-SIF-17.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-17.jpg",
+    "md5Checksum": "5d5aae5703f0d421bb1cf5bb35e59e9c",
+    "size_kb": 112.4
+  },
+  "EFMStorybooks/EFM-SB-SIF-2.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-2.jpg",
+    "md5Checksum": "1ff74e95d9d3f5e65fe511fdcdedf0ba",
+    "size_kb": 15.3
+  },
+  "EFMStorybooks/EFM-SB-SIF-3.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-3.jpg",
+    "md5Checksum": "6641acacc6833b4d6785e65e3aeabe0d",
+    "size_kb": 13.8
+  },
+  "EFMStorybooks/EFM-SB-SIF-4.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-4.jpg",
+    "md5Checksum": "244edf139fd2f54f6460aeb9efce108f",
+    "size_kb": 13.3
+  },
+  "EFMStorybooks/EFM-SB-SIF-5.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-5.jpg",
+    "md5Checksum": "e37b7be89590d508b6dbf14f820b0972",
+    "size_kb": 11.5
+  },
+  "EFMStorybooks/EFM-SB-SIF-6.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-6.jpg",
+    "md5Checksum": "067c565123f50c4fde07d4eab0c5b825",
+    "size_kb": 14
+  },
+  "EFMStorybooks/EFM-SB-SIF-7.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-7.jpg",
+    "md5Checksum": "baa4027e68c9121f993d1f9bb003f89a",
+    "size_kb": 14.4
+  },
+  "EFMStorybooks/EFM-SB-SIF-8.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-8.jpg",
+    "md5Checksum": "3ce4b82e97918c6c3567a584bcfa9c30",
+    "size_kb": 13.3
+  },
+  "EFMStorybooks/EFM-SB-SIF-9.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-9.jpg",
+    "md5Checksum": "d4e20f14b38ce6c162df02c6a7b96b42",
+    "size_kb": 13.1
+  },
+  "EFMStorybooks/EFM-SB-SIF-Cover.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SIF-Cover.jpg",
+    "md5Checksum": "d9e319102f7c1d7eefe19d0e16577dcc",
+    "size_kb": 25.1
+  },
   "EFMStorybooks/EFM-SB-SMAW-1.jpg": {
     "filePath": "global/EFMStorybooks/EFM-SB-SMAW-1.jpg",
     "md5Checksum": "02750ed74b1f71933c031b4bb0cd29fb",
@@ -4143,6 +4748,181 @@
     "filePath": "global/EFMStorybooks/EFM-SB-SMAW-Cover.jpg",
     "md5Checksum": "42f343cef7bce284d841bc760c4e4e72",
     "size_kb": 150.6
+  },
+  "EFMStorybooks/EFM-SB-SSMILE-1.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSMILE-1.jpg",
+    "md5Checksum": "edccb6080caf896a95f390479746be21",
+    "size_kb": 6.8
+  },
+  "EFMStorybooks/EFM-SB-SSMILE-10.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSMILE-10.jpg",
+    "md5Checksum": "ccf565ef574fdbe9b9779202de5a7f48",
+    "size_kb": 12.5
+  },
+  "EFMStorybooks/EFM-SB-SSMILE-11.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSMILE-11.jpg",
+    "md5Checksum": "d3ca540e7f9d034298112472c433545e",
+    "size_kb": 11.9
+  },
+  "EFMStorybooks/EFM-SB-SSMILE-12.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSMILE-12.jpg",
+    "md5Checksum": "2a5286f7d89104f454ab9abf1aa50c91",
+    "size_kb": 12
+  },
+  "EFMStorybooks/EFM-SB-SSMILE-13.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSMILE-13.jpg",
+    "md5Checksum": "7497b9202b70c7c8627e115fc2e98962",
+    "size_kb": 6.4
+  },
+  "EFMStorybooks/EFM-SB-SSMILE-14.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSMILE-14.jpg",
+    "md5Checksum": "37b6de0ed4a37dcb2a6b90dab8c906bd",
+    "size_kb": 142.3
+  },
+  "EFMStorybooks/EFM-SB-SSMILE-2.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSMILE-2.jpg",
+    "md5Checksum": "56f8665b122d4fdff0ef466f922d118a",
+    "size_kb": 8.6
+  },
+  "EFMStorybooks/EFM-SB-SSMILE-3.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSMILE-3.jpg",
+    "md5Checksum": "63316cd834d2403e01c27e08f0f57065",
+    "size_kb": 7
+  },
+  "EFMStorybooks/EFM-SB-SSMILE-4.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSMILE-4.jpg",
+    "md5Checksum": "0120ab10e9a6aca610b97b38173ec924",
+    "size_kb": 7.9
+  },
+  "EFMStorybooks/EFM-SB-SSMILE-5.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSMILE-5.jpg",
+    "md5Checksum": "fadf9feabf15f24e9d2f80ce2c445c36",
+    "size_kb": 10
+  },
+  "EFMStorybooks/EFM-SB-SSMILE-6.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSMILE-6.jpg",
+    "md5Checksum": "ff6e2c23d23f8436cc75004975722426",
+    "size_kb": 9.3
+  },
+  "EFMStorybooks/EFM-SB-SSMILE-7.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSMILE-7.jpg",
+    "md5Checksum": "3309e634d34b046ad0f6fb9290022906",
+    "size_kb": 9.9
+  },
+  "EFMStorybooks/EFM-SB-SSMILE-8.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSMILE-8.jpg",
+    "md5Checksum": "3fe9e65f617e5a12878df3a4e1165392",
+    "size_kb": 3.5
+  },
+  "EFMStorybooks/EFM-SB-SSMILE-9.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSMILE-9.jpg",
+    "md5Checksum": "7cdaea81927ba790fdf2fd188f552597",
+    "size_kb": 9.9
+  },
+  "EFMStorybooks/EFM-SB-SSMILE-Cover.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSMILE-Cover.jpg",
+    "md5Checksum": "93aa800c5005cedf01bbad488a2c39c1",
+    "size_kb": 33.4
+  },
+  "EFMStorybooks/EFM-SB-SSONG-1.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-1.jpg",
+    "md5Checksum": "ca8195f82da02409fdf4ba6a2ab0cf5e",
+    "size_kb": 24.4
+  },
+  "EFMStorybooks/EFM-SB-SSONG-10.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-10.jpg",
+    "md5Checksum": "2d55335081c7f56413f3698ecb7cf6cb",
+    "size_kb": 21.7
+  },
+  "EFMStorybooks/EFM-SB-SSONG-11.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-11.jpg",
+    "md5Checksum": "36964b50cdef4044b6bdbb14205349c9",
+    "size_kb": 23.3
+  },
+  "EFMStorybooks/EFM-SB-SSONG-12.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-12.jpg",
+    "md5Checksum": "b552eb58f6048bf3fce4815eb6c9721d",
+    "size_kb": 22.7
+  },
+  "EFMStorybooks/EFM-SB-SSONG-13.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-13.jpg",
+    "md5Checksum": "ce25704ce70e6b7af3dbd61fcd287fa0",
+    "size_kb": 11.9
+  },
+  "EFMStorybooks/EFM-SB-SSONG-14.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-14.jpg",
+    "md5Checksum": "37da9bc7f579f57231a9d4fcb620f96c",
+    "size_kb": 12.8
+  },
+  "EFMStorybooks/EFM-SB-SSONG-15.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-15.jpg",
+    "md5Checksum": "89547545f866a4e0f75305b25ecdba79",
+    "size_kb": 16.4
+  },
+  "EFMStorybooks/EFM-SB-SSONG-16.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-16.jpg",
+    "md5Checksum": "17df9e6d30c8671fbef6108d2c378dbf",
+    "size_kb": 16.6
+  },
+  "EFMStorybooks/EFM-SB-SSONG-17.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-17.jpg",
+    "md5Checksum": "33a5809436df9f54428efca3501478af",
+    "size_kb": 17.8
+  },
+  "EFMStorybooks/EFM-SB-SSONG-18.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-18.jpg",
+    "md5Checksum": "f2002b856e08ee76d766ef84bf3ebaab",
+    "size_kb": 24.7
+  },
+  "EFMStorybooks/EFM-SB-SSONG-19.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-19.jpg",
+    "md5Checksum": "57e0f30f737546a9046e76f57f4414e5",
+    "size_kb": 105.3
+  },
+  "EFMStorybooks/EFM-SB-SSONG-2.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-2.jpg",
+    "md5Checksum": "2a4eb037af2c9369a7fca92d358291d1",
+    "size_kb": 13.3
+  },
+  "EFMStorybooks/EFM-SB-SSONG-3.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-3.jpg",
+    "md5Checksum": "d38cab480e004af49928b35ac49ebfb2",
+    "size_kb": 18.4
+  },
+  "EFMStorybooks/EFM-SB-SSONG-4.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-4.jpg",
+    "md5Checksum": "5b375fad0c821e45c2a38814a2555397",
+    "size_kb": 18.8
+  },
+  "EFMStorybooks/EFM-SB-SSONG-5.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-5.jpg",
+    "md5Checksum": "8cc1fe77b80cfd1621479fa5bd15c068",
+    "size_kb": 19.9
+  },
+  "EFMStorybooks/EFM-SB-SSONG-6.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-6.jpg",
+    "md5Checksum": "6cbb3321ad17e06a7e6e82c287dee491",
+    "size_kb": 10.9
+  },
+  "EFMStorybooks/EFM-SB-SSONG-7.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-7.jpg",
+    "md5Checksum": "57b9373057f6099e0de500485e4823d1",
+    "size_kb": 13.7
+  },
+  "EFMStorybooks/EFM-SB-SSONG-8.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-8.jpg",
+    "md5Checksum": "c7c889568556ba4e78fe874fe9f5a87a",
+    "size_kb": 11.3
+  },
+  "EFMStorybooks/EFM-SB-SSONG-9.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-9.jpg",
+    "md5Checksum": "3dab32cd4de834824f3c2994d2211a53",
+    "size_kb": 21.4
+  },
+  "EFMStorybooks/EFM-SB-SSONG-Cover.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-SSONG-Cover.jpg",
+    "md5Checksum": "8cc1fe77b80cfd1621479fa5bd15c068",
+    "size_kb": 19.9
   },
   "EFMStorybooks/EFM-SB-STT-1.jpg": {
     "filePath": "global/EFMStorybooks/EFM-SB-STT-1.jpg",
@@ -4368,6 +5148,91 @@
     "filePath": "global/EFMStorybooks/EFM-SB-TFHH-Cover.jpg",
     "md5Checksum": "731774e5d6d1daa5654ffc4e703aced6",
     "size_kb": 24
+  },
+  "EFMStorybooks/EFM-SB-TST-1.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-1.jpg",
+    "md5Checksum": "166dead23508be8dab9d66221e569000",
+    "size_kb": 17.2
+  },
+  "EFMStorybooks/EFM-SB-TST-10.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-10.jpg",
+    "md5Checksum": "f088e55f4b802cd229cc70930597bbc4",
+    "size_kb": 13.5
+  },
+  "EFMStorybooks/EFM-SB-TST-11.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-11.jpg",
+    "md5Checksum": "3ff323e3d0c6718c3a55ed4d7215490f",
+    "size_kb": 9.4
+  },
+  "EFMStorybooks/EFM-SB-TST-12.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-12.jpg",
+    "md5Checksum": "9a7057cbe4ea35447c97b1c4fb93a36a",
+    "size_kb": 8.8
+  },
+  "EFMStorybooks/EFM-SB-TST-13.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-13.jpg",
+    "md5Checksum": "f955f51ca5d932c9f1dac0e121a31c5f",
+    "size_kb": 11
+  },
+  "EFMStorybooks/EFM-SB-TST-14.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-14.jpg",
+    "md5Checksum": "d9d88ea261f215bda6a803c36957fde3",
+    "size_kb": 9.1
+  },
+  "EFMStorybooks/EFM-SB-TST-15.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-15.jpg",
+    "md5Checksum": "69469337aa6ceea7c669c1fcdc51159f",
+    "size_kb": 15.6
+  },
+  "EFMStorybooks/EFM-SB-TST-16.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-16.jpg",
+    "md5Checksum": "aca61bb4b1a8c87776b1fcf772be3cdb",
+    "size_kb": 131.7
+  },
+  "EFMStorybooks/EFM-SB-TST-2.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-2.jpg",
+    "md5Checksum": "9a89ab8191332536eeac4421b4da05c1",
+    "size_kb": 13.6
+  },
+  "EFMStorybooks/EFM-SB-TST-3.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-3.jpg",
+    "md5Checksum": "8adadff1ebfe1c4ad26c29ad7da13317",
+    "size_kb": 17.1
+  },
+  "EFMStorybooks/EFM-SB-TST-4.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-4.jpg",
+    "md5Checksum": "4a77f68ffd3025b6fdf2c7b407ace6e9",
+    "size_kb": 13.5
+  },
+  "EFMStorybooks/EFM-SB-TST-5.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-5.jpg",
+    "md5Checksum": "919dd7787fab17b413b5674e790c9915",
+    "size_kb": 9
+  },
+  "EFMStorybooks/EFM-SB-TST-6.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-6.jpg",
+    "md5Checksum": "0774aee24d9af151ad6be6d8ea4b78aa",
+    "size_kb": 12.6
+  },
+  "EFMStorybooks/EFM-SB-TST-7.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-7.jpg",
+    "md5Checksum": "e68ebc49c1015bb8ffa2e8e7789cdf39",
+    "size_kb": 10.6
+  },
+  "EFMStorybooks/EFM-SB-TST-8.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-8.jpg",
+    "md5Checksum": "5a4536ca7791ae5fe18f892acecea7d2",
+    "size_kb": 16.6
+  },
+  "EFMStorybooks/EFM-SB-TST-9.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-9.jpg",
+    "md5Checksum": "0019664a79695d0ecaf7dfa3122e5db4",
+    "size_kb": 16
+  },
+  "EFMStorybooks/EFM-SB-TST-Cover.jpg": {
+    "filePath": "global/EFMStorybooks/EFM-SB-TST-Cover.jpg",
+    "md5Checksum": "0d7bed12cab3511f281df5a5215d7671",
+    "size_kb": 27.8
   },
   "EFMStorybooks/EFM-SB-VG-1.jpg": {
     "filePath": "global/EFMStorybooks/EFM-SB-VG-1.jpg",

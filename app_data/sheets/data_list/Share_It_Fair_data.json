@@ -1,0 +1,454 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "Share_It_Fair_data",
+  "status": "released",
+  "data_list_name": "Share_It_Fair_storybook",
+  "rows": [
+    {
+      "id": "page_1",
+      "page_no": 1,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-1.jpg",
+      "story_text": "It is a hot, sunny Saturday morning on the farm. Maya, Duksie, and Doobie are helping Mama K in her vegetable garden. The children work all morning. They dig compost into the soil. They weed and water the garden. Then, the harvest is ripe.\n\nToday each of the children will take home freshly picked strawberries, spinach, and carrots.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "It is a hot, sunny Saturday morning on the farm. Maya, Duksie, and Doobie are helping Mama K in her vegetable garden. The children work all morning. They dig compost into the soil. They weed and water the garden. Then, the harvest is ripe.\n\nToday each of the children will take home freshly picked strawberries, spinach, and carrots."
+        },
+        "annotation_1": {
+          "eng": "Have you ever worked in a garden or farm? Freshly grown food has wonderfully strong flavors!"
+        },
+        "annotation_2": {
+          "eng": "Rectangles are four-sided shapes like the shape of this page. Can you find all the rectangles on this page? There are a lot of them!"
+        },
+        "annotation_3": {
+          "eng": "If you look closely, you'll notice that some of the rectangles are squares, with all their sides the same length. Can you find them?"
+        }
+      },
+      "annotation_1": "Have you ever worked in a garden or farm? Freshly grown food has wonderfully strong flavors!",
+      "annotation_2": "Rectangles are four-sided shapes like the shape of this page. Can you find all the rectangles on this page? There are a lot of them!",
+      "annotation_3": "If you look closely, you'll notice that some of the rectangles are squares, with all their sides the same length. Can you find them?"
+    },
+    {
+      "id": "page_2",
+      "page_no": 2,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-2.jpg",
+      "story_text": "Mama K always gives the children a treat for helping her. Sometimes the treat is cake, chocolate, or long sweets that look like snakes. Sometimes it's apples, pears, or oranges.\n\nMama K has only one rule. \"Share it fair!\" The children know they must share the treats equally, so they all get the same amount.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Mama K always gives the children a treat for helping her. Sometimes the treat is cake, chocolate, or long sweets that look like snakes. Sometimes it's apples, pears, or oranges.\n\nMama K has only one rule. \"Share it fair!\" The children know they must share the treats equally, so they all get the same amount."
+        },
+        "annotation_1": {
+          "eng": "Think about what it means to share something equally. Suppose you had 12 cookies to share evenly among 3 people. How many cookies would each person get?"
+        },
+        "annotation_2": {
+          "eng": "What would you do if you had 4 or 5 pieces of hard candy to share among 3 people?"
+        },
+        "annotation_3": {
+          "eng": "What if the things are different? How would you share an apple, an orange, and a banana among three people? Sharing can be tricky, even when everyone is trying to be fair."
+        }
+      },
+      "annotation_1": "Think about what it means to share something equally. Suppose you had 12 cookies to share evenly among 3 people. How many cookies would each person get?",
+      "annotation_2": "What would you do if you had 4 or 5 pieces of hard candy to share among 3 people?",
+      "annotation_3": "What if the things are different? How would you share an apple, an orange, and a banana among three people? Sharing can be tricky, even when everyone is trying to be fair."
+    },
+    {
+      "id": "page_3",
+      "page_no": 3,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-3.jpg",
+      "story_text": "Today Mama K has baked a round strawberry cake with pink icing and berries from her garden. The children wait on the grass for their treat. \"Here you go!\" smiles Mama K. \"But remember the rule that everyone must get the same. Share it fair! Don't fight!\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Today Mama K has baked a round strawberry cake with pink icing and berries from her garden. The children wait on the grass for their treat. \"Here you go!\" smiles Mama K. \"But remember the rule that everyone must get the same. Share it fair! Don't fight!\""
+        },
+        "annotation_1": {
+          "eng": "Fortunately, cake is easy to share. How would you share this cake among the three children?"
+        },
+        "annotation_2": {
+          "eng": "When someone dies, it is sometimes very hard to find an equal way to share all the different things that person owned."
+        },
+        "annotation_3": {
+          "eng": "Can you think of a time when you and your friends or your family had something to share and it was tricky to find a way to do it? How was the problem solved?"
+        }
+      },
+      "annotation_1": "Fortunately, cake is easy to share. How would you share this cake among the three children?",
+      "annotation_2": "When someone dies, it is sometimes very hard to find an equal way to share all the different things that person owned.",
+      "annotation_3": "Can you think of a time when you and your friends or your family had something to share and it was tricky to find a way to do it? How was the problem solved?"
+    },
+    {
+      "id": "page_4",
+      "page_no": 4,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-4.jpg",
+      "story_text": "Maya has the first turn to share the cake. She uses the knife to trace lines in the icing. The others watch her. She does not cut the cake yet. The others must first agree if her way is fair.\n\n\"I think I will cut two slices, like this. Now we have three slices, all the same!\" Maya shows them.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Maya has the first turn to share the cake. She uses the knife to trace lines in the icing. The others watch her. She does not cut the cake yet. The others must first agree if her way is fair.\n\n\"I think I will cut two slices, like this. Now we have three slices, all the same!\" Maya shows them."
+        },
+        "annotation_1": {
+          "eng": "Keep watching the strawberries on top of the cake. There are six of them now, but it will keep changing. Where do they go?"
+        },
+        "annotation_2": {
+          "eng": "There are some more rectangles in this picture. Can you find parts of them?"
+        },
+        "annotation_3": {
+          "eng": "Notice which children wear hats. That will keep changing too! Is the author having fun with us, or is something else going on?"
+        }
+      },
+      "annotation_1": "Keep watching the strawberries on top of the cake. There are six of them now, but it will keep changing. Where do they go?",
+      "annotation_2": "There are some more rectangles in this picture. Can you find parts of them?",
+      "annotation_3": "Notice which children wear hats. That will keep changing too! Is the author having fun with us, or is something else going on?"
+    },
+    {
+      "id": "page_5",
+      "page_no": 5,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-5.jpg",
+      "story_text": "\"No way!\" says Duksie, \"the one in the middle is much too big!\" Doobie also shakes his head. Maya laughs and shrugs and tells Duksie to try.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"No way!\" says Duksie, \"the one in the middle is much too big!\" Doobie also shakes his head. Maya laughs and shrugs and tells Duksie to try."
+        },
+        "annotation_1": {
+          "eng": "There are three pieces for three people. Is this a fair way to cut the cake?"
+        },
+        "annotation_2": {
+          "eng": "When some pieces have more topping or icing, it can be hard to divide something fairly. It is good to be among friends when it is difficult like that."
+        },
+        "annotation_3": {
+          "eng": "When you have trouble sharing something equally, how do you work it out?"
+        }
+      },
+      "annotation_1": "There are three pieces for three people. Is this a fair way to cut the cake?",
+      "annotation_2": "When some pieces have more topping or icing, it can be hard to divide something fairly. It is good to be among friends when it is difficult like that.",
+      "annotation_3": "When you have trouble sharing something equally, how do you work it out?"
+    },
+    {
+      "id": "page_6",
+      "page_no": 6,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-6.jpg",
+      "story_text": "\"Here! Pass me the knife, I'll do it. Easy peasy!\" chants Duksie. First she rubs out Maya's pattern in the icing and licks her fingers.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"Here! Pass me the knife, I'll do it. Easy peasy!\" chants Duksie. First she rubs out Maya's pattern in the icing and licks her fingers."
+        },
+        "annotation_1": {
+          "eng": "Look at their faces. How can you tell they might not all agree with this new sharing idea?"
+        },
+        "annotation_2": {
+          "eng": "There are lots of round shapes in this picture. When a circle gets stretched or shrunk in one direction, it is called an oval or an ellipse. Find some circles and ovals in this picture."
+        },
+        "annotation_3": {
+          "eng": "Sometimes our point of view distorts a shape and makes it look different, even though it hasn't changed at all. For example, circles can look like ovals when viewed from the side. Do you see some examples of that around you?"
+        }
+      },
+      "annotation_1": "Look at their faces. How can you tell they might not all agree with this new sharing idea?",
+      "annotation_2": "There are lots of round shapes in this picture. When a circle gets stretched or shrunk in one direction, it is called an oval or an ellipse. Find some circles and ovals in this picture.",
+      "annotation_3": "Sometimes our point of view distorts a shape and makes it look different, even though it hasn't changed at all. For example, circles can look like ovals when viewed from the side. Do you see some examples of that around you?"
+    },
+    {
+      "id": "page_7",
+      "page_no": 7,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-7.jpg",
+      "story_text": "Then she makes one cut across and one down, \"Look, these are my three slices!\"\n\n\"That's not fair!\" shout Maya and Doobie together.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Then she makes one cut across and one down, \"Look, these are my three slices!\"\n\n\"That's not fair!\" shout Maya and Doobie together."
+        },
+        "annotation_1": {
+          "eng": "If you had a choice, which piece would you choose? When one piece is obviously the best or the worst, the sharing is probably not fair!"
+        },
+        "annotation_2": {
+          "eng": "Duksie did it this way because it was easy to do. She split it once in half and then split one of those two pieces in half. Unfortunately, that created one piece that was twice as big as the other two pieces."
+        },
+        "annotation_3": {
+          "eng": "When you split something into two equal pieces, each piece is one half. When you split one half into two equal pieces, then each piece is one fourth, also called one quarter."
+        }
+      },
+      "annotation_1": "If you had a choice, which piece would you choose? When one piece is obviously the best or the worst, the sharing is probably not fair!",
+      "annotation_2": "Duksie did it this way because it was easy to do. She split it once in half and then split one of those two pieces in half. Unfortunately, that created one piece that was twice as big as the other two pieces.",
+      "annotation_3": "When you split something into two equal pieces, each piece is one half. When you split one half into two equal pieces, then each piece is one fourth, also called one quarter."
+    },
+    {
+      "id": "page_8",
+      "page_no": 8,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-8.jpg",
+      "story_text": "\"Share it fair! The pieces must be the same size and shape,\" adds Doobie.\n\n\"Why don't you try Doobie?\" smirks Duksie. \"I bet you can't do it!\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"Share it fair! The pieces must be the same size and shape,\" adds Doobie.\n\n\"Why don't you try Doobie?\" smirks Duksie. \"I bet you can't do it!\""
+        },
+        "annotation_1": {
+          "eng": "If you split something into three equal pieces, each piece is one third of the whole thing. Have you figured out how to give each child one third, or do you think it is impossible?"
+        },
+        "annotation_2": {
+          "eng": "There were five strawberries on the top of the cake in the last page. How can you share five things evenly among three people?"
+        },
+        "annotation_3": {
+          "eng": "Look at Duksie's expression and listen to what Duksie said to Doobie. What do you think Duksie is feeling?"
+        }
+      },
+      "annotation_1": "If you split something into three equal pieces, each piece is one third of the whole thing. Have you figured out how to give each child one third, or do you think it is impossible?",
+      "annotation_2": "There were five strawberries on the top of the cake in the last page. How can you share five things evenly among three people?",
+      "annotation_3": "Look at Duksie's expression and listen to what Duksie said to Doobie. What do you think Duksie is feeling?"
+    },
+    {
+      "id": "page_9",
+      "page_no": 9,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-9.jpg",
+      "story_text": "\"I wish the cake was a square or a rectangle, and then it would be easy!\" says Doobie thoughtfully. \"Or, if there were four of us to share the round cake that would also be easy,\" says Maya.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"I wish the cake was a square or a rectangle, and then it would be easy!\" says Doobie thoughtfully. \"Or, if there were four of us to share the round cake that would also be easy,\" says Maya."
+        },
+        "annotation_1": {
+          "eng": "Doobie is doing some thoughtful problem solving! He is thinking of simpler versions of this problem that he knows how to solve. If any of those versions were enough like this situation, he could use that prior knowledge to solve this problem."
+        },
+        "annotation_2": {
+          "eng": "Because he hasn't seen a problem just like this one before, he must use another important problem solving skill -- he persists! The other children rushed to a solution, but he is thinking about it more carefully."
+        },
+        "annotation_3": {
+          "eng": "Doobie is playing with the problem and thinking about shapes that are similar to this round cake that needs to be split three ways. He is enjoying the puzzle!"
+        }
+      },
+      "annotation_1": "Doobie is doing some thoughtful problem solving! He is thinking of simpler versions of this problem that he knows how to solve. If any of those versions were enough like this situation, he could use that prior knowledge to solve this problem.",
+      "annotation_2": "Because he hasn't seen a problem just like this one before, he must use another important problem solving skill -- he persists! The other children rushed to a solution, but he is thinking about it more carefully.",
+      "annotation_3": "Doobie is playing with the problem and thinking about shapes that are similar to this round cake that needs to be split three ways. He is enjoying the puzzle!"
+    },
+    {
+      "id": "page_10",
+      "page_no": 10,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-10.jpg",
+      "story_text": "And then, a picture comes into Doobie's head. He sees the sparkling silver badge at the front of his father's big red truck.\n\nOn Sundays he helps his dad to wash the truck, and to polish the shiny badge. \"I've got it! I've got it! I know how to do it,\" yells Doobie.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "And then, a picture comes into Doobie's head. He sees the sparkling silver badge at the front of his father's big red truck.\n\nOn Sundays he helps his dad to wash the truck, and to polish the shiny badge. \"I've got it! I've got it! I know how to do it,\" yells Doobie."
+        },
+        "annotation_1": {
+          "eng": "He persisted and he played with the problem, and his thoughts came to a shape that he knew would be perfect to solve this problem. Look at how happy he is. Describe how you feel when you solve something that was tricky."
+        },
+        "annotation_2": {
+          "eng": "There are rectangles, triangles, circles, stripes, and arcs (partial circles) in this picture."
+        },
+        "annotation_3": {
+          "eng": "What do you suppose creates the stripes on the far hillside?"
+        }
+      },
+      "annotation_1": "He persisted and he played with the problem, and his thoughts came to a shape that he knew would be perfect to solve this problem. Look at how happy he is. Describe how you feel when you solve something that was tricky.",
+      "annotation_2": "There are rectangles, triangles, circles, stripes, and arcs (partial circles) in this picture.",
+      "annotation_3": "What do you suppose creates the stripes on the far hillside?"
+    },
+    {
+      "id": "page_11",
+      "page_no": 11,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-11.jpg",
+      "story_text": "First he uses a knife to smooth Duksie's lines in the icing. Then he traces three lines on the cake. It looks just like the badge on his dad's truck, with three equal parts.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "First he uses a knife to smooth Duksie's lines in the icing. Then he traces three lines on the cake. It looks just like the badge on his dad's truck, with three equal parts."
+        },
+        "annotation_1": {
+          "eng": "There were originally six strawberries on this cake. How many strawberries were removed? Where did they go?"
+        },
+        "annotation_2": {
+          "eng": "What are some numbers that can be divided evenly among three people? Notice that those numbers are exactly the ones you get as you skip count by 3. They are called multiples of 3 because they are the numbers you get when you multiply by 3."
+        },
+        "annotation_3": {
+          "eng": "What are the numbers you can divide evenly among 2 people? Among 4 people? Among 5 people?"
+        }
+      },
+      "annotation_1": "There were originally six strawberries on this cake. How many strawberries were removed? Where did they go?",
+      "annotation_2": "What are some numbers that can be divided evenly among three people? Notice that those numbers are exactly the ones you get as you skip count by 3. They are called multiples of 3 because they are the numbers you get when you multiply by 3.",
+      "annotation_3": "What are the numbers you can divide evenly among 2 people? Among 4 people? Among 5 people?"
+    },
+    {
+      "id": "page_12",
+      "page_no": 12,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-12.jpg",
+      "story_text": "\"You are full of surprises, Doobie,\" says Duksie sweetly. \"How did you work it out? Maya asks. Doobie smiles to himself. For now it is his secret. Later, he will tell his dad.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"You are full of surprises, Doobie,\" says Duksie sweetly. \"How did you work it out? Maya asks. Doobie smiles to himself. For now it is his secret. Later, he will tell his dad."
+        },
+        "annotation_1": {
+          "eng": "It can be fun to have a secret. What's a secret you once had that is no longer a secret?"
+        },
+        "annotation_2": {
+          "eng": "There is a lot of pink icing in many places in this picture. The oddest place is on someone's nose. How do you suppose it got there?"
+        },
+        "annotation_3": {
+          "eng": "Look at how big their eyes are. What does it tell you when someone has big eyes like that?"
+        }
+      },
+      "annotation_1": "It can be fun to have a secret. What's a secret you once had that is no longer a secret?",
+      "annotation_2": "There is a lot of pink icing in many places in this picture. The oddest place is on someone's nose. How do you suppose it got there?",
+      "annotation_3": "Look at how big their eyes are. What does it tell you when someone has big eyes like that?"
+    },
+    {
+      "id": "page_13",
+      "page_no": 13,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-13.jpg",
+      "story_text": "Just then Mama K comes out of her house. She is carrying a tray with glasses of strawberry juice. \"Look Mama K! Doobie found the way to cut the cake into three equal pieces,\" Maya tells her.\n\n\"Well done Doobie, three equal slices! You shared fairly, I'm proud of you all. Now cut the cake and drink your juice. It's time to go home.\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Just then Mama K comes out of her house. She is carrying a tray with glasses of strawberry juice. \"Look Mama K! Doobie found the way to cut the cake into three equal pieces,\" Maya tells her.\n\n\"Well done Doobie, three equal slices! You shared fairly, I'm proud of you all. Now cut the cake and drink your juice. It's time to go home.\""
+        },
+        "annotation_1": {
+          "eng": "They are all wearing their hats on this page. Do you like wearing a hat on a warm, sunny day? Do you have a favorite hat?"
+        },
+        "annotation_2": {
+          "eng": "Why is Mama K proud of all of them? What difficult thing did they do?"
+        },
+        "annotation_3": {
+          "eng": "An estimate is a best guess at the size of something that is not easy to measure. What is your estimate of the number of dots on Mama K's dress?"
+        }
+      },
+      "annotation_1": "They are all wearing their hats on this page. Do you like wearing a hat on a warm, sunny day? Do you have a favorite hat?",
+      "annotation_2": "Why is Mama K proud of all of them? What difficult thing did they do?",
+      "annotation_3": "An estimate is a best guess at the size of something that is not easy to measure. What is your estimate of the number of dots on Mama K's dress?"
+    },
+    {
+      "id": "page_14",
+      "page_no": 14,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-14.jpg",
+      "story_text": "Maya cuts along Doobie's lines to make three equal slices. Just for fun, the children stack the slices on top of each other to check that they are the same size. Yes they are! They pack their cake to take home.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Maya cuts along Doobie's lines to make three equal slices. Just for fun, the children stack the slices on top of each other to check that they are the same size. Yes they are! They pack their cake to take home."
+        },
+        "annotation_1": {
+          "eng": "They are staring very intently at the cake. Are they admiring their work of creating three equal shares, or are they wishing they could eat it?"
+        },
+        "annotation_2": {
+          "eng": "Look at how much pleasure they have at seeing that their solution really works. Problem solving is like that – you have a puzzle to think about and wrestle with, and when you solve the puzzle it feels really good!"
+        },
+        "annotation_3": {
+          "eng": "Think of a time when you had a tricky puzzle to figure out and you finally solved it. How did it feel when you got the answer?"
+        }
+      },
+      "annotation_1": "They are staring very intently at the cake. Are they admiring their work of creating three equal shares, or are they wishing they could eat it?",
+      "annotation_2": "Look at how much pleasure they have at seeing that their solution really works. Problem solving is like that – you have a puzzle to think about and wrestle with, and when you solve the puzzle it feels really good!",
+      "annotation_3": "Think of a time when you had a tricky puzzle to figure out and you finally solved it. How did it feel when you got the answer?"
+    },
+    {
+      "id": "page_15",
+      "page_no": 15,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-15.jpg",
+      "story_text": "Doobie's dad arrives to pick up the children, and Doobie runs off to meet him.\n\nHe can't wait to tell his dad how the badge on the truck helped him to solve a very tricky problem!",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Doobie's dad arrives to pick up the children, and Doobie runs off to meet him.\n\nHe can't wait to tell his dad how the badge on the truck helped him to solve a very tricky problem!"
+        },
+        "annotation_1": {
+          "eng": "It's fun to share successes with someone you care about and who cares about you. Can you think of some things you were proud of that you shared with someone you cared about?"
+        },
+        "annotation_2": {
+          "eng": "Those same people are important for times when you need someone to share something hard for you. Can you think of such a time?"
+        },
+        "annotation_3": {
+          "eng": "The top two cakes on the next page are easy to share with three or six people. If you were sharing the bottom cake with three or five people, what would you do?"
+        }
+      },
+      "annotation_1": "It's fun to share successes with someone you care about and who cares about you. Can you think of some things you were proud of that you shared with someone you cared about?",
+      "annotation_2": "Those same people are important for times when you need someone to share something hard for you. Can you think of such a time?",
+      "annotation_3": "The top two cakes on the next page are easy to share with three or six people. If you were sharing the bottom cake with three or five people, what would you do?"
+    },
+    {
+      "id": "page_16",
+      "page_no": 16,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-16.jpg"
+    },
+    {
+      "id": "page_17",
+      "page_no": 17,
+      "illustration": "EFMStorybooks/EFM-SB-SIF-17.jpg"
+    }
+  ],
+  "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+}

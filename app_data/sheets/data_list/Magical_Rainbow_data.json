@@ -1,0 +1,362 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "Magical_Rainbow_data",
+  "status": "released",
+  "data_list_name": "Magical_Rainbow_storybook",
+  "rows": [
+    {
+      "id": "page_1",
+      "page_no": 1,
+      "illustration": "EFMStorybooks/EFM-SB-MRR-1.jpg",
+      "story_text": "Three siblings, Udoo, Erdoo, and Eryum listened to the music of the rain. They wanted to dance in it. They wanted to touch the rainbow that arrived in the sky. Mother said, \"No.\" \n\nThey cried, hoping to change her mind. It didn't work. Eryum even tried to sneak out of the house to visit the rainbow.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Three siblings, Udoo, Erdoo, and Eryum listened to the music of the rain. They wanted to dance in it. They wanted to touch the rainbow that arrived in the sky. Mother said, \"No.\" \n\nThey cried, hoping to change her mind. It didn't work. Eryum even tried to sneak out of the house to visit the rainbow."
+        },
+        "annotation_1": {
+          "eng": "Rainbows happen when sunlight shines through raindrops in the sky. The colors of the rainbow are red, orange, yellow, green, blue, indigo, and violet. Some people remember this as Roy G. Biv."
+        },
+        "annotation_2": {
+          "eng": "Some people claim that indigo should not be on that list. What do you think?"
+        },
+        "annotation_3": {
+          "eng": "There are many kinds of rainbows. There are double rainbows and ones that occur when it snows. Have you ever seen one of these unusual rainbows?"
+        }
+      },
+      "annotation_1": "Rainbows happen when sunlight shines through raindrops in the sky. The colors of the rainbow are red, orange, yellow, green, blue, indigo, and violet. Some people remember this as Roy G. Biv.",
+      "annotation_2": "Some people claim that indigo should not be on that list. What do you think?",
+      "annotation_3": "There are many kinds of rainbows. There are double rainbows and ones that occur when it snows. Have you ever seen one of these unusual rainbows?"
+    },
+    {
+      "id": "page_2",
+      "page_no": 2,
+      "illustration": "EFMStorybooks/EFM-SB-MRR-2.jpg",
+      "story_text": "Mother caught him before he could go. She raised her voice so that Eryum and his sisters would hear too.\n\n\"You could catch a cold,\" she said. \"You don't like pepper soup and you would have to eat some, if you caught a cold,\" she added with a smile.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Mother caught him before he could go. She raised her voice so that Eryum and his sisters would hear too.\n\n\"You could catch a cold,\" she said. \"You don't like pepper soup and you would have to eat some, if you caught a cold,\" she added with a smile."
+        },
+        "annotation_1": {
+          "eng": "A partial circle is called an arc. Do you think the colors of a rainbow are in the shape of an arc?"
+        },
+        "annotation_2": {
+          "eng": "Eryum wanted to go outside to see and touch the rainbow. Have you ever touched a rainbow. Do you think it's possible?"
+        },
+        "annotation_3": {
+          "eng": "Have you ever wanted to do something so much that you tried to do it even though an adult told you not to?"
+        }
+      },
+      "annotation_1": "A partial circle is called an arc. Do you think the colors of a rainbow are in the shape of an arc?",
+      "annotation_2": "Eryum wanted to go outside to see and touch the rainbow. Have you ever touched a rainbow. Do you think it's possible?",
+      "annotation_3": "Have you ever wanted to do something so much that you tried to do it even though an adult told you not to?"
+    },
+    {
+      "id": "page_3",
+      "page_no": 3,
+      "illustration": "EFMStorybooks/EFM-SB-MRR-3.jpg",
+      "story_text": "Hoping that they would ask for a story, she said, \"The rainbow is a magical river with healing powers. But it is so high up in the sky that you can't reach it. If you catch a cold, the rainbow can't help you.\"\n\nThe children thought about this.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Hoping that they would ask for a story, she said, \"The rainbow is a magical river with healing powers. But it is so high up in the sky that you can't reach it. If you catch a cold, the rainbow can't help you.\"\n\nThe children thought about this."
+        },
+        "annotation_1": {
+          "eng": "Their mother is going to tell them a story about the magical healing powers of a rainbow. Before you read further, make up a story of your own about rainbows."
+        },
+        "annotation_2": {
+          "eng": "The straight lines in this picture make lots of rectangles, which are four-sided shapes similar to this page. How many rectangles do you see around you?"
+        },
+        "annotation_3": {
+          "eng": "Sometimes, seeing lots of straight lines is dull. Do you find these lines interesting or dull? Is the curvy pot more interesting?"
+        }
+      },
+      "annotation_1": "Their mother is going to tell them a story about the magical healing powers of a rainbow. Before you read further, make up a story of your own about rainbows.",
+      "annotation_2": "The straight lines in this picture make lots of rectangles, which are four-sided shapes similar to this page. How many rectangles do you see around you?",
+      "annotation_3": "Sometimes, seeing lots of straight lines is dull. Do you find these lines interesting or dull? Is the curvy pot more interesting?"
+    },
+    {
+      "id": "page_4",
+      "page_no": 4,
+      "illustration": "EFMStorybooks/EFM-SB-MRR-4.jpg",
+      "story_text": "\"Mother, please tell us our rainbow story,\" said Erdoo. \"Yes, please mother, I want to hear it too,\" Udoo chimed in. \"Me three,\" Eryum begged, lifting up three little fingers.\n\n\"Well, let me see, mmmm,\" she said playfully. \"Okay lovelies, gather round. Mother, the storyteller is here!\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"Mother, please tell us our rainbow story,\" said Erdoo. \"Yes, please mother, I want to hear it too,\" Udoo chimed in. \"Me three,\" Eryum begged, lifting up three little fingers.\n\n\"Well, let me see, mmmm,\" she said playfully. \"Okay lovelies, gather round. Mother, the storyteller is here!\""
+        },
+        "annotation_1": {
+          "eng": "Is there someone you know who makes up stories to tell you? Describe the feeling you have when someone tells you a story."
+        },
+        "annotation_2": {
+          "eng": "Sometimes a group of people will create a story together by taking turns making up parts of the story. Have you ever tried this?"
+        },
+        "annotation_3": {
+          "eng": "How can you tell the children are happy on this page? What do you see in their faces and body positions that make it obvious?"
+        }
+      },
+      "annotation_1": "Is there someone you know who makes up stories to tell you? Describe the feeling you have when someone tells you a story.",
+      "annotation_2": "Sometimes a group of people will create a story together by taking turns making up parts of the story. Have you ever tried this?",
+      "annotation_3": "How can you tell the children are happy on this page? What do you see in their faces and body positions that make it obvious?"
+    },
+    {
+      "id": "page_5",
+      "page_no": 5,
+      "illustration": "EFMStorybooks/EFM-SB-MRR-5.jpg",
+      "story_text": "Erdoo ran for the naha, the stirring stick they used as their totem. She handed it over to mother. Eryum got the headgear for mother to wear. It never failed to put her in character.\n\nThey all sat quietly to listen to the story they had heard many times. Udoo blew the whistle, telling mother to start. The story began.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Erdoo ran for the naha, the stirring stick they used as their totem. She handed it over to mother. Eryum got the headgear for mother to wear. It never failed to put her in character.\n\nThey all sat quietly to listen to the story they had heard many times. Udoo blew the whistle, telling mother to start. The story began."
+        },
+        "annotation_1": {
+          "eng": "Do you have special clothes or objects that you use for particular events like story telling?"
+        },
+        "annotation_2": {
+          "eng": "Having a set of things, or particular places, associated with a type of event helps create a sense of shared occasion. Describe some special events, such as birthday parties, when you wear special clothes or do particular activities."
+        },
+        "annotation_3": {
+          "eng": "The frame on the wall is a rectangle, but not the rug on the floor. An oval is a circle that has been stretched or shrunken in one direction. What do you think, is this rug a perfect circle or is it an oval?"
+        }
+      },
+      "annotation_1": "Do you have special clothes or objects that you use for particular events like story telling?",
+      "annotation_2": "Having a set of things, or particular places, associated with a type of event helps create a sense of shared occasion. Describe some special events, such as birthday parties, when you wear special clothes or do particular activities.",
+      "annotation_3": "The frame on the wall is a rectangle, but not the rug on the floor. An oval is a circle that has been stretched or shrunken in one direction. What do you think, is this rug a perfect circle or is it an oval?"
+    },
+    {
+      "id": "page_6",
+      "page_no": 6,
+      "illustration": "EFMStorybooks/EFM-SB-MRR-6.jpg",
+      "story_text": "\"Once, the rainbow was a magical river. It was hidden inside the green woods of Mbadede. Because it had healing powers, it was guarded.\n\nIf you were sick, you drank the water. The rainbow was always happy to share. Bit it didn't like badly behaved people.\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"Once, the rainbow was a magical river. It was hidden inside the green woods of Mbadede. Because it had healing powers, it was guarded.\n\nIf you were sick, you drank the water. The rainbow was always happy to share. Bit it didn't like badly behaved people.\""
+        },
+        "annotation_1": {
+          "eng": "This story talks about the rainbow river as though it could feel and think. Do you think non-animals in our world have feelings and thoughts?"
+        },
+        "annotation_2": {
+          "eng": "This story talks about the river not liking badly behaved people. This is called foreshadowing. It tells us that such a person will soon appear in the story."
+        },
+        "annotation_3": {
+          "eng": "What do you think a badly behaved person could do to upset the river?"
+        }
+      },
+      "annotation_1": "This story talks about the rainbow river as though it could feel and think. Do you think non-animals in our world have feelings and thoughts?",
+      "annotation_2": "This story talks about the river not liking badly behaved people. This is called foreshadowing. It tells us that such a person will soon appear in the story.",
+      "annotation_3": "What do you think a badly behaved person could do to upset the river?"
+    },
+    {
+      "id": "page_7",
+      "page_no": 7,
+      "illustration": "EFMStorybooks/EFM-SB-MRR-7.jpg",
+      "story_text": "\"Because of the river's magic, there was ice cream along the banks! Everyone who came to drink the water also enjoyed the ice cream, especially children.\n\nThe ice cream from the river was red, orange, yellow, green, blue, purple, and indigo.\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"Because of the river's magic, there was ice cream along the banks! Everyone who came to drink the water also enjoyed the ice cream, especially children.\n\nThe ice cream from the river was red, orange, yellow, green, blue, purple, and indigo.\""
+        },
+        "annotation_1": {
+          "eng": "How is this list of colors different from the Roy G. Biv list of rainbow colors?"
+        },
+        "annotation_2": {
+          "eng": "They are getting ice cream all over themselves. When you eat, do you like to be neat and tidy, or do you enjoy making a mess?"
+        },
+        "annotation_3": {
+          "eng": "It's fun to see the colors mixing together on the river bank. When you mix yellow and blue you get green. What happens when you mix other colors?"
+        }
+      },
+      "annotation_1": "How is this list of colors different from the Roy G. Biv list of rainbow colors?",
+      "annotation_2": "They are getting ice cream all over themselves. When you eat, do you like to be neat and tidy, or do you enjoy making a mess?",
+      "annotation_3": "It's fun to see the colors mixing together on the river bank. When you mix yellow and blue you get green. What happens when you mix other colors?"
+    },
+    {
+      "id": "page_8",
+      "page_no": 8,
+      "illustration": "EFMStorybooks/EFM-SB-MRR-8.jpg",
+      "story_text": "\"One day, a naughty old woman called Mbom came from the land beyond. On arrival, she met with a guard. He did not know her and he felt a strange feeling. But he did not listen to his feelings.\n\nHe pointed the way into the woods and told her to respect the river. Mbom agreed and went to the water.\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"One day, a naughty old woman called Mbom came from the land beyond. On arrival, she met with a guard. He did not know her and he felt a strange feeling. But he did not listen to his feelings.\n\nHe pointed the way into the woods and told her to respect the river. Mbom agreed and went to the water.\""
+        },
+        "annotation_1": {
+          "eng": "Sometimes we get feelings about things we can sense but not quite understand. Learning to listen to those feelings and makes sense of them is a great skill learned over a lifetime."
+        },
+        "annotation_2": {
+          "eng": "Have you ever seen a person who didn't seem quite right to you, or perhaps you were in a situation where you were afraid but didn't know why? Listen to those feelings when you have them and try to understand them."
+        },
+        "annotation_3": {
+          "eng": "There is a large forest behind them. How many trees can you count?"
+        }
+      },
+      "annotation_1": "Sometimes we get feelings about things we can sense but not quite understand. Learning to listen to those feelings and makes sense of them is a great skill learned over a lifetime.",
+      "annotation_2": "Have you ever seen a person who didn't seem quite right to you, or perhaps you were in a situation where you were afraid but didn't know why? Listen to those feelings when you have them and try to understand them.",
+      "annotation_3": "There is a large forest behind them. How many trees can you count?"
+    },
+    {
+      "id": "page_9",
+      "page_no": 9,
+      "illustration": "EFMStorybooks/EFM-SB-MRR-9.jpg",
+      "story_text": "\"She took a drink and was healed. Then she looked around to make sure she wasn't being watched.\n\nMbom picked up a stone and threw it in. She watched as it rose, and spread into a ripple. Pleased, she picked up a stick. She threw it in. The same thing happened.\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"She took a drink and was healed. Then she looked around to make sure she wasn't being watched.\n\nMbom picked up a stone and threw it in. She watched as it rose, and spread into a ripple. Pleased, she picked up a stick. She threw it in. The same thing happened.\""
+        },
+        "annotation_1": {
+          "eng": "It seems Mbom's body was healed, but she was still sick at heart. Do you think this is what the guard sensed about her?"
+        },
+        "annotation_2": {
+          "eng": "Why do you suppose the river couldn't heal her heart?"
+        },
+        "annotation_3": {
+          "eng": "You would think she would be overjoyed at being healed; however, she doesn't look happy. Why did she throw the stone and stick into the river?"
+        }
+      },
+      "annotation_1": "It seems Mbom's body was healed, but she was still sick at heart. Do you think this is what the guard sensed about her?",
+      "annotation_2": "Why do you suppose the river couldn't heal her heart?",
+      "annotation_3": "You would think she would be overjoyed at being healed; however, she doesn't look happy. Why did she throw the stone and stick into the river?"
+    },
+    {
+      "id": "page_10",
+      "page_no": 10,
+      "illustration": "EFMStorybooks/EFM-SB-MRR-10.jpg",
+      "story_text": "\"Mbom jumped right into the water! She hoped to get everlasting life. As soon as she jumped, the river rose up. It shot high into the sky, never to return to Mbadede. But sometimes the rainbow follows after the rain, to feel like a river again.\n\nAnd there my story ends.\" said mother.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"Mbom jumped right into the water! She hoped to get everlasting life. As soon as she jumped, the river rose up. It shot high into the sky, never to return to Mbadede. But sometimes the rainbow follows after the rain, to feel like a river again.\n\nAnd there my story ends.\" said mother."
+        },
+        "annotation_1": {
+          "eng": "Do you think it is possible for anyone to live forever? Do you think the universe will be around forever?"
+        },
+        "annotation_2": {
+          "eng": "One selfish or thoughtless person can ruin a situation for everyone. Why do you suppose it can take a lot of work from a lot of people to make a good thing, and it is so easy for a few people to ruin it?"
+        },
+        "annotation_3": {
+          "eng": "Can you think of a time when you were with friends and one person ruined the good time for everyone else?"
+        }
+      },
+      "annotation_1": "Do you think it is possible for anyone to live forever? Do you think the universe will be around forever?",
+      "annotation_2": "One selfish or thoughtless person can ruin a situation for everyone. Why do you suppose it can take a lot of work from a lot of people to make a good thing, and it is so easy for a few people to ruin it?",
+      "annotation_3": "Can you think of a time when you were with friends and one person ruined the good time for everyone else?"
+    },
+    {
+      "id": "page_11",
+      "page_no": 11,
+      "illustration": "EFMStorybooks/EFM-SB-MRR-11.jpg",
+      "story_text": "\"So my lovelies tell me, why do you love this story so much?\" asked mother. \"You often ask me to tell it.\"\n\n\"I love it because it reminds me to pay attention to my feelings,\" Udoo smiled. \"It helps me to remember the colors of the rainbow,\" added Erdoo.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"So my lovelies tell me, why do you love this story so much?\" asked mother. \"You often ask me to tell it.\"\n\n\"I love it because it reminds me to pay attention to my feelings,\" Udoo smiled. \"It helps me to remember the colors of the rainbow,\" added Erdoo."
+        },
+        "annotation_1": {
+          "eng": "Do you remember the colors of the rainbow now?"
+        },
+        "annotation_2": {
+          "eng": "Many things in this picture come in pairs. See how many you can find."
+        },
+        "annotation_3": {
+          "eng": "If you combine the chairs and people together, how many legs do they have? Did you skip count the legs by 2's to figure it out?"
+        }
+      },
+      "annotation_1": "Do you remember the colors of the rainbow now?",
+      "annotation_2": "Many things in this picture come in pairs. See how many you can find.",
+      "annotation_3": "If you combine the chairs and people together, how many legs do they have? Did you skip count the legs by 2's to figure it out?"
+    },
+    {
+      "id": "page_12",
+      "page_no": 12,
+      "illustration": "EFMStorybooks/EFM-SB-MRR-12.jpg",
+      "story_text": "Eryum tried to push his luck, \"I love it because it reminds me of ice cream! Can I have some now, pleeeaaase?\"\n\n\"Mmmm. It's cold now, let's eat ice cream tomorrow. Shall we?\" mother says. Then she adds, \"Next time, I will tell the tale of the end of the rainbow.\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Eryum tried to push his luck, \"I love it because it reminds me of ice cream! Can I have some now, pleeeaaase?\"\n\n\"Mmmm. It's cold now, let's eat ice cream tomorrow. Shall we?\" mother says. Then she adds, \"Next time, I will tell the tale of the end of the rainbow.\""
+        },
+        "annotation_1": {
+          "eng": "Do you like ice cream? If you could, would you eat ice cream all the time?"
+        },
+        "annotation_2": {
+          "eng": "What is your favorite food? Is your choice different at different times -- for example, one favorite for when it's hot and another when it is cold?"
+        },
+        "annotation_3": {
+          "eng": "Some people say there is treasure at the end of the rainbow. Make up a story this mother might tell about a treasure at the end of the rainbow."
+        }
+      },
+      "annotation_1": "Do you like ice cream? If you could, would you eat ice cream all the time?",
+      "annotation_2": "What is your favorite food? Is your choice different at different times -- for example, one favorite for when it's hot and another when it is cold?",
+      "annotation_3": "Some people say there is treasure at the end of the rainbow. Make up a story this mother might tell about a treasure at the end of the rainbow."
+    },
+    {
+      "id": "page_13",
+      "page_no": 13,
+      "illustration": "EFMStorybooks/EFM-SB-MRR-13.jpg"
+    }
+  ],
+  "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+}

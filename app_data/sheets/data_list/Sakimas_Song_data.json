@@ -1,0 +1,536 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "Sakimas_Song_data",
+  "status": "released",
+  "data_list_name": "Sakimas_Song_storybook",
+  "rows": [
+    {
+      "id": "page_1",
+      "page_no": 1,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-1.jpg",
+      "story_text": "Sakima lived with his parents and his four-year-old sister.\n\nThey lived on a rich man's land.\n\nTheir grass-thatched hut was at the end of a row of trees.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Sakima lived with his parents and his four-year-old sister.\n\nThey lived on a rich man's land.\n\nTheir grass-thatched hut was at the end of a row of trees."
+        },
+        "annotation_1": {
+          "eng": "There are many bold colors in this picture. Which colors of the rainbow are missing?"
+        },
+        "annotation_2": {
+          "eng": "The windows in the distance are rectangular, they are four-side shapes like this page. Do you see rectangles around where you are?"
+        },
+        "annotation_3": {
+          "eng": "When the four sides of a rectangle are the same length, the rectangle is called a square. Are some of the rectangles around you squares?"
+        }
+      },
+      "annotation_1": "There are many bold colors in this picture. Which colors of the rainbow are missing?",
+      "annotation_2": "The windows in the distance are rectangular, they are four-side shapes like this page. Do you see rectangles around where you are?",
+      "annotation_3": "When the four sides of a rectangle are the same length, the rectangle is called a square. Are some of the rectangles around you squares?"
+    },
+    {
+      "id": "page_2",
+      "page_no": 2,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-2.jpg",
+      "story_text": "When Sakima was three years old, he fell sick and lost his sight.\n\nSakima was a talented boy.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "When Sakima was three years old, he fell sick and lost his sight.\n\nSakima was a talented boy."
+        },
+        "annotation_1": {
+          "eng": "Do you know someone who has lost their hearing or sight?"
+        },
+        "annotation_2": {
+          "eng": "Can you name all the major senses that people generally have?"
+        },
+        "annotation_3": {
+          "eng": "Losing one sense often causes a person to develop some of their other senses more fully. Blind people often get much better at listening because it helps them to know where things are."
+        }
+      },
+      "annotation_1": "Do you know someone who has lost their hearing or sight?",
+      "annotation_2": "Can you name all the major senses that people generally have?",
+      "annotation_3": "Losing one sense often causes a person to develop some of their other senses more fully. Blind people often get much better at listening because it helps them to know where things are."
+    },
+    {
+      "id": "page_3",
+      "page_no": 3,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-3.jpg",
+      "story_text": "Sakima did many things that other six-year-old children did not do.\n\nFor example, he could sit with older members of the village and discuss matters.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Sakima did many things that other six-year-old children did not do.\n\nFor example, he could sit with older members of the village and discuss matters."
+        },
+        "annotation_1": {
+          "eng": "Why do you think Sakima became good at talking with older people? Perhaps because he couldn't be out playing games and being distracted by things he saw, he was better able to listen and focus on what people were saying. What do  you think?"
+        },
+        "annotation_2": {
+          "eng": "Do you enjoy talking with adults, or do you prefer to talk with children your own age?"
+        },
+        "annotation_3": {
+          "eng": "Often, children and adults have different things they like to talk about. What are some of the things you like to talk about with your friends?"
+        }
+      },
+      "annotation_1": "Why do you think Sakima became good at talking with older people? Perhaps because he couldn't be out playing games and being distracted by things he saw, he was better able to listen and focus on what people were saying. What do  you think?",
+      "annotation_2": "Do you enjoy talking with adults, or do you prefer to talk with children your own age?",
+      "annotation_3": "Often, children and adults have different things they like to talk about. What are some of the things you like to talk about with your friends?"
+    },
+    {
+      "id": "page_4",
+      "page_no": 4,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-4.jpg",
+      "story_text": "Sakima's parents worked at the rich man's house.\n\nThey left home early in the morning and returned late in the evening.\n\nSakima was left with his little sister.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Sakima's parents worked at the rich man's house.\n\nThey left home early in the morning and returned late in the evening.\n\nSakima was left with his little sister."
+        },
+        "annotation_1": {
+          "eng": "Waving seems like something that sighted people would learn to do when they see other people waving. How do you suppose Sakima learned to wave?"
+        },
+        "annotation_2": {
+          "eng": "Look at the trees in this picture. The near trees are about twice as tall as an adult, but the tree farthest back is a little bit taller than the house. Do you think the artist made a mistake?"
+        },
+        "annotation_3": {
+          "eng": "An estimate is a best guess when you don't know exactly how big something is. Glance at the trees and estimate how many there are. Then count the trees and see how close your estimate is."
+        }
+      },
+      "annotation_1": "Waving seems like something that sighted people would learn to do when they see other people waving. How do you suppose Sakima learned to wave?",
+      "annotation_2": "Look at the trees in this picture. The near trees are about twice as tall as an adult, but the tree farthest back is a little bit taller than the house. Do you think the artist made a mistake?",
+      "annotation_3": "An estimate is a best guess when you don't know exactly how big something is. Glance at the trees and estimate how many there are. Then count the trees and see how close your estimate is."
+    },
+    {
+      "id": "page_5",
+      "page_no": 5,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-5.jpg",
+      "story_text": "Sakima loved to sing songs.\n\nOne day his mother asked him, \"Where do you learn these songs from, Sakima?\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Sakima loved to sing songs.\n\nOne day his mother asked him, \"Where do you learn these songs from, Sakima?\""
+        },
+        "annotation_1": {
+          "eng": "Why do you think Sakima learned to sing songs to himself?"
+        },
+        "annotation_2": {
+          "eng": "Do you like to sing songs? Do you have a favorite song you sing or like to listen to?"
+        },
+        "annotation_3": {
+          "eng": "This picture has some notes written in sheet music form. Writing notes this way allows anyone to learn the notes of a song. Do you know how to read notes to sing or play on an instrument?"
+        }
+      },
+      "annotation_1": "Why do you think Sakima learned to sing songs to himself?",
+      "annotation_2": "Do you like to sing songs? Do you have a favorite song you sing or like to listen to?",
+      "annotation_3": "This picture has some notes written in sheet music form. Writing notes this way allows anyone to learn the notes of a song. Do you know how to read notes to sing or play on an instrument?"
+    },
+    {
+      "id": "page_6",
+      "page_no": 6,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-6.jpg",
+      "story_text": "Sakima answered, \"I just know them, mother. I hear them in my mind and then I sing.\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Sakima answered, \"I just know them, mother. I hear them in my mind and then I sing.\""
+        },
+        "annotation_1": {
+          "eng": "Have you ever made up a new song just for fun? Create a new song now and see what happens. You can make up new words to a melody you already know."
+        },
+        "annotation_2": {
+          "eng": "Songs can be about favorite people, animals, or places, or about a memory that is special to you. There are many things to write songs about."
+        },
+        "annotation_3": {
+          "eng": "Do you think Sakima is nearly as tall as his mother? He looks much shorter than she is in the other pictures. Why do you think the illustrator drew them this way?"
+        }
+      },
+      "annotation_1": "Have you ever made up a new song just for fun? Create a new song now and see what happens. You can make up new words to a melody you already know.",
+      "annotation_2": "Songs can be about favorite people, animals, or places, or about a memory that is special to you. There are many things to write songs about.",
+      "annotation_3": "Do you think Sakima is nearly as tall as his mother? He looks much shorter than she is in the other pictures. Why do you think the illustrator drew them this way?"
+    },
+    {
+      "id": "page_7",
+      "page_no": 7,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-7.jpg",
+      "story_text": "Sakima liked to sing for his little sister, especially, if she felt hungry.\n\nHis sister would listen to him singing his favorite song. She would sway to the soothing tune.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Sakima liked to sing for his little sister, especially, if she felt hungry.\n\nHis sister would listen to him singing his favorite song. She would sway to the soothing tune."
+        },
+        "annotation_1": {
+          "eng": "Why did he like to sing to his sister when she was hungry?"
+        },
+        "annotation_2": {
+          "eng": "Do you sometimes listen to music to help change your mood or what you are thinking about? Is there particular music that makes you happy or sad?"
+        },
+        "annotation_3": {
+          "eng": "All the lines in their home are curved. There aren't any straight lines. Is there any place around you that is like that?"
+        }
+      },
+      "annotation_1": "Why did he like to sing to his sister when she was hungry?",
+      "annotation_2": "Do you sometimes listen to music to help change your mood or what you are thinking about? Is there particular music that makes you happy or sad?",
+      "annotation_3": "All the lines in their home are curved. There aren't any straight lines. Is there any place around you that is like that?"
+    },
+    {
+      "id": "page_8",
+      "page_no": 8,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-8.jpg",
+      "story_text": "\"Can you sing it again and again, Sakima?\" his sister would beg him.\n\nSakima would accept and sing it over and over again.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"Can you sing it again and again, Sakima?\" his sister would beg him.\n\nSakima would accept and sing it over and over again."
+        },
+        "annotation_1": {
+          "eng": "Have you ever tried to convince someone to do something repeatedly with you that you really enjoy doing? It can be very difficult. Were you successful?"
+        },
+        "annotation_2": {
+          "eng": "Sakima is a really kind and thoughtful big brother! Are you kind like that with anyone you know?"
+        },
+        "annotation_3": {
+          "eng": "Look at how this room is drawn. Do you think it was drawn accurately? Try to describe which pieces don't seem quite right to you and what is wrong with them."
+        }
+      },
+      "annotation_1": "Have you ever tried to convince someone to do something repeatedly with you that you really enjoy doing? It can be very difficult. Were you successful?",
+      "annotation_2": "Sakima is a really kind and thoughtful big brother! Are you kind like that with anyone you know?",
+      "annotation_3": "Look at how this room is drawn. Do you think it was drawn accurately? Try to describe which pieces don't seem quite right to you and what is wrong with them."
+    },
+    {
+      "id": "page_9",
+      "page_no": 9,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-9.jpg",
+      "story_text": "One evening when his parents returned home, they were very quiet.\n\nSakima knew that there was something wrong.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "One evening when his parents returned home, they were very quiet.\n\nSakima knew that there was something wrong."
+        },
+        "annotation_1": {
+          "eng": "What do you think is wrong? Make up a reason or two that would make everyone quiet and sad."
+        },
+        "annotation_2": {
+          "eng": "Think of ways this story might end. What kinds of adventures could a blind child who loves to sing have with his family? What kinds of problems can singing solve?"
+        },
+        "annotation_3": {
+          "eng": "When you are feeling sad, do you prefer to be quiet about it? Sometimes, sharing what is making you sad can help relieve your burden and put you on the road to feeling better. Also, the person you share it with may be able to help cheer you up."
+        }
+      },
+      "annotation_1": "What do you think is wrong? Make up a reason or two that would make everyone quiet and sad.",
+      "annotation_2": "Think of ways this story might end. What kinds of adventures could a blind child who loves to sing have with his family? What kinds of problems can singing solve?",
+      "annotation_3": "When you are feeling sad, do you prefer to be quiet about it? Sometimes, sharing what is making you sad can help relieve your burden and put you on the road to feeling better. Also, the person you share it with may be able to help cheer you up."
+    },
+    {
+      "id": "page_10",
+      "page_no": 10,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-10.jpg",
+      "story_text": "\"What is wrong, mother, father?\" Sakima asked.\n\nSakima learned that the rich man's son was missing.\n\nThe man was very sad and lonely.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"What is wrong, mother, father?\" Sakima asked.\n\nSakima learned that the rich man's son was missing.\n\nThe man was very sad and lonely."
+        },
+        "annotation_1": {
+          "eng": "How do you think Sakima will try to solve this problem?"
+        },
+        "annotation_2": {
+          "eng": "Have you ever missed someone you felt close to but hadn't seen for a long time? What helped you feel better at such a time?"
+        },
+        "annotation_3": {
+          "eng": "The three people in this picture are using their hands in different ways. Each one is communicating a different message. What do you think each one is saying with their hands?"
+        }
+      },
+      "annotation_1": "How do you think Sakima will try to solve this problem?",
+      "annotation_2": "Have you ever missed someone you felt close to but hadn't seen for a long time? What helped you feel better at such a time?",
+      "annotation_3": "The three people in this picture are using their hands in different ways. Each one is communicating a different message. What do you think each one is saying with their hands?"
+    },
+    {
+      "id": "page_11",
+      "page_no": 11,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-11.jpg",
+      "story_text": "\"I can sing for him. He might be happy again,\" Sakima told his parents.\n\nBut his parents dismissed him. \"He is very rich. You are only a blind boy. Do you think your song will help him?\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"I can sing for him. He might be happy again,\" Sakima told his parents.\n\nBut his parents dismissed him. \"He is very rich. You are only a blind boy. Do you think your song will help him?\""
+        },
+        "annotation_1": {
+          "eng": "Are there songs that always make you feel happy no matter how you felt before hearing the song?"
+        },
+        "annotation_2": {
+          "eng": "What is his father really saying when he says the man is very rich and Sakima is only a blind boy? Do you think blind boys can make rich people happy?"
+        },
+        "annotation_3": {
+          "eng": "Now look at what Sakima's father and mother are doing with their hands, faces, and bodies. Without using words, what are they communicating this time?"
+        }
+      },
+      "annotation_1": "Are there songs that always make you feel happy no matter how you felt before hearing the song?",
+      "annotation_2": "What is his father really saying when he says the man is very rich and Sakima is only a blind boy? Do you think blind boys can make rich people happy?",
+      "annotation_3": "Now look at what Sakima's father and mother are doing with their hands, faces, and bodies. Without using words, what are they communicating this time?"
+    },
+    {
+      "id": "page_12",
+      "page_no": 12,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-12.jpg",
+      "story_text": "However, Sakima did not give up. His little sister supported him.\n\nShe said, \"Sakima's songs soothe me when I am hungry. They will soothe the rich man too.\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "However, Sakima did not give up. His little sister supported him.\n\nShe said, \"Sakima's songs soothe me when I am hungry. They will soothe the rich man too.\""
+        },
+        "annotation_1": {
+          "eng": "Whether it is a rich man or Sakima's sister, a beautiful song can improve anyone's day!"
+        },
+        "annotation_2": {
+          "eng": "His parents look skeptical, but they are willing to give it a try. Have there been times when you thought you could do something and the people around you doubted that you could? Who ended up being right?"
+        },
+        "annotation_3": {
+          "eng": "This time, look at Sakima's sister's hands. What are her hands showing, especially her right hand? People say a lot with their bodies without using any words."
+        }
+      },
+      "annotation_1": "Whether it is a rich man or Sakima's sister, a beautiful song can improve anyone's day!",
+      "annotation_2": "His parents look skeptical, but they are willing to give it a try. Have there been times when you thought you could do something and the people around you doubted that you could? Who ended up being right?",
+      "annotation_3": "This time, look at Sakima's sister's hands. What are her hands showing, especially her right hand? People say a lot with their bodies without using any words."
+    },
+    {
+      "id": "page_13",
+      "page_no": 13,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-13.jpg",
+      "story_text": "The following day, Sakima asked his little sister to lead him to the rich man's house.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "The following day, Sakima asked his little sister to lead him to the rich man's house."
+        },
+        "annotation_1": {
+          "eng": "Sometime, when you're with someone, walk around holding their hand keeping your eyes closed. You will probably notice many things that you usually ignore. You will start feeling, hearing, and sensing your space in a fresh way!"
+        },
+        "annotation_2": {
+          "eng": "Do you know why Sakima has a stick? Blind people often use sticks to help them find their way and to avoid stumbling over things. The sticks touch the ground so the person can feel bumps or things in the way. Those sticks are often painted white with a red tip so that other people will know the stick holder is blind."
+        },
+        "annotation_3": {
+          "eng": "Look at the trees behind them. We have seen those trees earlier in the story, and they have large crowns (the area where their branches are). Do you think the illustrator has drawn them too close together in this picture?"
+        }
+      },
+      "annotation_1": "Sometime, when you're with someone, walk around holding their hand keeping your eyes closed. You will probably notice many things that you usually ignore. You will start feeling, hearing, and sensing your space in a fresh way!",
+      "annotation_2": "Do you know why Sakima has a stick? Blind people often use sticks to help them find their way and to avoid stumbling over things. The sticks touch the ground so the person can feel bumps or things in the way. Those sticks are often painted white with a red tip so that other people will know the stick holder is blind.",
+      "annotation_3": "Look at the trees behind them. We have seen those trees earlier in the story, and they have large crowns (the area where their branches are). Do you think the illustrator has drawn them too close together in this picture?"
+    },
+    {
+      "id": "page_14",
+      "page_no": 14,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-14.jpg",
+      "story_text": "He stood below a window and began to sing his favorite song.\n\nSlowly, the head of the rich man began to show through the window.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "He stood below a window and began to sing his favorite song.\n\nSlowly, the head of the rich man began to show through the window."
+        },
+        "annotation_1": {
+          "eng": "Sakima might be blind, but his gift of singing made a huge difference to the rich man. People have a wide variety of skills, and each skill can make a big contribution in the right context."
+        },
+        "annotation_2": {
+          "eng": "Do you have some surprising skills that people don't always fully appreciate? Are there skills other people have that you sometimes don't give enough recognition?"
+        },
+        "annotation_3": {
+          "eng": "There are a lot of notes (the dark or hollow circles) on that page. Use your new estimation skills and estimate how many notes there are. They are hard to count, but count them as best you can and see how close your estimate was."
+        }
+      },
+      "annotation_1": "Sakima might be blind, but his gift of singing made a huge difference to the rich man. People have a wide variety of skills, and each skill can make a big contribution in the right context.",
+      "annotation_2": "Do you have some surprising skills that people don't always fully appreciate? Are there skills other people have that you sometimes don't give enough recognition?",
+      "annotation_3": "There are a lot of notes (the dark or hollow circles) on that page. Use your new estimation skills and estimate how many notes there are. They are hard to count, but count them as best you can and see how close your estimate was."
+    },
+    {
+      "id": "page_15",
+      "page_no": 15,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-15.jpg",
+      "story_text": "The workers stopped what they were doing. They listened to Sakima's beautiful song.\n\nBut one man said, \"Nobody has been able to console the boss. Does this blind boy think he will console him?\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "The workers stopped what they were doing. They listened to Sakima's beautiful song.\n\nBut one man said, \"Nobody has been able to console the boss. Does this blind boy think he will console him?\""
+        },
+        "annotation_1": {
+          "eng": "Look at all the different colors the people are wearing. Describe the difference in the coloring of their clothes and the rich man's clothes."
+        },
+        "annotation_2": {
+          "eng": "Did you notice the rectangles on this page?"
+        },
+        "annotation_3": {
+          "eng": "What is wrong with this picture of the rich man? In a scene, the farther away the same thing is, the smaller it should be. The rich man's head is a little farther away than everyone else, and yet his head is drawn much larger than everyone else's. Hmmm ...."
+        }
+      },
+      "annotation_1": "Look at all the different colors the people are wearing. Describe the difference in the coloring of their clothes and the rich man's clothes.",
+      "annotation_2": "Did you notice the rectangles on this page?",
+      "annotation_3": "What is wrong with this picture of the rich man? In a scene, the farther away the same thing is, the smaller it should be. The rich man's head is a little farther away than everyone else, and yet his head is drawn much larger than everyone else's. Hmmm ...."
+    },
+    {
+      "id": "page_16",
+      "page_no": 16,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-16.jpg",
+      "story_text": "Sakima finished singing his song and turned to leave.\n\nBut the rich man rushed out and said, \"Please sing the song again.\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Sakima finished singing his song and turned to leave.\n\nBut the rich man rushed out and said, \"Please sing the song again.\""
+        },
+        "annotation_1": {
+          "eng": "Look at the faces of the people in the crowd. What are they thinking about all this?"
+        },
+        "annotation_2": {
+          "eng": "Parallel lines are lines that go in exactly the same direction and would never meet if they kept going. Notice how the bottom and top sides of these windows are not parallel. However, these lines, including the base of the house, should be parallel. Hmmm ..."
+        },
+        "annotation_3": {
+          "eng": "Compare the rich man's clothes to the other people's clothes. What are the ways his shirt and pants are different from everyone else's clothes?"
+        }
+      },
+      "annotation_1": "Look at the faces of the people in the crowd. What are they thinking about all this?",
+      "annotation_2": "Parallel lines are lines that go in exactly the same direction and would never meet if they kept going. Notice how the bottom and top sides of these windows are not parallel. However, these lines, including the base of the house, should be parallel. Hmmm ...",
+      "annotation_3": "Compare the rich man's clothes to the other people's clothes. What are the ways his shirt and pants are different from everyone else's clothes?"
+    },
+    {
+      "id": "page_17",
+      "page_no": 17,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-17.jpg",
+      "story_text": "At that very moment, two men came carrying someone on a stretcher.\n\nThey had found the rich man's son beaten up and left on the side of the road.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "At that very moment, two men came carrying someone on a stretcher.\n\nThey had found the rich man's son beaten up and left on the side of the road."
+        },
+        "annotation_1": {
+          "eng": "Have you ever tried to carry something as heavy as a person? It is hard work, even for two people, to carry someone for a distance."
+        },
+        "annotation_2": {
+          "eng": "The two people carrying the son look like they are working very hard. What about their bodies shows that they are carrying a heavy load?"
+        },
+        "annotation_3": {
+          "eng": "Notice how the tree trunks are now farther apart than when Sakima was walking toward the house. Given the large trunks, do some of the tree crowns look a little small to you?"
+        }
+      },
+      "annotation_1": "Have you ever tried to carry something as heavy as a person? It is hard work, even for two people, to carry someone for a distance.",
+      "annotation_2": "The two people carrying the son look like they are working very hard. What about their bodies shows that they are carrying a heavy load?",
+      "annotation_3": "Notice how the tree trunks are now farther apart than when Sakima was walking toward the house. Given the large trunks, do some of the tree crowns look a little small to you?"
+    },
+    {
+      "id": "page_18",
+      "page_no": 18,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-18.jpg",
+      "story_text": "The rich man was so happy to see his son again.\n\nHe rewarded Sakima for consoling him.\n\nHe took his son and Sakima to the hospital to check if Sakima could see again.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "The rich man was so happy to see his son again.\n\nHe rewarded Sakima for consoling him.\n\nHe took his son and Sakima to the hospital to check if Sakima could see again."
+        },
+        "annotation_1": {
+          "eng": "One person being nice often causes other people to be nice. It can make a big difference in a community when people look out for each other."
+        },
+        "annotation_2": {
+          "eng": "Drawing things with perspective is a way of making our world look realistic when drawn on a flat page. It is tricky to do correctly. What are some mistakes the illustrator has made with this drawing?"
+        },
+        "annotation_3": {
+          "eng": "Try drawing a simple scene with just a few things using perspective. Do you notice how hard it is to get the relationships between things right?"
+        }
+      },
+      "annotation_1": "One person being nice often causes other people to be nice. It can make a big difference in a community when people look out for each other.",
+      "annotation_2": "Drawing things with perspective is a way of making our world look realistic when drawn on a flat page. It is tricky to do correctly. What are some mistakes the illustrator has made with this drawing?",
+      "annotation_3": "Try drawing a simple scene with just a few things using perspective. Do you notice how hard it is to get the relationships between things right?"
+    },
+    {
+      "id": "page_19",
+      "page_no": 19,
+      "illustration": "EFMStorybooks/EFM-SB-SSONG-19.jpg"
+    }
+  ],
+  "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+}

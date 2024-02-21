@@ -1,0 +1,449 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "Akais_Special_Mat_data",
+  "status": "released",
+  "data_list_name": "Akais_Special_Mat_storybook",
+  "rows": [
+    {
+      "id": "page_1",
+      "page_no": 1,
+      "illustration": "EFMStorybooks/EFM-SB-ASM-1.jpg",
+      "story_text": "When Akai was a little girl, her mother used to put her to sleep on a beautiful mat. Akai's aunt made this special mat from palm leaves.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "When Akai was a little girl, her mother used to put her to sleep on a beautiful mat. Akai's aunt made this special mat from palm leaves."
+        },
+        "annotation_1": {
+          "eng": "Notice the beautiful colors and patterns everywhere in this room!"
+        },
+        "annotation_2": {
+          "eng": "Name and describe as many shapes as you can in this picture."
+        },
+        "annotation_3": {
+          "eng": "Do you have a favorite blanket or item you like to sleep with?"
+        }
+      },
+      "annotation_1": "Notice the beautiful colors and patterns everywhere in this room!",
+      "annotation_2": "Name and describe as many shapes as you can in this picture.",
+      "annotation_3": "Do you have a favorite blanket or item you like to sleep with?"
+    },
+    {
+      "id": "page_2",
+      "page_no": 2,
+      "illustration": "EFMStorybooks/EFM-SB-ASM-2.jpg",
+      "story_text": "The mat had bright pink, blue, and green colors. It was different from other mats that Akai's mother had in the hut.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "The mat had bright pink, blue, and green colors. It was different from other mats that Akai's mother had in the hut."
+        },
+        "annotation_1": {
+          "eng": "Discuss the patterns in Akai's mat. The rows alternate between lighter and darker colors. It has pairs of rows of reds, greens, and blues."
+        },
+        "annotation_2": {
+          "eng": "A rectangle is a 4-sided shape like this page. This mat is a rectangle and it has 30 rows of 9 rectangles."
+        },
+        "annotation_3": {
+          "eng": "30 rows of 9 rectangles makes 270 rectangles for the mat. Can you skip count by 30's to 270? If not, perhaps you can skip count by 3's to 27."
+        }
+      },
+      "annotation_1": "Discuss the patterns in Akai's mat. The rows alternate between lighter and darker colors. It has pairs of rows of reds, greens, and blues.",
+      "annotation_2": "A rectangle is a 4-sided shape like this page. This mat is a rectangle and it has 30 rows of 9 rectangles.",
+      "annotation_3": "30 rows of 9 rectangles makes 270 rectangles for the mat. Can you skip count by 30's to 270? If not, perhaps you can skip count by 3's to 27."
+    },
+    {
+      "id": "page_3",
+      "page_no": 3,
+      "illustration": "EFMStorybooks/EFM-SB-ASM-3.jpg",
+      "story_text": "The land around Akai's home was very dry, hot, and full of stones. There were many scorpions, spiders, and snakes too. But Akai was never in danger of being bitten by these dangerous creatures.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "The land around Akai's home was very dry, hot, and full of stones. There were many scorpions, spiders, and snakes too. But Akai was never in danger of being bitten by these dangerous creatures."
+        },
+        "annotation_1": {
+          "eng": "Find all the little creatures around Akai on the ground. Do you think her mat protected her somehow from these dangerous creatures?"
+        },
+        "annotation_2": {
+          "eng": "If you were surrounded by dangerous things, do you think you would be as happy as Akai looks in this picture?"
+        },
+        "annotation_3": {
+          "eng": "Notice that the hills that are farther away are fainter and lighter than the closer hills. You can often use the degree of faintness to help you tell what is closer and what is farther away in a picture."
+        }
+      },
+      "annotation_1": "Find all the little creatures around Akai on the ground. Do you think her mat protected her somehow from these dangerous creatures?",
+      "annotation_2": "If you were surrounded by dangerous things, do you think you would be as happy as Akai looks in this picture?",
+      "annotation_3": "Notice that the hills that are farther away are fainter and lighter than the closer hills. You can often use the degree of faintness to help you tell what is closer and what is farther away in a picture."
+    },
+    {
+      "id": "page_4",
+      "page_no": 4,
+      "illustration": "EFMStorybooks/EFM-SB-ASM-4.jpg",
+      "story_text": "Her mother said, \"Her special mat protects Akai from any harm.\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Her mother said, \"Her special mat protects Akai from any harm.\""
+        },
+        "annotation_1": {
+          "eng": "Do you believe that objects, such as a mat, can have special, magical powers?"
+        },
+        "annotation_2": {
+          "eng": "Do you have anything that you believe helps you in a magical way?"
+        },
+        "annotation_3": {
+          "eng": "There are many shapes here in addition to the rectangles. Find the triangles and the round shapes in this picture."
+        }
+      },
+      "annotation_1": "Do you believe that objects, such as a mat, can have special, magical powers?",
+      "annotation_2": "Do you have anything that you believe helps you in a magical way?",
+      "annotation_3": "There are many shapes here in addition to the rectangles. Find the triangles and the round shapes in this picture."
+    },
+    {
+      "id": "page_5",
+      "page_no": 5,
+      "illustration": "EFMStorybooks/EFM-SB-ASM-5.jpg",
+      "story_text": "Akai was a clever child. She discovered where the nearest shallow well was.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Akai was a clever child. She discovered where the nearest shallow well was."
+        },
+        "annotation_1": {
+          "eng": "In a very dry place, finding a shallow well would be very important to her village. They must have all thought very highly of Akai."
+        },
+        "annotation_2": {
+          "eng": "There are many different beautiful colors in their clothes. Do you know which of the seven colors of the rainbow are missing in this picture?"
+        },
+        "annotation_3": {
+          "eng": "You  can count all their legs by counting by 2's. You can count their arms the same way. How would you count their arms and legs together? Would you count by 2's or by 4's?"
+        }
+      },
+      "annotation_1": "In a very dry place, finding a shallow well would be very important to her village. They must have all thought very highly of Akai.",
+      "annotation_2": "There are many different beautiful colors in their clothes. Do you know which of the seven colors of the rainbow are missing in this picture?",
+      "annotation_3": "You  can count all their legs by counting by 2's. You can count their arms the same way. How would you count their arms and legs together? Would you count by 2's or by 4's?"
+    },
+    {
+      "id": "page_6",
+      "page_no": 6,
+      "illustration": "EFMStorybooks/EFM-SB-ASM-6.jpg",
+      "story_text": "Akai also knew where her grandmother's manyatta was located. She often went to drink camel milk with her grandmother.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Akai also knew where her grandmother's manyatta was located. She often went to drink camel milk with her grandmother."
+        },
+        "annotation_1": {
+          "eng": "A manyatta is a small village. Akai was very good at finding her way around the area where she lived. How are you at finding things around the area where you live?"
+        },
+        "annotation_2": {
+          "eng": "Some people have a strong sense of direction, and others can get easily confused. Which are you?"
+        },
+        "annotation_3": {
+          "eng": "Her grandmother's mat looks very similar to Akai's mat. Describe some differences you see between the two mats."
+        }
+      },
+      "annotation_1": "A manyatta is a small village. Akai was very good at finding her way around the area where she lived. How are you at finding things around the area where you live?",
+      "annotation_2": "Some people have a strong sense of direction, and others can get easily confused. Which are you?",
+      "annotation_3": "Her grandmother's mat looks very similar to Akai's mat. Describe some differences you see between the two mats."
+    },
+    {
+      "id": "page_7",
+      "page_no": 7,
+      "illustration": "EFMStorybooks/EFM-SB-ASM-7.jpg",
+      "story_text": "One day, Akai was not so lucky. She left to go to her grandmother's manyatta, but she got lost in the hills. Akai was afraid.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "One day, Akai was not so lucky. She left to go to her grandmother's manyatta, but she got lost in the hills. Akai was afraid."
+        },
+        "annotation_1": {
+          "eng": "No matter how good we are at things, everyone can make a mistake. Can you think of a time recently when that happened to you?"
+        },
+        "annotation_2": {
+          "eng": "As much as we may not like our own mistakes, we should not ignore them. Mistakes are often very interesting and have a lot to teach us about ourselves."
+        },
+        "annotation_3": {
+          "eng": "What about the way Akai looks in this picture tells you that she is afraid?"
+        }
+      },
+      "annotation_1": "No matter how good we are at things, everyone can make a mistake. Can you think of a time recently when that happened to you?",
+      "annotation_2": "As much as we may not like our own mistakes, we should not ignore them. Mistakes are often very interesting and have a lot to teach us about ourselves.",
+      "annotation_3": "What about the way Akai looks in this picture tells you that she is afraid?"
+    },
+    {
+      "id": "page_8",
+      "page_no": 8,
+      "illustration": "EFMStorybooks/EFM-SB-ASM-8.jpg",
+      "story_text": "She sat under an edome tree and waited for help. Soon she fell asleep and had a dream.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "She sat under an edome tree and waited for help. Soon she fell asleep and had a dream."
+        },
+        "annotation_1": {
+          "eng": "If you are lost on a hot day, it is wise to find a cool, shady place and hope to be rescued. High heat can be a very dangerous thing and it should be handled carefully."
+        },
+        "annotation_2": {
+          "eng": "People have many kinds of dreams. Some are scary, some are fun, some seem ridiculous, and some seem very real. What kinds of dreams do you have?"
+        },
+        "annotation_3": {
+          "eng": "As they go up, most of these branches split into two branches. So, 1 branch becomes 2, and those become 4, and so on. How high can you keep doubling before it gets to be too big a number?"
+        }
+      },
+      "annotation_1": "If you are lost on a hot day, it is wise to find a cool, shady place and hope to be rescued. High heat can be a very dangerous thing and it should be handled carefully.",
+      "annotation_2": "People have many kinds of dreams. Some are scary, some are fun, some seem ridiculous, and some seem very real. What kinds of dreams do you have?",
+      "annotation_3": "As they go up, most of these branches split into two branches. So, 1 branch becomes 2, and those become 4, and so on. How high can you keep doubling before it gets to be too big a number?"
+    },
+    {
+      "id": "page_9",
+      "page_no": 9,
+      "illustration": "EFMStorybooks/EFM-SB-ASM-9.jpg",
+      "story_text": "This is what Akai dreamed. She was lying on her special mat. A woman who looked like her grandmother was watching over her. The old woman smiled and gave her a bowl of camel milk. Just when Akai stretched out her hand to take the milk, she woke up.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "This is what Akai dreamed. She was lying on her special mat. A woman who looked like her grandmother was watching over her. The old woman smiled and gave her a bowl of camel milk. Just when Akai stretched out her hand to take the milk, she woke up."
+        },
+        "annotation_1": {
+          "eng": "Do you think you can receive a message from a dream, or are they meaningless? What do you think this dream was trying to tell Akai?"
+        },
+        "annotation_2": {
+          "eng": "Notice the circles of color centered just in front of grandmother's face. When circles have a common center they are called concentric circles."
+        },
+        "annotation_3": {
+          "eng": "Which colors are repeated in her clothing and jewelry, and which appear only once?"
+        }
+      },
+      "annotation_1": "Do you think you can receive a message from a dream, or are they meaningless? What do you think this dream was trying to tell Akai?",
+      "annotation_2": "Notice the circles of color centered just in front of grandmother's face. When circles have a common center they are called concentric circles.",
+      "annotation_3": "Which colors are repeated in her clothing and jewelry, and which appear only once?"
+    },
+    {
+      "id": "page_10",
+      "page_no": 10,
+      "illustration": "EFMStorybooks/EFM-SB-ASM-10.jpg",
+      "story_text": "Akai opened her eyes slowly. When she looked up, she saw a small blue bird on a branch above her.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Akai opened her eyes slowly. When she looked up, she saw a small blue bird on a branch above her."
+        },
+        "annotation_1": {
+          "eng": "Sometimes writers use special things in stories as symbols. Do you think the blue bird symbolizes something special in this story, or is it just a blue bird with no special meaning?"
+        },
+        "annotation_2": {
+          "eng": "Two pages ago we saw that same tree, but there are a few differences between the two pictures of the tree. How many differences can you find?"
+        },
+        "annotation_3": {
+          "eng": "Akai and the bird are looking at each other. If they could talk to each other, what would they say?"
+        }
+      },
+      "annotation_1": "Sometimes writers use special things in stories as symbols. Do you think the blue bird symbolizes something special in this story, or is it just a blue bird with no special meaning?",
+      "annotation_2": "Two pages ago we saw that same tree, but there are a few differences between the two pictures of the tree. How many differences can you find?",
+      "annotation_3": "Akai and the bird are looking at each other. If they could talk to each other, what would they say?"
+    },
+    {
+      "id": "page_11",
+      "page_no": 11,
+      "illustration": "EFMStorybooks/EFM-SB-ASM-11.jpg",
+      "story_text": "When Akai got up, the small blue bird flapped its wings and led the way for Akai. She followed the bird.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "When Akai got up, the small blue bird flapped its wings and led the way for Akai. She followed the bird."
+        },
+        "annotation_1": {
+          "eng": "Birds can be fast and hard to follow. Have you ever tried to follow a wild animal to see where it was going?"
+        },
+        "annotation_2": {
+          "eng": "If you were lost in a dangerous place, would you trust your safety to an unusual animal? Akai is being very trusting."
+        },
+        "annotation_3": {
+          "eng": "How do you think this will turn out? Will the bird lead Akai to safety or will she get even more lost following this silly bird?"
+        }
+      },
+      "annotation_1": "Birds can be fast and hard to follow. Have you ever tried to follow a wild animal to see where it was going?",
+      "annotation_2": "If you were lost in a dangerous place, would you trust your safety to an unusual animal? Akai is being very trusting.",
+      "annotation_3": "How do you think this will turn out? Will the bird lead Akai to safety or will she get even more lost following this silly bird?"
+    },
+    {
+      "id": "page_12",
+      "page_no": 12,
+      "illustration": "EFMStorybooks/EFM-SB-ASM-12.jpg",
+      "story_text": "Akai came to a place where the path went in two directions. The blue bird dropped a piece of a mat that was like Akai's own mat.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Akai came to a place where the path went in two directions. The blue bird dropped a piece of a mat that was like Akai's own mat."
+        },
+        "annotation_1": {
+          "eng": "Dropping a piece of mat is quite an unusual thing for any bird to do. Maybe trusting this bird is not such a bad idea after all. What do you think?"
+        },
+        "annotation_2": {
+          "eng": "We didn't see that piece of mat in any other pictures of the bird. Where did that piece of mat come from and how did the bird get it?"
+        },
+        "annotation_3": {
+          "eng": "Look at Akai's face. What does her expression tell you about how she is feeling?"
+        }
+      },
+      "annotation_1": "Dropping a piece of mat is quite an unusual thing for any bird to do. Maybe trusting this bird is not such a bad idea after all. What do you think?",
+      "annotation_2": "We didn't see that piece of mat in any other pictures of the bird. Where did that piece of mat come from and how did the bird get it?",
+      "annotation_3": "Look at Akai's face. What does her expression tell you about how she is feeling?"
+    },
+    {
+      "id": "page_13",
+      "page_no": 13,
+      "illustration": "EFMStorybooks/EFM-SB-ASM-13.jpg",
+      "story_text": "Picking up the piece of mat, Akai saw footprints that she knew were her mother's. Soon she saw the shallow well from where they fetched water.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Picking up the piece of mat, Akai saw footprints that she knew were her mother's. Soon she saw the shallow well from where they fetched water."
+        },
+        "annotation_1": {
+          "eng": "It's good she trusted that strange bird. She ended up being taken to safety by following her instincts and trusting the bird."
+        },
+        "annotation_2": {
+          "eng": "Have you ever had to trust something or someone in an unusual situation? You have to be very careful about the people you choose to trust."
+        },
+        "annotation_3": {
+          "eng": "Do you know what anyone else's footprints look like? When you live where it is important to be able to follow paths, do you suppose you get good at recognizing tracks made by various people and animals?"
+        }
+      },
+      "annotation_1": "It's good she trusted that strange bird. She ended up being taken to safety by following her instincts and trusting the bird.",
+      "annotation_2": "Have you ever had to trust something or someone in an unusual situation? You have to be very careful about the people you choose to trust.",
+      "annotation_3": "Do you know what anyone else's footprints look like? When you live where it is important to be able to follow paths, do you suppose you get good at recognizing tracks made by various people and animals?"
+    },
+    {
+      "id": "page_14",
+      "page_no": 14,
+      "illustration": "EFMStorybooks/EFM-SB-ASM-14.jpg",
+      "story_text": "Akai's family sang and danced to welcome her home. They made a feast to celebrate their child's safe return.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Akai's family sang and danced to welcome her home. They made a feast to celebrate their child's safe return."
+        },
+        "annotation_1": {
+          "eng": "Look at how happy they all are with Akai's safe return. How can you tell that they are happy?"
+        },
+        "annotation_2": {
+          "eng": "Their clothes have beautiful colors and patterns. Which of these do you like the most?"
+        },
+        "annotation_3": {
+          "eng": "Akai likes to go barefoot a lot, while many of the other people in this story wear sandals. Which do you prefer?"
+        }
+      },
+      "annotation_1": "Look at how happy they all are with Akai's safe return. How can you tell that they are happy?",
+      "annotation_2": "Their clothes have beautiful colors and patterns. Which of these do you like the most?",
+      "annotation_3": "Akai likes to go barefoot a lot, while many of the other people in this story wear sandals. Which do you prefer?"
+    },
+    {
+      "id": "page_15",
+      "page_no": 15,
+      "illustration": "EFMStorybooks/EFM-SB-ASM-15.jpg",
+      "story_text": "Akai sat on her special mat and enjoyed eating some delicious food.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Akai sat on her special mat and enjoyed eating some delicious food."
+        },
+        "annotation_1": {
+          "eng": "At the end of a scary day, she looks very happy. After a disturbing incident, it can be wonderful to be back in a familiar and safe place."
+        },
+        "annotation_2": {
+          "eng": "Do you have a favorite place where you feel particularly safe and comfortable?"
+        },
+        "annotation_3": {
+          "eng": "Does her happiness come from her mat or from herself?"
+        }
+      },
+      "annotation_1": "At the end of a scary day, she looks very happy. After a disturbing incident, it can be wonderful to be back in a familiar and safe place.",
+      "annotation_2": "Do you have a favorite place where you feel particularly safe and comfortable?",
+      "annotation_3": "Does her happiness come from her mat or from herself?"
+    },
+    {
+      "id": "page_16",
+      "page_no": 16,
+      "illustration": "EFMStorybooks/EFM-SB-ASM-16.jpg"
+    }
+  ],
+  "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+}

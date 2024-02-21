@@ -1,0 +1,362 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "Emeka_Old_Man_data",
+  "status": "released",
+  "data_list_name": "Emeka_Old_Man_storybook",
+  "rows": [
+    {
+      "id": "page_1",
+      "page_no": 1,
+      "illustration": "EFMStorybooks/EFM-SB-EATOM-1.jpg",
+      "story_text": "Emeka lived in a fine house in Ebiba town. His parents were rich.\n\nEmeka had a dog called Chita. He looked after Chita very well.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Emeka lived in a fine house in Ebiba town. His parents were rich.\n\nEmeka had a dog called Chita. He looked after Chita very well."
+        },
+        "annotation_1": {
+          "eng": "Are you responsible for caring for any animals who are your friends?"
+        },
+        "annotation_2": {
+          "eng": "Rectangles are four-sided shapes like this page. How many rectangles can you find here?"
+        },
+        "annotation_3": {
+          "eng": "There are also some triangles on this page. How many triangles and rectangles can you find where you are?"
+        }
+      },
+      "annotation_1": "Are you responsible for caring for any animals who are your friends?",
+      "annotation_2": "Rectangles are four-sided shapes like this page. How many rectangles can you find here?",
+      "annotation_3": "There are also some triangles on this page. How many triangles and rectangles can you find where you are?"
+    },
+    {
+      "id": "page_2",
+      "page_no": 2,
+      "illustration": "EFMStorybooks/EFM-SB-EATOM-2.jpg",
+      "story_text": "Every day, Emeka's father took him to school in his car. He also brought Emeka home after school.\n\nOne afternoon on their way home, Emeka's father stopped to buy something at a big shop.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Every day, Emeka's father took him to school in his car. He also brought Emeka home after school.\n\nOne afternoon on their way home, Emeka's father stopped to buy something at a big shop."
+        },
+        "annotation_1": {
+          "eng": "There are shapes everywhere! In addition to the rectangles on this wall, can you find some circles in this picture?"
+        },
+        "annotation_2": {
+          "eng": "An arc is the name for a partial circle. Can you find any arcs in this picture?"
+        },
+        "annotation_3": {
+          "eng": "As you get to know the shapes, you start to see the world in new ways and you see how the shapes fit together all around you."
+        }
+      },
+      "annotation_1": "There are shapes everywhere! In addition to the rectangles on this wall, can you find some circles in this picture?",
+      "annotation_2": "An arc is the name for a partial circle. Can you find any arcs in this picture?",
+      "annotation_3": "As you get to know the shapes, you start to see the world in new ways and you see how the shapes fit together all around you."
+    },
+    {
+      "id": "page_3",
+      "page_no": 3,
+      "illustration": "EFMStorybooks/EFM-SB-EATOM-3.jpg",
+      "story_text": "From the car, Emeka looked across the road and saw an old man. He was carrying a big load on his head.\n\nHe was tired and walked slowly. Emeka kept looking at him.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "From the car, Emeka looked across the road and saw an old man. He was carrying a big load on his head.\n\nHe was tired and walked slowly. Emeka kept looking at him."
+        },
+        "annotation_1": {
+          "eng": "This old man is homeless. He is carrying everything he owns on his back. Can you imagine carrying everything you own on your back?"
+        },
+        "annotation_2": {
+          "eng": "Homelessness is a big problem all over the world and it is a difficult problem to solve. A lot of people need help with food, shelter, medicine, and other basic needs."
+        },
+        "annotation_3": {
+          "eng": "That load is almost as big as the man! How far can you walk when you aren't carrying anything? How far do you think you could walk carrying a big load like that?"
+        }
+      },
+      "annotation_1": "This old man is homeless. He is carrying everything he owns on his back. Can you imagine carrying everything you own on your back?",
+      "annotation_2": "Homelessness is a big problem all over the world and it is a difficult problem to solve. A lot of people need help with food, shelter, medicine, and other basic needs.",
+      "annotation_3": "That load is almost as big as the man! How far can you walk when you aren't carrying anything? How far do you think you could walk carrying a big load like that?"
+    },
+    {
+      "id": "page_4",
+      "page_no": 4,
+      "illustration": "EFMStorybooks/EFM-SB-EATOM-4.jpg",
+      "story_text": "The old man sat under the shade of a tree on the walkway and opened his bag.\n\nHe had two flat plastic water bottles, which he was making into shoes.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "The old man sat under the shade of a tree on the walkway and opened his bag.\n\nHe had two flat plastic water bottles, which he was making into shoes."
+        },
+        "annotation_1": {
+          "eng": "Using plastic water bottles as shoes is clever, though uncomfortable. The old man has learned to be creative and resourceful to make do with the little he has."
+        },
+        "annotation_2": {
+          "eng": "Finding new uses for old things is a good way to reduce waste in the world. Have you ever thought of new uses for things that were meant for other purposes?"
+        },
+        "annotation_3": {
+          "eng": "Look at the many shades of blues and greens in this picture. Notice how the blue fades as the sky gets farther and farther away. Fading colors can help us tell which parts of a picture are in the distance."
+        }
+      },
+      "annotation_1": "Using plastic water bottles as shoes is clever, though uncomfortable. The old man has learned to be creative and resourceful to make do with the little he has.",
+      "annotation_2": "Finding new uses for old things is a good way to reduce waste in the world. Have you ever thought of new uses for things that were meant for other purposes?",
+      "annotation_3": "Look at the many shades of blues and greens in this picture. Notice how the blue fades as the sky gets farther and farther away. Fading colors can help us tell which parts of a picture are in the distance."
+    },
+    {
+      "id": "page_5",
+      "page_no": 5,
+      "illustration": "EFMStorybooks/EFM-SB-EATOM-5.jpg",
+      "story_text": "Emeka thought about that old man for a long time. He felt sad.\n\nWhen he got home, he could not eat.\n\nHe thought about what he could do.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Emeka thought about that old man for a long time. He felt sad.\n\nWhen he got home, he could not eat.\n\nHe thought about what he could do."
+        },
+        "annotation_1": {
+          "eng": "Most people see homeless people and ignore them. It is so hard to know good ways to help other people and then follow through and do them."
+        },
+        "annotation_2": {
+          "eng": "Emeka is practicing good problem solving. He is considering his options and thinking carefully about what might be best. What do you think he should do to help the old man?"
+        },
+        "annotation_3": {
+          "eng": "An oval is a circle that has been stretched or squashed in one direction. As drawn in this picture, the table and the pan are ovals that don't look like circles. Do you think they are actually circles? Find a circle near you, move around and see how the circle changes shape depending on where you are."
+        }
+      },
+      "annotation_1": "Most people see homeless people and ignore them. It is so hard to know good ways to help other people and then follow through and do them.",
+      "annotation_2": "Emeka is practicing good problem solving. He is considering his options and thinking carefully about what might be best. What do you think he should do to help the old man?",
+      "annotation_3": "An oval is a circle that has been stretched or squashed in one direction. As drawn in this picture, the table and the pan are ovals that don't look like circles. Do you think they are actually circles? Find a circle near you, move around and see how the circle changes shape depending on where you are."
+    },
+    {
+      "id": "page_6",
+      "page_no": 6,
+      "illustration": "EFMStorybooks/EFM-SB-EATOM-6.jpg",
+      "story_text": "He got up and took some money from his money bag. He called Chita and jumped on his bicycle.\n\nEmeka rode to the shop where his father had shopped.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "He got up and took some money from his money bag. He called Chita and jumped on his bicycle.\n\nEmeka rode to the shop where his father had shopped."
+        },
+        "annotation_1": {
+          "eng": "Circles have many uses. The table on the last page was a circle. Find the circles on this page (there are at least three)."
+        },
+        "annotation_2": {
+          "eng": "Find some circles where you are. What do you suppose makes circles so useful?"
+        },
+        "annotation_3": {
+          "eng": "The side of this house is a five-sided figure called a pentagon. This pentagon is made by putting a triangle on top of a rectangle. Combining basic shapes is a great way to make more complicated ones!"
+        }
+      },
+      "annotation_1": "Circles have many uses. The table on the last page was a circle. Find the circles on this page (there are at least three).",
+      "annotation_2": "Find some circles where you are. What do you suppose makes circles so useful?",
+      "annotation_3": "The side of this house is a five-sided figure called a pentagon. This pentagon is made by putting a triangle on top of a rectangle. Combining basic shapes is a great way to make more complicated ones!"
+    },
+    {
+      "id": "page_7",
+      "page_no": 7,
+      "illustration": "EFMStorybooks/EFM-SB-EATOM-7.jpg",
+      "story_text": "The boy ran into the shop and came out with a bag. He went to where the old man was resting against a tree.\n\nEmeka called out, \"Good afternoon, sir.\" The man answered, \"Peace to you, my child.\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "The boy ran into the shop and came out with a bag. He went to where the old man was resting against a tree.\n\nEmeka called out, \"Good afternoon, sir.\" The man answered, \"Peace to you, my child.\""
+        },
+        "annotation_1": {
+          "eng": "Look at the sides of the road and the horizontal lines of the ABC building. Those lines go in the same direction and are said to be parallel. If you extend parallel lines forever they never meet."
+        },
+        "annotation_2": {
+          "eng": "In the picture, those parallel lines meet at an imaginary point on the horizon. This effect is called perspective. This is how our brain sees long parallel lines."
+        },
+        "annotation_3": {
+          "eng": "Another example of parallel lines is a pair of railroad tracks. If you look straight down them, the two tracks look like they come together in the distance."
+        }
+      },
+      "annotation_1": "Look at the sides of the road and the horizontal lines of the ABC building. Those lines go in the same direction and are said to be parallel. If you extend parallel lines forever they never meet.",
+      "annotation_2": "In the picture, those parallel lines meet at an imaginary point on the horizon. This effect is called perspective. This is how our brain sees long parallel lines.",
+      "annotation_3": "Another example of parallel lines is a pair of railroad tracks. If you look straight down them, the two tracks look like they come together in the distance."
+    },
+    {
+      "id": "page_8",
+      "page_no": 8,
+      "illustration": "EFMStorybooks/EFM-SB-EATOM-8.jpg",
+      "story_text": "Emeka asked, \"Sir, where do you come from?\"\n\nThe old man replied, \"My child, hunger has chased me from my village. I am here to earn money.\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Emeka asked, \"Sir, where do you come from?\"\n\nThe old man replied, \"My child, hunger has chased me from my village. I am here to earn money.\""
+        },
+        "annotation_1": {
+          "eng": "Many people are homeless due to circumstances beyond their control. This man is doing whatever he can to solve his problems by trying to earn some money to feed himself, even if it means being homeless to do it."
+        },
+        "annotation_2": {
+          "eng": "What do you think Emeka has in the bag for the old man?"
+        },
+        "annotation_3": {
+          "eng": "Drawing realistic scenes using perspective is hard. Look at the width of the road in this picture. Compare Emeka's size with the road and decide whether you think there is room on the road for two cars to be side by side."
+        }
+      },
+      "annotation_1": "Many people are homeless due to circumstances beyond their control. This man is doing whatever he can to solve his problems by trying to earn some money to feed himself, even if it means being homeless to do it.",
+      "annotation_2": "What do you think Emeka has in the bag for the old man?",
+      "annotation_3": "Drawing realistic scenes using perspective is hard. Look at the width of the road in this picture. Compare Emeka's size with the road and decide whether you think there is room on the road for two cars to be side by side."
+    },
+    {
+      "id": "page_9",
+      "page_no": 9,
+      "illustration": "EFMStorybooks/EFM-SB-EATOM-9.jpg",
+      "story_text": "Emeka gave his shopping bag to the old man.\n\nTears filled the man's eyes as he took the sandals from the bag. He thanked Emeka from his heart.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Emeka gave his shopping bag to the old man.\n\nTears filled the man's eyes as he took the sandals from the bag. He thanked Emeka from his heart."
+        },
+        "annotation_1": {
+          "eng": "Do you think the man cried because he was happy to have a real pair of shoes or because someone cared enough to show him some kindness?"
+        },
+        "annotation_2": {
+          "eng": "Look at the picture and find what Emeka bought in addition to the shoes. His gifts were very thoughtful."
+        },
+        "annotation_3": {
+          "eng": "Everyone needs food and clothes. What are some other basic things people need?"
+        }
+      },
+      "annotation_1": "Do you think the man cried because he was happy to have a real pair of shoes or because someone cared enough to show him some kindness?",
+      "annotation_2": "Look at the picture and find what Emeka bought in addition to the shoes. His gifts were very thoughtful.",
+      "annotation_3": "Everyone needs food and clothes. What are some other basic things people need?"
+    },
+    {
+      "id": "page_10",
+      "page_no": 10,
+      "illustration": "EFMStorybooks/EFM-SB-EATOM-10.jpg",
+      "story_text": "\"I must go now before mother starts looking for me,\" said Emeka.\n\nThe old man waved to the boy and his dog as they went, \"Bless you, my child,\" he said with a smile.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"I must go now before mother starts looking for me,\" said Emeka.\n\nThe old man waved to the boy and his dog as they went, \"Bless you, my child,\" he said with a smile."
+        },
+        "annotation_1": {
+          "eng": "With a little bit of his extra money, Emeka made a big difference in someone else's life by showing some kindness."
+        },
+        "annotation_2": {
+          "eng": "Can you think of some times when your kindness has made a difference for someone else? How about some times when others were kind to you?"
+        },
+        "annotation_3": {
+          "eng": "The spokes split the bike wheel into eight equal parts. How many of those parts do you need to break the wheel into two equal parts? How many for four equal parts? Are there any other possibilities?"
+        }
+      },
+      "annotation_1": "With a little bit of his extra money, Emeka made a big difference in someone else's life by showing some kindness.",
+      "annotation_2": "Can you think of some times when your kindness has made a difference for someone else? How about some times when others were kind to you?",
+      "annotation_3": "The spokes split the bike wheel into eight equal parts. How many of those parts do you need to break the wheel into two equal parts? How many for four equal parts? Are there any other possibilities?"
+    },
+    {
+      "id": "page_11",
+      "page_no": 11,
+      "illustration": "EFMStorybooks/EFM-SB-EATOM-11.jpg",
+      "story_text": "\"Where were you?\" mother asked Emeka as soon as he got home. She was worried.\n\nEmeka told her everything. She felt touched by his story.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "\"Where were you?\" mother asked Emeka as soon as he got home. She was worried.\n\nEmeka told her everything. She felt touched by his story."
+        },
+        "annotation_1": {
+          "eng": "Emeka's mother was both worried and then happy. Why do you suppose his mother was worried?"
+        },
+        "annotation_2": {
+          "eng": "What was it that his mother found so touching about his story?"
+        },
+        "annotation_3": {
+          "eng": "What should Emeka have done before going to buy the shoes for the old man? Why didn't Emeka do that?"
+        }
+      },
+      "annotation_1": "Emeka's mother was both worried and then happy. Why do you suppose his mother was worried?",
+      "annotation_2": "What was it that his mother found so touching about his story?",
+      "annotation_3": "What should Emeka have done before going to buy the shoes for the old man? Why didn't Emeka do that?"
+    },
+    {
+      "id": "page_12",
+      "page_no": 12,
+      "illustration": "EFMStorybooks/EFM-SB-EATOM-12.jpg",
+      "story_text": "Later, Emeka's father told him, \"We are proud of what you did. But you must always tell us before you leave the house.\"\n\nThen he added, \"Now, here is the money that you spent!\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Later, Emeka's father told him, \"We are proud of what you did. But you must always tell us before you leave the house.\"\n\nThen he added, \"Now, here is the money that you spent!\""
+        },
+        "annotation_1": {
+          "eng": "Emeka did a good thing and made a difference in another person's life. Should his family do more for that old man?"
+        },
+        "annotation_2": {
+          "eng": "Each of us needs to find ways we can help others and help make their lives better."
+        },
+        "annotation_3": {
+          "eng": "What do you think? Should Emeka's parents have given Emeka back his money? Would it have been better to have Emeka sacrifice his own money to help the old man?"
+        }
+      },
+      "annotation_1": "Emeka did a good thing and made a difference in another person's life. Should his family do more for that old man?",
+      "annotation_2": "Each of us needs to find ways we can help others and help make their lives better.",
+      "annotation_3": "What do you think? Should Emeka's parents have given Emeka back his money? Would it have been better to have Emeka sacrifice his own money to help the old man?"
+    },
+    {
+      "id": "page_13",
+      "page_no": 13,
+      "illustration": "EFMStorybooks/EFM-SB-EATOM-13.jpg"
+    }
+  ],
+  "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+}
