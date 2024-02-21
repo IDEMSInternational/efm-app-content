@@ -1,6 +1,6 @@
 {
   "flow_type": "template",
-  "flow_name": "efm_activity_template",
+  "flow_name": "efm_activity_v_two_template",
   "status": "released",
   "rows": [
     {
@@ -280,7 +280,7 @@
     {
       "type": "items",
       "name": "find_next_and_prev",
-      "value": "@data.efm_act",
+      "value": "@data.efm_act_v_two",
       "rows": [
         {
           "name": "act_type",
@@ -402,7 +402,7 @@
         },
         {
           "name": "prev_activity",
-          "value": "data.efm_act.@item.id",
+          "value": "data.efm_act_v_two.@item.id",
           "_translations": {
             "value": {}
           },
@@ -413,7 +413,7 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "data.efm_act.@item.id",
+                "fullExpression": "data.efm_act_v_two.@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -457,7 +457,7 @@
         },
         {
           "name": "next_activity",
-          "value": "data.efm_act.@item.id",
+          "value": "data.efm_act_v_two.@item.id",
           "_translations": {
             "value": {}
           },
@@ -468,7 +468,7 @@
           "_dynamicFields": {
             "value": [
               {
-                "fullExpression": "data.efm_act.@item.id",
+                "fullExpression": "data.efm_act_v_two.@item.id",
                 "matchedExpression": "@item.id",
                 "type": "item",
                 "fieldName": "id"
@@ -524,15 +524,15 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@data.efm_act",
-            "matchedExpression": "@data.efm_act",
+            "fullExpression": "@data.efm_act_v_two",
+            "matchedExpression": "@data.efm_act_v_two",
             "type": "data",
-            "fieldName": "efm_act"
+            "fieldName": "efm_act_v_two"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@data.efm_act": [
+        "@data.efm_act_v_two": [
           "value"
         ]
       }
@@ -865,25 +865,35 @@
     },
     {
       "type": "template",
-      "name": "activity_body",
-      "value": "@local.efm_activity_body_template",
-      "rows": [],
-      "_nested_name": "activity_body",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.efm_activity_body_template",
-            "matchedExpression": "@local.efm_activity_body_template",
-            "type": "local",
-            "fieldName": "efm_activity_body_template"
+      "name": "activity_body_generator",
+      "value": "efm_activity_bodyvtwo_template",
+      "rows": [
+        {
+          "name": "efm_activity_ptr",
+          "value": "@local.efm_activity",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activity_body_generator.efm_activity_ptr",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.efm_activity",
+                "matchedExpression": "@local.efm_activity",
+                "type": "local",
+                "fieldName": "efm_activity"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.efm_activity": [
+              "value"
+            ]
           }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.efm_activity_body_template": [
-          "value"
-        ]
-      }
+        }
+      ],
+      "_nested_name": "activity_body_generator"
     }
   ],
   "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"

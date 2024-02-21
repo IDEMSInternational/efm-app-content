@@ -422,19 +422,17 @@
         "title": {
           "es_es": true
         },
-        "math_themes_words": {
-          "es_es": true
-        }
+        "math_themes_words": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Friends"
         },
         "math_themes_words": {
-          "eng": "Math Themes and Words} This story has counting to 6, colors, and shapes. Practice words: how many, numbers to six, one more, two more, one less, two less, color names, stripes, solids, pentagon, hexagon, round, same, and different."
+          "eng": "This story has counting to 6, colors, and shapes. Practice words: how many, numbers to six, one more, two more, one less, two less, color names, stripes, solids, pentagon, hexagon, round, same, and different."
         }
       },
-      "math_themes_words": "Math Themes and Words} This story has counting to 6, colors, and shapes. Practice words: how many, numbers to six, one more, two more, one less, two less, color names, stripes, solids, pentagon, hexagon, round, same, and different."
+      "math_themes_words": "This story has counting to 6, colors, and shapes. Practice words: how many, numbers to six, one more, two more, one less, two less, color names, stripes, solids, pentagon, hexagon, round, same, and different."
     },
     {
       "id": "efm_sb_How_The_Toad_Got_Its_Skin",
@@ -1299,6 +1297,236 @@
         }
       },
       "math_themes_words": "This story has counting, comparisons, and problem solving. Practice words: numbers to ten, skip counting, counting by 2's, 3's, 4's, 5's, and 10's, odd numbers, more, difference, add, combination, total, stripes, spots, big, biggest, fast, fastest, strong, strongest, large largest, high, higher, pattern, and problem solving."
+    },
+    {
+      "id": "efm_sb_Akais_Special_Mat",
+      "pages": "data.Akais_Special_Mat_storybook",
+      "cover": "EFMStorybooks/EFM-SB-ASM-Cover.jpg",
+      "author": "Ursula Nafula",
+      "illustrator": "Catherine Groenewald",
+      "intro_level": "advanced",
+      "book_level": "intermediate",
+      "title": "Akai's Special Mat",
+      "_translations": {
+        "title": {},
+        "math_themes_words": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Akai's Special Mat"
+        },
+        "math_themes_words": {
+          "eng": "This story has shapes, colors, and skip counting. Practice words: patterns, row, lighter, darker, rectangle, triangle, round, side, circle, concentric circles, shallow, faint, closer, farther, differences, color names, colors of the rainbow, pair, doubling, and skip counting by 2's, 3's, and 4's."
+        }
+      },
+      "math_themes_words": "This story has shapes, colors, and skip counting. Practice words: patterns, row, lighter, darker, rectangle, triangle, round, side, circle, concentric circles, shallow, faint, closer, farther, differences, color names, colors of the rainbow, pair, doubling, and skip counting by 2's, 3's, and 4's."
+    },
+    {
+      "id": "efm_sb_Emeka_Old_Man",
+      "pages": "data.Emeka_Old_Man_storybook",
+      "cover": "EFMStorybooks/EFM-SB-EATOM-Cover.jpg",
+      "author": "Nwanne Felix-Emeribe",
+      "illustrator": "Kenneth Boyowa Okitikpi",
+      "intro_level": "advanced",
+      "book_level": "intermediate",
+      "title": "Emeka and the Old Man",
+      "_translations": {
+        "title": {},
+        "math_themes_words": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Emeka and the Old Man"
+        },
+        "math_themes_words": {
+          "eng": "This story has shapes and geometry.  Practice words: side, triangle, rectangle, pentagon, circle, oval, arc, big, flat, faint, faded, distance, far away, problem solving, horizontal lines, parallel lines, perspective, width, and dividing 8 evenly."
+        }
+      },
+      "math_themes_words": "This story has shapes and geometry.  Practice words: side, triangle, rectangle, pentagon, circle, oval, arc, big, flat, faint, faded, distance, far away, problem solving, horizontal lines, parallel lines, perspective, width, and dividing 8 evenly."
+    },
+    {
+      "id": "efm_sb_Father_Son_Donkey",
+      "pages": "data.Father_Son_Donkey_storybook",
+      "cover": "EFMStorybooks/EFM-SB-FSAD-Cover.jpg",
+      "author": "Tagel Aboneh",
+      "illustrator": "Adonay Gebru",
+      "intro_level": "advanced",
+      "book_level": "intermediate",
+      "title": "Father, Son, and Donkey",
+      "_translations": {
+        "title": {},
+        "math_themes_words": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Father, Son, and Donkey"
+        },
+        "math_themes_words": {
+          "eng": "This story has shapes and geometry.  Practice words: distance, middle, rectangle, triangle, pale, twice, pairs, counting by 20's, 50's, and 100's."
+        }
+      },
+      "math_themes_words": "This story has shapes and geometry.  Practice words: distance, middle, rectangle, triangle, pale, twice, pairs, counting by 20's, 50's, and 100's."
+    },
+    {
+      "id": "efm_sb_Keepers_Nursery",
+      "pages": "data.Keepers_Nursery_storybook",
+      "cover": "EFMStorybooks/EFM-SB-KAHN-Cover.jpg",
+      "author": "Nina Orange",
+      "illustrator": "Magriet Brink",
+      "intro_level": "advanced",
+      "book_level": "intermediate",
+      "title": "Keeper and his Nursery",
+      "_translations": {
+        "title": {},
+        "math_themes_words": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Keeper and his Nursery"
+        },
+        "math_themes_words": {
+          "eng": "This story has shapes and descriptions. Practice words: triangle, rectangle, pentagon, hexagon, sides, diagonal, circle, oval, cylinder, ball, sphere, stripe, thin, small, big, flat, pairs, opposite, center, long, high, twice, measurement, and estimate."
+        }
+      },
+      "math_themes_words": "This story has shapes and descriptions. Practice words: triangle, rectangle, pentagon, hexagon, sides, diagonal, circle, oval, cylinder, ball, sphere, stripe, thin, small, big, flat, pairs, opposite, center, long, high, twice, measurement, and estimate."
+    },
+    {
+      "id": "efm_sb_Magical_Rainbow",
+      "pages": "data.Magical_Rainbow_storybook",
+      "cover": "EFMStorybooks/EFM-SB-MRR-Cover.jpg",
+      "author": "Mimi Werna",
+      "illustrator": "Edwin Irabor",
+      "intro_level": "advanced",
+      "book_level": "intermediate",
+      "title": "Magical Rainbow River",
+      "_translations": {
+        "title": {},
+        "math_themes_words": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Magical Rainbow River"
+        },
+        "math_themes_words": {
+          "eng": "This story has shapes and descriptions. Practice words: circle, arc, oval, lines, sides, straight, rectangle, curve, color names, rainbow colors, double, high, pairs, and skip counting by 2's."
+        }
+      },
+      "math_themes_words": "This story has shapes and descriptions. Practice words: circle, arc, oval, lines, sides, straight, rectangle, curve, color names, rainbow colors, double, high, pairs, and skip counting by 2's."
+    },
+    {
+      "id": "efm_sb_Sakimas_Song",
+      "pages": "data.Sakimas_Song_storybook",
+      "cover": "EFMStorybooks/EFM-SB-SSONG-Cover.jpg",
+      "author": "Ursula Nafula",
+      "illustrator": "Peris Wachuka",
+      "intro_level": "advanced",
+      "book_level": "intermediate",
+      "title": "Sakima's Song",
+      "_translations": {
+        "title": {},
+        "math_themes_words": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Sakima's Song"
+        },
+        "math_themes_words": {
+          "eng": "This story has shapes, descriptions, and perspective. Practice words: rectangle, sides, square, straight, curved, parallel lines, color names, rainbow colors, little, twice, tall, taller, short, shorter, far, farthest, farther, apart, large, thick, close, too close, small, too small, below, and estimate."
+        }
+      },
+      "math_themes_words": "This story has shapes, descriptions, and perspective. Practice words: rectangle, sides, square, straight, curved, parallel lines, color names, rainbow colors, little, twice, tall, taller, short, shorter, far, farthest, farther, apart, large, thick, close, too close, small, too small, below, and estimate."
+    },
+    {
+      "id": "efm_sb_Searching_for_Spring",
+      "pages": "data.Searching_for_Spring_storybook",
+      "cover": "EFMStorybooks/EFM-SB-SFTSOS-Cover.jpg",
+      "author": "Mosa Mahlaba",
+      "illustrator": "Selina Masego Morulane",
+      "intro_level": "advanced",
+      "book_level": "intermediate",
+      "title": "Searching for the Spirit of Spring",
+      "_translations": {
+        "title": {},
+        "math_themes_words": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Searching for the Spirit of Spring"
+        },
+        "math_themes_words": {
+          "eng": "This story has shapes and descriptions. Practice words: circle, oval, arc, cone, rectangle, triangle, long, longest, far, far away, distance, big, bigger, pattern, color, bright, dull, muted, drab, giant, dark, too dark, and problem solving."
+        }
+      },
+      "math_themes_words": "This story has shapes and descriptions. Practice words: circle, oval, arc, cone, rectangle, triangle, long, longest, far, far away, distance, big, bigger, pattern, color, bright, dull, muted, drab, giant, dark, too dark, and problem solving."
+    },
+    {
+      "id": "efm_sb_Share_It_Fair",
+      "pages": "data.Share_It_Fair_storybook",
+      "cover": "EFMStorybooks/EFM-SB-SIF-Cover.jpg",
+      "author": "Penelope Smith",
+      "illustrator": "Magriet Brink",
+      "intro_level": "advanced",
+      "book_level": "intermediate",
+      "title": "Share it Fair!",
+      "_translations": {
+        "title": {},
+        "math_themes_words": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Share it Fair!"
+        },
+        "math_themes_words": {
+          "eng": "This story has shapes and dividing evenly. Practice words: rectangle, square, round, circle, arc, oval, ellipse, stripe, equal, dividing equally, point of view, perspective, half, third, fourth, quarter, problem solving, simpler versions of a problem, persistence, subtracting 1, 2, 3, estimate, and multiples of 3."
+        }
+      },
+      "math_themes_words": "This story has shapes and dividing evenly. Practice words: rectangle, square, round, circle, arc, oval, ellipse, stripe, equal, dividing equally, point of view, perspective, half, third, fourth, quarter, problem solving, simpler versions of a problem, persistence, subtracting 1, 2, 3, estimate, and multiples of 3."
+    },
+    {
+      "id": "efm_sb_Sizwes_Smile",
+      "pages": "data.Sizwes_Smile_storybook",
+      "cover": "EFMStorybooks/EFM-SB-SSMILE-Cover.jpg",
+      "author": "Vianne Venter",
+      "illustrator": "Genevieve Terblanche",
+      "intro_level": "advanced",
+      "book_level": "intermediate",
+      "title": "Sizwe's Smile",
+      "_translations": {
+        "title": {},
+        "math_themes_words": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Sizwe's Smile"
+        },
+        "math_themes_words": {
+          "eng": "This story has shapes and progressions. Practice words: muted, bright, rectangle, circle, arc, oval, ellipse, big, biggest, curve, vertical lines, parallel lines, stripe, twice, doubling, exponential growth, estimate, and counting by 2's and 4's."
+        }
+      },
+      "math_themes_words": "This story has shapes and progressions. Practice words: muted, bright, rectangle, circle, arc, oval, ellipse, big, biggest, curve, vertical lines, parallel lines, stripe, twice, doubling, exponential growth, estimate, and counting by 2's and 4's."
+    },
+    {
+      "id": "efm_sb_The_Smell_Thief",
+      "pages": "data.The_Smell_Thief_storybook",
+      "cover": "EFMStorybooks/EFM-SB-TST-Cover.jpg",
+      "author": "Joanne Bloch (retold folktale)",
+      "illustrator": "Rebecca Riley",
+      "intro_level": "advanced",
+      "book_level": "intermediate",
+      "title": "The Smell Thief",
+      "_translations": {
+        "title": {},
+        "math_themes_words": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "The Smell Thief"
+        },
+        "math_themes_words": {
+          "eng": "This story has skip counting and shapes. Practice words: counting by 1's, 2's, 3's, 4's, and 6's; multiplying, dividing, estimate, rectangle, and triangle."
+        }
+      },
+      "math_themes_words": "This story has skip counting and shapes. Practice words: counting by 1's, 2's, 3's, 4's, and 6's; multiplying, dividing, estimate, rectangle, and triangle."
     }
   ],
   "_xlsxPath": "EFM_storybooks_high_level_sheets.xlsx"

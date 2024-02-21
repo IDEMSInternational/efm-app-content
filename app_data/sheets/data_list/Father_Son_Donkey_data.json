@@ -1,0 +1,246 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "Father_Son_Donkey_data",
+  "status": "released",
+  "data_list_name": "Father_Son_Donkey_storybook",
+  "rows": [
+    {
+      "id": "page_1",
+      "page_no": 1,
+      "illustration": "EFMStorybooks/EFM-SB-FSAD-1.jpg",
+      "story_text": "A father, his son, and their donkey started a long journey.\n\nOn the way, some people asked them why they didn't ride the donkey.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "A father, his son, and their donkey started a long journey.\n\nOn the way, some people asked them why they didn't ride the donkey."
+        },
+        "annotation_1": {
+          "eng": "Why do you think other people cared about why no one was riding the donkey? Make up a reason why no one is riding."
+        },
+        "annotation_2": {
+          "eng": "This story is about these three going along the road together. Before reading on, make up a story of your own about them."
+        },
+        "annotation_3": {
+          "eng": "The three of them look tired. Think about how many steps they have to take to go on their long journey. Do you think the donkey will get twice as tired because it takes twice as many steps?"
+        }
+      },
+      "annotation_1": "Why do you think other people cared about why no one was riding the donkey? Make up a reason why no one is riding.",
+      "annotation_2": "This story is about these three going along the road together. Before reading on, make up a story of your own about them.",
+      "annotation_3": "The three of them look tired. Think about how many steps they have to take to go on their long journey. Do you think the donkey will get twice as tired because it takes twice as many steps?"
+    },
+    {
+      "id": "page_2",
+      "page_no": 2,
+      "illustration": "EFMStorybooks/EFM-SB-FSAD-2.jpg",
+      "story_text": "The father invited his son to ride the donkey while he walked.\n\nThey continued like this for a while.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "The father invited his son to ride the donkey while he walked.\n\nThey continued like this for a while."
+        },
+        "annotation_1": {
+          "eng": "Notice how the hills and sky in the distance are paler than the hills and sky closer in. Have you seen this effect when you look out over distant scenes near you?"
+        },
+        "annotation_2": {
+          "eng": "This paleness of objects is an important clue in a scene that tells you what is close and what is far. What do you suppose causes this effect? (It is caused by all the air between you and the objects.)"
+        },
+        "annotation_3": {
+          "eng": "Have you ever tried to count your own steps when you walked someplace? If you can't count that high, you can keep track of the count in bunches of 20's, 50's, or 100's -- for example, you could count how many groups of 50 steps you take."
+        }
+      },
+      "annotation_1": "Notice how the hills and sky in the distance are paler than the hills and sky closer in. Have you seen this effect when you look out over distant scenes near you?",
+      "annotation_2": "This paleness of objects is an important clue in a scene that tells you what is close and what is far. What do you suppose causes this effect? (It is caused by all the air between you and the objects.)",
+      "annotation_3": "Have you ever tried to count your own steps when you walked someplace? If you can't count that high, you can keep track of the count in bunches of 20's, 50's, or 100's -- for example, you could count how many groups of 50 steps you take."
+    },
+    {
+      "id": "page_3",
+      "page_no": 3,
+      "illustration": "EFMStorybooks/EFM-SB-FSAD-3.jpg",
+      "story_text": "Then, other people they met remarked, \"Look at this rude boy riding a donkey while his father is walking!\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Then, other people they met remarked, \"Look at this rude boy riding a donkey while his father is walking!\""
+        },
+        "annotation_1": {
+          "eng": "Why would someone think it is rude for the boy to ride while his father walked? Why would these people care what this father and son did?"
+        },
+        "annotation_2": {
+          "eng": "Most of the people have sticks. What do you suppose they use them for?"
+        },
+        "annotation_3": {
+          "eng": "Here is another scene with faded things that are far away. In addition to faintness, what are some other clues that tell you that these things are far away? (They are smaller and somewhat bluer.)"
+        }
+      },
+      "annotation_1": "Why would someone think it is rude for the boy to ride while his father walked? Why would these people care what this father and son did?",
+      "annotation_2": "Most of the people have sticks. What do you suppose they use them for?",
+      "annotation_3": "Here is another scene with faded things that are far away. In addition to faintness, what are some other clues that tell you that these things are far away? (They are smaller and somewhat bluer.)"
+    },
+    {
+      "id": "page_4",
+      "page_no": 4,
+      "illustration": "EFMStorybooks/EFM-SB-FSAD-4.jpg",
+      "story_text": "As a result, the son jumped down and his father rode the donkey.\n\nThey continued their journey.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "As a result, the son jumped down and his father rode the donkey.\n\nThey continued their journey."
+        },
+        "annotation_1": {
+          "eng": "What do you notice about the expressions of the father and son during their journey? Do they change?"
+        },
+        "annotation_2": {
+          "eng": "Do you enjoy going on long walks or hikes? Describe a walk or hike you went on recently and some of the interesting things you saw or experienced along the journey."
+        },
+        "annotation_3": {
+          "eng": "Look at all the body parts that come in pairs on these people and donkey. They have pairs of legs, arms, ears, and many more. What are some parts that don't come in pairs? Notice that all these single items are in the middle of their bodies."
+        }
+      },
+      "annotation_1": "What do you notice about the expressions of the father and son during their journey? Do they change?",
+      "annotation_2": "Do you enjoy going on long walks or hikes? Describe a walk or hike you went on recently and some of the interesting things you saw or experienced along the journey.",
+      "annotation_3": "Look at all the body parts that come in pairs on these people and donkey. They have pairs of legs, arms, ears, and many more. What are some parts that don't come in pairs? Notice that all these single items are in the middle of their bodies."
+    },
+    {
+      "id": "page_5",
+      "page_no": 5,
+      "illustration": "EFMStorybooks/EFM-SB-FSAD-5.jpg",
+      "story_text": "After some time, other people said, \"Look at this rude father riding a donkey while his son is walking!\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "After some time, other people said, \"Look at this rude father riding a donkey while his son is walking!\""
+        },
+        "annotation_1": {
+          "eng": "Why did these people say it was rude for the father to be riding? Who is correct -- is it rude for the son to ride or the father to ride? Why do these people care?"
+        },
+        "annotation_2": {
+          "eng": "Why do some people feel they need to comment on how other people are living? Are there times when it is a good thing to comment about others?"
+        },
+        "annotation_3": {
+          "eng": "There are some new shapes on this page. Point out the rectangles and triangles here. Can you count all the rectangles, or are there too many?"
+        }
+      },
+      "annotation_1": "Why did these people say it was rude for the father to be riding? Who is correct -- is it rude for the son to ride or the father to ride? Why do these people care?",
+      "annotation_2": "Why do some people feel they need to comment on how other people are living? Are there times when it is a good thing to comment about others?",
+      "annotation_3": "There are some new shapes on this page. Point out the rectangles and triangles here. Can you count all the rectangles, or are there too many?"
+    },
+    {
+      "id": "page_6",
+      "page_no": 6,
+      "illustration": "EFMStorybooks/EFM-SB-FSAD-6.jpg",
+      "story_text": "So the father and son decided to ride the donkey together.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "So the father and son decided to ride the donkey together."
+        },
+        "annotation_1": {
+          "eng": "So far, the watching people have always found something to criticize. Try to guess what people will object to this time."
+        },
+        "annotation_2": {
+          "eng": "This story is almost over. How do you think it will end?"
+        },
+        "annotation_3": {
+          "eng": "What is the donkey doing that shows that the donkey is stressed and tired?"
+        }
+      },
+      "annotation_1": "So far, the watching people have always found something to criticize. Try to guess what people will object to this time.",
+      "annotation_2": "This story is almost over. How do you think it will end?",
+      "annotation_3": "What is the donkey doing that shows that the donkey is stressed and tired?"
+    },
+    {
+      "id": "page_7",
+      "page_no": 7,
+      "illustration": "EFMStorybooks/EFM-SB-FSAD-7.jpg",
+      "story_text": "But a few minutes later, some people remarked, \"Look at these rude people! They are going to kill the donkey.\"",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "But a few minutes later, some people remarked, \"Look at these rude people! They are going to kill the donkey.\""
+        },
+        "annotation_1": {
+          "eng": "Nothing seems to make the watching people happy. Have you ever been in a situation where it seemed no matter what you did it was considered wrong? How did that make you feel?"
+        },
+        "annotation_2": {
+          "eng": "What do you think the father and son should do about all these unhappy, critical people?"
+        },
+        "annotation_3": {
+          "eng": "What do you think the three people by the side of the road are doing? Do you think they just spend their days watching people go by?"
+        }
+      },
+      "annotation_1": "Nothing seems to make the watching people happy. Have you ever been in a situation where it seemed no matter what you did it was considered wrong? How did that make you feel?",
+      "annotation_2": "What do you think the father and son should do about all these unhappy, critical people?",
+      "annotation_3": "What do you think the three people by the side of the road are doing? Do you think they just spend their days watching people go by?"
+    },
+    {
+      "id": "page_8",
+      "page_no": 8,
+      "illustration": "EFMStorybooks/EFM-SB-FSAD-8.jpg",
+      "story_text": "Finally, father and son understood that they could not escape from people's remarks.\n\nThey decided to use their minds to do the right thing.",
+      "_translations": {
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
+      },
+      "_translatedFields": {
+        "story_text": {
+          "eng": "Finally, father and son understood that they could not escape from people's remarks.\n\nThey decided to use their minds to do the right thing."
+        },
+        "annotation_1": {
+          "eng": "There are many things we can learn from others. However, ultimately we need to figure out what feels right and stick up for ourselves."
+        },
+        "annotation_2": {
+          "eng": "Do you think it is possible to act in a way that will make everyone happy?"
+        },
+        "annotation_3": {
+          "eng": "Can you think of a time when you did what you felt was right despite what others thought?"
+        }
+      },
+      "annotation_1": "There are many things we can learn from others. However, ultimately we need to figure out what feels right and stick up for ourselves.",
+      "annotation_2": "Do you think it is possible to act in a way that will make everyone happy?",
+      "annotation_3": "Can you think of a time when you did what you felt was right despite what others thought?"
+    },
+    {
+      "id": "page_9",
+      "page_no": 9,
+      "illustration": "EFMStorybooks/EFM-SB-FSAD-9.jpg"
+    }
+  ],
+  "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+}

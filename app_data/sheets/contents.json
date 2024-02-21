@@ -25,6 +25,12 @@
       "data_list_name": "Akadelis_Lucky_Day_storybook",
       "_xlsxPath": "EFM_storybooks_beginning.xlsx"
     },
+    "Akais_Special_Mat_data": {
+      "flow_type": "data_list",
+      "flow_name": "Akais_Special_Mat_data",
+      "data_list_name": "Akais_Special_Mat_storybook",
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+    },
     "Aku_The_Sun_Maker_data": {
       "flow_type": "data_list",
       "flow_name": "Aku_The_Sun_Maker_data",
@@ -115,11 +121,23 @@
       "data_list_name": "Drum_storybook",
       "_xlsxPath": "EFM_storybooks_beginning.xlsx"
     },
+    "Emeka_Old_Man_data": {
+      "flow_type": "data_list",
+      "flow_name": "Emeka_Old_Man_data",
+      "data_list_name": "Emeka_Old_Man_storybook",
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+    },
     "Fana_Loves_Animals_pages": {
       "flow_type": "data_list",
       "flow_name": "Fana_Loves_Animals_pages",
       "data_list_name": "Fana_Loves_Animals_storybook",
       "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+    },
+    "Father_Son_Donkey_data": {
+      "flow_type": "data_list",
+      "flow_name": "Father_Son_Donkey_data",
+      "data_list_name": "Father_Son_Donkey_storybook",
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
     },
     "Fathers_Advice_data": {
       "flow_type": "data_list",
@@ -187,6 +205,12 @@
       "data_list_name": "Is_There_Anyone_Like_Me_storybook",
       "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
     },
+    "Keepers_Nursery_data": {
+      "flow_type": "data_list",
+      "flow_name": "Keepers_Nursery_data",
+      "data_list_name": "Keepers_Nursery_storybook",
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+    },
     "Listen_To_My_Body_data": {
       "flow_type": "data_list",
       "flow_name": "Listen_To_My_Body_data",
@@ -210,6 +234,12 @@
       "flow_name": "Lory_Dory_data",
       "data_list_name": "Lory_Dory_storybook",
       "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+    },
+    "Magical_Rainbow_data": {
+      "flow_type": "data_list",
+      "flow_name": "Magical_Rainbow_data",
+      "data_list_name": "Magical_Rainbow_storybook",
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
     },
     "Maguru_Gives_Legs_data": {
       "flow_type": "data_list",
@@ -235,11 +265,35 @@
       "data_list_name": "Pendo_Our_Cow_storybook",
       "_xlsxPath": "EFM_storybooks_beginning.xlsx"
     },
+    "Sakimas_Song_data": {
+      "flow_type": "data_list",
+      "flow_name": "Sakimas_Song_data",
+      "data_list_name": "Sakimas_Song_storybook",
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+    },
+    "Searching_for_Spring_data": {
+      "flow_type": "data_list",
+      "flow_name": "Searching_for_Spring_data",
+      "data_list_name": "Searching_for_Spring_storybook",
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+    },
+    "Share_It_Fair_data": {
+      "flow_type": "data_list",
+      "flow_name": "Share_It_Fair_data",
+      "data_list_name": "Share_It_Fair_storybook",
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+    },
     "Singing_The_Truth_data": {
       "flow_type": "data_list",
       "flow_name": "Singing_The_Truth_data",
       "data_list_name": "Singing_The_Truth_storybook",
       "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+    },
+    "Sizwes_Smile_data": {
+      "flow_type": "data_list",
+      "flow_name": "Sizwes_Smile_data",
+      "data_list_name": "Sizwes_Smile_storybook",
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
     },
     "Sun_Moon_And_Water_data": {
       "flow_type": "data_list",
@@ -252,6 +306,12 @@
       "flow_name": "The_Day_The_Sun_Went_pages",
       "data_list_name": "The_Day_The_Sun_Went_storybook",
       "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+    },
+    "The_Smell_Thief_data": {
+      "flow_type": "data_list",
+      "flow_name": "The_Smell_Thief_data",
+      "data_list_name": "The_Smell_Thief_storybook",
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
     },
     "Tortoise_Finds_His_House_data": {
       "flow_type": "data_list",
@@ -296,10 +356,10 @@
       "flow_subtype": "app_config_language_list",
       "_xlsxPath": "EFM_high_level_sheets.xlsx"
     },
-    "efm_act_list": {
+    "efm_act_list_v_two": {
       "flow_type": "data_list",
-      "flow_name": "efm_act_list",
-      "data_list_name": "efm_act",
+      "flow_name": "efm_act_list_v_two",
+      "data_list_name": "efm_act_v_two",
       "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"
     },
     "efm_bon_act_list": {
@@ -312,6 +372,12 @@
       "flow_type": "data_list",
       "flow_name": "efm_chapter_list",
       "data_list_name": "efm_chapt",
+      "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"
+    },
+    "efm_number_list_one_to_six": {
+      "flow_type": "data_list",
+      "flow_name": "efm_number_list_one_to_six",
+      "data_list_name": "efm_num_list_one_to_six",
       "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"
     },
     "efm_sb_list": {
@@ -1413,14 +1479,14 @@
       "flow_name": "efm_activity_advice_template",
       "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"
     },
-    "efm_activity_body_template": {
+    "efm_activity_bodyvtwo_template": {
       "flow_type": "template",
-      "flow_name": "efm_activity_body_template",
+      "flow_name": "efm_activity_bodyvtwo_template",
       "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"
     },
-    "efm_activity_template": {
+    "efm_activity_v_two_template": {
       "flow_type": "template",
-      "flow_name": "efm_activity_template",
+      "flow_name": "efm_activity_v_two_template",
       "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"
     },
     "efm_bon_act_1_70c_template": {
