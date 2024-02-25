@@ -342,27 +342,12 @@
           "rows": [
             {
               "name": "paragraph_space",
-              "value": "@local.margin-top: 0px",
+              "value": "margin-top: 0px",
               "_translations": {
                 "value": {}
               },
               "type": "set_variable",
-              "_nested_name": "run_through_body_sections.display_group.paragraph_space",
-              "_dynamicFields": {
-                "value": [
-                  {
-                    "fullExpression": "@local.margin-top: 0px",
-                    "matchedExpression": "@local.margin",
-                    "type": "local",
-                    "fieldName": "margin"
-                  }
-                ]
-              },
-              "_dynamicDependencies": {
-                "@local.margin": [
-                  "value"
-                ]
-              }
+              "_nested_name": "run_through_body_sections.display_group.paragraph_space"
             },
             {
               "type": "accordion",
