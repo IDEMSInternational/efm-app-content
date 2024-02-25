@@ -1,29 +1,4 @@
 {
-  "200NumberShapesAddingEvensOdds.svg": {
-    "filePath": "global/200NumberShapesAddingEvensOdds.svg",
-    "md5Checksum": "033212841fb5516178eabf4c687a7db8",
-    "size_kb": 21.4
-  },
-  "200NumberShapesEvensOdds.svg": {
-    "filePath": "global/200NumberShapesEvensOdds.svg",
-    "md5Checksum": "757971736fe181362c10881342dcecd0",
-    "size_kb": 12.2
-  },
-  "200SimTriangle0.svg": {
-    "filePath": "global/200SimTriangle0.svg",
-    "md5Checksum": "c78dda7493c72d3ab80fbd9b06fb4fd9",
-    "size_kb": 5.3
-  },
-  "200SimTriangle13579.svg": {
-    "filePath": "global/200SimTriangle13579.svg",
-    "md5Checksum": "28ee49db768da680d4700f4560a8c386",
-    "size_kb": 24.6
-  },
-  "200SimilarStars.svg": {
-    "filePath": "global/200SimilarStars.svg",
-    "md5Checksum": "96654faaa3212d46b9c75f7754317f44",
-    "size_kb": 4.1
-  },
   "AVeryTallMan.pdf": {
     "filePath": "global/AVeryTallMan.pdf",
     "md5Checksum": "84e44618fb0d32eec170d8dd6a4aa857",
@@ -339,10 +314,40 @@
     "md5Checksum": "32593005fbb1c8e134137061d7ed3a64",
     "size_kb": 6.7
   },
+  "EFM200NumberShapesAddingEvensOdds.svg": {
+    "filePath": "global/EFM200NumberShapesAddingEvensOdds.svg",
+    "md5Checksum": "033212841fb5516178eabf4c687a7db8",
+    "size_kb": 21.4
+  },
+  "EFM200NumberShapesEvensOdds.svg": {
+    "filePath": "global/EFM200NumberShapesEvensOdds.svg",
+    "md5Checksum": "757971736fe181362c10881342dcecd0",
+    "size_kb": 12.2
+  },
+  "EFM200NumberShapesTrapezoidal.svg": {
+    "filePath": "global/EFM200NumberShapesTrapezoidal.svg",
+    "md5Checksum": "3efcb5646f95d157806d20f1650f267f",
+    "size_kb": 6.6
+  },
   "EFM200SimTriangle.svg": {
     "filePath": "global/EFM200SimTriangle.svg",
     "md5Checksum": "8f748e744836eb3127c55a3c64b7a460",
     "size_kb": 5
+  },
+  "EFM200SimTriangle0.svg": {
+    "filePath": "global/EFM200SimTriangle0.svg",
+    "md5Checksum": "c78dda7493c72d3ab80fbd9b06fb4fd9",
+    "size_kb": 5.3
+  },
+  "EFM200SimTriangle13579.svg": {
+    "filePath": "global/EFM200SimTriangle13579.svg",
+    "md5Checksum": "28ee49db768da680d4700f4560a8c386",
+    "size_kb": 24.6
+  },
+  "EFM200SimilarStars.svg": {
+    "filePath": "global/EFM200SimilarStars.svg",
+    "md5Checksum": "96654faaa3212d46b9c75f7754317f44",
+    "size_kb": 4.1
   },
   "EFM200SquareOfOddNumbers.svg": {
     "filePath": "global/EFM200SquareOfOddNumbers.svg",
@@ -459,6 +464,11 @@
     "md5Checksum": "497bcfc64f3d0c9b0bee0d09b1780e15",
     "size_kb": 14.9
   },
+  "EFM310PanBalanceWithWeights4s7sOneSide.svg": {
+    "filePath": "global/EFM310PanBalanceWithWeights4s7sOneSide.svg",
+    "md5Checksum": "00b10fa472261d2ab5093c7d0ac2274a",
+    "size_kb": 4383.7
+  },
   "EFM310SumTriangles.svg": {
     "filePath": "global/EFM310SumTriangles.svg",
     "md5Checksum": "e49ec917e13e0e187d826b2437e3d231",
@@ -509,10 +519,20 @@
     "md5Checksum": "d50b5c1de7eb9914b7ef1a663c3e8f0d",
     "size_kb": 19.2
   },
+  "EFM370CircleGraphsAll4.svg": {
+    "filePath": "global/EFM370CircleGraphsAll4.svg",
+    "md5Checksum": "c5d9b76709d2c07f654eba0777047a87",
+    "size_kb": 29
+  },
   "EFM380MultiplyingCommutes.svg": {
     "filePath": "global/EFM380MultiplyingCommutes.svg",
     "md5Checksum": "d1999d720133eda63422285e42fa6322",
     "size_kb": 5.4
+  },
+  "EFM385CoverUp.svg": {
+    "filePath": "global/EFM385CoverUp.svg",
+    "md5Checksum": "58f122c97c81daddad637570543fa34e",
+    "size_kb": 37.3
   },
   "EFM390AdditionPyramid.svg": {
     "filePath": "global/EFM390AdditionPyramid.svg",
@@ -549,6 +569,11 @@
     "md5Checksum": "fb977e2b7296ffcc05c85ab6e2037dd7",
     "size_kb": 28.3
   },
+  "EFM440BondedGroupsOriginal.svg": {
+    "filePath": "global/EFM440BondedGroupsOriginal.svg",
+    "md5Checksum": "f825fd6bc199e0e1c2dbd8592e61c5e1",
+    "size_kb": 27.2
+  },
   "EFM440MissingNumbers.svg": {
     "filePath": "global/EFM440MissingNumbers.svg",
     "md5Checksum": "bb8e6fc844020e96c811f1d6ef0373ac",
@@ -584,10 +609,20 @@
     "md5Checksum": "8bd8b3e9ab5a877884c45c8c04409918",
     "size_kb": 71.8
   },
+  "EFM455CoverFactorsMultiples.svg": {
+    "filePath": "global/EFM455CoverFactorsMultiples.svg",
+    "md5Checksum": "215bc78fb35fb3305161f1efaa258e76",
+    "size_kb": 16.4
+  },
   "EFM460SieveOfEratosthenes.svg": {
     "filePath": "global/EFM460SieveOfEratosthenes.svg",
     "md5Checksum": "abcfcb40d3eaad5417830d0231edb0f2",
     "size_kb": 47
+  },
+  "EFM460SieveofEratosthenes2s3s.svg": {
+    "filePath": "global/EFM460SieveofEratosthenes2s3s.svg",
+    "md5Checksum": "fda357593bed3ff6d9e958e5dc68fd5a",
+    "size_kb": 35.1
   },
   "EFM470LeverBalance.svg": {
     "filePath": "global/EFM470LeverBalance.svg",
@@ -658,6 +693,11 @@
     "filePath": "global/EFM530BilliardBallBouncing.svg",
     "md5Checksum": "66ba6208de534a50b2a1f9a45026389d",
     "size_kb": 5.9
+  },
+  "EFM530Calculator4-7PlusMinus.svg": {
+    "filePath": "global/EFM530Calculator4-7PlusMinus.svg",
+    "md5Checksum": "6dcdb185cb32659469082c26acca1046",
+    "size_kb": 843.4
   },
   "EFM530SquaresInSquares.svg": {
     "filePath": "global/EFM530SquaresInSquares.svg",
