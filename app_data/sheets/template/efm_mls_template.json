@@ -1,0 +1,725 @@
+{
+  "flow_type": "template",
+  "flow_name": "efm_mls_template",
+  "status": "released",
+  "rows": [
+    {
+      "name": "efm_mls_ptr",
+      "value": "@@fields.current_mls",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "efm_mls_ptr",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@@fields.current_mls",
+            "matchedExpression": "@fields.current_mls",
+            "type": "fields",
+            "fieldName": "current_mls"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields.current_mls": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "template_text",
+      "value": "_template",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "template_text"
+    },
+    {
+      "name": "mls_title",
+      "value": "@local.efm_mls_ptr.title",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "mls_title",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.efm_mls_ptr.title",
+            "matchedExpression": "@local.efm_mls_ptr.title",
+            "type": "local",
+            "fieldName": "efm_mls_ptr"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.efm_mls_ptr.title": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "mls_id",
+      "value": "@local.efm_mls_ptr.id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "mls_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.efm_mls_ptr.id",
+            "matchedExpression": "@local.efm_mls_ptr.id",
+            "type": "local",
+            "fieldName": "efm_mls_ptr"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.efm_mls_ptr.id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "local_false",
+      "value": false,
+      "type": "set_variable",
+      "_nested_name": "local_false"
+    },
+    {
+      "name": "next_mls",
+      "value": "@local.false",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "next_mls",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.false",
+            "matchedExpression": "@local.false",
+            "type": "local",
+            "fieldName": "false"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.false": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "prev_mls",
+      "value": "@local.false",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "prev_mls",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.false",
+            "matchedExpression": "@local.false",
+            "type": "local",
+            "fieldName": "false"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.false": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "has_mls_been_seen",
+      "value": "@local.false",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "has_mls_been_seen",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.false",
+            "matchedExpression": "@local.false",
+            "type": "local",
+            "fieldName": "false"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.false": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "do_ids_match",
+      "value": "@local.false",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "do_ids_match",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.false",
+            "matchedExpression": "@local.false",
+            "type": "local",
+            "fieldName": "false"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.false": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "chapter",
+      "value": "Stage",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "chapter"
+    },
+    {
+      "type": "text",
+      "name": "chapter_section",
+      "value": "@local.chapter @local.efm_mls_ptr.chapter",
+      "_translations": {
+        "value": {}
+      },
+      "parameter_list": {
+        "text_align": "center",
+        "style": "small"
+      },
+      "exclude_from_translation": true,
+      "_nested_name": "chapter_section",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.chapter @local.efm_mls_ptr.chapter",
+            "matchedExpression": "@local.chapter",
+            "type": "local",
+            "fieldName": "chapter"
+          },
+          {
+            "fullExpression": "@local.chapter @local.efm_mls_ptr.chapter",
+            "matchedExpression": "@local.efm_mls_ptr.chapter",
+            "type": "local",
+            "fieldName": "efm_mls_ptr"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.chapter": [
+          "value"
+        ],
+        "@local.efm_mls_ptr.chapter": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "items",
+      "name": "find_next_and_prev",
+      "value": "@data.efm_mls",
+      "rows": [
+        {
+          "name": "do_ids_match",
+          "value": "@item.id == @local.mls_id",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "find_next_and_prev.do_ids_match",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@item.id == @local.mls_id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              },
+              {
+                "fullExpression": "@item.id == @local.mls_id",
+                "matchedExpression": "@local.mls_id",
+                "type": "local",
+                "fieldName": "mls_id"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "value"
+            ],
+            "@local.mls_id": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "has_mls_been_seen",
+          "value": "@local.has_mls_been_seen || @local.do_ids_match",
+          "_translations": {
+            "value": {}
+          },
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "find_next_and_prev.has_mls_been_seen",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.has_mls_been_seen || @local.do_ids_match",
+                "matchedExpression": "@local.has_mls_been_seen",
+                "type": "local",
+                "fieldName": "has_mls_been_seen"
+              },
+              {
+                "fullExpression": "@local.has_mls_been_seen || @local.do_ids_match",
+                "matchedExpression": "@local.do_ids_match",
+                "type": "local",
+                "fieldName": "do_ids_match"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.has_mls_been_seen": [
+              "value"
+            ],
+            "@local.do_ids_match": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "prev_mls",
+          "value": "data.efm_mls.@item.id",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!@local.do_ids_match && !@local.has_mls_been_seen",
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "find_next_and_prev.prev_mls",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "data.efm_mls.@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!@local.do_ids_match && !@local.has_mls_been_seen",
+                "matchedExpression": "!@local.do_ids_match",
+                "type": "local",
+                "fieldName": "do_ids_match"
+              },
+              {
+                "fullExpression": "!@local.do_ids_match && !@local.has_mls_been_seen",
+                "matchedExpression": "!@local.has_mls_been_seen",
+                "type": "local",
+                "fieldName": "has_mls_been_seen"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "value"
+            ],
+            "!@local.do_ids_match": [
+              "condition"
+            ],
+            "!@local.has_mls_been_seen": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "name": "next_mls",
+          "value": "data.efm_mls.@item.id",
+          "_translations": {
+            "value": {}
+          },
+          "condition": "!@local.do_ids_match && @local.has_mls_been_seen && !@local.next_mls",
+          "exclude_from_translation": true,
+          "type": "set_variable",
+          "_nested_name": "find_next_and_prev.next_mls",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "data.efm_mls.@item.id",
+                "matchedExpression": "@item.id",
+                "type": "item",
+                "fieldName": "id"
+              }
+            ],
+            "condition": [
+              {
+                "fullExpression": "!@local.do_ids_match && @local.has_mls_been_seen && !@local.next_mls",
+                "matchedExpression": "!@local.do_ids_match",
+                "type": "local",
+                "fieldName": "do_ids_match"
+              },
+              {
+                "fullExpression": "!@local.do_ids_match && @local.has_mls_been_seen && !@local.next_mls",
+                "matchedExpression": "@local.has_mls_been_seen",
+                "type": "local",
+                "fieldName": "has_mls_been_seen"
+              },
+              {
+                "fullExpression": "!@local.do_ids_match && @local.has_mls_been_seen && !@local.next_mls",
+                "matchedExpression": "!@local.next_mls",
+                "type": "local",
+                "fieldName": "next_mls"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@item.id": [
+              "value"
+            ],
+            "!@local.do_ids_match": [
+              "condition"
+            ],
+            "@local.has_mls_been_seen": [
+              "condition"
+            ],
+            "!@local.next_mls": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "find_next_and_prev",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.efm_mls",
+            "matchedExpression": "@data.efm_mls",
+            "type": "data",
+            "fieldName": "efm_mls"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.efm_mls": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "style_list": [
+        "margin-top: -8px"
+      ],
+      "rows": [
+        {
+          "type": "button",
+          "name": "prev_button_1",
+          "value": "<",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "current_mls",
+                "@local.prev_mls"
+              ],
+              "_raw": "click | set_field:current_mls:@local.prev_mls",
+              "_cleaned": "click | set_field:current_mls:@local.prev_mls"
+            },
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "force_reload"
+              ],
+              "_raw": "click | emit:force_reload",
+              "_cleaned": "click | emit:force_reload"
+            }
+          ],
+          "condition": "@local.prev_mls",
+          "parameter_list": {
+            "style": "short",
+            "text_align": "center"
+          },
+          "style_list": [
+            "flex: 30"
+          ],
+          "exclude_from_translation": true,
+          "_nested_name": "display_group.prev_button_1",
+          "_dynamicFields": {
+            "action_list": {
+              "0": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.prev_mls",
+                      "matchedExpression": "@local.prev_mls",
+                      "type": "local",
+                      "fieldName": "prev_mls"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field:current_mls:@local.prev_mls",
+                    "matchedExpression": "@local.prev_mls",
+                    "type": "local",
+                    "fieldName": "prev_mls"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field:current_mls:@local.prev_mls",
+                    "matchedExpression": "@local.prev_mls",
+                    "type": "local",
+                    "fieldName": "prev_mls"
+                  }
+                ]
+              }
+            },
+            "condition": [
+              {
+                "fullExpression": "@local.prev_mls",
+                "matchedExpression": "@local.prev_mls",
+                "type": "local",
+                "fieldName": "prev_mls"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.prev_mls": [
+              "action_list.0.args.1",
+              "action_list.0._raw",
+              "action_list.0._cleaned",
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "name": "left_spacer",
+          "condition": "!@local.prev_mls",
+          "style_list": [
+            "flex: 30"
+          ],
+          "_nested_name": "display_group.left_spacer",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "!@local.prev_mls",
+                "matchedExpression": "!@local.prev_mls",
+                "type": "local",
+                "fieldName": "prev_mls"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "!@local.prev_mls": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "name": "title",
+          "value": "@local.mls_title",
+          "_translations": {
+            "value": {}
+          },
+          "parameter_list": {
+            "text_align": "center",
+            "style": "large emphasised"
+          },
+          "style_list": [
+            "flex: 300"
+          ],
+          "_nested_name": "display_group.title",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.mls_title",
+                "matchedExpression": "@local.mls_title",
+                "type": "local",
+                "fieldName": "mls_title"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.mls_title": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "button",
+          "name": "next_button_1",
+          "value": "\\>",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "current_mls",
+                "@local.next_mls"
+              ],
+              "_raw": "click | set_field:current_mls:@local.next_mls",
+              "_cleaned": "click | set_field:current_mls:@local.next_mls"
+            },
+            {
+              "trigger": "click",
+              "action_id": "emit",
+              "args": [
+                "force_reload"
+              ],
+              "_raw": "click | emit:force_reload",
+              "_cleaned": "click | emit:force_reload"
+            }
+          ],
+          "condition": "@local.next_mls",
+          "parameter_list": {
+            "style": "short",
+            "text_align": "center"
+          },
+          "style_list": [
+            "flex: 30"
+          ],
+          "exclude_from_translation": true,
+          "_nested_name": "display_group.next_button_1",
+          "_dynamicFields": {
+            "action_list": {
+              "0": {
+                "args": {
+                  "1": [
+                    {
+                      "fullExpression": "@local.next_mls",
+                      "matchedExpression": "@local.next_mls",
+                      "type": "local",
+                      "fieldName": "next_mls"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field:current_mls:@local.next_mls",
+                    "matchedExpression": "@local.next_mls",
+                    "type": "local",
+                    "fieldName": "next_mls"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field:current_mls:@local.next_mls",
+                    "matchedExpression": "@local.next_mls",
+                    "type": "local",
+                    "fieldName": "next_mls"
+                  }
+                ]
+              }
+            },
+            "condition": [
+              {
+                "fullExpression": "@local.next_mls",
+                "matchedExpression": "@local.next_mls",
+                "type": "local",
+                "fieldName": "next_mls"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.next_mls": [
+              "action_list.0.args.1",
+              "action_list.0._raw",
+              "action_list.0._cleaned",
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "name": "right_spacer",
+          "condition": "!@local.next_mls",
+          "style_list": [
+            "flex: 30"
+          ],
+          "_nested_name": "display_group.right_spacer",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "!@local.next_mls",
+                "matchedExpression": "!@local.next_mls",
+                "type": "local",
+                "fieldName": "next_mls"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "!@local.next_mls": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "name": "display_group",
+      "_nested_name": "display_group"
+    },
+    {
+      "type": "template",
+      "name": "activity_body_generator",
+      "value": "efm_mls_body_template",
+      "rows": [
+        {
+          "name": "efm_mls_a_ptr",
+          "value": "@local.efm_mls_ptr",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "activity_body_generator.efm_mls_a_ptr",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.efm_mls_ptr",
+                "matchedExpression": "@local.efm_mls_ptr",
+                "type": "local",
+                "fieldName": "efm_mls_ptr"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.efm_mls_ptr": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "activity_body_generator"
+    }
+  ],
+  "_xlsxPath": "EFM_mls_high_level_sheets.xlsx"
+}

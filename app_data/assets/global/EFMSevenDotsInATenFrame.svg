@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="53.845833mm"
+   height="22.095835mm"
+   viewBox="0 0 53.845833 22.095835"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="SevenDotsInATenFrame.svg"
+   inkscape:export-filename="/Users/chriswright/desktop/bitmap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="1.3416246"
+     inkscape:cx="50.312137"
+     inkscape:cy="153.17251"
+     inkscape:window-width="1312"
+     inkscape:window-height="997"
+     inkscape:window-x="209"
+     inkscape:window-y="51"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
+     fit-margin-left="0.2"
+     fit-margin-top="0.2"
+     fit-margin-right="0.2"
+     fit-margin-bottom="0.2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid824"
+       originx="-31.285415"
+       originy="-89.49375" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-31.285417,-89.493749)">
+    <g
+       id="g957"
+       style="stroke:#010000;stroke-width:0.529167;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <path
+         style="fill:none;stroke:#010000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 31.75,89.958332 H 84.666666 V 111.125 H 31.75 Z"
+         id="path859" />
+      <path
+         style="fill:none;stroke:#010000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 42.333333,89.958332 V 111.125"
+         id="path861" />
+      <path
+         style="fill:none;stroke:#010000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 52.916666,89.958332 V 111.125"
+         id="path863" />
+      <path
+         style="fill:none;stroke:#010000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 63.499999,89.958332 V 111.125"
+         id="path865" />
+      <path
+         style="fill:none;stroke:#010000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 74.083332,89.958332 V 111.125"
+         id="path867" />
+      <path
+         style="fill:none;stroke:#010000;stroke-width:0.529167;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 31.75,100.54167 H 84.666666"
+         id="path869" />
+    </g>
+    <circle
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.264583"
+       id="path981"
+       cx="36.959579"
+       cy="95.149292"
+       r="2.6458333" />
+    <circle
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.264583"
+       id="path981-3"
+       cx="47.542912"
+       cy="95.149292"
+       r="2.6458333" />
+    <circle
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.264583"
+       id="path981-4"
+       cx="58.126247"
+       cy="95.149292"
+       r="2.6458333" />
+    <circle
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.264583"
+       id="path981-7"
+       cx="68.709579"
+       cy="95.149292"
+       r="2.6458333" />
+    <circle
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.264583"
+       id="path981-44"
+       cx="79.292915"
+       cy="95.149292"
+       r="2.6458333" />
+    <circle
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.264583"
+       id="path981-49"
+       cx="36.959579"
+       cy="105.73263"
+       r="2.6458333" />
+    <circle
+       style="fill:#0000ff;fill-rule:evenodd;stroke-width:0.264583"
+       id="path981-8"
+       cx="47.542912"
+       cy="105.73263"
+       r="2.6458333" />
+  </g>
+</svg>

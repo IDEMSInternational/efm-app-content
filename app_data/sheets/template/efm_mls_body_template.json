@@ -1,0 +1,890 @@
+{
+  "flow_type": "template",
+  "flow_name": "efm_mls_body_template",
+  "status": "released",
+  "rows": [
+    {
+      "name": "efm_mls_a_ptr",
+      "type": "set_variable",
+      "_nested_name": "efm_mls_a_ptr"
+    },
+    {
+      "name": "block_chars",
+      "value": "block",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "block_chars"
+    },
+    {
+      "name": "chars_type",
+      "value": "_type",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "chars_type"
+    },
+    {
+      "name": "chars_accord",
+      "value": "_accord",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "chars_accord"
+    },
+    {
+      "name": "chars_text",
+      "value": "_text",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "chars_text"
+    },
+    {
+      "name": "chars_illust",
+      "value": "_illust",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "chars_illust"
+    },
+    {
+      "name": "chars_illust_flex",
+      "value": "_illust_flex",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "chars_illust_flex"
+    },
+    {
+      "name": "chars_illust_max_width",
+      "value": "_illust_max_size",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "chars_illust_max_width"
+    },
+    {
+      "name": "remove_paragraph_space",
+      "value": "margin-top: -5px",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "remove_paragraph_space"
+    },
+    {
+      "name": "paragraph_space",
+      "value": "margin-top: 0px",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "paragraph_space"
+    },
+    {
+      "type": "items",
+      "name": "run_through_body_sections",
+      "value": "@data.efm_num_list_one_to_six",
+      "rows": [
+        {
+          "name": "block_num_chars",
+          "value": "@local.block_chars@item.number",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "run_through_body_sections.block_num_chars",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.block_chars@item.number",
+                "matchedExpression": "@local.block_chars",
+                "type": "local",
+                "fieldName": "block_chars"
+              },
+              {
+                "fullExpression": "@local.block_chars@item.number",
+                "matchedExpression": "@item.number",
+                "type": "item",
+                "fieldName": "number"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.block_chars": [
+              "value"
+            ],
+            "@item.number": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "block_type",
+          "value": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_type",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "run_through_body_sections.block_type",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_type",
+                "matchedExpression": "@local.block_num_chars",
+                "type": "local",
+                "fieldName": "block_num_chars"
+              },
+              {
+                "fullExpression": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_type",
+                "matchedExpression": "@local.chars_type",
+                "type": "local",
+                "fieldName": "chars_type"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.block_num_chars": [
+              "value"
+            ],
+            "@local.chars_type": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "block_text",
+          "value": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_text",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "run_through_body_sections.block_text",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_text",
+                "matchedExpression": "@local.block_num_chars",
+                "type": "local",
+                "fieldName": "block_num_chars"
+              },
+              {
+                "fullExpression": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_text",
+                "matchedExpression": "@local.chars_text",
+                "type": "local",
+                "fieldName": "chars_text"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.block_num_chars": [
+              "value"
+            ],
+            "@local.chars_text": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "accordion_label",
+          "value": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_accord",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "run_through_body_sections.accordion_label",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_accord",
+                "matchedExpression": "@local.block_num_chars",
+                "type": "local",
+                "fieldName": "block_num_chars"
+              },
+              {
+                "fullExpression": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_accord",
+                "matchedExpression": "@local.chars_accord",
+                "type": "local",
+                "fieldName": "chars_accord"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.block_num_chars": [
+              "value"
+            ],
+            "@local.chars_accord": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "block_illustration",
+          "value": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_illust",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "run_through_body_sections.block_illustration",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_illust",
+                "matchedExpression": "@local.block_num_chars",
+                "type": "local",
+                "fieldName": "block_num_chars"
+              },
+              {
+                "fullExpression": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_illust",
+                "matchedExpression": "@local.chars_illust",
+                "type": "local",
+                "fieldName": "chars_illust"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.block_num_chars": [
+              "value"
+            ],
+            "@local.chars_illust": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "block_illustration_flex",
+          "value": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_illust_flex",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "run_through_body_sections.block_illustration_flex",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_illust_flex",
+                "matchedExpression": "@local.block_num_chars",
+                "type": "local",
+                "fieldName": "block_num_chars"
+              },
+              {
+                "fullExpression": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_illust_flex",
+                "matchedExpression": "@local.chars_illust_flex",
+                "type": "local",
+                "fieldName": "chars_illust_flex"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.block_num_chars": [
+              "value"
+            ],
+            "@local.chars_illust_flex": [
+              "value"
+            ]
+          }
+        },
+        {
+          "name": "block_illustration_max_width",
+          "value": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_illust_max_width",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "run_through_body_sections.block_illustration_max_width",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_illust_max_width",
+                "matchedExpression": "@local.block_num_chars",
+                "type": "local",
+                "fieldName": "block_num_chars"
+              },
+              {
+                "fullExpression": "local.efm_mls_a_ptr.@local.block_num_chars@local.chars_illust_max_width",
+                "matchedExpression": "@local.chars_illust_max_width",
+                "type": "local",
+                "fieldName": "chars_illust_max_width"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.block_num_chars": [
+              "value"
+            ],
+            "@local.chars_illust_max_width": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "display_group",
+          "condition": "@@local.block_type == \"accord_all_text\"",
+          "rows": [
+            {
+              "name": "paragraph_space",
+              "value": "margin-top: 0px",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "run_through_body_sections.display_group.paragraph_space"
+            },
+            {
+              "type": "accordion",
+              "name": "accordion",
+              "parameter_list": {
+                "open_multiple": "TRUE"
+              },
+              "rows": [
+                {
+                  "type": "accordion_section",
+                  "name": "bloxk_1",
+                  "value": "@@local.accordion_label",
+                  "rows": [
+                    {
+                      "type": "text",
+                      "name": "display_text",
+                      "value": "@@local.block_text",
+                      "_translations": {
+                        "value": {}
+                      },
+                      "_nested_name": "run_through_body_sections.display_group.accordion.bloxk_1.display_text",
+                      "_dynamicFields": {
+                        "value": [
+                          {
+                            "fullExpression": "@@local.block_text",
+                            "matchedExpression": "@local.block_text",
+                            "type": "local",
+                            "fieldName": "block_text"
+                          }
+                        ]
+                      },
+                      "_dynamicDependencies": {
+                        "@local.block_text": [
+                          "value"
+                        ]
+                      }
+                    }
+                  ],
+                  "_nested_name": "run_through_body_sections.display_group.accordion.bloxk_1",
+                  "_dynamicFields": {
+                    "value": [
+                      {
+                        "fullExpression": "@@local.accordion_label",
+                        "matchedExpression": "@local.accordion_label",
+                        "type": "local",
+                        "fieldName": "accordion_label"
+                      }
+                    ]
+                  },
+                  "_dynamicDependencies": {
+                    "@local.accordion_label": [
+                      "value"
+                    ]
+                  }
+                }
+              ],
+              "_nested_name": "run_through_body_sections.display_group.accordion"
+            }
+          ],
+          "name": "display_group",
+          "_nested_name": "run_through_body_sections.display_group",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@@local.block_type == \"accord_all_text\"",
+                "matchedExpression": "@local.block_type",
+                "type": "local",
+                "fieldName": "block_type"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.block_type": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "display_group",
+          "condition": "@@local.block_type == \"all_text\"",
+          "style_list": [
+            "@local.paragraph_space"
+          ],
+          "rows": [
+            {
+              "name": "paragraph_space",
+              "value": "@local.remove_paragraph_space",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "run_through_body_sections.display_group.paragraph_space",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.remove_paragraph_space",
+                    "matchedExpression": "@local.remove_paragraph_space",
+                    "type": "local",
+                    "fieldName": "remove_paragraph_space"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.remove_paragraph_space": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "text",
+              "name": "display_text",
+              "value": "@@local.block_text",
+              "_translations": {
+                "value": {}
+              },
+              "_nested_name": "run_through_body_sections.display_group.display_text",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@@local.block_text",
+                    "matchedExpression": "@local.block_text",
+                    "type": "local",
+                    "fieldName": "block_text"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.block_text": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "name": "display_group",
+          "_nested_name": "run_through_body_sections.display_group",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@@local.block_type == \"all_text\"",
+                "matchedExpression": "@local.block_type",
+                "type": "local",
+                "fieldName": "block_type"
+              }
+            ],
+            "style_list": {
+              "0": [
+                {
+                  "fullExpression": "@local.paragraph_space",
+                  "matchedExpression": "@local.paragraph_space",
+                  "type": "local",
+                  "fieldName": "paragraph_space"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.block_type": [
+              "condition"
+            ],
+            "@local.paragraph_space": [
+              "style_list.0"
+            ]
+          }
+        },
+        {
+          "type": "display_group",
+          "condition": "@@local.block_type == \"all_illust\"",
+          "parameter_list": {
+            "style": "column"
+          },
+          "style_list": [
+            "@local.paragraph_space"
+          ],
+          "rows": [
+            {
+              "type": "image",
+              "name": "display_illust",
+              "value": "@@local.block_illustration",
+              "_translations": {
+                "value": {}
+              },
+              "style_list": [
+                "max-width: @@local.block_illustration_max_width"
+              ],
+              "_nested_name": "run_through_body_sections.display_group.display_illust",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@@local.block_illustration",
+                    "matchedExpression": "@local.block_illustration",
+                    "type": "local",
+                    "fieldName": "block_illustration"
+                  }
+                ],
+                "style_list": {
+                  "0": [
+                    {
+                      "fullExpression": "max-width: @@local.block_illustration_max_width",
+                      "matchedExpression": "@local.block_illustration_max_width",
+                      "type": "local",
+                      "fieldName": "block_illustration_max_width"
+                    }
+                  ]
+                }
+              },
+              "_dynamicDependencies": {
+                "@local.block_illustration": [
+                  "value"
+                ],
+                "@local.block_illustration_max_width": [
+                  "style_list.0"
+                ]
+              }
+            }
+          ],
+          "name": "display_group",
+          "_nested_name": "run_through_body_sections.display_group",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@@local.block_type == \"all_illust\"",
+                "matchedExpression": "@local.block_type",
+                "type": "local",
+                "fieldName": "block_type"
+              }
+            ],
+            "style_list": {
+              "0": [
+                {
+                  "fullExpression": "@local.paragraph_space",
+                  "matchedExpression": "@local.paragraph_space",
+                  "type": "local",
+                  "fieldName": "paragraph_space"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.block_type": [
+              "condition"
+            ],
+            "@local.paragraph_space": [
+              "style_list.0"
+            ]
+          }
+        },
+        {
+          "type": "display_group",
+          "condition": "@@local.block_type == \"illust_left\"",
+          "style_list": [
+            "@local.paragraph_space"
+          ],
+          "rows": [
+            {
+              "name": "paragraph_space",
+              "value": "@local.remove_paragraph_space",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "run_through_body_sections.display_group.paragraph_space",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.remove_paragraph_space",
+                    "matchedExpression": "@local.remove_paragraph_space",
+                    "type": "local",
+                    "fieldName": "remove_paragraph_space"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.remove_paragraph_space": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "name": "display_illust",
+              "value": "@@local.block_illustration",
+              "_translations": {
+                "value": {}
+              },
+              "style_list": [
+                "flex: @@local.block_illustration_flex",
+                "max-width: @@local.block_illustration_max_width"
+              ],
+              "_nested_name": "run_through_body_sections.display_group.display_illust",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@@local.block_illustration",
+                    "matchedExpression": "@local.block_illustration",
+                    "type": "local",
+                    "fieldName": "block_illustration"
+                  }
+                ],
+                "style_list": {
+                  "0": [
+                    {
+                      "fullExpression": "flex: @@local.block_illustration_flex",
+                      "matchedExpression": "@local.block_illustration_flex",
+                      "type": "local",
+                      "fieldName": "block_illustration_flex"
+                    }
+                  ],
+                  "1": [
+                    {
+                      "fullExpression": "max-width: @@local.block_illustration_max_width",
+                      "matchedExpression": "@local.block_illustration_max_width",
+                      "type": "local",
+                      "fieldName": "block_illustration_max_width"
+                    }
+                  ]
+                }
+              },
+              "_dynamicDependencies": {
+                "@local.block_illustration": [
+                  "value"
+                ],
+                "@local.block_illustration_flex": [
+                  "style_list.0"
+                ],
+                "@local.block_illustration_max_width": [
+                  "style_list.1"
+                ]
+              }
+            },
+            {
+              "type": "text",
+              "name": "display_text",
+              "value": "@@local.block_text",
+              "_translations": {
+                "value": {}
+              },
+              "style_list": [
+                "flex:100"
+              ],
+              "_nested_name": "run_through_body_sections.display_group.display_text",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@@local.block_text",
+                    "matchedExpression": "@local.block_text",
+                    "type": "local",
+                    "fieldName": "block_text"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.block_text": [
+                  "value"
+                ]
+              }
+            }
+          ],
+          "name": "display_group",
+          "_nested_name": "run_through_body_sections.display_group",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@@local.block_type == \"illust_left\"",
+                "matchedExpression": "@local.block_type",
+                "type": "local",
+                "fieldName": "block_type"
+              }
+            ],
+            "style_list": {
+              "0": [
+                {
+                  "fullExpression": "@local.paragraph_space",
+                  "matchedExpression": "@local.paragraph_space",
+                  "type": "local",
+                  "fieldName": "paragraph_space"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.block_type": [
+              "condition"
+            ],
+            "@local.paragraph_space": [
+              "style_list.0"
+            ]
+          }
+        },
+        {
+          "type": "display_group",
+          "condition": "@@local.block_type == \"illust_right\"",
+          "style_list": [
+            "@local.paragraph_space"
+          ],
+          "rows": [
+            {
+              "name": "paragraph_space",
+              "value": "@local.remove_paragraph_space",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "run_through_body_sections.display_group.paragraph_space",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.remove_paragraph_space",
+                    "matchedExpression": "@local.remove_paragraph_space",
+                    "type": "local",
+                    "fieldName": "remove_paragraph_space"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.remove_paragraph_space": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "text",
+              "name": "display_text",
+              "value": "@@local.block_text",
+              "_translations": {
+                "value": {}
+              },
+              "style_list": [
+                "flex:100"
+              ],
+              "_nested_name": "run_through_body_sections.display_group.display_text",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@@local.block_text",
+                    "matchedExpression": "@local.block_text",
+                    "type": "local",
+                    "fieldName": "block_text"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.block_text": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "image",
+              "name": "display_illust",
+              "value": "@@local.block_illustration",
+              "_translations": {
+                "value": {}
+              },
+              "style_list": [
+                "flex: @@local.block_illustration_flex",
+                "max-width: @@local.block_illustration_max_width"
+              ],
+              "_nested_name": "run_through_body_sections.display_group.display_illust",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@@local.block_illustration",
+                    "matchedExpression": "@local.block_illustration",
+                    "type": "local",
+                    "fieldName": "block_illustration"
+                  }
+                ],
+                "style_list": {
+                  "0": [
+                    {
+                      "fullExpression": "flex: @@local.block_illustration_flex",
+                      "matchedExpression": "@local.block_illustration_flex",
+                      "type": "local",
+                      "fieldName": "block_illustration_flex"
+                    }
+                  ],
+                  "1": [
+                    {
+                      "fullExpression": "max-width: @@local.block_illustration_max_width",
+                      "matchedExpression": "@local.block_illustration_max_width",
+                      "type": "local",
+                      "fieldName": "block_illustration_max_width"
+                    }
+                  ]
+                }
+              },
+              "_dynamicDependencies": {
+                "@local.block_illustration": [
+                  "value"
+                ],
+                "@local.block_illustration_flex": [
+                  "style_list.0"
+                ],
+                "@local.block_illustration_max_width": [
+                  "style_list.1"
+                ]
+              }
+            }
+          ],
+          "name": "display_group",
+          "_nested_name": "run_through_body_sections.display_group",
+          "_dynamicFields": {
+            "condition": [
+              {
+                "fullExpression": "@@local.block_type == \"illust_right\"",
+                "matchedExpression": "@local.block_type",
+                "type": "local",
+                "fieldName": "block_type"
+              }
+            ],
+            "style_list": {
+              "0": [
+                {
+                  "fullExpression": "@local.paragraph_space",
+                  "matchedExpression": "@local.paragraph_space",
+                  "type": "local",
+                  "fieldName": "paragraph_space"
+                }
+              ]
+            }
+          },
+          "_dynamicDependencies": {
+            "@local.block_type": [
+              "condition"
+            ],
+            "@local.paragraph_space": [
+              "style_list.0"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "run_through_body_sections",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@data.efm_num_list_one_to_six",
+            "matchedExpression": "@data.efm_num_list_one_to_six",
+            "type": "data",
+            "fieldName": "efm_num_list_one_to_six"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@data.efm_num_list_one_to_six": [
+          "value"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "EFM_mls_high_level_sheets.xlsx"
+}

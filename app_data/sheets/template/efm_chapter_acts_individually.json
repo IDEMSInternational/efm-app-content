@@ -54,7 +54,7 @@
     {
       "type": "title",
       "name": "chapter_title",
-      "value": "@local.efm_chapter_title V2 Individual",
+      "value": "@local.efm_chapter_title",
       "_translations": {
         "value": {}
       },
@@ -62,7 +62,7 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.efm_chapter_title V2 Individual",
+            "fullExpression": "@local.efm_chapter_title",
             "matchedExpression": "@local.efm_chapter_title",
             "type": "local",
             "fieldName": "efm_chapter_title"

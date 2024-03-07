@@ -781,6 +781,480 @@
         }
       ],
       "_nested_name": "dg_activities"
+    },
+    {
+      "type": "display_group",
+      "name": "dg_math_learning_steps",
+      "rows": [
+        {
+          "type": "button",
+          "name": "math_learning_steps",
+          "value": "Math Learning Steps",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "start_tour",
+              "args": [
+                "efm_chapters_tour"
+              ],
+              "_raw": "click | start_tour: efm_chapters_tour",
+              "_cleaned": "click | start_tour: efm_chapters_tour"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "has_accessed_math_learning_steps",
+                true
+              ],
+              "_raw": "click | set_field: has_accessed_math_learning_steps: TRUE",
+              "_cleaned": "click | set_field: has_accessed_math_learning_steps: TRUE"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "@local.click_history_field_name_1",
+                "@local.button_click_history_1"
+              ],
+              "_raw": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+              "_cleaned": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1"
+            }
+          ],
+          "condition": "!@fields.has_accessed_math_learning_steps",
+          "parameter_list": {
+            "style": "short",
+            "text_align": "center"
+          },
+          "_nested_name": "dg_math_learning_steps.math_learning_steps",
+          "_dynamicFields": {
+            "action_list": {
+              "2": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "@local.click_history_field_name_1",
+                      "matchedExpression": "@local.click_history_field_name_1",
+                      "type": "local",
+                      "fieldName": "click_history_field_name_1"
+                    }
+                  ],
+                  "1": [
+                    {
+                      "fullExpression": "@local.button_click_history_1",
+                      "matchedExpression": "@local.button_click_history_1",
+                      "type": "local",
+                      "fieldName": "button_click_history_1"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+                    "matchedExpression": "@local.click_history_field_name_1",
+                    "type": "local",
+                    "fieldName": "click_history_field_name_1"
+                  },
+                  {
+                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+                    "matchedExpression": "@local.button_click_history_1",
+                    "type": "local",
+                    "fieldName": "button_click_history_1"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+                    "matchedExpression": "@local.click_history_field_name_1",
+                    "type": "local",
+                    "fieldName": "click_history_field_name_1"
+                  },
+                  {
+                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+                    "matchedExpression": "@local.button_click_history_1",
+                    "type": "local",
+                    "fieldName": "button_click_history_1"
+                  }
+                ]
+              }
+            },
+            "condition": [
+              {
+                "fullExpression": "!@fields.has_accessed_math_learning_steps",
+                "matchedExpression": "!@fields.has_accessed_math_learning_steps",
+                "type": "fields",
+                "fieldName": "has_accessed_math_learning_steps"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.click_history_field_name_1": [
+              "action_list.2.args.0",
+              "action_list.2._raw",
+              "action_list.2._cleaned"
+            ],
+            "@local.button_click_history_1": [
+              "action_list.2.args.1",
+              "action_list.2._raw",
+              "action_list.2._cleaned"
+            ],
+            "!@fields.has_accessed_math_learning_steps": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "button",
+          "name": "math_learning_steps",
+          "value": "Math Learning Steps",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "efm_math_learning_steps"
+              ],
+              "_raw": "click | go_to: efm_math_learning_steps",
+              "_cleaned": "click | go_to: efm_math_learning_steps"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "@local.click_history_field_name_1",
+                "@local.button_click_history_1"
+              ],
+              "_raw": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+              "_cleaned": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1"
+            }
+          ],
+          "condition": "@fields.has_accessed_math_learning_steps",
+          "parameter_list": {
+            "style": "short",
+            "text_align": "center"
+          },
+          "_nested_name": "dg_math_learning_steps.math_learning_steps",
+          "_dynamicFields": {
+            "action_list": {
+              "1": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "@local.click_history_field_name_1",
+                      "matchedExpression": "@local.click_history_field_name_1",
+                      "type": "local",
+                      "fieldName": "click_history_field_name_1"
+                    }
+                  ],
+                  "1": [
+                    {
+                      "fullExpression": "@local.button_click_history_1",
+                      "matchedExpression": "@local.button_click_history_1",
+                      "type": "local",
+                      "fieldName": "button_click_history_1"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+                    "matchedExpression": "@local.click_history_field_name_1",
+                    "type": "local",
+                    "fieldName": "click_history_field_name_1"
+                  },
+                  {
+                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+                    "matchedExpression": "@local.button_click_history_1",
+                    "type": "local",
+                    "fieldName": "button_click_history_1"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+                    "matchedExpression": "@local.click_history_field_name_1",
+                    "type": "local",
+                    "fieldName": "click_history_field_name_1"
+                  },
+                  {
+                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+                    "matchedExpression": "@local.button_click_history_1",
+                    "type": "local",
+                    "fieldName": "button_click_history_1"
+                  }
+                ]
+              }
+            },
+            "condition": [
+              {
+                "fullExpression": "@fields.has_accessed_math_learning_steps",
+                "matchedExpression": "@fields.has_accessed_math_learning_steps",
+                "type": "fields",
+                "fieldName": "has_accessed_math_learning_steps"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.click_history_field_name_1": [
+              "action_list.1.args.0",
+              "action_list.1._raw",
+              "action_list.1._cleaned"
+            ],
+            "@local.button_click_history_1": [
+              "action_list.1.args.1",
+              "action_list.1._raw",
+              "action_list.1._cleaned"
+            ],
+            "@fields.has_accessed_math_learning_steps": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "dg_math_learning_steps"
+    },
+    {
+      "type": "display_group",
+      "name": "dg_playdates",
+      "rows": [
+        {
+          "type": "button",
+          "name": "button_playdates",
+          "value": "Playdates",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "start_tour",
+              "args": [
+                "efm_chapters_tour"
+              ],
+              "_raw": "click | start_tour: efm_chapters_tour",
+              "_cleaned": "click | start_tour: efm_chapters_tour"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "has_accessed_playdates",
+                true
+              ],
+              "_raw": "click | set_field: has_accessed_playdates: TRUE",
+              "_cleaned": "click | set_field: has_accessed_playdates: TRUE"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "@local.click_history_field_name_1",
+                "@local.button_click_history_1"
+              ],
+              "_raw": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+              "_cleaned": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1"
+            }
+          ],
+          "condition": "!@fields.has_accessed_playdates",
+          "parameter_list": {
+            "style": "short",
+            "text_align": "center"
+          },
+          "_nested_name": "dg_playdates.button_playdates",
+          "_dynamicFields": {
+            "action_list": {
+              "2": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "@local.click_history_field_name_1",
+                      "matchedExpression": "@local.click_history_field_name_1",
+                      "type": "local",
+                      "fieldName": "click_history_field_name_1"
+                    }
+                  ],
+                  "1": [
+                    {
+                      "fullExpression": "@local.button_click_history_1",
+                      "matchedExpression": "@local.button_click_history_1",
+                      "type": "local",
+                      "fieldName": "button_click_history_1"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+                    "matchedExpression": "@local.click_history_field_name_1",
+                    "type": "local",
+                    "fieldName": "click_history_field_name_1"
+                  },
+                  {
+                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+                    "matchedExpression": "@local.button_click_history_1",
+                    "type": "local",
+                    "fieldName": "button_click_history_1"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+                    "matchedExpression": "@local.click_history_field_name_1",
+                    "type": "local",
+                    "fieldName": "click_history_field_name_1"
+                  },
+                  {
+                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+                    "matchedExpression": "@local.button_click_history_1",
+                    "type": "local",
+                    "fieldName": "button_click_history_1"
+                  }
+                ]
+              }
+            },
+            "condition": [
+              {
+                "fullExpression": "!@fields.has_accessed_playdates",
+                "matchedExpression": "!@fields.has_accessed_playdates",
+                "type": "fields",
+                "fieldName": "has_accessed_playdates"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.click_history_field_name_1": [
+              "action_list.2.args.0",
+              "action_list.2._raw",
+              "action_list.2._cleaned"
+            ],
+            "@local.button_click_history_1": [
+              "action_list.2.args.1",
+              "action_list.2._raw",
+              "action_list.2._cleaned"
+            ],
+            "!@fields.has_accessed_playdates": [
+              "condition"
+            ]
+          }
+        },
+        {
+          "type": "button",
+          "name": "button_playdates",
+          "value": "Playdates",
+          "_translations": {
+            "value": {}
+          },
+          "action_list": [
+            {
+              "trigger": "click",
+              "action_id": "go_to",
+              "args": [
+                "efm_playdates"
+              ],
+              "_raw": "click | go_to: efm_playdates",
+              "_cleaned": "click | go_to: efm_playdates"
+            },
+            {
+              "trigger": "click",
+              "action_id": "set_field",
+              "args": [
+                "@local.click_history_field_name_1",
+                "@local.button_click_history_1"
+              ],
+              "_raw": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+              "_cleaned": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1"
+            }
+          ],
+          "condition": "@fields.has_accessed_playdates",
+          "parameter_list": {
+            "style": "short",
+            "text_align": "center"
+          },
+          "_nested_name": "dg_playdates.button_playdates",
+          "_dynamicFields": {
+            "action_list": {
+              "1": {
+                "args": {
+                  "0": [
+                    {
+                      "fullExpression": "@local.click_history_field_name_1",
+                      "matchedExpression": "@local.click_history_field_name_1",
+                      "type": "local",
+                      "fieldName": "click_history_field_name_1"
+                    }
+                  ],
+                  "1": [
+                    {
+                      "fullExpression": "@local.button_click_history_1",
+                      "matchedExpression": "@local.button_click_history_1",
+                      "type": "local",
+                      "fieldName": "button_click_history_1"
+                    }
+                  ]
+                },
+                "_raw": [
+                  {
+                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+                    "matchedExpression": "@local.click_history_field_name_1",
+                    "type": "local",
+                    "fieldName": "click_history_field_name_1"
+                  },
+                  {
+                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+                    "matchedExpression": "@local.button_click_history_1",
+                    "type": "local",
+                    "fieldName": "button_click_history_1"
+                  }
+                ],
+                "_cleaned": [
+                  {
+                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+                    "matchedExpression": "@local.click_history_field_name_1",
+                    "type": "local",
+                    "fieldName": "click_history_field_name_1"
+                  },
+                  {
+                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+                    "matchedExpression": "@local.button_click_history_1",
+                    "type": "local",
+                    "fieldName": "button_click_history_1"
+                  }
+                ]
+              }
+            },
+            "condition": [
+              {
+                "fullExpression": "@fields.has_accessed_playdates",
+                "matchedExpression": "@fields.has_accessed_playdates",
+                "type": "fields",
+                "fieldName": "has_accessed_playdates"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.click_history_field_name_1": [
+              "action_list.1.args.0",
+              "action_list.1._raw",
+              "action_list.1._cleaned"
+            ],
+            "@local.button_click_history_1": [
+              "action_list.1.args.1",
+              "action_list.1._raw",
+              "action_list.1._cleaned"
+            ],
+            "@fields.has_accessed_playdates": [
+              "condition"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "dg_playdates"
     }
   ],
   "_xlsxPath": "EFM_high_level_sheets.xlsx"
