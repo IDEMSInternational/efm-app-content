@@ -1,0 +1,1660 @@
+{
+  "flow_type": "template",
+  "flow_name": "efm_pd_body_template",
+  "status": "released",
+  "rows": [
+    {
+      "name": "efm_pd_a_ptr",
+      "type": "set_variable",
+      "_nested_name": "efm_pd_a_ptr"
+    },
+    {
+      "name": "block_chars",
+      "value": "block",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "block_chars"
+    },
+    {
+      "name": "chars_type",
+      "value": "_type",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "chars_type"
+    },
+    {
+      "name": "chars_text",
+      "value": "_text",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "chars_text"
+    },
+    {
+      "name": "remove_paragraph_space",
+      "value": "margin-top: -5px",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "remove_paragraph_space"
+    },
+    {
+      "name": "mls_button_text",
+      "type": "set_variable",
+      "_nested_name": "mls_button_text"
+    },
+    {
+      "name": "paragraph_space",
+      "value": "margin-top: 0px",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "paragraph_space"
+    },
+    {
+      "name": "number",
+      "value": 1,
+      "type": "set_variable",
+      "_nested_name": "number"
+    },
+    {
+      "name": "block_num_chars",
+      "value": "@local.block_chars@local.number",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "block_num_chars",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.block_chars@local.number",
+            "matchedExpression": "@local.block_chars",
+            "type": "local",
+            "fieldName": "block_chars"
+          },
+          {
+            "fullExpression": "@local.block_chars@local.number",
+            "matchedExpression": "@local.number",
+            "type": "local",
+            "fieldName": "number"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.block_chars": [
+          "value"
+        ],
+        "@local.number": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "block_type",
+      "value": "local.efm_pd_a_ptr.@local.block_num_chars@local.chars_type",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "block_type",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "local.efm_pd_a_ptr.@local.block_num_chars@local.chars_type",
+            "matchedExpression": "@local.block_num_chars",
+            "type": "local",
+            "fieldName": "block_num_chars"
+          },
+          {
+            "fullExpression": "local.efm_pd_a_ptr.@local.block_num_chars@local.chars_type",
+            "matchedExpression": "@local.chars_type",
+            "type": "local",
+            "fieldName": "chars_type"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.block_num_chars": [
+          "value"
+        ],
+        "@local.chars_type": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "block_text",
+      "value": "local.efm_pd_a_ptr.@local.block_num_chars@local.chars_text",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "block_text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "local.efm_pd_a_ptr.@local.block_num_chars@local.chars_text",
+            "matchedExpression": "@local.block_num_chars",
+            "type": "local",
+            "fieldName": "block_num_chars"
+          },
+          {
+            "fullExpression": "local.efm_pd_a_ptr.@local.block_num_chars@local.chars_text",
+            "matchedExpression": "@local.chars_text",
+            "type": "local",
+            "fieldName": "chars_text"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.block_num_chars": [
+          "value"
+        ],
+        "@local.chars_text": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "condition": "@@local.block_type == \"all_text\"",
+      "style_list": [
+        "@local.paragraph_space"
+      ],
+      "rows": [
+        {
+          "name": "paragraph_space",
+          "value": "@local.remove_paragraph_space",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "display_group.paragraph_space",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@local.remove_paragraph_space",
+                "matchedExpression": "@local.remove_paragraph_space",
+                "type": "local",
+                "fieldName": "remove_paragraph_space"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.remove_paragraph_space": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "name": "display_text",
+          "value": "@@local.block_text",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "display_group.display_text",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@@local.block_text",
+                "matchedExpression": "@local.block_text",
+                "type": "local",
+                "fieldName": "block_text"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.block_text": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "name": "display_group",
+      "_nested_name": "display_group",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@@local.block_type == \"all_text\"",
+            "matchedExpression": "@local.block_type",
+            "type": "local",
+            "fieldName": "block_type"
+          }
+        ],
+        "style_list": {
+          "0": [
+            {
+              "fullExpression": "@local.paragraph_space",
+              "matchedExpression": "@local.paragraph_space",
+              "type": "local",
+              "fieldName": "paragraph_space"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.block_type": [
+          "condition"
+        ],
+        "@local.paragraph_space": [
+          "style_list.0"
+        ]
+      }
+    },
+    {
+      "name": "mls_id",
+      "value": "@local.efm_pd_a_ptr.mls_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "mls_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.efm_pd_a_ptr.mls_id",
+            "matchedExpression": "@local.efm_pd_a_ptr.mls_id",
+            "type": "local",
+            "fieldName": "efm_pd_a_ptr"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.efm_pd_a_ptr.mls_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "mls_info",
+      "value": "Math Learning Step",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.mls_id",
+      "_nested_name": "mls_info",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.mls_id",
+            "matchedExpression": "@local.mls_id",
+            "type": "local",
+            "fieldName": "mls_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.mls_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "current_mls",
+      "value": "data.efm_mls.@local.mls_id",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.mls_id",
+      "type": "set_variable",
+      "_nested_name": "current_mls",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "data.efm_mls.@local.mls_id",
+            "matchedExpression": "@local.mls_id",
+            "type": "local",
+            "fieldName": "mls_id"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.mls_id",
+            "matchedExpression": "@local.mls_id",
+            "type": "local",
+            "fieldName": "mls_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.mls_id": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "mls_ptr",
+      "value": "@@local.current_mls",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.mls_id",
+      "type": "set_variable",
+      "_nested_name": "mls_ptr",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@@local.current_mls",
+            "matchedExpression": "@local.current_mls",
+            "type": "local",
+            "fieldName": "current_mls"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.mls_id",
+            "matchedExpression": "@local.mls_id",
+            "type": "local",
+            "fieldName": "mls_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.current_mls": [
+          "value"
+        ],
+        "@local.mls_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "mls_button_text",
+      "value": "@local.mls_ptr.title",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.mls_id",
+      "type": "set_variable",
+      "_nested_name": "mls_button_text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.mls_ptr.title",
+            "matchedExpression": "@local.mls_ptr.title",
+            "type": "local",
+            "fieldName": "mls_ptr"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.mls_id",
+            "matchedExpression": "@local.mls_id",
+            "type": "local",
+            "fieldName": "mls_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.mls_ptr.title": [
+          "value"
+        ],
+        "@local.mls_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "mls_button",
+      "value": "@local.mls_button_text",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "current_mls",
+            "data.efm_mls.@local.mls_id"
+          ],
+          "_raw": "click | set_field:current_mls: data.efm_mls.@local.mls_id",
+          "_cleaned": "click | set_field:current_mls: data.efm_mls.@local.mls_id"
+        },
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "efm_mls_template"
+          ],
+          "_raw": "click | go_to: efm_mls_template",
+          "_cleaned": "click | go_to: efm_mls_template"
+        }
+      ],
+      "condition": "@local.mls_id",
+      "parameter_list": {
+        "style": "short",
+        "text_align": "center"
+      },
+      "_nested_name": "mls_button",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.mls_button_text",
+            "matchedExpression": "@local.mls_button_text",
+            "type": "local",
+            "fieldName": "mls_button_text"
+          }
+        ],
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "data.efm_mls.@local.mls_id",
+                  "matchedExpression": "@local.mls_id",
+                  "type": "local",
+                  "fieldName": "mls_id"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field:current_mls: data.efm_mls.@local.mls_id",
+                "matchedExpression": "@local.mls_id",
+                "type": "local",
+                "fieldName": "mls_id"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field:current_mls: data.efm_mls.@local.mls_id",
+                "matchedExpression": "@local.mls_id",
+                "type": "local",
+                "fieldName": "mls_id"
+              }
+            ]
+          }
+        },
+        "condition": [
+          {
+            "fullExpression": "@local.mls_id",
+            "matchedExpression": "@local.mls_id",
+            "type": "local",
+            "fieldName": "mls_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.mls_button_text": [
+          "value"
+        ],
+        "@local.mls_id": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned",
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "sb_id",
+      "value": "@local.efm_pd_a_ptr.sb_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "sb_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.efm_pd_a_ptr.sb_id",
+            "matchedExpression": "@local.efm_pd_a_ptr.sb_id",
+            "type": "local",
+            "fieldName": "efm_pd_a_ptr"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.efm_pd_a_ptr.sb_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "storybook_info",
+      "value": "Storybook",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.sb_id",
+      "_nested_name": "storybook_info",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.sb_id",
+            "matchedExpression": "@local.sb_id",
+            "type": "local",
+            "fieldName": "sb_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.sb_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "current_sb",
+      "value": "data.efm_storybooks.@local.sb_id",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.sb_id",
+      "type": "set_variable",
+      "_nested_name": "current_sb",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "data.efm_storybooks.@local.sb_id",
+            "matchedExpression": "@local.sb_id",
+            "type": "local",
+            "fieldName": "sb_id"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.sb_id",
+            "matchedExpression": "@local.sb_id",
+            "type": "local",
+            "fieldName": "sb_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.sb_id": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "sb_ptr",
+      "value": "@@local.current_sb",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.sb_id",
+      "type": "set_variable",
+      "_nested_name": "sb_ptr",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@@local.current_sb",
+            "matchedExpression": "@local.current_sb",
+            "type": "local",
+            "fieldName": "current_sb"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.sb_id",
+            "matchedExpression": "@local.sb_id",
+            "type": "local",
+            "fieldName": "sb_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.current_sb": [
+          "value"
+        ],
+        "@local.sb_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "sb_button_text",
+      "value": "@local.sb_ptr.title",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.sb_id",
+      "type": "set_variable",
+      "_nested_name": "sb_button_text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.sb_ptr.title",
+            "matchedExpression": "@local.sb_ptr.title",
+            "type": "local",
+            "fieldName": "sb_ptr"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.sb_id",
+            "matchedExpression": "@local.sb_id",
+            "type": "local",
+            "fieldName": "sb_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.sb_ptr.title": [
+          "value"
+        ],
+        "@local.sb_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "sb_button",
+      "value": "@local.sb_button_text",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "current_book",
+            "data.efm_storybooks.@local.sb_id"
+          ],
+          "_raw": "click | set_field:current_book: data.efm_storybooks.@local.sb_id",
+          "_cleaned": "click | set_field:current_book: data.efm_storybooks.@local.sb_id"
+        },
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "efm_story_template"
+          ],
+          "_raw": "click | go_to: efm_story_template",
+          "_cleaned": "click | go_to: efm_story_template"
+        }
+      ],
+      "condition": "@local.sb_id",
+      "parameter_list": {
+        "style": "short",
+        "text_align": "center"
+      },
+      "_nested_name": "sb_button",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.sb_button_text",
+            "matchedExpression": "@local.sb_button_text",
+            "type": "local",
+            "fieldName": "sb_button_text"
+          }
+        ],
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "data.efm_storybooks.@local.sb_id",
+                  "matchedExpression": "@local.sb_id",
+                  "type": "local",
+                  "fieldName": "sb_id"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field:current_book: data.efm_storybooks.@local.sb_id",
+                "matchedExpression": "@local.sb_id",
+                "type": "local",
+                "fieldName": "sb_id"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field:current_book: data.efm_storybooks.@local.sb_id",
+                "matchedExpression": "@local.sb_id",
+                "type": "local",
+                "fieldName": "sb_id"
+              }
+            ]
+          }
+        },
+        "condition": [
+          {
+            "fullExpression": "@local.sb_id",
+            "matchedExpression": "@local.sb_id",
+            "type": "local",
+            "fieldName": "sb_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.sb_button_text": [
+          "value"
+        ],
+        "@local.sb_id": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned",
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "activity_info",
+      "value": "Activities",
+      "_translations": {
+        "value": {
+          "es_es": true
+        }
+      },
+      "_nested_name": "activity_info"
+    },
+    {
+      "name": "act_one_id",
+      "value": "@local.efm_pd_a_ptr.act_1_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "act_one_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.efm_pd_a_ptr.act_1_id",
+            "matchedExpression": "@local.efm_pd_a_ptr.act_1_id",
+            "type": "local",
+            "fieldName": "efm_pd_a_ptr"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.efm_pd_a_ptr.act_1_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "current_act_one",
+      "value": "data.efm_act_v_two.@local.act_one_id",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.act_one_id",
+      "type": "set_variable",
+      "_nested_name": "current_act_one",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "data.efm_act_v_two.@local.act_one_id",
+            "matchedExpression": "@local.act_one_id",
+            "type": "local",
+            "fieldName": "act_one_id"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.act_one_id",
+            "matchedExpression": "@local.act_one_id",
+            "type": "local",
+            "fieldName": "act_one_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.act_one_id": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "act_one_ptr",
+      "value": "@@local.current_act_one",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.act_one_id",
+      "type": "set_variable",
+      "_nested_name": "act_one_ptr",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@@local.current_act_one",
+            "matchedExpression": "@local.current_act_one",
+            "type": "local",
+            "fieldName": "current_act_one"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.act_one_id",
+            "matchedExpression": "@local.act_one_id",
+            "type": "local",
+            "fieldName": "act_one_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.current_act_one": [
+          "value"
+        ],
+        "@local.act_one_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "act_one_button_text",
+      "value": "@local.act_one_ptr.title",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.act_one_id",
+      "type": "set_variable",
+      "_nested_name": "act_one_button_text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.act_one_ptr.title",
+            "matchedExpression": "@local.act_one_ptr.title",
+            "type": "local",
+            "fieldName": "act_one_ptr"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.act_one_id",
+            "matchedExpression": "@local.act_one_id",
+            "type": "local",
+            "fieldName": "act_one_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.act_one_ptr.title": [
+          "value"
+        ],
+        "@local.act_one_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "act_two_id",
+      "value": "@local.efm_pd_a_ptr.act_2_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "act_two_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.efm_pd_a_ptr.act_2_id",
+            "matchedExpression": "@local.efm_pd_a_ptr.act_2_id",
+            "type": "local",
+            "fieldName": "efm_pd_a_ptr"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.efm_pd_a_ptr.act_2_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "current_act_two",
+      "value": "data.efm_act_v_two.@local.act_two_id",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.act_two_id",
+      "type": "set_variable",
+      "_nested_name": "current_act_two",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "data.efm_act_v_two.@local.act_two_id",
+            "matchedExpression": "@local.act_two_id",
+            "type": "local",
+            "fieldName": "act_two_id"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.act_two_id",
+            "matchedExpression": "@local.act_two_id",
+            "type": "local",
+            "fieldName": "act_two_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.act_two_id": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "act_two_ptr",
+      "value": "@@local.current_act_two",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.act_two_id",
+      "type": "set_variable",
+      "_nested_name": "act_two_ptr",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@@local.current_act_two",
+            "matchedExpression": "@local.current_act_two",
+            "type": "local",
+            "fieldName": "current_act_two"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.act_two_id",
+            "matchedExpression": "@local.act_two_id",
+            "type": "local",
+            "fieldName": "act_two_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.current_act_two": [
+          "value"
+        ],
+        "@local.act_two_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "act_two_button_text",
+      "value": "@local.act_two_ptr.title",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.act_two_id",
+      "type": "set_variable",
+      "_nested_name": "act_two_button_text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.act_two_ptr.title",
+            "matchedExpression": "@local.act_two_ptr.title",
+            "type": "local",
+            "fieldName": "act_two_ptr"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.act_two_id",
+            "matchedExpression": "@local.act_two_id",
+            "type": "local",
+            "fieldName": "act_two_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.act_two_ptr.title": [
+          "value"
+        ],
+        "@local.act_two_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "act_three_id",
+      "value": "@local.efm_pd_a_ptr.act_3_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "act_three_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.efm_pd_a_ptr.act_3_id",
+            "matchedExpression": "@local.efm_pd_a_ptr.act_3_id",
+            "type": "local",
+            "fieldName": "efm_pd_a_ptr"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.efm_pd_a_ptr.act_3_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "current_act_three",
+      "value": "data.efm_act_v_two.@local.act_three_id",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.act_three_id",
+      "type": "set_variable",
+      "_nested_name": "current_act_three",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "data.efm_act_v_two.@local.act_three_id",
+            "matchedExpression": "@local.act_three_id",
+            "type": "local",
+            "fieldName": "act_three_id"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.act_three_id",
+            "matchedExpression": "@local.act_three_id",
+            "type": "local",
+            "fieldName": "act_three_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.act_three_id": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "act_three_ptr",
+      "value": "@@local.current_act_three",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.act_three_id",
+      "type": "set_variable",
+      "_nested_name": "act_three_ptr",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@@local.current_act_three",
+            "matchedExpression": "@local.current_act_three",
+            "type": "local",
+            "fieldName": "current_act_three"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.act_three_id",
+            "matchedExpression": "@local.act_three_id",
+            "type": "local",
+            "fieldName": "act_three_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.current_act_three": [
+          "value"
+        ],
+        "@local.act_three_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "act_three_button_text",
+      "value": "@local.act_three_ptr.title",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.act_three_id",
+      "type": "set_variable",
+      "_nested_name": "act_three_button_text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.act_three_ptr.title",
+            "matchedExpression": "@local.act_three_ptr.title",
+            "type": "local",
+            "fieldName": "act_three_ptr"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.act_three_id",
+            "matchedExpression": "@local.act_three_id",
+            "type": "local",
+            "fieldName": "act_three_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.act_three_ptr.title": [
+          "value"
+        ],
+        "@local.act_three_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "act_four_id",
+      "value": "@local.efm_pd_a_ptr.act_4_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "act_four_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.efm_pd_a_ptr.act_4_id",
+            "matchedExpression": "@local.efm_pd_a_ptr.act_4_id",
+            "type": "local",
+            "fieldName": "efm_pd_a_ptr"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.efm_pd_a_ptr.act_4_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "current_act_four",
+      "value": "data.efm_act_v_two.@local.act_four_id",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.act_four_id",
+      "type": "set_variable",
+      "_nested_name": "current_act_four",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "data.efm_act_v_two.@local.act_four_id",
+            "matchedExpression": "@local.act_four_id",
+            "type": "local",
+            "fieldName": "act_four_id"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.act_four_id",
+            "matchedExpression": "@local.act_four_id",
+            "type": "local",
+            "fieldName": "act_four_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.act_four_id": [
+          "value",
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "act_four_ptr",
+      "value": "@@local.current_act_four",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.act_four_id",
+      "type": "set_variable",
+      "_nested_name": "act_four_ptr",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@@local.current_act_four",
+            "matchedExpression": "@local.current_act_four",
+            "type": "local",
+            "fieldName": "current_act_four"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.act_four_id",
+            "matchedExpression": "@local.act_four_id",
+            "type": "local",
+            "fieldName": "act_four_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.current_act_four": [
+          "value"
+        ],
+        "@local.act_four_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "name": "act_four_button_text",
+      "value": "@local.act_four_ptr.title",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.act_four_id",
+      "type": "set_variable",
+      "_nested_name": "act_four_button_text",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.act_four_ptr.title",
+            "matchedExpression": "@local.act_four_ptr.title",
+            "type": "local",
+            "fieldName": "act_four_ptr"
+          }
+        ],
+        "condition": [
+          {
+            "fullExpression": "@local.act_four_id",
+            "matchedExpression": "@local.act_four_id",
+            "type": "local",
+            "fieldName": "act_four_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.act_four_ptr.title": [
+          "value"
+        ],
+        "@local.act_four_id": [
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "sb_button_one",
+      "value": "@local.act_one_button_text",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "current_activity",
+            "data.efm_act_v_two.@local.act_one_id"
+          ],
+          "_raw": "click | set_field:current_activity: data.efm_act_v_two.@local.act_one_id",
+          "_cleaned": "click | set_field:current_activity: data.efm_act_v_two.@local.act_one_id"
+        },
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "efm_activity_v_two_template"
+          ],
+          "_raw": "click | go_to: efm_activity_v_two_template",
+          "_cleaned": "click | go_to: efm_activity_v_two_template"
+        }
+      ],
+      "condition": "@local.act_one_id",
+      "parameter_list": {
+        "style": "short",
+        "text_align": "center"
+      },
+      "_nested_name": "sb_button_one",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.act_one_button_text",
+            "matchedExpression": "@local.act_one_button_text",
+            "type": "local",
+            "fieldName": "act_one_button_text"
+          }
+        ],
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "data.efm_act_v_two.@local.act_one_id",
+                  "matchedExpression": "@local.act_one_id",
+                  "type": "local",
+                  "fieldName": "act_one_id"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field:current_activity: data.efm_act_v_two.@local.act_one_id",
+                "matchedExpression": "@local.act_one_id",
+                "type": "local",
+                "fieldName": "act_one_id"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field:current_activity: data.efm_act_v_two.@local.act_one_id",
+                "matchedExpression": "@local.act_one_id",
+                "type": "local",
+                "fieldName": "act_one_id"
+              }
+            ]
+          }
+        },
+        "condition": [
+          {
+            "fullExpression": "@local.act_one_id",
+            "matchedExpression": "@local.act_one_id",
+            "type": "local",
+            "fieldName": "act_one_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.act_one_button_text": [
+          "value"
+        ],
+        "@local.act_one_id": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned",
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "sb_button_two",
+      "value": "@local.act_two_button_text",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "current_activity",
+            "data.efm_act_v_two.@local.act_two_id"
+          ],
+          "_raw": "click | set_field:current_activity: data.efm_act_v_two.@local.act_two_id",
+          "_cleaned": "click | set_field:current_activity: data.efm_act_v_two.@local.act_two_id"
+        },
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "efm_activity_v_two_template"
+          ],
+          "_raw": "click | go_to: efm_activity_v_two_template",
+          "_cleaned": "click | go_to: efm_activity_v_two_template"
+        }
+      ],
+      "condition": "@local.act_two_id",
+      "parameter_list": {
+        "style": "short",
+        "text_align": "center"
+      },
+      "_nested_name": "sb_button_two",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.act_two_button_text",
+            "matchedExpression": "@local.act_two_button_text",
+            "type": "local",
+            "fieldName": "act_two_button_text"
+          }
+        ],
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "data.efm_act_v_two.@local.act_two_id",
+                  "matchedExpression": "@local.act_two_id",
+                  "type": "local",
+                  "fieldName": "act_two_id"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field:current_activity: data.efm_act_v_two.@local.act_two_id",
+                "matchedExpression": "@local.act_two_id",
+                "type": "local",
+                "fieldName": "act_two_id"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field:current_activity: data.efm_act_v_two.@local.act_two_id",
+                "matchedExpression": "@local.act_two_id",
+                "type": "local",
+                "fieldName": "act_two_id"
+              }
+            ]
+          }
+        },
+        "condition": [
+          {
+            "fullExpression": "@local.act_two_id",
+            "matchedExpression": "@local.act_two_id",
+            "type": "local",
+            "fieldName": "act_two_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.act_two_button_text": [
+          "value"
+        ],
+        "@local.act_two_id": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned",
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "sb_button_three",
+      "value": "@local.act_three_button_text",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "current_activity",
+            "data.efm_act_v_two.@local.act_three_id"
+          ],
+          "_raw": "click | set_field:current_activity: data.efm_act_v_two.@local.act_three_id",
+          "_cleaned": "click | set_field:current_activity: data.efm_act_v_two.@local.act_three_id"
+        },
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "efm_activity_v_two_template"
+          ],
+          "_raw": "click | go_to: efm_activity_v_two_template",
+          "_cleaned": "click | go_to: efm_activity_v_two_template"
+        }
+      ],
+      "condition": "@local.act_three_id",
+      "parameter_list": {
+        "style": "short",
+        "text_align": "center"
+      },
+      "_nested_name": "sb_button_three",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.act_three_button_text",
+            "matchedExpression": "@local.act_three_button_text",
+            "type": "local",
+            "fieldName": "act_three_button_text"
+          }
+        ],
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "data.efm_act_v_two.@local.act_three_id",
+                  "matchedExpression": "@local.act_three_id",
+                  "type": "local",
+                  "fieldName": "act_three_id"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field:current_activity: data.efm_act_v_two.@local.act_three_id",
+                "matchedExpression": "@local.act_three_id",
+                "type": "local",
+                "fieldName": "act_three_id"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field:current_activity: data.efm_act_v_two.@local.act_three_id",
+                "matchedExpression": "@local.act_three_id",
+                "type": "local",
+                "fieldName": "act_three_id"
+              }
+            ]
+          }
+        },
+        "condition": [
+          {
+            "fullExpression": "@local.act_three_id",
+            "matchedExpression": "@local.act_three_id",
+            "type": "local",
+            "fieldName": "act_three_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.act_three_button_text": [
+          "value"
+        ],
+        "@local.act_three_id": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned",
+          "condition"
+        ]
+      }
+    },
+    {
+      "type": "button",
+      "name": "sb_button_four",
+      "value": "@local.act_four_button_text",
+      "_translations": {
+        "value": {}
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "current_activity",
+            "data.efm_act_v_two.@local.act_four_id"
+          ],
+          "_raw": "click | set_field:current_activity: data.efm_act_v_two.@local.act_four_id",
+          "_cleaned": "click | set_field:current_activity: data.efm_act_v_two.@local.act_four_id"
+        },
+        {
+          "trigger": "click",
+          "action_id": "go_to",
+          "args": [
+            "efm_activity_v_two_template"
+          ],
+          "_raw": "click | go_to: efm_activity_v_two_template",
+          "_cleaned": "click | go_to: efm_activity_v_two_template"
+        }
+      ],
+      "condition": "@local.act_four_id",
+      "parameter_list": {
+        "style": "short",
+        "text_align": "center"
+      },
+      "_nested_name": "sb_button_four",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.act_four_button_text",
+            "matchedExpression": "@local.act_four_button_text",
+            "type": "local",
+            "fieldName": "act_four_button_text"
+          }
+        ],
+        "action_list": {
+          "0": {
+            "args": {
+              "1": [
+                {
+                  "fullExpression": "data.efm_act_v_two.@local.act_four_id",
+                  "matchedExpression": "@local.act_four_id",
+                  "type": "local",
+                  "fieldName": "act_four_id"
+                }
+              ]
+            },
+            "_raw": [
+              {
+                "fullExpression": "click | set_field:current_activity: data.efm_act_v_two.@local.act_four_id",
+                "matchedExpression": "@local.act_four_id",
+                "type": "local",
+                "fieldName": "act_four_id"
+              }
+            ],
+            "_cleaned": [
+              {
+                "fullExpression": "click | set_field:current_activity: data.efm_act_v_two.@local.act_four_id",
+                "matchedExpression": "@local.act_four_id",
+                "type": "local",
+                "fieldName": "act_four_id"
+              }
+            ]
+          }
+        },
+        "condition": [
+          {
+            "fullExpression": "@local.act_four_id",
+            "matchedExpression": "@local.act_four_id",
+            "type": "local",
+            "fieldName": "act_four_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.act_four_button_text": [
+          "value"
+        ],
+        "@local.act_four_id": [
+          "action_list.0.args.1",
+          "action_list.0._raw",
+          "action_list.0._cleaned",
+          "condition"
+        ]
+      }
+    }
+  ],
+  "_xlsxPath": "EFM_pd_high_level_sheets.xlsx"
+}

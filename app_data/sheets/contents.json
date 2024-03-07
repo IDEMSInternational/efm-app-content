@@ -374,11 +374,23 @@
       "data_list_name": "efm_chapt",
       "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"
     },
+    "efm_mls_list": {
+      "flow_type": "data_list",
+      "flow_name": "efm_mls_list",
+      "data_list_name": "efm_mls",
+      "_xlsxPath": "EFM_mls_high_level_sheets.xlsx"
+    },
     "efm_number_list_one_to_six": {
       "flow_type": "data_list",
       "flow_name": "efm_number_list_one_to_six",
       "data_list_name": "efm_num_list_one_to_six",
       "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"
+    },
+    "efm_pd_list": {
+      "flow_type": "data_list",
+      "flow_name": "efm_pd_list",
+      "data_list_name": "efm_pd",
+      "_xlsxPath": "EFM_pd_high_level_sheets.xlsx"
     },
     "efm_sb_list": {
       "flow_type": "data_list",
@@ -674,10 +686,50 @@
       "flow_name": "efm_chapter_bon_acts",
       "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"
     },
+    "efm_chapter_mls_individually": {
+      "flow_type": "template",
+      "flow_name": "efm_chapter_mls_individually",
+      "_xlsxPath": "EFM_mls_high_level_sheets.xlsx"
+    },
+    "efm_chapter_pd_individually": {
+      "flow_type": "template",
+      "flow_name": "efm_chapter_pd_individually",
+      "_xlsxPath": "EFM_pd_high_level_sheets.xlsx"
+    },
     "efm_chapters": {
       "flow_type": "template",
       "flow_name": "efm_chapters",
       "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"
+    },
+    "efm_math_learning_steps": {
+      "flow_type": "template",
+      "flow_name": "efm_math_learning_steps",
+      "_xlsxPath": "EFM_mls_high_level_sheets.xlsx"
+    },
+    "efm_mls_body_template": {
+      "flow_type": "template",
+      "flow_name": "efm_mls_body_template",
+      "_xlsxPath": "EFM_mls_high_level_sheets.xlsx"
+    },
+    "efm_mls_template": {
+      "flow_type": "template",
+      "flow_name": "efm_mls_template",
+      "_xlsxPath": "EFM_mls_high_level_sheets.xlsx"
+    },
+    "efm_pd_body_template": {
+      "flow_type": "template",
+      "flow_name": "efm_pd_body_template",
+      "_xlsxPath": "EFM_pd_high_level_sheets.xlsx"
+    },
+    "efm_pd_template": {
+      "flow_type": "template",
+      "flow_name": "efm_pd_template",
+      "_xlsxPath": "EFM_pd_high_level_sheets.xlsx"
+    },
+    "efm_playdates": {
+      "flow_type": "template",
+      "flow_name": "efm_playdates",
+      "_xlsxPath": "EFM_pd_high_level_sheets.xlsx"
     },
     "efm_sb_intro": {
       "flow_type": "template",

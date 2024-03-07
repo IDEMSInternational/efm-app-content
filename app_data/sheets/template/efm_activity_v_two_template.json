@@ -221,11 +221,9 @@
     },
     {
       "name": "chapter",
-      "value": "Chapter",
+      "value": "Stage",
       "_translations": {
-        "value": {
-          "es_es": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "chapter"
