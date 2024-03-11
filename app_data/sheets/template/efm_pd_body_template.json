@@ -165,6 +165,7 @@
     },
     {
       "type": "display_group",
+      "name": "intro_text",
       "condition": "@@local.block_type == \"all_text\"",
       "style_list": [
         "@local.paragraph_space"
@@ -177,7 +178,7 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "display_group.paragraph_space",
+          "_nested_name": "intro_text.paragraph_space",
           "_dynamicFields": {
             "value": [
               {
@@ -201,7 +202,7 @@
           "_translations": {
             "value": {}
           },
-          "_nested_name": "display_group.display_text",
+          "_nested_name": "intro_text.display_text",
           "_dynamicFields": {
             "value": [
               {
@@ -219,8 +220,7 @@
           }
         }
       ],
-      "name": "display_group",
-      "_nested_name": "display_group",
+      "_nested_name": "intro_text",
       "_dynamicFields": {
         "condition": [
           {
@@ -251,6 +251,629 @@
       }
     },
     {
+      "name": "sb_list_id_name",
+      "value": [
+        "@local.efm_pd_a_ptr.sb_list_id"
+      ],
+      "type": "set_variable",
+      "_nested_name": "sb_list_id_name",
+      "_dynamicFields": {
+        "value": {
+          "0": [
+            {
+              "fullExpression": "@local.efm_pd_a_ptr.sb_list_id",
+              "matchedExpression": "@local.efm_pd_a_ptr.sb_list_id",
+              "type": "local",
+              "fieldName": "efm_pd_a_ptr"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.efm_pd_a_ptr.sb_list_id": [
+          "value.0"
+        ]
+      }
+    },
+    {
+      "name": "act_list_id_name",
+      "value": [
+        "@local.efm_pd_a_ptr.act_list_id"
+      ],
+      "type": "set_variable",
+      "_nested_name": "act_list_id_name",
+      "_dynamicFields": {
+        "value": {
+          "0": [
+            {
+              "fullExpression": "@local.efm_pd_a_ptr.act_list_id",
+              "matchedExpression": "@local.efm_pd_a_ptr.act_list_id",
+              "type": "local",
+              "fieldName": "efm_pd_a_ptr"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.efm_pd_a_ptr.act_list_id": [
+          "value.0"
+        ]
+      }
+    },
+    {
+      "name": "dont_do_sbs_and_acts_lists",
+      "value": [
+        "@local.act_list_id_name == \"\""
+      ],
+      "type": "set_variable",
+      "_nested_name": "dont_do_sbs_and_acts_lists",
+      "_dynamicFields": {
+        "value": {
+          "0": [
+            {
+              "fullExpression": "@local.act_list_id_name == \"\"",
+              "matchedExpression": "@local.act_list_id_name",
+              "type": "local",
+              "fieldName": "act_list_id_name"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.act_list_id_name": [
+          "value.0"
+        ]
+      }
+    },
+    {
+      "name": "dont_do_sbs_list",
+      "value": [
+        "@local.sb_list_id_name == \"\""
+      ],
+      "type": "set_variable",
+      "_nested_name": "dont_do_sbs_list",
+      "_dynamicFields": {
+        "value": {
+          "0": [
+            {
+              "fullExpression": "@local.sb_list_id_name == \"\"",
+              "matchedExpression": "@local.sb_list_id_name",
+              "type": "local",
+              "fieldName": "sb_list_id_name"
+            }
+          ]
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.sb_list_id_name": [
+          "value.0"
+        ]
+      }
+    },
+    {
+      "type": "display_group",
+      "name": "sb_and_act_accordions",
+      "condition": "@local.dont_do_sbs_and_acts_lists == \"false\"",
+      "parameter_list": {
+        "style": "column"
+      },
+      "rows": [
+        {
+          "name": "accordion_label_1",
+          "value": "Activity list",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "sb_and_act_accordions.accordion_label_1"
+        },
+        {
+          "name": "accordion_label_2",
+          "value": "Storybook list",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "sb_and_act_accordions.accordion_label_2"
+        },
+        {
+          "type": "accordion",
+          "name": "acoordion",
+          "rows": [
+            {
+              "type": "accordion_section",
+              "name": "bloxk_1",
+              "value": "@local.accordion_label_1",
+              "rows": [
+                {
+                  "type": "display_group",
+                  "name": "activity_buttons",
+                  "parameter_list": {
+                    "style": "column"
+                  },
+                  "rows": [
+                    {
+                      "type": "items",
+                      "name": "make_buttons_for_activities",
+                      "value": "@data.@local.act_list_id_name",
+                      "rows": [
+                        {
+                          "name": "next_activ",
+                          "value": "data.efm_act_v_two.@item.act_list_id",
+                          "_translations": {
+                            "value": {}
+                          },
+                          "type": "set_variable",
+                          "_nested_name": "sb_and_act_accordions.acoordion.bloxk_1.activity_buttons.make_buttons_for_activities.next_activ",
+                          "_dynamicFields": {
+                            "value": [
+                              {
+                                "fullExpression": "data.efm_act_v_two.@item.act_list_id",
+                                "matchedExpression": "@item.act_list_id",
+                                "type": "item",
+                                "fieldName": "act_list_id"
+                              }
+                            ]
+                          },
+                          "_dynamicDependencies": {
+                            "@item.act_list_id": [
+                              "value"
+                            ]
+                          }
+                        },
+                        {
+                          "name": "next_activ_ptr",
+                          "value": "@@local.next_activ",
+                          "_translations": {
+                            "value": {}
+                          },
+                          "type": "set_variable",
+                          "_nested_name": "sb_and_act_accordions.acoordion.bloxk_1.activity_buttons.make_buttons_for_activities.next_activ_ptr",
+                          "_dynamicFields": {
+                            "value": [
+                              {
+                                "fullExpression": "@@local.next_activ",
+                                "matchedExpression": "@local.next_activ",
+                                "type": "local",
+                                "fieldName": "next_activ"
+                              }
+                            ]
+                          },
+                          "_dynamicDependencies": {
+                            "@local.next_activ": [
+                              "value"
+                            ]
+                          }
+                        },
+                        {
+                          "name": "activ_button_text",
+                          "value": "@local.next_activ_ptr.title",
+                          "_translations": {
+                            "value": {}
+                          },
+                          "type": "set_variable",
+                          "_nested_name": "sb_and_act_accordions.acoordion.bloxk_1.activity_buttons.make_buttons_for_activities.activ_button_text",
+                          "_dynamicFields": {
+                            "value": [
+                              {
+                                "fullExpression": "@local.next_activ_ptr.title",
+                                "matchedExpression": "@local.next_activ_ptr.title",
+                                "type": "local",
+                                "fieldName": "next_activ_ptr"
+                              }
+                            ]
+                          },
+                          "_dynamicDependencies": {
+                            "@local.next_activ_ptr.title": [
+                              "value"
+                            ]
+                          }
+                        },
+                        {
+                          "type": "button",
+                          "name": "button_@local.activ_button_text",
+                          "value": "@local.activ_button_text",
+                          "_translations": {
+                            "value": {}
+                          },
+                          "action_list": [
+                            {
+                              "trigger": "click",
+                              "action_id": "set_field",
+                              "args": [
+                                "current_activity",
+                                "@local.next_activ"
+                              ],
+                              "_raw": "click | set_field:current_activity: @local.next_activ",
+                              "_cleaned": "click | set_field:current_activity: @local.next_activ"
+                            },
+                            {
+                              "trigger": "click",
+                              "action_id": "go_to",
+                              "args": [
+                                "efm_activity_v_two_template"
+                              ],
+                              "_raw": "click | go_to: efm_activity_v_two_template",
+                              "_cleaned": "click | go_to: efm_activity_v_two_template"
+                            }
+                          ],
+                          "parameter_list": {
+                            "style": "short",
+                            "text_align": "center"
+                          },
+                          "_nested_name": "sb_and_act_accordions.acoordion.bloxk_1.activity_buttons.make_buttons_for_activities.button_@local.activ_button_text",
+                          "_dynamicFields": {
+                            "name": [
+                              {
+                                "fullExpression": "button_@local.activ_button_text",
+                                "matchedExpression": "@local.activ_button_text",
+                                "type": "local",
+                                "fieldName": "activ_button_text"
+                              }
+                            ],
+                            "value": [
+                              {
+                                "fullExpression": "@local.activ_button_text",
+                                "matchedExpression": "@local.activ_button_text",
+                                "type": "local",
+                                "fieldName": "activ_button_text"
+                              }
+                            ],
+                            "action_list": {
+                              "0": {
+                                "args": {
+                                  "1": [
+                                    {
+                                      "fullExpression": "@local.next_activ",
+                                      "matchedExpression": "@local.next_activ",
+                                      "type": "local",
+                                      "fieldName": "next_activ"
+                                    }
+                                  ]
+                                },
+                                "_raw": [
+                                  {
+                                    "fullExpression": "click | set_field:current_activity: @local.next_activ",
+                                    "matchedExpression": "@local.next_activ",
+                                    "type": "local",
+                                    "fieldName": "next_activ"
+                                  }
+                                ],
+                                "_cleaned": [
+                                  {
+                                    "fullExpression": "click | set_field:current_activity: @local.next_activ",
+                                    "matchedExpression": "@local.next_activ",
+                                    "type": "local",
+                                    "fieldName": "next_activ"
+                                  }
+                                ]
+                              }
+                            },
+                            "_nested_name": [
+                              {
+                                "fullExpression": "sb_and_act_accordions.acoordion.bloxk_1.activity_buttons.make_buttons_for_activities.button_@local.activ_button_text",
+                                "matchedExpression": "@local.activ_button_text",
+                                "type": "local",
+                                "fieldName": "activ_button_text"
+                              }
+                            ]
+                          },
+                          "_dynamicDependencies": {
+                            "@local.activ_button_text": [
+                              "name",
+                              "value",
+                              "_nested_name"
+                            ],
+                            "@local.next_activ": [
+                              "action_list.0.args.1",
+                              "action_list.0._raw",
+                              "action_list.0._cleaned"
+                            ]
+                          }
+                        }
+                      ],
+                      "_nested_name": "sb_and_act_accordions.acoordion.bloxk_1.activity_buttons.make_buttons_for_activities",
+                      "_dynamicFields": {
+                        "value": [
+                          {
+                            "fullExpression": "@data.@local.act_list_id_name",
+                            "matchedExpression": "@local.act_list_id_name",
+                            "type": "local",
+                            "fieldName": "act_list_id_name"
+                          }
+                        ]
+                      },
+                      "_dynamicDependencies": {
+                        "@local.act_list_id_name": [
+                          "value"
+                        ]
+                      }
+                    }
+                  ],
+                  "_nested_name": "sb_and_act_accordions.acoordion.bloxk_1.activity_buttons"
+                }
+              ],
+              "_nested_name": "sb_and_act_accordions.acoordion.bloxk_1",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.accordion_label_1",
+                    "matchedExpression": "@local.accordion_label_1",
+                    "type": "local",
+                    "fieldName": "accordion_label_1"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.accordion_label_1": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "type": "accordion_section",
+              "name": "bloxk_2",
+              "value": "@local.accordion_label_2",
+              "condition": "@local.dont_do_sbs_list == \"false\"",
+              "rows": [
+                {
+                  "type": "display_group",
+                  "name": "storybook_buttons",
+                  "parameter_list": {
+                    "style": "column"
+                  },
+                  "rows": [
+                    {
+                      "type": "items",
+                      "name": "make_buttons_for_storybooks",
+                      "value": "@data.@local.sb_list_id_name",
+                      "rows": [
+                        {
+                          "name": "next_sbook",
+                          "value": "data.efm_storybooks.@item.sb_list_id",
+                          "_translations": {
+                            "value": {}
+                          },
+                          "type": "set_variable",
+                          "_nested_name": "sb_and_act_accordions.acoordion.bloxk_2.storybook_buttons.make_buttons_for_storybooks.next_sbook",
+                          "_dynamicFields": {
+                            "value": [
+                              {
+                                "fullExpression": "data.efm_storybooks.@item.sb_list_id",
+                                "matchedExpression": "@item.sb_list_id",
+                                "type": "item",
+                                "fieldName": "sb_list_id"
+                              }
+                            ]
+                          },
+                          "_dynamicDependencies": {
+                            "@item.sb_list_id": [
+                              "value"
+                            ]
+                          }
+                        },
+                        {
+                          "name": "next_sbook_ptr",
+                          "value": "@@local.next_sbook",
+                          "_translations": {
+                            "value": {}
+                          },
+                          "type": "set_variable",
+                          "_nested_name": "sb_and_act_accordions.acoordion.bloxk_2.storybook_buttons.make_buttons_for_storybooks.next_sbook_ptr",
+                          "_dynamicFields": {
+                            "value": [
+                              {
+                                "fullExpression": "@@local.next_sbook",
+                                "matchedExpression": "@local.next_sbook",
+                                "type": "local",
+                                "fieldName": "next_sbook"
+                              }
+                            ]
+                          },
+                          "_dynamicDependencies": {
+                            "@local.next_sbook": [
+                              "value"
+                            ]
+                          }
+                        },
+                        {
+                          "name": "sbook_button_text",
+                          "value": "@local.next_sbook_ptr.title",
+                          "_translations": {
+                            "value": {}
+                          },
+                          "type": "set_variable",
+                          "_nested_name": "sb_and_act_accordions.acoordion.bloxk_2.storybook_buttons.make_buttons_for_storybooks.sbook_button_text",
+                          "_dynamicFields": {
+                            "value": [
+                              {
+                                "fullExpression": "@local.next_sbook_ptr.title",
+                                "matchedExpression": "@local.next_sbook_ptr.title",
+                                "type": "local",
+                                "fieldName": "next_sbook_ptr"
+                              }
+                            ]
+                          },
+                          "_dynamicDependencies": {
+                            "@local.next_sbook_ptr.title": [
+                              "value"
+                            ]
+                          }
+                        },
+                        {
+                          "type": "button",
+                          "name": "button_@local.sbook_button_text",
+                          "value": "@local.sbook_button_text",
+                          "_translations": {
+                            "value": {}
+                          },
+                          "action_list": [
+                            {
+                              "trigger": "click",
+                              "action_id": "set_field",
+                              "args": [
+                                "current_book",
+                                "@local.next_sbook"
+                              ],
+                              "_raw": "click | set_field:current_book: @local.next_sbook",
+                              "_cleaned": "click | set_field:current_book: @local.next_sbook"
+                            },
+                            {
+                              "trigger": "click",
+                              "action_id": "go_to",
+                              "args": [
+                                "efm_story_template"
+                              ],
+                              "_raw": "click | go_to: efm_story_template",
+                              "_cleaned": "click | go_to: efm_story_template"
+                            }
+                          ],
+                          "parameter_list": {
+                            "style": "short",
+                            "text_align": "center"
+                          },
+                          "_nested_name": "sb_and_act_accordions.acoordion.bloxk_2.storybook_buttons.make_buttons_for_storybooks.button_@local.sbook_button_text",
+                          "_dynamicFields": {
+                            "name": [
+                              {
+                                "fullExpression": "button_@local.sbook_button_text",
+                                "matchedExpression": "@local.sbook_button_text",
+                                "type": "local",
+                                "fieldName": "sbook_button_text"
+                              }
+                            ],
+                            "value": [
+                              {
+                                "fullExpression": "@local.sbook_button_text",
+                                "matchedExpression": "@local.sbook_button_text",
+                                "type": "local",
+                                "fieldName": "sbook_button_text"
+                              }
+                            ],
+                            "action_list": {
+                              "0": {
+                                "args": {
+                                  "1": [
+                                    {
+                                      "fullExpression": "@local.next_sbook",
+                                      "matchedExpression": "@local.next_sbook",
+                                      "type": "local",
+                                      "fieldName": "next_sbook"
+                                    }
+                                  ]
+                                },
+                                "_raw": [
+                                  {
+                                    "fullExpression": "click | set_field:current_book: @local.next_sbook",
+                                    "matchedExpression": "@local.next_sbook",
+                                    "type": "local",
+                                    "fieldName": "next_sbook"
+                                  }
+                                ],
+                                "_cleaned": [
+                                  {
+                                    "fullExpression": "click | set_field:current_book: @local.next_sbook",
+                                    "matchedExpression": "@local.next_sbook",
+                                    "type": "local",
+                                    "fieldName": "next_sbook"
+                                  }
+                                ]
+                              }
+                            },
+                            "_nested_name": [
+                              {
+                                "fullExpression": "sb_and_act_accordions.acoordion.bloxk_2.storybook_buttons.make_buttons_for_storybooks.button_@local.sbook_button_text",
+                                "matchedExpression": "@local.sbook_button_text",
+                                "type": "local",
+                                "fieldName": "sbook_button_text"
+                              }
+                            ]
+                          },
+                          "_dynamicDependencies": {
+                            "@local.sbook_button_text": [
+                              "name",
+                              "value",
+                              "_nested_name"
+                            ],
+                            "@local.next_sbook": [
+                              "action_list.0.args.1",
+                              "action_list.0._raw",
+                              "action_list.0._cleaned"
+                            ]
+                          }
+                        }
+                      ],
+                      "_nested_name": "sb_and_act_accordions.acoordion.bloxk_2.storybook_buttons.make_buttons_for_storybooks",
+                      "_dynamicFields": {
+                        "value": [
+                          {
+                            "fullExpression": "@data.@local.sb_list_id_name",
+                            "matchedExpression": "@local.sb_list_id_name",
+                            "type": "local",
+                            "fieldName": "sb_list_id_name"
+                          }
+                        ]
+                      },
+                      "_dynamicDependencies": {
+                        "@local.sb_list_id_name": [
+                          "value"
+                        ]
+                      }
+                    }
+                  ],
+                  "_nested_name": "sb_and_act_accordions.acoordion.bloxk_2.storybook_buttons"
+                }
+              ],
+              "_nested_name": "sb_and_act_accordions.acoordion.bloxk_2",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.accordion_label_2",
+                    "matchedExpression": "@local.accordion_label_2",
+                    "type": "local",
+                    "fieldName": "accordion_label_2"
+                  }
+                ],
+                "condition": [
+                  {
+                    "fullExpression": "@local.dont_do_sbs_list == \"false\"",
+                    "matchedExpression": "@local.dont_do_sbs_list",
+                    "type": "local",
+                    "fieldName": "dont_do_sbs_list"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.accordion_label_2": [
+                  "value"
+                ],
+                "@local.dont_do_sbs_list": [
+                  "condition"
+                ]
+              }
+            }
+          ],
+          "_nested_name": "sb_and_act_accordions.acoordion"
+        }
+      ],
+      "_nested_name": "sb_and_act_accordions",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.dont_do_sbs_and_acts_lists == \"false\"",
+            "matchedExpression": "@local.dont_do_sbs_and_acts_lists",
+            "type": "local",
+            "fieldName": "dont_do_sbs_and_acts_lists"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.dont_do_sbs_and_acts_lists": [
+          "condition"
+        ]
+      }
+    },
+    {
       "name": "mls_id",
       "value": "@local.efm_pd_a_ptr.mls_id",
       "_translations": {
@@ -277,7 +900,7 @@
     {
       "type": "text",
       "name": "mls_info",
-      "value": "Math Learning Step",
+      "value": "**Math Learning Step**",
       "_translations": {
         "value": {}
       },
@@ -526,7 +1149,7 @@
     {
       "type": "text",
       "name": "storybook_info",
-      "value": "Storybook",
+      "value": "**Storybook**",
       "_translations": {
         "value": {}
       },
@@ -749,17 +1372,6 @@
       }
     },
     {
-      "type": "text",
-      "name": "activity_info",
-      "value": "Activities",
-      "_translations": {
-        "value": {
-          "es_es": true
-        }
-      },
-      "_nested_name": "activity_info"
-    },
-    {
       "name": "act_one_id",
       "value": "@local.efm_pd_a_ptr.act_1_id",
       "_translations": {
@@ -780,6 +1392,103 @@
       "_dynamicDependencies": {
         "@local.efm_pd_a_ptr.act_1_id": [
           "value"
+        ]
+      }
+    },
+    {
+      "name": "act_two_id",
+      "value": "@local.efm_pd_a_ptr.act_2_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "act_two_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.efm_pd_a_ptr.act_2_id",
+            "matchedExpression": "@local.efm_pd_a_ptr.act_2_id",
+            "type": "local",
+            "fieldName": "efm_pd_a_ptr"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.efm_pd_a_ptr.act_2_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "act_three_id",
+      "value": "@local.efm_pd_a_ptr.act_3_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "act_three_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.efm_pd_a_ptr.act_3_id",
+            "matchedExpression": "@local.efm_pd_a_ptr.act_3_id",
+            "type": "local",
+            "fieldName": "efm_pd_a_ptr"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.efm_pd_a_ptr.act_3_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "act_four_id",
+      "value": "@local.efm_pd_a_ptr.act_4_id",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "act_four_id",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.efm_pd_a_ptr.act_4_id",
+            "matchedExpression": "@local.efm_pd_a_ptr.act_4_id",
+            "type": "local",
+            "fieldName": "efm_pd_a_ptr"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.efm_pd_a_ptr.act_4_id": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "activity_info",
+      "value": "**Activities**",
+      "_translations": {
+        "value": {}
+      },
+      "condition": "@local.act_one_id",
+      "_nested_name": "activity_info",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.act_one_id",
+            "matchedExpression": "@local.act_one_id",
+            "type": "local",
+            "fieldName": "act_one_id"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.act_one_id": [
+          "condition"
         ]
       }
     },
@@ -890,30 +1599,6 @@
       }
     },
     {
-      "name": "act_two_id",
-      "value": "@local.efm_pd_a_ptr.act_2_id",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "act_two_id",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.efm_pd_a_ptr.act_2_id",
-            "matchedExpression": "@local.efm_pd_a_ptr.act_2_id",
-            "type": "local",
-            "fieldName": "efm_pd_a_ptr"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.efm_pd_a_ptr.act_2_id": [
-          "value"
-        ]
-      }
-    },
-    {
       "name": "current_act_two",
       "value": "data.efm_act_v_two.@local.act_two_id",
       "_translations": {
@@ -1020,30 +1705,6 @@
       }
     },
     {
-      "name": "act_three_id",
-      "value": "@local.efm_pd_a_ptr.act_3_id",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "act_three_id",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.efm_pd_a_ptr.act_3_id",
-            "matchedExpression": "@local.efm_pd_a_ptr.act_3_id",
-            "type": "local",
-            "fieldName": "efm_pd_a_ptr"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.efm_pd_a_ptr.act_3_id": [
-          "value"
-        ]
-      }
-    },
-    {
       "name": "current_act_three",
       "value": "data.efm_act_v_two.@local.act_three_id",
       "_translations": {
@@ -1146,30 +1807,6 @@
         ],
         "@local.act_three_id": [
           "condition"
-        ]
-      }
-    },
-    {
-      "name": "act_four_id",
-      "value": "@local.efm_pd_a_ptr.act_4_id",
-      "_translations": {
-        "value": {}
-      },
-      "type": "set_variable",
-      "_nested_name": "act_four_id",
-      "_dynamicFields": {
-        "value": [
-          {
-            "fullExpression": "@local.efm_pd_a_ptr.act_4_id",
-            "matchedExpression": "@local.efm_pd_a_ptr.act_4_id",
-            "type": "local",
-            "fieldName": "efm_pd_a_ptr"
-          }
-        ]
-      },
-      "_dynamicDependencies": {
-        "@local.efm_pd_a_ptr.act_4_id": [
-          "value"
         ]
       }
     },

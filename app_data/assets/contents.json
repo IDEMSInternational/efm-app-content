@@ -29,6 +29,16 @@
     "md5Checksum": "33a5f67a2dc946d26c8398d685028b97",
     "size_kb": 19.1
   },
+  "EFM105BackAndForth12Move0.svg": {
+    "filePath": "global/EFM105BackAndForth12Move0.svg",
+    "md5Checksum": "3dd2b9b67120347603631842c4793667",
+    "size_kb": 11.8
+  },
+  "EFM105BackAndForth12Move1.svg": {
+    "filePath": "global/EFM105BackAndForth12Move1.svg",
+    "md5Checksum": "54845c041433930d11052b7a7aea2e95",
+    "size_kb": 13.5
+  },
   "EFM105BingoWithCards.svg": {
     "filePath": "global/EFM105BingoWithCards.svg",
     "md5Checksum": "97bc32f0a2856db71e78b2674cd55e66",
@@ -414,6 +424,11 @@
     "md5Checksum": "4dd24fa087a3628a44194c76e7840216",
     "size_kb": 6.8
   },
+  "EFM280DotsAndBoxesNumbered.svg": {
+    "filePath": "global/EFM280DotsAndBoxesNumbered.svg",
+    "md5Checksum": "f7a4146a4cbc1d42c23ba2bd3127b3f5",
+    "size_kb": 8.8
+  },
   "EFM280Tapatan.svg": {
     "filePath": "global/EFM280Tapatan.svg",
     "md5Checksum": "09af0fac0fc9e16f12438fd46947b1c6",
@@ -753,6 +768,11 @@
     "filePath": "global/EFM60TwoCheeriosinahand.svg",
     "md5Checksum": "9d75071afc846ff3c89215ed5200c6e5",
     "size_kb": 10.2
+  },
+  "EFM70EachOfTheseIsDifferent.svg": {
+    "filePath": "global/EFM70EachOfTheseIsDifferent.svg",
+    "md5Checksum": "1eb9a8b59461a5f1939f6592967dd35a",
+    "size_kb": 6.5
   },
   "EFM70EachOfTheseIsDifferentExample.svg": {
     "filePath": "global/EFM70EachOfTheseIsDifferentExample.svg",
