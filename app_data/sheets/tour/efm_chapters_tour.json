@@ -10,25 +10,19 @@
         "title": {
           "es_es": true
         },
-        "message_text": {
-          "es_es": true
-        }
+        "message_text": {}
       },
-      "message_text": "Each of the chapters has about a dozen sections of fun games, puzzles, activities, and investigations.",
+      "message_text": "Each of the Stages has about a dozen sections of fun games, puzzles, activities, and investigations for your family to enjoy together.",
       "route": "template/efm_chapters"
     },
     {
       "type": "step",
-      "title": "Chapters",
+      "title": "Stages",
       "_translations": {
-        "title": {
-          "es_es": true
-        },
-        "message_text": {
-          "es_es": true
-        }
+        "title": {},
+        "message_text": {}
       },
-      "message_text": "Each chapter name describes the main requirement for your child to start that chapter. For example, if your child can count to ten, and knows what those numbers mean, then start with chapter 3. The materials in the chapters are designed in a learning progression so that later sections build on the earlier ones.",
+      "message_text": "Each Stage name describes the main requirement for your child to start that Stage. For example, if your child can count to ten, and knows what those numbers mean, then start with Stage 3. The materials in the Stages are designed in a learning progression so that later sections build on the earlier ones.",
       "template_component_name": "dg_chapters",
       "route": "template/efm_chapters"
     },
@@ -45,11 +39,9 @@
     },
     {
       "type": "step",
-      "message_text": "Please select whether you would rather view the chapter activities individually or by topic.",
+      "message_text": "Please select whether you would rather view the Stage activities individually or by topic.",
       "_translations": {
-        "message_text": {
-          "es_es": true
-        }
+        "message_text": {}
       },
       "template_component_name": "dg_view",
       "route": "template/efm_chapters"

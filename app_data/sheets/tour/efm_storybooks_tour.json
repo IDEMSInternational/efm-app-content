@@ -10,11 +10,9 @@
         "title": {
           "es_es": true
         },
-        "message_text": {
-          "es_es": true
-        }
+        "message_text": {}
       },
-      "message_text": "Reading with your child is a wonderful experience! Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience.",
+      "message_text": "Reading with your child is a wonderful experience! These storybooks are for an adult to read to a child. Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience.",
       "route": "template/efm_storybooks"
     },
     {

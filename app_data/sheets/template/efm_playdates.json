@@ -31,10 +31,10 @@
                   "trigger": "click",
                   "action_id": "start_tour",
                   "args": [
-                    "efm_chapters_tour"
+                    "efm_playdates_tour"
                   ],
-                  "_raw": "click | start_tour: efm_chapters_tour",
-                  "_cleaned": "click | start_tour: efm_chapters_tour"
+                  "_raw": "click | start_tour: efm_playdates_tour",
+                  "_cleaned": "click | start_tour: efm_playdates_tour"
                 }
               ],
               "parameter_list": {
@@ -51,20 +51,11 @@
     },
     {
       "type": "display_group",
-      "name": "dg_chapters",
+      "name": "dg_playdate_stages",
       "parameter_list": {
         "style": "column"
       },
       "rows": [
-        {
-          "type": "text",
-          "name": "chapter_select",
-          "value": "**Stages**",
-          "_translations": {
-            "value": {}
-          },
-          "_nested_name": "dg_chapters.chapter_select"
-        },
         {
           "name": "template_name",
           "value": "efm_chapter_pd_individually",
@@ -72,7 +63,7 @@
             "value": {}
           },
           "type": "set_variable",
-          "_nested_name": "dg_chapters.template_name"
+          "_nested_name": "dg_playdate_stages.template_name"
         },
         {
           "type": "items",
@@ -111,7 +102,7 @@
                 "style": "short",
                 "text_align": "center"
               },
-              "_nested_name": "dg_chapters.chapter_buttons.button_@item.title",
+              "_nested_name": "dg_playdate_stages.chapter_buttons.button_@item.title",
               "_dynamicFields": {
                 "name": [
                   {
@@ -189,7 +180,7 @@
                 },
                 "_nested_name": [
                   {
-                    "fullExpression": "dg_chapters.chapter_buttons.button_@item.title",
+                    "fullExpression": "dg_playdate_stages.chapter_buttons.button_@item.title",
                     "matchedExpression": "@item.title",
                     "type": "item",
                     "fieldName": "title"
@@ -215,7 +206,7 @@
               }
             }
           ],
-          "_nested_name": "dg_chapters.chapter_buttons",
+          "_nested_name": "dg_playdate_stages.chapter_buttons",
           "_dynamicFields": {
             "value": [
               {
@@ -233,7 +224,7 @@
           }
         }
       ],
-      "_nested_name": "dg_chapters"
+      "_nested_name": "dg_playdate_stages"
     },
     {
       "name": "now",

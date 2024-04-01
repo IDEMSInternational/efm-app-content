@@ -845,6 +845,16 @@
       "flow_name": "efm_chapters_tour",
       "_xlsxPath": "EFM_tours.xlsx"
     },
+    "efm_mls_tour": {
+      "flow_type": "tour",
+      "flow_name": "efm_mls_tour",
+      "_xlsxPath": "EFM_tours.xlsx"
+    },
+    "efm_playdates_tour": {
+      "flow_type": "tour",
+      "flow_name": "efm_playdates_tour",
+      "_xlsxPath": "EFM_tours.xlsx"
+    },
     "efm_storybooks_tour": {
       "flow_type": "tour",
       "flow_name": "efm_storybooks_tour",

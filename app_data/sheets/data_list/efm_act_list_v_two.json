@@ -2008,7 +2008,7 @@
           "eng": "Variations"
         },
         "block4_text": {
-          "eng": "• Allow at most one match per turn.\n• Use a target sum larger than the larg"
+          "eng": "• Allow at most one match per turn.\n• Use a target sum larger than the largest card. Two cards match if their sum is the target."
         }
       },
       "type_name": "Game",
@@ -2017,7 +2017,7 @@
       "block2_text": "**How to play:** Take turns flipping two cards face-up. If the cards match, the player gets to keep the cards, replaces the two cards from the draw pile, and continues their turn. If the cards don’t match, the player flips the cards back over and ends their turn.",
       "block3_text": "**How to win:** The game ends when the last pair is taken. The player with the most cards wins.",
       "block4_accord": "Variations",
-      "block4_text": "• Allow at most one match per turn.\n• Use a target sum larger than the larg"
+      "block4_text": "• Allow at most one match per turn.\n• Use a target sum larger than the largest card. Two cards match if their sum is the target."
     },
     {
       "id": "efm_act_2_105b",
