@@ -50,7 +50,7 @@
         "title": {},
         "message_text": {}
       },
-      "message_text": "Have you ever wondered what the beginning learning steps are for math, and how they connect with each other? Here are brief explanations of the ten math learning steps your child will be experiencing as they go through each of the five Stages.",
+      "message_text": "Have you ever wondered what the beginning learning steps are for math, and how they connect with each other? Here are brief descriptions of the ten math learning steps your child will be experiencing as they go through each of the five Stages.",
       "template_component_name": "dg_math_learning_steps",
       "route": "template/home_screen"
     },
