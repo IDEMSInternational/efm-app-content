@@ -798,10 +798,10 @@
               "trigger": "click",
               "action_id": "start_tour",
               "args": [
-                "efm_chapters_tour"
+                "efm_mls_tour"
               ],
-              "_raw": "click | start_tour: efm_chapters_tour",
-              "_cleaned": "click | start_tour: efm_chapters_tour"
+              "_raw": "click | start_tour: efm_mls_tour",
+              "_cleaned": "click | start_tour: efm_mls_tour"
             },
             {
               "trigger": "click",
@@ -1035,10 +1035,10 @@
               "trigger": "click",
               "action_id": "start_tour",
               "args": [
-                "efm_chapters_tour"
+                "efm_playdates_tour"
               ],
-              "_raw": "click | start_tour: efm_chapters_tour",
-              "_cleaned": "click | start_tour: efm_chapters_tour"
+              "_raw": "click | start_tour: efm_playdates_tour",
+              "_cleaned": "click | start_tour: efm_playdates_tour"
             },
             {
               "trigger": "click",
