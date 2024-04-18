@@ -216,7 +216,7 @@
       },
       "condition": "@local.book_author",
       "style_list": [
-        "margin-top: -20px"
+        "margin-top: -10px"
       ],
       "_nested_name": "author_1",
       "_dynamicFields": {
@@ -253,7 +253,7 @@
       },
       "condition": "@local.book_illustrator",
       "style_list": [
-        "margin-top: -20px"
+        "margin-top: -10px"
       ],
       "_nested_name": "illustrator_1",
       "_dynamicFields": {
@@ -677,7 +677,8 @@
           },
           "condition": "@item.annotation_1 && @local.checkbox_reading1",
           "style_list": [
-            "margin-top: -20px"
+            "margin-top: -10px",
+            "color: red"
           ],
           "exclude_from_translation": true,
           "_nested_name": "pages.anno1_@item.page_no",
@@ -744,7 +745,8 @@
           },
           "condition": "@item.annotation_2 && @local.checkbox_reading2",
           "style_list": [
-            "margin-top: -20px"
+            "margin-top: -10px",
+            "color: blue"
           ],
           "exclude_from_translation": true,
           "_nested_name": "pages.anno2_@item.page_no",
@@ -811,7 +813,8 @@
           },
           "condition": "@item.annotation_3 && @local.checkbox_reading3",
           "style_list": [
-            "margin-top: -20px"
+            "margin-top: -10px",
+            "color: green"
           ],
           "exclude_from_translation": true,
           "_nested_name": "pages.anno3_@item.page_no",
