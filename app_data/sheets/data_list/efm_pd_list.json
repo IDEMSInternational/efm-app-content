@@ -7,8 +7,12 @@
     {
       "id": "efm_pd_1_0",
       "chapter": 1,
-      "sb_list_id": "efm_pd_sb_1",
-      "act_list_id": "efm_pd_act_1",
+      "sb_list_id": [
+        "efm_pd_sb_1"
+      ],
+      "act_list_id": [
+        "efm_pd_act_1"
+      ],
       "mls_id": "efm_mls_1_0",
       "block1_type": "all_text",
       "title": "Stage 1 Overview",
@@ -259,8 +263,12 @@
     {
       "id": "efm_pd_2_0",
       "chapter": 2,
-      "sb_list_id": "efm_pd_sb_2",
-      "act_list_id": "efm_pd_act_2",
+      "sb_list_id": [
+        "efm_pd_sb_2"
+      ],
+      "act_list_id": [
+        "efm_pd_act_2"
+      ],
       "mls_id": "efm_mls_2_0",
       "block1_type": "all_text",
       "title": "Stage 2 Overview",
@@ -513,8 +521,12 @@
     {
       "id": "efm_pd_3_0",
       "chapter": 3,
-      "sb_list_id": "efm_pd_sb_3",
-      "act_list_id": "efm_pd_act_3",
+      "sb_list_id": [
+        "efm_pd_sb_3"
+      ],
+      "act_list_id": [
+        "efm_pd_act_3"
+      ],
       "mls_id": "efm_mls_3_0",
       "block1_type": "all_text",
       "title": "Stage 3 Overview",
@@ -765,8 +777,12 @@
     {
       "id": "efm_pd_4_0",
       "chapter": 4,
-      "sb_list_id": "efm_pd_sb_4",
-      "act_list_id": "efm_pd_act_4",
+      "sb_list_id": [
+        "efm_pd_sb_4"
+      ],
+      "act_list_id": [
+        "efm_pd_act_4"
+      ],
       "mls_id": "efm_mls_4_0",
       "block1_type": "all_text",
       "title": "Stage 4 Overview",
@@ -1017,7 +1033,9 @@
     {
       "id": "efm_pd_5_0",
       "chapter": 5,
-      "act_list_id": "efm_pd_act_5",
+      "act_list_id": [
+        "efm_pd_act_5"
+      ],
       "mls_id": "efm_mls_5_0",
       "block1_type": "all_text",
       "title": "Stage 5 Overview",

@@ -252,101 +252,97 @@
     },
     {
       "name": "sb_list_id_name",
-      "value": [
-        "@local.efm_pd_a_ptr.sb_list_id"
-      ],
+      "value": "@local.efm_pd_a_ptr.sb_list_id",
+      "_translations": {
+        "value": {}
+      },
       "type": "set_variable",
       "_nested_name": "sb_list_id_name",
       "_dynamicFields": {
-        "value": {
-          "0": [
-            {
-              "fullExpression": "@local.efm_pd_a_ptr.sb_list_id",
-              "matchedExpression": "@local.efm_pd_a_ptr.sb_list_id",
-              "type": "local",
-              "fieldName": "efm_pd_a_ptr"
-            }
-          ]
-        }
+        "value": [
+          {
+            "fullExpression": "@local.efm_pd_a_ptr.sb_list_id",
+            "matchedExpression": "@local.efm_pd_a_ptr.sb_list_id",
+            "type": "local",
+            "fieldName": "efm_pd_a_ptr"
+          }
+        ]
       },
       "_dynamicDependencies": {
         "@local.efm_pd_a_ptr.sb_list_id": [
-          "value.0"
+          "value"
         ]
       }
     },
     {
       "name": "act_list_id_name",
-      "value": [
-        "@local.efm_pd_a_ptr.act_list_id"
-      ],
+      "value": "@local.efm_pd_a_ptr.act_list_id",
+      "_translations": {
+        "value": {}
+      },
       "type": "set_variable",
       "_nested_name": "act_list_id_name",
       "_dynamicFields": {
-        "value": {
-          "0": [
-            {
-              "fullExpression": "@local.efm_pd_a_ptr.act_list_id",
-              "matchedExpression": "@local.efm_pd_a_ptr.act_list_id",
-              "type": "local",
-              "fieldName": "efm_pd_a_ptr"
-            }
-          ]
-        }
+        "value": [
+          {
+            "fullExpression": "@local.efm_pd_a_ptr.act_list_id",
+            "matchedExpression": "@local.efm_pd_a_ptr.act_list_id",
+            "type": "local",
+            "fieldName": "efm_pd_a_ptr"
+          }
+        ]
       },
       "_dynamicDependencies": {
         "@local.efm_pd_a_ptr.act_list_id": [
-          "value.0"
+          "value"
         ]
       }
     },
     {
       "name": "dont_do_sbs_and_acts_lists",
-      "value": [
-        "@local.act_list_id_name == \"\""
-      ],
+      "value": "@local.act_list_id_name == \"\"",
+      "_translations": {
+        "value": {}
+      },
       "type": "set_variable",
       "_nested_name": "dont_do_sbs_and_acts_lists",
       "_dynamicFields": {
-        "value": {
-          "0": [
-            {
-              "fullExpression": "@local.act_list_id_name == \"\"",
-              "matchedExpression": "@local.act_list_id_name",
-              "type": "local",
-              "fieldName": "act_list_id_name"
-            }
-          ]
-        }
+        "value": [
+          {
+            "fullExpression": "@local.act_list_id_name == \"\"",
+            "matchedExpression": "@local.act_list_id_name",
+            "type": "local",
+            "fieldName": "act_list_id_name"
+          }
+        ]
       },
       "_dynamicDependencies": {
         "@local.act_list_id_name": [
-          "value.0"
+          "value"
         ]
       }
     },
     {
       "name": "dont_do_sbs_list",
-      "value": [
-        "@local.sb_list_id_name == \"\""
-      ],
+      "value": "@local.sb_list_id_name == \"\"",
+      "_translations": {
+        "value": {}
+      },
       "type": "set_variable",
       "_nested_name": "dont_do_sbs_list",
       "_dynamicFields": {
-        "value": {
-          "0": [
-            {
-              "fullExpression": "@local.sb_list_id_name == \"\"",
-              "matchedExpression": "@local.sb_list_id_name",
-              "type": "local",
-              "fieldName": "sb_list_id_name"
-            }
-          ]
-        }
+        "value": [
+          {
+            "fullExpression": "@local.sb_list_id_name == \"\"",
+            "matchedExpression": "@local.sb_list_id_name",
+            "type": "local",
+            "fieldName": "sb_list_id_name"
+          }
+        ]
       },
       "_dynamicDependencies": {
         "@local.sb_list_id_name": [
-          "value.0"
+          "value"
         ]
       }
     },

@@ -347,7 +347,7 @@
                 "value": {}
               },
               "type": "set_variable",
-              "_nested_name": "run_through_body_sections.display_group.paragraph_space"
+              "_nested_name": "run_through_body_sections.display_group_8.paragraph_space"
             },
             {
               "type": "accordion",
@@ -368,7 +368,7 @@
                       "_translations": {
                         "value": {}
                       },
-                      "_nested_name": "run_through_body_sections.display_group.accordion.bloxk_1.display_text",
+                      "_nested_name": "run_through_body_sections.display_group_8.accordion.bloxk_1.display_text",
                       "_dynamicFields": {
                         "value": [
                           {
@@ -386,7 +386,7 @@
                       }
                     }
                   ],
-                  "_nested_name": "run_through_body_sections.display_group.accordion.bloxk_1",
+                  "_nested_name": "run_through_body_sections.display_group_8.accordion.bloxk_1",
                   "_dynamicFields": {
                     "value": [
                       {
@@ -404,11 +404,11 @@
                   }
                 }
               ],
-              "_nested_name": "run_through_body_sections.display_group.accordion"
+              "_nested_name": "run_through_body_sections.display_group_8.accordion"
             }
           ],
-          "name": "display_group",
-          "_nested_name": "run_through_body_sections.display_group",
+          "name": "display_group_8",
+          "_nested_name": "run_through_body_sections.display_group_8",
           "_dynamicFields": {
             "condition": [
               {
@@ -439,7 +439,7 @@
                 "value": {}
               },
               "type": "set_variable",
-              "_nested_name": "run_through_body_sections.display_group.paragraph_space",
+              "_nested_name": "run_through_body_sections.display_group_9.paragraph_space",
               "_dynamicFields": {
                 "value": [
                   {
@@ -463,7 +463,7 @@
               "_translations": {
                 "value": {}
               },
-              "_nested_name": "run_through_body_sections.display_group.display_text",
+              "_nested_name": "run_through_body_sections.display_group_9.display_text",
               "_dynamicFields": {
                 "value": [
                   {
@@ -481,8 +481,8 @@
               }
             }
           ],
-          "name": "display_group",
-          "_nested_name": "run_through_body_sections.display_group",
+          "name": "display_group_9",
+          "_nested_name": "run_through_body_sections.display_group_9",
           "_dynamicFields": {
             "condition": [
               {
@@ -532,7 +532,7 @@
               "style_list": [
                 "max-width: @@local.block_illustration_max_width"
               ],
-              "_nested_name": "run_through_body_sections.display_group.display_illust",
+              "_nested_name": "run_through_body_sections.display_group_10.display_illust",
               "_dynamicFields": {
                 "value": [
                   {
@@ -563,8 +563,8 @@
               }
             }
           ],
-          "name": "display_group",
-          "_nested_name": "run_through_body_sections.display_group",
+          "name": "display_group_10",
+          "_nested_name": "run_through_body_sections.display_group_10",
           "_dynamicFields": {
             "condition": [
               {
@@ -608,7 +608,7 @@
                 "value": {}
               },
               "type": "set_variable",
-              "_nested_name": "run_through_body_sections.display_group.paragraph_space",
+              "_nested_name": "run_through_body_sections.display_group_11.paragraph_space",
               "_dynamicFields": {
                 "value": [
                   {
@@ -636,7 +636,7 @@
                 "flex: @@local.block_illustration_flex",
                 "max-width: @@local.block_illustration_max_width"
               ],
-              "_nested_name": "run_through_body_sections.display_group.display_illust",
+              "_nested_name": "run_through_body_sections.display_group_11.display_illust",
               "_dynamicFields": {
                 "value": [
                   {
@@ -687,7 +687,7 @@
               "style_list": [
                 "flex:100"
               ],
-              "_nested_name": "run_through_body_sections.display_group.display_text",
+              "_nested_name": "run_through_body_sections.display_group_11.display_text",
               "_dynamicFields": {
                 "value": [
                   {
@@ -705,8 +705,8 @@
               }
             }
           ],
-          "name": "display_group",
-          "_nested_name": "run_through_body_sections.display_group",
+          "name": "display_group_11",
+          "_nested_name": "run_through_body_sections.display_group_11",
           "_dynamicFields": {
             "condition": [
               {
@@ -750,7 +750,7 @@
                 "value": {}
               },
               "type": "set_variable",
-              "_nested_name": "run_through_body_sections.display_group.paragraph_space",
+              "_nested_name": "run_through_body_sections.display_group_12.paragraph_space",
               "_dynamicFields": {
                 "value": [
                   {
@@ -777,7 +777,7 @@
               "style_list": [
                 "flex:100"
               ],
-              "_nested_name": "run_through_body_sections.display_group.display_text",
+              "_nested_name": "run_through_body_sections.display_group_12.display_text",
               "_dynamicFields": {
                 "value": [
                   {
@@ -805,7 +805,7 @@
                 "flex: @@local.block_illustration_flex",
                 "max-width: @@local.block_illustration_max_width"
               ],
-              "_nested_name": "run_through_body_sections.display_group.display_illust",
+              "_nested_name": "run_through_body_sections.display_group_12.display_illust",
               "_dynamicFields": {
                 "value": [
                   {
@@ -847,8 +847,8 @@
               }
             }
           ],
-          "name": "display_group",
-          "_nested_name": "run_through_body_sections.display_group",
+          "name": "display_group_12",
+          "_nested_name": "run_through_body_sections.display_group_12",
           "_dynamicFields": {
             "condition": [
               {

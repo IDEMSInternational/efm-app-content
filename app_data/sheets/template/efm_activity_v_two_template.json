@@ -578,7 +578,7 @@
             "flex: 30"
           ],
           "exclude_from_translation": true,
-          "_nested_name": "display_group.prev_button_1",
+          "_nested_name": "display_group_16.prev_button_1",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -635,7 +635,7 @@
           "style_list": [
             "flex: 30"
           ],
-          "_nested_name": "display_group.left_spacer",
+          "_nested_name": "display_group_16.left_spacer",
           "_dynamicFields": {
             "condition": [
               {
@@ -666,7 +666,7 @@
           "style_list": [
             "flex: 300"
           ],
-          "_nested_name": "display_group.title",
+          "_nested_name": "display_group_16.title",
           "_dynamicFields": {
             "value": [
               {
@@ -720,7 +720,7 @@
             "flex: 30"
           ],
           "exclude_from_translation": true,
-          "_nested_name": "display_group.next_button_1",
+          "_nested_name": "display_group_16.next_button_1",
           "_dynamicFields": {
             "action_list": {
               "0": {
@@ -777,7 +777,7 @@
           "style_list": [
             "flex: 30"
           ],
-          "_nested_name": "display_group.right_spacer",
+          "_nested_name": "display_group_16.right_spacer",
           "_dynamicFields": {
             "condition": [
               {
@@ -795,8 +795,8 @@
           }
         }
       ],
-      "name": "display_group",
-      "_nested_name": "display_group"
+      "name": "display_group_16",
+      "_nested_name": "display_group_16"
     },
     {
       "type": "text",
@@ -810,7 +810,7 @@
         "style": "small"
       },
       "style_list": [
-        "margin-top: -25px"
+        "margin-top: -10px"
       ],
       "_nested_name": "subtitle",
       "_dynamicFields": {

@@ -139,7 +139,7 @@
                 "true_text": "@local.description_1",
                 "false_text": "@local.description_1"
               },
-              "_nested_name": "dg_types.display_group.checkbox_intros",
+              "_nested_name": "dg_types.display_group_6.checkbox_intros",
               "_dynamicFields": {
                 "value": [
                   {
@@ -225,7 +225,7 @@
                 "true_text": "@local.description_2",
                 "false_text": "@local.description_2"
               },
-              "_nested_name": "dg_types.display_group.checkbox_games",
+              "_nested_name": "dg_types.display_group_6.checkbox_games",
               "_dynamicFields": {
                 "value": [
                   {
@@ -289,8 +289,8 @@
               }
             }
           ],
-          "name": "display_group",
-          "_nested_name": "dg_types.display_group"
+          "name": "display_group_6",
+          "_nested_name": "dg_types.display_group_6"
         },
         {
           "type": "display_group",
@@ -318,7 +318,7 @@
                 "true_text": "@local.description_3",
                 "false_text": "@local.description_3"
               },
-              "_nested_name": "dg_types.display_group.checkbox_puzzles",
+              "_nested_name": "dg_types.display_group_7.checkbox_puzzles",
               "_dynamicFields": {
                 "value": [
                   {
@@ -404,7 +404,7 @@
                 "true_text": "@local.description_4",
                 "false_text": "@local.description_4"
               },
-              "_nested_name": "dg_types.display_group.checkbox_activities",
+              "_nested_name": "dg_types.display_group_7.checkbox_activities",
               "_dynamicFields": {
                 "value": [
                   {
@@ -468,8 +468,8 @@
               }
             }
           ],
-          "name": "display_group",
-          "_nested_name": "dg_types.display_group"
+          "name": "display_group_7",
+          "_nested_name": "dg_types.display_group_7"
         },
         {
           "type": "display_group",
@@ -497,7 +497,7 @@
                 "true_text": "@local.description_5",
                 "false_text": "@local.description_5"
               },
-              "_nested_name": "dg_types.display_group.checkbox_investigations",
+              "_nested_name": "dg_types.display_group_8.checkbox_investigations",
               "_dynamicFields": {
                 "value": [
                   {
@@ -566,11 +566,11 @@
               "style_list": [
                 "flex: 1"
               ],
-              "_nested_name": "dg_types.display_group.blank"
+              "_nested_name": "dg_types.display_group_8.blank"
             }
           ],
-          "name": "display_group",
-          "_nested_name": "dg_types.display_group"
+          "name": "display_group_8",
+          "_nested_name": "dg_types.display_group_8"
         }
       ],
       "_nested_name": "dg_types"
@@ -607,37 +607,47 @@
         {
           "name": "answer_list",
           "value": [
-            "name:individually | text: @local.radio_description_1",
-            "name:by_topic | text: @local.radio_description_2"
+            {
+              "name": "individually",
+              "text": "@local.radio_description_1"
+            },
+            {
+              "name": "by_topic",
+              "text": "@local.radio_description_2"
+            }
           ],
           "type": "set_variable",
           "_nested_name": "dg_view.answer_list",
           "_dynamicFields": {
             "value": {
-              "0": [
-                {
-                  "fullExpression": "name:individually | text: @local.radio_description_1",
-                  "matchedExpression": "@local.radio_description_1",
-                  "type": "local",
-                  "fieldName": "radio_description_1"
-                }
-              ],
-              "1": [
-                {
-                  "fullExpression": "name:by_topic | text: @local.radio_description_2",
-                  "matchedExpression": "@local.radio_description_2",
-                  "type": "local",
-                  "fieldName": "radio_description_2"
-                }
-              ]
+              "0": {
+                "text": [
+                  {
+                    "fullExpression": "@local.radio_description_1",
+                    "matchedExpression": "@local.radio_description_1",
+                    "type": "local",
+                    "fieldName": "radio_description_1"
+                  }
+                ]
+              },
+              "1": {
+                "text": [
+                  {
+                    "fullExpression": "@local.radio_description_2",
+                    "matchedExpression": "@local.radio_description_2",
+                    "type": "local",
+                    "fieldName": "radio_description_2"
+                  }
+                ]
+              }
             }
           },
           "_dynamicDependencies": {
             "@local.radio_description_1": [
-              "value.0"
+              "value.0.text"
             ],
             "@local.radio_description_2": [
-              "value.1"
+              "value.1.text"
             ]
           }
         },

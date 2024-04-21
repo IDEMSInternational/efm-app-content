@@ -109,8 +109,8 @@
         "value": {}
       },
       "condition": "@local.user_id",
-      "name": "qr_code",
-      "_nested_name": "qr_code",
+      "name": "qr_code_10",
+      "_nested_name": "qr_code_10",
       "_dynamicFields": {
         "value": [
           {
