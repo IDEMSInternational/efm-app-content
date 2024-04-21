@@ -11,8 +11,8 @@
         "value": {}
       },
       "exclude_from_translation": true,
-      "name": "title",
-      "_nested_name": "title"
+      "name": "title_2",
+      "_nested_name": "title_2"
     },
     {
       "type": "text",
@@ -21,8 +21,8 @@
         "value": {}
       },
       "exclude_from_translation": true,
-      "name": "text",
-      "_nested_name": "text",
+      "name": "text_3",
+      "_nested_name": "text_3",
       "_dynamicFields": {
         "value": [
           {
@@ -46,8 +46,8 @@
         "value": {}
       },
       "exclude_from_translation": true,
-      "name": "text",
-      "_nested_name": "text",
+      "name": "text_4",
+      "_nested_name": "text_4",
       "_dynamicFields": {
         "value": [
           {
@@ -71,8 +71,8 @@
         "value": {}
       },
       "exclude_from_translation": true,
-      "name": "title",
-      "_nested_name": "title"
+      "name": "title_5",
+      "_nested_name": "title_5"
     },
     {
       "type": "button",
@@ -102,8 +102,8 @@
       ],
       "condition": "!@fields._feedback_sidebar_open",
       "exclude_from_translation": true,
-      "name": "button",
-      "_nested_name": "button",
+      "name": "button_6",
+      "_nested_name": "button_6",
       "_dynamicFields": {
         "condition": [
           {
@@ -148,8 +148,8 @@
       ],
       "condition": "@fields._feedback_sidebar_open",
       "exclude_from_translation": true,
-      "name": "button",
-      "_nested_name": "button",
+      "name": "button_7",
+      "_nested_name": "button_7",
       "_dynamicFields": {
         "condition": [
           {
@@ -185,8 +185,8 @@
         }
       ],
       "exclude_from_translation": true,
-      "name": "button",
-      "_nested_name": "button"
+      "name": "button_8",
+      "_nested_name": "button_8"
     },
     {
       "type": "button",
@@ -207,8 +207,8 @@
         }
       ],
       "exclude_from_translation": true,
-      "name": "button",
-      "_nested_name": "button"
+      "name": "button_9",
+      "_nested_name": "button_9"
     },
     {
       "type": "button",
@@ -228,8 +228,8 @@
         }
       ],
       "exclude_from_translation": true,
-      "name": "button",
-      "_nested_name": "button"
+      "name": "button_10",
+      "_nested_name": "button_10"
     },
     {
       "type": "button",
@@ -249,8 +249,8 @@
         }
       ],
       "exclude_from_translation": true,
-      "name": "button",
-      "_nested_name": "button"
+      "name": "button_11",
+      "_nested_name": "button_11"
     },
     {
       "type": "button",
@@ -271,8 +271,8 @@
         }
       ],
       "exclude_from_translation": true,
-      "name": "button",
-      "_nested_name": "button"
+      "name": "button_12",
+      "_nested_name": "button_12"
     }
   ],
   "_xlsxPath": "feedback.xlsx"
