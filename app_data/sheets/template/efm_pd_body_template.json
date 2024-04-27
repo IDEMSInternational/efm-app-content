@@ -901,6 +901,12 @@
         "value": {}
       },
       "condition": "@local.mls_id",
+      "parameter_list": {
+        "text_align": "center"
+      },
+      "style_list": [
+        "margin-top: -3px"
+      ],
       "_nested_name": "mls_info",
       "_dynamicFields": {
         "condition": [
@@ -1150,6 +1156,9 @@
         "value": {}
       },
       "condition": "@local.sb_id",
+      "parameter_list": {
+        "text_align": "center"
+      },
       "_nested_name": "storybook_info",
       "_dynamicFields": {
         "condition": [
@@ -1471,6 +1480,9 @@
         "value": {}
       },
       "condition": "@local.act_one_id",
+      "parameter_list": {
+        "text_align": "center"
+      },
       "_nested_name": "activity_info",
       "_dynamicFields": {
         "condition": [

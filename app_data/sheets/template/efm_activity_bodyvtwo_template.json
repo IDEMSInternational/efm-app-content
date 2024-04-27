@@ -933,19 +933,19 @@
           "action_id": "set_field",
           "args": [
             "current_bonus_activity",
-            "data.efm_bon_act.@local.bonus_act_id"
+            "data.efm_bon_acts_content.@local.bonus_act_id"
           ],
-          "_raw": "click | set_field:current_bonus_activity: data.efm_bon_act.@local.bonus_act_id",
-          "_cleaned": "click | set_field:current_bonus_activity: data.efm_bon_act.@local.bonus_act_id"
+          "_raw": "click | set_field:current_bonus_activity: data.efm_bon_acts_content.@local.bonus_act_id",
+          "_cleaned": "click | set_field:current_bonus_activity: data.efm_bon_acts_content.@local.bonus_act_id"
         },
         {
           "trigger": "click",
           "action_id": "go_to",
           "args": [
-            "efm_bon_activity_template"
+            "efm_bon_act_vtwo_template"
           ],
-          "_raw": "click | go_to: efm_bon_activity_template",
-          "_cleaned": "click | go_to: efm_bon_activity_template"
+          "_raw": "click | go_to: efm_bon_act_vtwo_template",
+          "_cleaned": "click | go_to: efm_bon_act_vtwo_template"
         }
       ],
       "condition": "@local.bonus_act_id",
@@ -968,7 +968,7 @@
             "args": {
               "1": [
                 {
-                  "fullExpression": "data.efm_bon_act.@local.bonus_act_id",
+                  "fullExpression": "data.efm_bon_acts_content.@local.bonus_act_id",
                   "matchedExpression": "@local.bonus_act_id",
                   "type": "local",
                   "fieldName": "bonus_act_id"
@@ -977,7 +977,7 @@
             },
             "_raw": [
               {
-                "fullExpression": "click | set_field:current_bonus_activity: data.efm_bon_act.@local.bonus_act_id",
+                "fullExpression": "click | set_field:current_bonus_activity: data.efm_bon_acts_content.@local.bonus_act_id",
                 "matchedExpression": "@local.bonus_act_id",
                 "type": "local",
                 "fieldName": "bonus_act_id"
@@ -985,7 +985,7 @@
             ],
             "_cleaned": [
               {
-                "fullExpression": "click | set_field:current_bonus_activity: data.efm_bon_act.@local.bonus_act_id",
+                "fullExpression": "click | set_field:current_bonus_activity: data.efm_bon_acts_content.@local.bonus_act_id",
                 "matchedExpression": "@local.bonus_act_id",
                 "type": "local",
                 "fieldName": "bonus_act_id"
