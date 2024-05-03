@@ -948,33 +948,6 @@
       "math_themes_words": "This story has counting to 10 and comparing sizes. Practice words: numbers to 10, big, bigger, small, smaller, wide, wider, narrow, narrower, more, less, same, one more, and twice."
     },
     {
-      "id": "efm_sb_Horses_Of_Debre_Birhan",
-      "pages": "data.Horses_Of_Debre_Birhan_storybook",
-      "cover": "EFMStorybooks/EFM-SB-HODB-Cover.jpg",
-      "author": "Mezemir Girma",
-      "illustrator": "Yirgalem Birhanu",
-      "intro_level": "advanced",
-      "book_level": "intermediate",
-      "title": "Horses of Debre Birhan",
-      "_translations": {
-        "title": {
-          "es_es": true
-        },
-        "math_themes_words": {
-          "es_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Horses of Debre Birhan"
-        },
-        "math_themes_words": {
-          "eng": "This story has comparing words and counting in groups. Practice words: heavy, faster, enough, more than, too tight, very, old, skip counting by 2's and 4's, equal sharing, pair, pairing, odd, even, estimate, hundred, thousand, million, side, opposite side, round, and rectangle."
-        }
-      },
-      "math_themes_words": "This story has comparing words and counting in groups. Practice words: heavy, faster, enough, more than, too tight, very, old, skip counting by 2's and 4's, equal sharing, pair, pairing, odd, even, estimate, hundred, thousand, million, side, opposite side, round, and rectangle."
-    },
-    {
       "id": "efm_sb_How_Many",
       "pages": "data.How_Many_storybook",
       "cover": "EFMStorybooks/EFM-SB-HM-Cover.jpg",
@@ -1000,33 +973,6 @@
         }
       },
       "math_themes_words": "This story has counting to 14 and skip counting. Practice words: numbers to 14, skip counting, more, fewer, one more, three more, and double."
-    },
-    {
-      "id": "efm_sb_Hyena_And_Tortoise",
-      "pages": "data.Hyena_And_Tortoise_storybook",
-      "cover": "EFMStorybooks/EFM-SB-HAT-Cover.jpg",
-      "author": "African Storybook",
-      "illustrator": "Salim Kasamba",
-      "intro_level": "advanced",
-      "book_level": "intermediate",
-      "title": "Hyena and Tortoise",
-      "_translations": {
-        "title": {
-          "es_es": true
-        },
-        "math_themes_words": {
-          "es_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Hyena and Tortoise"
-        },
-        "math_themes_words": {
-          "eng": "This story has shapes and quantities. Practice words: round, cone, different shape, hexagon, regular hexagon, tile designs, squares, patterns, more, less, fewer, same, equal, number difference, estimate, stronger, weaker, faster, slower, slowly, and speed."
-        }
-      },
-      "math_themes_words": "This story has shapes and quantities. Practice words: round, cone, different shape, hexagon, regular hexagon, tile designs, squares, patterns, more, less, fewer, same, equal, number difference, estimate, stronger, weaker, faster, slower, slowly, and speed."
     },
     {
       "id": "efm_sb_I_Love_Forests",
@@ -1191,33 +1137,6 @@
       "math_themes_words": "This story has shapes and groupings. Practice words: long, round, cone, flat, rectangle, square, close, closer, estimate, skip counting by 2's and 4's, colors, more, less, object properties, grouping by property, fewer, first, last, after, before, faster, slower, none, and zero."
     },
     {
-      "id": "efm_sb_Singing_The_Truth",
-      "pages": "data.Singing_The_Truth_storybook",
-      "cover": "EFMStorybooks/EFM-SB-STT-Cover.jpg",
-      "author": "Jade Mathieson",
-      "illustrator": "Louwrisa Blaauw",
-      "intro_level": "advanced",
-      "book_level": "intermediate",
-      "title": "Singing the Truth: The Story of Miriam Makeba",
-      "_translations": {
-        "title": {
-          "es_es": true
-        },
-        "math_themes_words": {
-          "es_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Singing the Truth: The Story of Miriam Makeba"
-        },
-        "math_themes_words": {
-          "eng": "This story has lots of shapes. Practice words: shape, rectangle, straight, circle, arc, oval, arch, cone, ellipse, different, same, flat, outline, and stripe."
-        }
-      },
-      "math_themes_words": "This story has lots of shapes. Practice words: shape, rectangle, straight, circle, arc, oval, arch, cone, ellipse, different, same, flat, outline, and stripe."
-    },
-    {
       "id": "efm_sb_Sun_Moon_And_Water",
       "pages": "data.Sun_Moon_And_Water_storybook",
       "cover": "EFMStorybooks/EFM-SB-SMAW-Cover.jpg",
@@ -1272,40 +1191,13 @@
       "math_themes_words": "This story has descriptions and comparisons. Practice words: high, on, onto, average, speed, 5 times, pairs, odd, even, sharing, too, very, fast, long, distance, light, heavy, lower, higher, different, estimate, more, stronger, vertically, diagonally, parallel lines, and big."
     },
     {
-      "id": "efm_sb_Who_Can_Count_To_Ten",
-      "pages": "data.Who_Can_Count_To_Ten_storybook",
-      "cover": "EFMStorybooks/EFM-SB-WCCTT-Cover.jpg",
-      "author": "Athieno Gertrude",
-      "illustrator": "Salim Kasamba",
-      "intro_level": "advanced",
-      "book_level": "intermediate",
-      "title": "Who Can Count to Ten?",
-      "_translations": {
-        "title": {
-          "es_es": true
-        },
-        "math_themes_words": {
-          "es_es": true
-        }
-      },
-      "_translatedFields": {
-        "title": {
-          "eng": "Who Can Count to Ten?"
-        },
-        "math_themes_words": {
-          "eng": "This story has counting, comparisons, and problem solving. Practice words: numbers to ten, skip counting, counting by 2's, 3's, 4's, 5's, and 10's, odd numbers, more, difference, add, combination, total, stripes, spots, big, biggest, fast, fastest, strong, strongest, large largest, high, higher, pattern, and problem solving."
-        }
-      },
-      "math_themes_words": "This story has counting, comparisons, and problem solving. Practice words: numbers to ten, skip counting, counting by 2's, 3's, 4's, 5's, and 10's, odd numbers, more, difference, add, combination, total, stripes, spots, big, biggest, fast, fastest, strong, strongest, large largest, high, higher, pattern, and problem solving."
-    },
-    {
       "id": "efm_sb_Akais_Special_Mat",
       "pages": "data.Akais_Special_Mat_storybook",
       "cover": "EFMStorybooks/EFM-SB-ASM-Cover.jpg",
       "author": "Ursula Nafula",
       "illustrator": "Catherine Groenewald",
       "intro_level": "advanced",
-      "book_level": "intermediate",
+      "book_level": "advanced",
       "title": "Akai's Special Mat",
       "_translations": {
         "title": {},
@@ -1328,7 +1220,7 @@
       "author": "Nwanne Felix-Emeribe",
       "illustrator": "Kenneth Boyowa Okitikpi",
       "intro_level": "advanced",
-      "book_level": "intermediate",
+      "book_level": "advanced",
       "title": "Emeka and the Old Man",
       "_translations": {
         "title": {},
@@ -1351,7 +1243,7 @@
       "author": "Tagel Aboneh",
       "illustrator": "Adonay Gebru",
       "intro_level": "advanced",
-      "book_level": "intermediate",
+      "book_level": "advanced",
       "title": "Father, Son, and Donkey",
       "_translations": {
         "title": {},
@@ -1368,13 +1260,67 @@
       "math_themes_words": "This story has shapes and geometry.  Practice words: distance, middle, rectangle, triangle, pale, twice, pairs, counting by 20's, 50's, and 100's."
     },
     {
+      "id": "efm_sb_Horses_Of_Debre_Birhan",
+      "pages": "data.Horses_Of_Debre_Birhan_storybook",
+      "cover": "EFMStorybooks/EFM-SB-HODB-Cover.jpg",
+      "author": "Mezemir Girma",
+      "illustrator": "Yirgalem Birhanu",
+      "intro_level": "advanced",
+      "book_level": "advanced",
+      "title": "Horses of Debre Birhan",
+      "_translations": {
+        "title": {
+          "es_es": true
+        },
+        "math_themes_words": {
+          "es_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Horses of Debre Birhan"
+        },
+        "math_themes_words": {
+          "eng": "This story has comparing words and counting in groups. Practice words: heavy, faster, enough, more than, too tight, very, old, skip counting by 2's and 4's, equal sharing, pair, pairing, odd, even, estimate, hundred, thousand, million, side, opposite side, round, and rectangle."
+        }
+      },
+      "math_themes_words": "This story has comparing words and counting in groups. Practice words: heavy, faster, enough, more than, too tight, very, old, skip counting by 2's and 4's, equal sharing, pair, pairing, odd, even, estimate, hundred, thousand, million, side, opposite side, round, and rectangle."
+    },
+    {
+      "id": "efm_sb_Hyena_And_Tortoise",
+      "pages": "data.Hyena_And_Tortoise_storybook",
+      "cover": "EFMStorybooks/EFM-SB-HAT-Cover.jpg",
+      "author": "African Storybook",
+      "illustrator": "Salim Kasamba",
+      "intro_level": "advanced",
+      "book_level": "advanced",
+      "title": "Hyena and Tortoise",
+      "_translations": {
+        "title": {
+          "es_es": true
+        },
+        "math_themes_words": {
+          "es_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Hyena and Tortoise"
+        },
+        "math_themes_words": {
+          "eng": "This story has shapes and quantities. Practice words: round, cone, different shape, hexagon, regular hexagon, tile designs, squares, patterns, more, less, fewer, same, equal, number difference, estimate, stronger, weaker, faster, slower, slowly, and speed."
+        }
+      },
+      "math_themes_words": "This story has shapes and quantities. Practice words: round, cone, different shape, hexagon, regular hexagon, tile designs, squares, patterns, more, less, fewer, same, equal, number difference, estimate, stronger, weaker, faster, slower, slowly, and speed."
+    },
+    {
       "id": "efm_sb_Keepers_Nursery",
       "pages": "data.Keepers_Nursery_storybook",
       "cover": "EFMStorybooks/EFM-SB-KAHN-Cover.jpg",
       "author": "Nina Orange",
       "illustrator": "Magriet Brink",
       "intro_level": "advanced",
-      "book_level": "intermediate",
+      "book_level": "advanced",
       "title": "Keeper and his Nursery",
       "_translations": {
         "title": {},
@@ -1397,7 +1343,7 @@
       "author": "Mimi Werna",
       "illustrator": "Edwin Irabor",
       "intro_level": "advanced",
-      "book_level": "intermediate",
+      "book_level": "advanced",
       "title": "Magical Rainbow River",
       "_translations": {
         "title": {},
@@ -1420,7 +1366,7 @@
       "author": "Ursula Nafula",
       "illustrator": "Peris Wachuka",
       "intro_level": "advanced",
-      "book_level": "intermediate",
+      "book_level": "advanced",
       "title": "Sakima's Song",
       "_translations": {
         "title": {},
@@ -1443,7 +1389,7 @@
       "author": "Mosa Mahlaba",
       "illustrator": "Selina Masego Morulane",
       "intro_level": "advanced",
-      "book_level": "intermediate",
+      "book_level": "advanced",
       "title": "Searching for the Spirit of Spring",
       "_translations": {
         "title": {},
@@ -1466,7 +1412,7 @@
       "author": "Penelope Smith",
       "illustrator": "Magriet Brink",
       "intro_level": "advanced",
-      "book_level": "intermediate",
+      "book_level": "advanced",
       "title": "Share it Fair!",
       "_translations": {
         "title": {},
@@ -1483,13 +1429,40 @@
       "math_themes_words": "This story has shapes and dividing evenly. Practice words: rectangle, square, round, circle, arc, oval, ellipse, stripe, equal, dividing equally, point of view, perspective, half, third, fourth, quarter, problem solving, simpler versions of a problem, persistence, subtracting 1, 2, 3, estimate, and multiples of 3."
     },
     {
+      "id": "efm_sb_Singing_The_Truth",
+      "pages": "data.Singing_The_Truth_storybook",
+      "cover": "EFMStorybooks/EFM-SB-STT-Cover.jpg",
+      "author": "Jade Mathieson",
+      "illustrator": "Louwrisa Blaauw",
+      "intro_level": "advanced",
+      "book_level": "advanced",
+      "title": "Singing the Truth: The Story of Miriam Makeba",
+      "_translations": {
+        "title": {
+          "es_es": true
+        },
+        "math_themes_words": {
+          "es_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Singing the Truth: The Story of Miriam Makeba"
+        },
+        "math_themes_words": {
+          "eng": "This story has lots of shapes. Practice words: shape, rectangle, straight, circle, arc, oval, arch, cone, ellipse, different, same, flat, outline, and stripe."
+        }
+      },
+      "math_themes_words": "This story has lots of shapes. Practice words: shape, rectangle, straight, circle, arc, oval, arch, cone, ellipse, different, same, flat, outline, and stripe."
+    },
+    {
       "id": "efm_sb_Sizwes_Smile",
       "pages": "data.Sizwes_Smile_storybook",
       "cover": "EFMStorybooks/EFM-SB-SSMILE-Cover.jpg",
       "author": "Vianne Venter",
       "illustrator": "Genevieve Terblanche",
       "intro_level": "advanced",
-      "book_level": "intermediate",
+      "book_level": "advanced",
       "title": "Sizwe's Smile",
       "_translations": {
         "title": {},
@@ -1512,7 +1485,7 @@
       "author": "Joanne Bloch (retold folktale)",
       "illustrator": "Rebecca Riley",
       "intro_level": "advanced",
-      "book_level": "intermediate",
+      "book_level": "advanced",
       "title": "The Smell Thief",
       "_translations": {
         "title": {},
@@ -1527,6 +1500,33 @@
         }
       },
       "math_themes_words": "This story has skip counting and shapes. Practice words: counting by 1's, 2's, 3's, 4's, and 6's; multiplying, dividing, estimate, rectangle, and triangle."
+    },
+    {
+      "id": "efm_sb_Who_Can_Count_To_Ten",
+      "pages": "data.Who_Can_Count_To_Ten_storybook",
+      "cover": "EFMStorybooks/EFM-SB-WCCTT-Cover.jpg",
+      "author": "Athieno Gertrude",
+      "illustrator": "Salim Kasamba",
+      "intro_level": "advanced",
+      "book_level": "advanced",
+      "title": "Who Can Count to Ten?",
+      "_translations": {
+        "title": {
+          "es_es": true
+        },
+        "math_themes_words": {
+          "es_es": true
+        }
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Who Can Count to Ten?"
+        },
+        "math_themes_words": {
+          "eng": "This story has counting, comparisons, and problem solving. Practice words: numbers to ten, skip counting, counting by 2's, 3's, 4's, 5's, and 10's, odd numbers, more, difference, add, combination, total, stripes, spots, big, biggest, fast, fastest, strong, strongest, large largest, high, higher, pattern, and problem solving."
+        }
+      },
+      "math_themes_words": "This story has counting, comparisons, and problem solving. Practice words: numbers to ten, skip counting, counting by 2's, 3's, 4's, 5's, and 10's, odd numbers, more, difference, add, combination, total, stripes, spots, big, biggest, fast, fastest, strong, strongest, large largest, high, higher, pattern, and problem solving."
     }
   ],
   "_xlsxPath": "EFM_storybooks_high_level_sheets.xlsx"

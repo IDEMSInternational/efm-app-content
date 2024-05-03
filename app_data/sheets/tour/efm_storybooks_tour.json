@@ -58,6 +58,17 @@
     },
     {
       "type": "step",
+      "title": "Advanced Storybooks",
+      "_translations": {
+        "title": {},
+        "message_text": {}
+      },
+      "message_text": "The story lines are getting ever more detailed and complex. The math involves larger numbers and more advanced concepts. The description of objects is getting more detailed and involved.",
+      "template_component_name": "dg_box_advanced",
+      "route": "template/efm_storybooks"
+    },
+    {
+      "type": "step",
       "title": "Help",
       "_translations": {
         "title": {
