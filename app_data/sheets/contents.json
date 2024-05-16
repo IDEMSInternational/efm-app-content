@@ -466,7 +466,19 @@
     }
   },
   "data_pipe": {},
-  "generator": {},
+  "generator": {
+    "storybook_generators": {
+      "flow_type": "generator",
+      "flow_name": "storybook_generators",
+      "parameter_list": {
+        "input_data_list": "efm_sb_list",
+        "output_flow_name": "@gen.id",
+        "output_flow_type": "template",
+        "output_flow_subtype": "generated"
+      },
+      "_xlsxPath": "template_generators/storybook_generators.xlsx"
+    }
+  },
   "global": {
     "efm_act_globals": {
       "flow_type": "global",
@@ -618,6 +630,296 @@
       "flow_name": "feature_feedback_text_select",
       "comments": "Default text-select feedback form",
       "_xlsxPath": "feedback.xlsx"
+    },
+    "efm_sb_A_Dancers_Tale": {
+      "flow_name": "efm_sb_A_Dancers_Tale",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_A_Fish_And_A_Gift": {
+      "flow_name": "efm_sb_A_Fish_And_A_Gift",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_A_Very_Tall_Man": {
+      "flow_name": "efm_sb_A_Very_Tall_Man",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Akadelis_Lucky_Day": {
+      "flow_name": "efm_sb_Akadelis_Lucky_Day",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Akais_Special_Mat": {
+      "flow_name": "efm_sb_Akais_Special_Mat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Aku_The_Sun_Maker": {
+      "flow_name": "efm_sb_Aku_The_Sun_Maker",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Amazing_Daisy": {
+      "flow_name": "efm_sb_Amazing_Daisy",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Can_We_Count_Our_Cats": {
+      "flow_name": "efm_sb_Can_We_Count_Our_Cats",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Cassava_And_Palm": {
+      "flow_name": "efm_sb_Cassava_And_Palm",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Cat_And_Dog_And_The_Ball": {
+      "flow_name": "efm_sb_Cat_And_Dog_And_The_Ball",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Cat_And_Dog_And_The_But": {
+      "flow_name": "efm_sb_Cat_And_Dog_And_The_But",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Cat_And_Dog_And_The_Egg": {
+      "flow_name": "efm_sb_Cat_And_Dog_And_The_Egg",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Cat_And_Dog_Dog_Is_Cold": {
+      "flow_name": "efm_sb_Cat_And_Dog_Dog_Is_Cold",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Cat_And_Dog_Draw_And_Color": {
+      "flow_name": "efm_sb_Cat_And_Dog_Draw_And_Color",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Clever_Cat": {
+      "flow_name": "efm_sb_Clever_Cat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Colors_Of_A_Rainbow": {
+      "flow_name": "efm_sb_Colors_Of_A_Rainbow",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Counting_Animals": {
+      "flow_name": "efm_sb_Counting_Animals",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Creature_With_Two": {
+      "flow_name": "efm_sb_Creature_With_Two",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Curious_Baby_Elephant": {
+      "flow_name": "efm_sb_Curious_Baby_Elephant",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Drum": {
+      "flow_name": "efm_sb_Drum",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Emeka_Old_Man": {
+      "flow_name": "efm_sb_Emeka_Old_Man",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Fana_Loves_Animals": {
+      "flow_name": "efm_sb_Fana_Loves_Animals",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Father_Son_Donkey": {
+      "flow_name": "efm_sb_Father_Son_Donkey",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Fathers_Advice": {
+      "flow_name": "efm_sb_Fathers_Advice",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Fati_And_The_Green_Snake": {
+      "flow_name": "efm_sb_Fati_And_The_Green_Snake",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Feelings": {
+      "flow_name": "efm_sb_Feelings",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Flower_Blind": {
+      "flow_name": "efm_sb_Flower_Blind",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Friends": {
+      "flow_name": "efm_sb_Friends",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Horses_Of_Debre_Birhan": {
+      "flow_name": "efm_sb_Horses_Of_Debre_Birhan",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_How_Many": {
+      "flow_name": "efm_sb_How_Many",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_How_The_Toad_Got_Its_Skin": {
+      "flow_name": "efm_sb_How_The_Toad_Got_Its_Skin",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Hyena_And_Tortoise": {
+      "flow_name": "efm_sb_Hyena_And_Tortoise",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_I_Love_Forests": {
+      "flow_name": "efm_sb_I_Love_Forests",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Is_There_Anyone_Like_Me": {
+      "flow_name": "efm_sb_Is_There_Anyone_Like_Me",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Keepers_Nursery": {
+      "flow_name": "efm_sb_Keepers_Nursery",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Listen_To_My_Body": {
+      "flow_name": "efm_sb_Listen_To_My_Body",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Little_Jojos_Long_Tall_Tale": {
+      "flow_name": "efm_sb_Little_Jojos_Long_Tall_Tale",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Look_At_The_Animals": {
+      "flow_name": "efm_sb_Look_At_The_Animals",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Lory_Dory": {
+      "flow_name": "efm_sb_Lory_Dory",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Magical_Rainbow": {
+      "flow_name": "efm_sb_Magical_Rainbow",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Maguru_Gives_Legs": {
+      "flow_name": "efm_sb_Maguru_Gives_Legs",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_My_School_Clothes": {
+      "flow_name": "efm_sb_My_School_Clothes",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Palm_Tree": {
+      "flow_name": "efm_sb_Palm_Tree",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Pendo_Our_Cow": {
+      "flow_name": "efm_sb_Pendo_Our_Cow",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Sakimas_Song": {
+      "flow_name": "efm_sb_Sakimas_Song",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Searching_for_Spring": {
+      "flow_name": "efm_sb_Searching_for_Spring",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Share_It_Fair": {
+      "flow_name": "efm_sb_Share_It_Fair",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Singing_The_Truth": {
+      "flow_name": "efm_sb_Singing_The_Truth",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Sizwes_Smile": {
+      "flow_name": "efm_sb_Sizwes_Smile",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Sun_Moon_And_Water": {
+      "flow_name": "efm_sb_Sun_Moon_And_Water",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_The_Day_The_Sun_Went_Away": {
+      "flow_name": "efm_sb_The_Day_The_Sun_Went_Away",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_The_Smell_Thief": {
+      "flow_name": "efm_sb_The_Smell_Thief",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Tortoise_Finds_His_House": {
+      "flow_name": "efm_sb_Tortoise_Finds_His_House",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Visiting_Grandmother": {
+      "flow_name": "efm_sb_Visiting_Grandmother",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Where_Is_Lulu": {
+      "flow_name": "efm_sb_Where_Is_Lulu",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Where_Is_My_Bat": {
+      "flow_name": "efm_sb_Where_Is_My_Bat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Where_Is_My_Cat": {
+      "flow_name": "efm_sb_Where_Is_My_Cat",
+      "flow_subtype": "generated",
+      "flow_type": "template"
+    },
+    "efm_sb_Who_Can_Count_To_Ten": {
+      "flow_name": "efm_sb_Who_Can_Count_To_Ten",
+      "flow_subtype": "generated",
+      "flow_type": "template"
     },
     "home_screen": {
       "flow_type": "template",

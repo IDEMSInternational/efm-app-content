@@ -1,0 +1,68 @@
+{
+  "flow_name": "efm_sb_Father_Son_Donkey",
+  "flow_subtype": "generated",
+  "flow_type": "template",
+  "rows": [
+    {
+      "name": "current_book",
+      "value": "data.efm_storybooks.efm_sb_Father_Son_Donkey",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "current_book"
+    },
+    {
+      "type": "template",
+      "name": "efm_story_template",
+      "value": "efm_story_template",
+      "action_list": [
+        {
+          "trigger": "completed",
+          "action_id": "emit",
+          "args": [
+            "completed"
+          ],
+          "_raw": "completed | emit: completed",
+          "_cleaned": "completed | emit: completed"
+        },
+        {
+          "trigger": "uncompleted",
+          "action_id": "emit",
+          "args": [
+            "uncompleted"
+          ],
+          "_raw": "uncompleted | emit: uncompleted",
+          "_cleaned": "uncompleted | emit: uncompleted"
+        }
+      ],
+      "rows": [
+        {
+          "name": "book_entry",
+          "value": "@@local.current_book",
+          "_translations": {
+            "value": {}
+          },
+          "type": "set_variable",
+          "_nested_name": "efm_story_template.book_entry",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "@@local.current_book",
+                "matchedExpression": "@local.current_book",
+                "type": "local",
+                "fieldName": "current_book"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.current_book": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "efm_story_template"
+    }
+  ]
+}
