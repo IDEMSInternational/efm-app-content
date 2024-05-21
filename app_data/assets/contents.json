@@ -5704,5 +5704,10 @@
   "android/splash.png": {
     "md5Checksum": "3c626865c2d132ff6624d012665feb44",
     "size_kb": 155.1
+  },
+  "logos/swing_favicon.png": {
+    "filePath": "global/logos/swing_favicon.png",
+    "md5Checksum": "ca524e605cd6a6cdde350542f77a0ed5",
+    "size_kb": 6.5
   }
 }

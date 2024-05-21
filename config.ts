@@ -8,7 +8,7 @@ config.google_drive = {
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/efm-app-content.git",
-  content_tag_latest: "1.2.11",
+  content_tag_latest: "1.2.12",
 };
 
 config.android = {
@@ -20,9 +20,10 @@ config.android = {
   icon_asset_background_path: "./app_data/assets/android/icon-background.png",
 };
 
-config.ios.app_id = "international.idems.early-family-math"
+config.ios.app_id = "international.idems.early-family-math";
 config.ios.app_name = "Early Family Math"
 
+config.web.favicon_asset = "logos/swing_favicon.png";
 config.api.db_name = "early_family_math"
 
 config.app_data.output_path = "./app_data";
