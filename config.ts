@@ -12,6 +12,8 @@ config.git = {
 };
 
 config.android = {
+  app_id: "international.idems.early_family_math",
+  app_name: "Early Family Math",
   splash_asset_path: "./app_data/assets/android/splash.png",
   icon_asset_path: "./app_data/assets/android/icon.png",
   icon_asset_foreground_path: "./app_data/assets/android/icon-foreground.png",
