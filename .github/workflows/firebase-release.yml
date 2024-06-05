@@ -1,15 +1,19 @@
 ##################################################################################
 #         Calls workflow from code repo
 ##################################################################################
-name: Deploy - Firebase
+env:
+  FIREBASE_SERVICE_ACCOUNT: ${{secrets.FIREBASE_SERVICE_ACCOUNT}} 
+  FIREBASE_CONFIG_RELEASE: ${{secrets.FIREBASE_CONFIG_RELEASE}} 
+
+name: Firebase - release
 
 on:
-  push:
-    branches:
-      - "main"
+  workflow_dispatch:
 
 jobs:
   web_preview:
     uses: IDEMSInternational/open-app-builder/.github/workflows/reusable-deploy-web-preview.yml@master
+    with: 
+      firebase-host: ${{vars.FIREBASE_HOSTING_TARGET_RELEASE}} 
     secrets: inherit
 

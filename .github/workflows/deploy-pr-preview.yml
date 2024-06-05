@@ -9,5 +9,5 @@ on:
 
 jobs:
   pr_preview:
-    uses: IDEMSInternational/parenting-app-ui/.github/workflows/reusable-deploy-pr-preview.yml@master
+    uses: IDEMSInternational/open-app-builder/.github/workflows/reusable-deploy-pr-preview.yml@master
     secrets: inherit
