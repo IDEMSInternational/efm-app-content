@@ -11,16 +11,20 @@
       "story_text": "My name is Simo.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -48,16 +52,20 @@
       "story_text": "I have four friends.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -85,16 +93,20 @@
       "story_text": "Their names are Zizo, Lele, Sisa, and Ayanda.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -122,16 +134,20 @@
       "story_text": "My friend Zizo likes to play soccer.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -159,16 +175,20 @@
       "story_text": "My friend Lele likes to swim.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -196,16 +216,20 @@
       "story_text": "My friend Sisa likes to play hide-and-seek.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -233,16 +257,20 @@
       "story_text": "My friend Ayanda likes to read.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -270,16 +298,20 @@
       "story_text": "Me? I like to do the things they like to do.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -307,16 +339,20 @@
       "story_text": "I play soccer with Zizo.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -344,16 +380,20 @@
       "story_text": "I swim with Lele.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -381,16 +421,20 @@
       "story_text": "I play hide-and-seek with Sisa.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -418,16 +462,20 @@
       "story_text": "Come, friend, what do you like?",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -455,16 +503,20 @@
       "story_text": "Come, play soccer with us.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -492,16 +544,20 @@
       "story_text": "Come, swim with us.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -529,16 +585,20 @@
       "story_text": "Come, play hide-and-seek with us.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -566,16 +626,20 @@
       "story_text": "Come, read with us!",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {

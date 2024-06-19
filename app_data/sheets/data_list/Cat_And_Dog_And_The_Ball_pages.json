@@ -11,16 +11,20 @@
       "story_text": "This is Cat.\n\nThis is Dog.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -48,16 +52,20 @@
       "story_text": "Cat and Dog live in a house.\n\nA house with a door.\n\nA house with a roof.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -85,16 +93,20 @@
       "story_text": "Cat and Dog have a ball.\n\nThe ball is red and blue and green.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -122,16 +134,20 @@
       "story_text": "Cat and Dog play with the ball.\n\nCat throws the ball to Dog.\n\nDog catches the ball.\n\nDog throws the ball to Cat.\n\nCat catches the ball.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -159,16 +175,20 @@
       "story_text": "Then Cat throws the ball very high.\n\nOh! Oh!",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -196,16 +216,20 @@
       "story_text": "The ball is on the roof.\n\nThe ball is on the roof of the house.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -233,16 +257,20 @@
       "story_text": "Cat and Dog can see the ball.\n\nCat and Dog cannot get to the ball.\n\nHow will they get the ball down?",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -270,16 +298,20 @@
       "story_text": "Cat and Dog are sad.\n\nThey want to find something tall to reach the ball.\n\nThen Elephant comes by.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -307,16 +339,20 @@
       "story_text": "Elephant is big.\n\nElephant can see the ball.\n\nElephant can get to the ball.\n\nElephant gets the ball from the roof.\n\nElephant takes the ball from the roof of the house.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -344,16 +380,20 @@
       "story_text": "Elephant gives the ball to Cat and Dog.\n\nCat and Dog smile. Elephant smiles.\n\nCat and Dog and Elephant smile.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -381,16 +421,20 @@
       "story_text": "Cat and Dog and Elephant play with the ball.\n\nCat throws the ball to Dog. Dog catches the ball.\n\nDog throws the ball to Elephant. Elephant catches the ball.\n\nElephant throws the ball to Cat. Cat catches the ball.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -418,16 +462,20 @@
       "story_text": "Bye bye Cat.\n\nBye bye Dog.\n\nBye bye Elephant.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {

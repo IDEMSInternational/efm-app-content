@@ -22,6 +22,24 @@
       "language_label": "Español",
       "name": "es_es",
       "text": "Español"
+    },
+    {
+      "id": "fr_fr",
+      "country_code": "fr",
+      "country_label": "France",
+      "language_code": "fr",
+      "language_label": "Français",
+      "name": "fr_fr",
+      "text": "Français"
+    },
+    {
+      "id": "kw_ar",
+      "country_code": "kw",
+      "country_label": "Kuwait",
+      "language_code": "ar",
+      "language_label": "العربية",
+      "name": "kw_ar",
+      "text": "العربية"
     }
   ],
   "_xlsxPath": "EFM_high_level_sheets.xlsx"

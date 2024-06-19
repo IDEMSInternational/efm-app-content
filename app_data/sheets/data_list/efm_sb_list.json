@@ -15,10 +15,12 @@
       "title": "A Very Tall Man",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -42,10 +44,12 @@
       "title": "Akadeli's Lucky Day",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -69,10 +73,12 @@
       "title": "Can We Count Our Cats?",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -96,10 +102,12 @@
       "title": "Cat and Dog and the Ball",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -123,10 +131,12 @@
       "title": "Cat and Dog and the Butterfly",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -150,10 +160,12 @@
       "title": "Cat and Dog and the Egg",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -177,10 +189,12 @@
       "title": "Cat and Dog: Dog Is Cold",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -204,10 +218,12 @@
       "title": "Clever Cat",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -231,10 +247,12 @@
       "title": "Colors of a Rainbow",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -258,10 +276,12 @@
       "title": "Counting Animals",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -285,10 +305,12 @@
       "title": "Creature with Two",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -312,10 +334,12 @@
       "title": "Drum",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -339,10 +363,12 @@
       "title": "Fana Loves Animals",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -366,10 +392,12 @@
       "title": "Feelings",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -393,10 +421,12 @@
       "title": "Flower Blind",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -420,9 +450,13 @@
       "title": "Friends",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
-        "math_themes_words": {}
+        "math_themes_words": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -445,10 +479,12 @@
       "title": "How the Toad Got its Skin",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -472,10 +508,12 @@
       "title": "Look at the Animals",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -499,10 +537,12 @@
       "title": "My School Clothes",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -526,10 +566,12 @@
       "title": "Palm Tree",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -553,10 +595,12 @@
       "title": "Pendo Our Cow",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -580,10 +624,12 @@
       "title": "The Day the Sun Went Away",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -607,10 +653,12 @@
       "title": "Visiting Grandmother",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -634,10 +682,12 @@
       "title": "Where Is Lulu?",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -661,10 +711,12 @@
       "title": "Where Is My Bat?",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -688,10 +740,12 @@
       "title": "Where Is My Cat?",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -715,10 +769,12 @@
       "title": "A Dancers Tale",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -742,10 +798,12 @@
       "title": "A Fish and a Gift",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -769,10 +827,12 @@
       "title": "Aku the Sun Maker",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -796,10 +856,12 @@
       "title": "Amazing Daisy",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -823,10 +885,12 @@
       "title": "Cassava and Palm",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -850,10 +914,12 @@
       "title": "Cat and Dog Draw and Color",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -877,10 +943,12 @@
       "title": "Curious Baby Elephant",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -904,10 +972,12 @@
       "title": "Father's Advice",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -931,10 +1001,12 @@
       "title": "Fati and the Green Snake",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -958,10 +1030,12 @@
       "title": "How Many?",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -985,10 +1059,12 @@
       "title": "I Love Forests",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1012,10 +1088,12 @@
       "title": "Is There Anyone Like Me?",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1039,10 +1117,12 @@
       "title": "Listen to My Body",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1066,10 +1146,12 @@
       "title": "Little Jojo's Long Tall Tale",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1093,10 +1175,12 @@
       "title": "Lory Dory",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1120,10 +1204,12 @@
       "title": "Maguru Gives Legs",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1147,10 +1233,12 @@
       "title": "Sun Moon and Water",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1174,10 +1262,12 @@
       "title": "Tortoise Finds his House",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1200,8 +1290,14 @@
       "book_level": "advanced",
       "title": "Akai's Special Mat",
       "_translations": {
-        "title": {},
-        "math_themes_words": {}
+        "title": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "math_themes_words": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1223,8 +1319,14 @@
       "book_level": "advanced",
       "title": "Emeka and the Old Man",
       "_translations": {
-        "title": {},
-        "math_themes_words": {}
+        "title": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "math_themes_words": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1246,8 +1348,14 @@
       "book_level": "advanced",
       "title": "Father, Son, and Donkey",
       "_translations": {
-        "title": {},
-        "math_themes_words": {}
+        "title": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "math_themes_words": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1270,10 +1378,12 @@
       "title": "Horses of Debre Birhan",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1297,10 +1407,12 @@
       "title": "Hyena and Tortoise",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1323,8 +1435,14 @@
       "book_level": "advanced",
       "title": "Keeper and his Nursery",
       "_translations": {
-        "title": {},
-        "math_themes_words": {}
+        "title": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "math_themes_words": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1346,8 +1464,14 @@
       "book_level": "advanced",
       "title": "Magical Rainbow River",
       "_translations": {
-        "title": {},
-        "math_themes_words": {}
+        "title": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "math_themes_words": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1369,8 +1493,14 @@
       "book_level": "advanced",
       "title": "Sakima's Song",
       "_translations": {
-        "title": {},
-        "math_themes_words": {}
+        "title": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "math_themes_words": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1392,8 +1522,14 @@
       "book_level": "advanced",
       "title": "Searching for the Spirit of Spring",
       "_translations": {
-        "title": {},
-        "math_themes_words": {}
+        "title": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "math_themes_words": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1415,8 +1551,14 @@
       "book_level": "advanced",
       "title": "Share it Fair!",
       "_translations": {
-        "title": {},
-        "math_themes_words": {}
+        "title": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "math_themes_words": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1439,10 +1581,12 @@
       "title": "Singing the Truth: The Story of Miriam Makeba",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1465,8 +1609,14 @@
       "book_level": "advanced",
       "title": "Sizwe's Smile",
       "_translations": {
-        "title": {},
-        "math_themes_words": {}
+        "title": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "math_themes_words": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1488,8 +1638,14 @@
       "book_level": "advanced",
       "title": "The Smell Thief",
       "_translations": {
-        "title": {},
-        "math_themes_words": {}
+        "title": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "math_themes_words": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1512,10 +1668,12 @@
       "title": "Who Can Count to Ten?",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "math_themes_words": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
