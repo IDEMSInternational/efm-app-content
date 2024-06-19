@@ -11,16 +11,20 @@
       "story_text": "I have lost my bat, and I cannot find it.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -48,16 +52,20 @@
       "story_text": "I looked behind the door. It was not there.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -85,16 +93,20 @@
       "story_text": "I looked for it on the shelf. I could not find it there.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -122,16 +134,20 @@
       "story_text": "I looked for it under the bed. Not there either.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -159,16 +175,20 @@
       "story_text": "I searched inside the box. There was no sign of it.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -196,16 +216,20 @@
       "story_text": "I searched the attic. It was not there.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -233,16 +257,20 @@
       "story_text": "I looked here, there, and everywhere. I could not find it anywhere.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {

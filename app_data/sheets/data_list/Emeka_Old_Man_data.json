@@ -10,10 +10,22 @@
       "illustration": "EFMStorybooks/EFM-SB-EATOM-1.jpg",
       "story_text": "Emeka lived in a fine house in Ebiba town. His parents were rich.\n\nEmeka had a dog called Chita. He looked after Chita very well.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_1": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_2": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_3": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -39,10 +51,22 @@
       "illustration": "EFMStorybooks/EFM-SB-EATOM-2.jpg",
       "story_text": "Every day, Emeka's father took him to school in his car. He also brought Emeka home after school.\n\nOne afternoon on their way home, Emeka's father stopped to buy something at a big shop.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_1": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_2": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_3": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -68,10 +92,22 @@
       "illustration": "EFMStorybooks/EFM-SB-EATOM-3.jpg",
       "story_text": "From the car, Emeka looked across the road and saw an old man. He was carrying a big load on his head.\n\nHe was tired and walked slowly. Emeka kept looking at him.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_1": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_2": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_3": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -97,10 +133,22 @@
       "illustration": "EFMStorybooks/EFM-SB-EATOM-4.jpg",
       "story_text": "The old man sat under the shade of a tree on the walkway and opened his bag.\n\nHe had two flat plastic water bottles, which he was making into shoes.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_1": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_2": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_3": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -126,10 +174,22 @@
       "illustration": "EFMStorybooks/EFM-SB-EATOM-5.jpg",
       "story_text": "Emeka thought about that old man for a long time. He felt sad.\n\nWhen he got home, he could not eat.\n\nHe thought about what he could do.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_1": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_2": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_3": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -155,10 +215,22 @@
       "illustration": "EFMStorybooks/EFM-SB-EATOM-6.jpg",
       "story_text": "He got up and took some money from his money bag. He called Chita and jumped on his bicycle.\n\nEmeka rode to the shop where his father had shopped.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_1": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_2": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_3": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -184,10 +256,22 @@
       "illustration": "EFMStorybooks/EFM-SB-EATOM-7.jpg",
       "story_text": "The boy ran into the shop and came out with a bag. He went to where the old man was resting against a tree.\n\nEmeka called out, \"Good afternoon, sir.\" The man answered, \"Peace to you, my child.\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_1": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_2": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_3": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -213,10 +297,22 @@
       "illustration": "EFMStorybooks/EFM-SB-EATOM-8.jpg",
       "story_text": "Emeka asked, \"Sir, where do you come from?\"\n\nThe old man replied, \"My child, hunger has chased me from my village. I am here to earn money.\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_1": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_2": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_3": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -242,10 +338,22 @@
       "illustration": "EFMStorybooks/EFM-SB-EATOM-9.jpg",
       "story_text": "Emeka gave his shopping bag to the old man.\n\nTears filled the man's eyes as he took the sandals from the bag. He thanked Emeka from his heart.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_1": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_2": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_3": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -271,10 +379,22 @@
       "illustration": "EFMStorybooks/EFM-SB-EATOM-10.jpg",
       "story_text": "\"I must go now before mother starts looking for me,\" said Emeka.\n\nThe old man waved to the boy and his dog as they went, \"Bless you, my child,\" he said with a smile.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_1": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_2": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_3": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -300,10 +420,22 @@
       "illustration": "EFMStorybooks/EFM-SB-EATOM-11.jpg",
       "story_text": "\"Where were you?\" mother asked Emeka as soon as he got home. She was worried.\n\nEmeka told her everything. She felt touched by his story.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_1": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_2": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_3": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -329,10 +461,22 @@
       "illustration": "EFMStorybooks/EFM-SB-EATOM-12.jpg",
       "story_text": "Later, Emeka's father told him, \"We are proud of what you did. But you must always tell us before you leave the house.\"\n\nThen he added, \"Now, here is the money that you spent!\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_1": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_2": {
+          "es_es": true,
+          "fr_fr": true
+        },
+        "annotation_3": {
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "story_text": {

@@ -17,7 +17,9 @@
       "name": "button",
       "value": "Restart",
       "_translations": {
-        "value": {}
+        "value": {
+          "es_es": true
+        }
       },
       "action_list": [
         {

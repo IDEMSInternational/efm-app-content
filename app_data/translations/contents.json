@@ -1,5 +1,8 @@
 {
   "es_es": {
     "filename": "es_es/strings.json"
+  },
+  "fr_fr": {
+    "filename": "fr_fr/strings.json"
   }
 }

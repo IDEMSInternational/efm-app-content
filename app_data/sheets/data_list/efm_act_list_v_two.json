@@ -16,14 +16,19 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
+        "block1_text": {
+          "es_es": true
+        },
         "block2_accord": {},
-        "block2_text": {}
+        "block2_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -73,11 +78,21 @@
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block2_text": {},
-        "block3_accord": {},
-        "block3_text": {},
-        "block4_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block2_text": {
+          "es_es": true
+        },
+        "block3_accord": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        },
+        "block4_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -125,17 +140,27 @@
       "block4_type": "accord_all_text",
       "title": "MATH OUT LOUD – STORYTIME",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "type_name": {
           "es_es": true
         },
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block3_text": {},
-        "block4_accord": {},
-        "block4_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        },
+        "block4_accord": {
+          "es_es": true
+        },
+        "block4_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -174,14 +199,18 @@
       "block1_type": "all_text",
       "title": "MATH OUT LOUD – HOME ROUTINES",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "type_name": {
           "es_es": true
         },
         "page_title": {
           "es_es": true
         },
-        "block1_text": {}
+        "block1_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -208,14 +237,18 @@
       "block1_type": "all_text",
       "title": "MATH OUT LOUD – MEALTIME",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "type_name": {
           "es_es": true
         },
         "page_title": {
           "es_es": true
         },
-        "block1_text": {}
+        "block1_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -247,16 +280,24 @@
       "block3_type": "all_text",
       "title": "MATH OUT LOUD – PLAYTIME",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "type_name": {
           "es_es": true
         },
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block2_text": {},
-        "block3_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block2_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -299,17 +340,27 @@
       "block3_illust_max_size": "120px",
       "title": "MATH OUT LOUD – OUT AND ABOUT",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "type_name": {
           "es_es": true
         },
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block2_text": {},
-        "block3_text": {},
-        "block4_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block2_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        },
+        "block4_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -365,8 +416,12 @@
         "block1_text": {
           "es_es": true
         },
-        "block2_text": {},
-        "block3_text": {}
+        "block2_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -415,9 +470,15 @@
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block2_text": {},
-        "block3_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block2_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -457,17 +518,25 @@
       "block3_type": "accord_all_text",
       "title": "SHAPE HUNT",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "type_name": {
           "es_es": true
         },
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block2_text": {},
+        "block1_text": {
+          "es_es": true
+        },
+        "block2_text": {
+          "es_es": true
+        },
         "block3_accord": {},
-        "block3_text": {}
+        "block3_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -518,7 +587,9 @@
         "page_title": {
           "es_es": true
         },
-        "block1_text": {}
+        "block1_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -559,9 +630,15 @@
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block2_text": {},
-        "block3_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block2_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -609,8 +686,12 @@
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block3_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -649,13 +730,18 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block3_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -695,15 +781,24 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block3_accord": {},
-        "block3_text": {},
-        "block4_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block3_accord": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        },
+        "block4_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -755,8 +850,12 @@
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block2_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block2_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -796,15 +895,22 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block2_text": {},
+        "block1_text": {
+          "es_es": true
+        },
+        "block2_text": {
+          "es_es": true
+        },
         "block3_accord": {},
-        "block3_text": {}
+        "block3_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -857,10 +963,18 @@
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block3_text": {},
-        "block4_accord": {},
-        "block4_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        },
+        "block4_accord": {
+          "es_es": true
+        },
+        "block4_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -908,14 +1022,21 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block2_text": {},
-        "block3_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block2_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -962,7 +1083,9 @@
         "page_title": {
           "es_es": true
         },
-        "block1_text": {}
+        "block1_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1005,7 +1128,9 @@
         "block1_text": {
           "es_es": true
         },
-        "block3_text": {}
+        "block3_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1048,7 +1173,9 @@
         "page_title": {
           "es_es": true
         },
-        "block2_text": {}
+        "block2_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1088,8 +1215,12 @@
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block3_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1130,16 +1261,27 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block2_text": {},
-        "block3_text": {},
-        "block4_accord": {},
-        "block4_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block2_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        },
+        "block4_accord": {
+          "es_es": true
+        },
+        "block4_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1196,10 +1338,16 @@
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block3_text": {},
+        "block1_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        },
         "block4_accord": {},
-        "block4_text": {}
+        "block4_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1251,9 +1399,13 @@
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
+        "block1_text": {
+          "es_es": true
+        },
         "block2_accord": {},
-        "block2_text": {}
+        "block2_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1303,9 +1455,15 @@
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block2_text": {},
-        "block3_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block2_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1446,14 +1604,20 @@
       "block2_type": "accord_all_text",
       "title": "DESCRIBING SCENES",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "type_name": {
           "es_es": true
         },
         "page_title": {},
-        "block1_text": {},
+        "block1_text": {
+          "es_es": true
+        },
         "block2_accord": {},
-        "block2_text": {}
+        "block2_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1488,12 +1652,16 @@
       "block1_type": "all_text",
       "title": "WHICH SHAPE AM I?",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "type_name": {
           "es_es": true
         },
         "page_title": {},
-        "block1_text": {}
+        "block1_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1520,12 +1688,16 @@
       "block1_type": "all_text",
       "title": "WHO IS IT?",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "type_name": {
           "es_es": true
         },
         "page_title": {},
-        "block1_text": {}
+        "block1_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1621,14 +1793,19 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
+        "block1_text": {
+          "es_es": true
+        },
         "block2_accord": {},
-        "block2_text": {}
+        "block2_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1677,8 +1854,12 @@
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block3_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1719,15 +1900,22 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block3_text": {},
+        "block1_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        },
         "block4_accord": {},
-        "block4_text": {}
+        "block4_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1779,9 +1967,13 @@
         "page_title": {
           "es_es": true
         },
-        "block2_text": {},
+        "block2_text": {
+          "es_es": true
+        },
         "block3_accord": {},
-        "block3_text": {}
+        "block3_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1828,14 +2020,21 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
         },
-        "block1_text": {},
-        "block3_text": {},
-        "block4_text": {}
+        "block1_text": {
+          "es_es": true
+        },
+        "block3_text": {
+          "es_es": true
+        },
+        "block4_text": {
+          "es_es": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1974,7 +2173,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -2035,7 +2235,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -2081,7 +2282,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -2122,7 +2324,8 @@
       "_translations": {
         "title": {},
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -2167,7 +2370,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -2211,7 +2415,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -2265,7 +2470,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -2321,7 +2527,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -2372,7 +2579,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -2420,7 +2628,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -2584,7 +2793,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -2696,7 +2906,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -2749,7 +2960,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -2793,7 +3005,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -2847,7 +3060,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block2_text": {},
@@ -3057,7 +3271,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -3223,7 +3438,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -3276,7 +3492,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -3323,10 +3540,12 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {},
         "block4_text": {}
@@ -3372,10 +3591,12 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {},
         "block4_text": {}
@@ -3456,7 +3677,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -3627,7 +3849,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -3746,7 +3969,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -3796,14 +4020,17 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
         },
         "block1_text": {},
         "block2_accord": {},
-        "block2_text": {}
+        "block2_text": {
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -3848,10 +4075,12 @@
       "title": "SHAPE SUMS",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -3894,7 +4123,8 @@
       "title": "MYSTERY CHANGE",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "type_name": {
           "es_es": true
@@ -3930,10 +4160,12 @@
       "title": "INTRODUCING 10’S",
       "_translations": {
         "title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -4009,7 +4241,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -4055,7 +4288,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -4152,7 +4386,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -4251,7 +4486,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -4289,7 +4525,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -4336,7 +4573,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -4383,7 +4621,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -4471,7 +4710,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -4513,7 +4753,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -4640,7 +4881,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -4680,7 +4922,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -4726,7 +4969,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -4778,7 +5022,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -4826,7 +5071,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -4873,7 +5119,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -4956,10 +5203,12 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {}
       },
@@ -4997,10 +5246,12 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {},
         "block3_text": {}
@@ -5044,10 +5295,12 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {},
         "block3_text": {},
@@ -5096,7 +5349,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -5143,7 +5397,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -5265,7 +5520,8 @@
         "page_title": {},
         "block1_text": {},
         "block2_accord": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {},
         "block3_accord": {},
@@ -5354,7 +5610,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -5402,7 +5659,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -5448,7 +5706,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -5488,7 +5747,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -5538,7 +5798,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -5595,7 +5856,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -5783,7 +6045,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -5834,7 +6097,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -5876,7 +6140,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -5923,7 +6188,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -6174,7 +6440,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -6225,7 +6492,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -6267,7 +6535,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -6312,7 +6581,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -6356,7 +6626,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {}
@@ -6390,7 +6661,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {}
@@ -6432,7 +6704,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block2_text": {},
@@ -6507,7 +6780,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -6548,7 +6822,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -6593,7 +6868,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -6639,7 +6915,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -6766,7 +7043,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -6807,7 +7085,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -6844,7 +7123,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -6891,7 +7171,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -6937,7 +7218,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -6973,7 +7255,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -7010,7 +7293,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -7056,7 +7340,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {}
@@ -7091,7 +7376,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -7140,10 +7426,12 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {},
         "block3_text": {}
@@ -7185,10 +7473,12 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {}
       },
@@ -7423,7 +7713,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -7479,7 +7770,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -7557,7 +7849,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -7603,7 +7896,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -7771,7 +8065,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -7817,7 +8112,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -8001,7 +8297,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -8046,7 +8343,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -8099,7 +8397,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -8159,7 +8458,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -8199,7 +8499,8 @@
       "_translations": {
         "title": {},
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -8314,7 +8615,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -8360,7 +8662,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -8411,7 +8714,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -8469,7 +8773,9 @@
         "page_title": {},
         "block1_text": {},
         "block3_text": {},
-        "block5_accord": {},
+        "block5_accord": {
+          "es_es": true
+        },
         "block5_text": {}
       },
       "_translatedFields": {
@@ -8514,7 +8820,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -8560,7 +8867,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -8678,7 +8986,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -8715,7 +9024,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -8761,7 +9071,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -8803,7 +9114,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -8863,7 +9175,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -8959,7 +9272,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -9009,7 +9323,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -9169,7 +9484,9 @@
         "page_title": {},
         "block1_text": {},
         "block3_text": {},
-        "block4_accord": {},
+        "block4_accord": {
+          "es_es": true
+        },
         "block4_text": {}
       },
       "_translatedFields": {
@@ -9264,7 +9581,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -9306,7 +9624,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -9353,7 +9672,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -9408,7 +9728,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -9557,7 +9878,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -9607,7 +9929,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -9649,7 +9972,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -9704,7 +10028,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -9756,7 +10081,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -9803,7 +10129,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -9894,7 +10221,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -9949,7 +10277,8 @@
       "_translations": {
         "title": {},
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -9996,7 +10325,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -10041,7 +10371,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {},
         "block1_text": {},
@@ -10085,7 +10416,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true
@@ -10129,7 +10461,8 @@
           "es_es": true
         },
         "type_name": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "page_title": {
           "es_es": true

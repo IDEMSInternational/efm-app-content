@@ -11,16 +11,20 @@
       "story_text": "This is Cat.\n\nThis is Dog.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -48,16 +52,20 @@
       "story_text": "It is night. It is dark.\n\nIt is cold. It is very cold.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -85,16 +93,20 @@
       "story_text": "For Dog it is too cold.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -122,16 +134,20 @@
       "story_text": "Cat gives Dog underwear.\n\nOne pair of underwear is dirty. One pair of underwear is clean.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -159,16 +175,20 @@
       "story_text": "Dog takes the clean underwear. But it is still too cold.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -196,16 +216,20 @@
       "story_text": "Cat gives Dog shirts. One shirt is big. One shirt is small.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -233,16 +257,20 @@
       "story_text": "Dog takes the big shirt. But it is still too cold.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -270,16 +298,20 @@
       "story_text": "Cat gives Dog pants.\n\nOne pair of pants is long. One pair of pants is short.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -307,16 +339,20 @@
       "story_text": "Dog takes the long pair of pants. But it is still too cold.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -344,16 +380,20 @@
       "story_text": "Cat gives Dog vests. One vest is wet, one vest is dry.\n\nDog takes the dry vest, but it is still too cold.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -381,16 +421,20 @@
       "story_text": "Cat gives Dog jackets. One jacket is thick, one jacket is thin.\n\nDog takes the thick jacket, but it is still too cold.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -418,16 +462,20 @@
       "story_text": "Cat gives Dog hats. One hat is high, one hat is low.\n\nDog takes the high hat, but it is still too cold.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -455,16 +503,20 @@
       "story_text": "Cat gives Dog shoes.\n\nOne pair of shoes is new, one pair of shoes is old.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -492,16 +544,20 @@
       "story_text": "Dogs takes the new shoes, and then ...\n\nIt is not too cold for Dog.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -529,16 +585,20 @@
       "story_text": "The night is over.\n\nThe moon goes. The sun comes.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -566,16 +626,20 @@
       "story_text": "It is day. It is light. It is warm. It is very warm.\n\nFor Dog it is too warm.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -603,16 +667,20 @@
       "story_text": "Bye bye Cat.\n\nBye bye hot Dog.",
       "_translations": {
         "story_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_1": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_2": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "annotation_3": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {

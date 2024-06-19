@@ -11,22 +11,27 @@
       "activity_title": "One of These is Not Like the Others",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
           "es_es": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -65,22 +70,28 @@
       "activity_title": "Island Hopping – Counting",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -121,40 +132,51 @@
       "activity_title": "Cutting Symmetric Shapes",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
           "es_es": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block5_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block5_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block6_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block6_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -214,25 +236,32 @@
       "activity_title": "Nim With One and Two",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -285,28 +314,35 @@
       "activity_title": "Connect The Dots",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
           "es_es": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block7_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block7_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -351,28 +387,36 @@
       "activity_title": "Shape Sudoku",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -419,34 +463,44 @@
       "activity_title": "Number Sudoku With Jigsaws",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -500,19 +554,24 @@
       "activity_title": "Greater Than Sudoku",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -544,28 +603,35 @@
       "activity_title": "Make Me a Liar",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
           "es_es": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -610,31 +676,40 @@
       "activity_title": "15-Sliding Puzzle",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -687,28 +762,36 @@
       "activity_title": "Shape Sums",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block5_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -752,22 +835,28 @@
       "activity_title": "Nim – Doubling the Limit",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -803,22 +892,28 @@
       "activity_title": "Counting Evens and Odds",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -860,19 +955,24 @@
       "activity_title": "Sum Groups",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -904,21 +1004,28 @@
       "activity_title": "Zoo Rescue",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
-        "block2_text": {}
+        "block2_text": {
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "activity_title": {
@@ -953,22 +1060,27 @@
       "activity_title": "Common Sums",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
           "es_es": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1006,34 +1118,44 @@
       "activity_title": "Sudoku Variations",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block5_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1085,34 +1207,43 @@
       "activity_title": "How Many Ways?",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
           "es_es": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1164,22 +1295,28 @@
       "activity_title": "Card Deck Ordering",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1217,28 +1354,36 @@
       "activity_title": "Difference Pyramid",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1286,19 +1431,24 @@
       "activity_title": "Enclosed Sums",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1332,19 +1482,24 @@
       "activity_title": "Island Hopping – Compensation",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1385,28 +1540,36 @@
       "activity_title": "DiffTriangles and SumTriangles",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block5_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block5_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1452,16 +1615,20 @@
       "activity_title": "Island Hopping – Skip Counting",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1493,16 +1660,20 @@
       "activity_title": "Fix It",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1533,16 +1704,20 @@
       "activity_title": "Island Hopping by Ones and Tens",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1586,52 +1761,68 @@
       "activity_title": "Solitaire Shape Puzzles",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block5_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block6_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block7_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block8_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block9_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block10_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1709,25 +1900,32 @@
       "activity_title": "Sum Square",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1768,19 +1966,24 @@
       "activity_title": "Addition Pyramid",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1812,28 +2015,35 @@
       "activity_title": "Investigations",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
           "es_es": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1877,22 +2087,28 @@
       "activity_title": "Nim With Factors",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1930,22 +2146,27 @@
       "activity_title": "Sieve of Eratosthenes",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
           "es_es": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -1991,40 +2212,51 @@
       "activity_title": "Levers and Mobiles",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
           "es_es": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block5_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block5_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block6_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block7_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -2088,28 +2320,36 @@
       "activity_title": "Divide Up the Box",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -2156,25 +2396,32 @@
       "activity_title": "Letter Substitution Puzzles",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -2218,31 +2465,39 @@
       "activity_title": "Bouncing Billiard Ball",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
           "es_es": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -2294,37 +2549,47 @@
       "activity_title": "Playing With Shapes",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
           "es_es": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block5_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -2384,28 +2649,35 @@
       "activity_title": "Product Game",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_title": {
           "es_es": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -2449,34 +2721,41 @@
       "activity_title": "Limited Calculators",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
           "es_es": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block3_title": {
           "es_es": true
         },
         "block3_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block4_title": {
           "es_es": true
         },
         "block4_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {
@@ -2528,22 +2807,28 @@
       "activity_title": "Double or Nothing",
       "_translations": {
         "activity_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "activity_type": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block1_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_title": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         },
         "block2_text": {
-          "es_es": true
+          "es_es": true,
+          "fr_fr": true
         }
       },
       "_translatedFields": {

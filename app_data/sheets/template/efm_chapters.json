@@ -107,7 +107,8 @@
           "value": "Investigations",
           "_translations": {
             "value": {
-              "es_es": true
+              "es_es": true,
+              "fr_fr": true
             }
           },
           "type": "set_variable",
