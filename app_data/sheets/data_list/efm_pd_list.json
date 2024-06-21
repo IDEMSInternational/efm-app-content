@@ -41,17 +41,27 @@
       "title": "Playdate 1-1",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 1-1"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Use Math Talk to point out and describe objects to your child. Talk about the properties of these objects.\n\n**Storybook:** This has color words.\n\n**Activities:** These involve the properties of things."
+          "eng": "**Playdate Focus:** Use Math Talk to point out and describe objects to your child. Talk about the properties of these objects."
+        },
+        "block2_text": {
+          "eng": "This has color words."
+        },
+        "block3_text": {
+          "eng": "These involve the properties of things."
         }
       },
-      "block1_text": "**Playdate Focus:** Use Math Talk to point out and describe objects to your child. Talk about the properties of these objects.\n\n**Storybook:** This has color words.\n\n**Activities:** These involve the properties of things."
+      "block1_text": "**Playdate Focus:** Use Math Talk to point out and describe objects to your child. Talk about the properties of these objects.",
+      "block2_text": "This has color words.",
+      "block3_text": "These involve the properties of things."
     },
     {
       "id": "efm_pd_1_2",
@@ -64,17 +74,27 @@
       "title": "Playdate 1-2",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 1-2"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Continue to use Math Talk to point out and describe objects to your child. \n\n**Storybook:** This looks at how clothes can be too big or too small\n\n**Activities:** These practice shapes and descriptions."
+          "eng": "**Playdate Focus:** Continue to use Math Talk to point out and describe objects to your child."
+        },
+        "block2_text": {
+          "eng": "This looks at how clothes can be too big or too small."
+        },
+        "block3_text": {
+          "eng": "These practice shapes and descriptions."
         }
       },
-      "block1_text": "**Playdate Focus:** Continue to use Math Talk to point out and describe objects to your child. \n\n**Storybook:** This looks at how clothes can be too big or too small\n\n**Activities:** These practice shapes and descriptions."
+      "block1_text": "**Playdate Focus:** Continue to use Math Talk to point out and describe objects to your child.",
+      "block2_text": "This looks at how clothes can be too big or too small.",
+      "block3_text": "These practice shapes and descriptions."
     },
     {
       "id": "efm_pd_1_3",
@@ -87,17 +107,27 @@
       "title": "Playdate 1-3",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 1-3"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Describe all the math that is all around you everywhere you go. Use Math Talk to chat about it with your child.\n\n**Storybook:** This talks about speed, colors, and small counting.\n\n**Activities:** These involve descriptions of places and objects, and also the following of directions."
+          "eng": "**Playdate Focus:** Describe all the math that is all around you everywhere you go. Use Math Talk to chat about it with your child."
+        },
+        "block2_text": {
+          "eng": "This talks about speed, colors, and small counting."
+        },
+        "block3_text": {
+          "eng": "These involve descriptions of places and objects, and also the following of directions."
         }
       },
-      "block1_text": "**Playdate Focus:** Describe all the math that is all around you everywhere you go. Use Math Talk to chat about it with your child.\n\n**Storybook:** This talks about speed, colors, and small counting.\n\n**Activities:** These involve descriptions of places and objects, and also the following of directions."
+      "block1_text": "**Playdate Focus:** Describe all the math that is all around you everywhere you go. Use Math Talk to chat about it with your child.",
+      "block2_text": "This talks about speed, colors, and small counting.",
+      "block3_text": "These involve descriptions of places and objects, and also the following of directions."
     },
     {
       "id": "efm_pd_1_4",
@@ -110,17 +140,27 @@
       "title": "Playdate 1-4",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 1-4"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Math is not just counting – math is also about properties and relationships. This should be brought out in your Math Talk. \n\n**Storybook:** The storybook talks about colors, shapes, and spatial relationships.\n\n**Activities:** These involve properties of objects and how those properties can create patterns."
+          "eng": "**Playdate Focus:** Math is not just counting – math is also about properties and relationships. This should be brought out in your Math Talk."
+        },
+        "block2_text": {
+          "eng": "The storybook talks about colors, shapes, and spatial relationships."
+        },
+        "block3_text": {
+          "eng": "These involve properties of objects and how those properties can create patterns."
         }
       },
-      "block1_text": "**Playdate Focus:** Math is not just counting – math is also about properties and relationships. This should be brought out in your Math Talk. \n\n**Storybook:** The storybook talks about colors, shapes, and spatial relationships.\n\n**Activities:** These involve properties of objects and how those properties can create patterns."
+      "block1_text": "**Playdate Focus:** Math is not just counting – math is also about properties and relationships. This should be brought out in your Math Talk.",
+      "block2_text": "The storybook talks about colors, shapes, and spatial relationships.",
+      "block3_text": "These involve properties of objects and how those properties can create patterns."
     },
     {
       "id": "efm_pd_1_5",
@@ -133,17 +173,27 @@
       "title": "Playdate 1-5",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 1-5"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Use counting in your Math Talk. Count everything you come across. \n\n**Storybook:** This involves counting and the ideas of one more and one less.\n\n**Activities:** These involve quantities of objects and building with various shapes."
+          "eng": "**Playdate Focus:** Use counting in your Math Talk. Count everything you come across."
+        },
+        "block2_text": {
+          "eng": "This involves counting and the ideas of one more and one less."
+        },
+        "block3_text": {
+          "eng": "These involve quantities of objects and building with various shapes."
         }
       },
-      "block1_text": "**Playdate Focus:** Use counting in your Math Talk. Count everything you come across. \n\n**Storybook:** This involves counting and the ideas of one more and one less.\n\n**Activities:** These involve quantities of objects and building with various shapes."
+      "block1_text": "**Playdate Focus:** Use counting in your Math Talk. Count everything you come across.",
+      "block2_text": "This involves counting and the ideas of one more and one less.",
+      "block3_text": "These involve quantities of objects and building with various shapes."
     },
     {
       "id": "efm_pd_1_6",
@@ -156,17 +206,27 @@
       "title": "Playdate 1-6",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 1-6"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Your Math Talk changes when your child is able to respond to your comments and questions.\n\n**Storybook:** This counts up to 5 and uses relationship words, which you can now use to ask your child about what's going on in the story. \n\n**Activities:** These involve describing things and finding properties that make things similar or different."
+          "eng": "**Playdate Focus:** Your Math Talk changes when your child is able to respond to your comments and questions."
+        },
+        "block2_text": {
+          "eng": "This counts up to 5 and uses relationship words, which you can now use to ask your child about what's going on in the story."
+        },
+        "block3_text": {
+          "eng": "These involve describing things and finding properties that make things similar or different."
         }
       },
-      "block1_text": "**Playdate Focus:** Your Math Talk changes when your child is able to respond to your comments and questions.\n\n**Storybook:** This counts up to 5 and uses relationship words, which you can now use to ask your child about what's going on in the story. \n\n**Activities:** These involve describing things and finding properties that make things similar or different."
+      "block1_text": "**Playdate Focus:** Your Math Talk changes when your child is able to respond to your comments and questions.",
+      "block2_text": "This counts up to 5 and uses relationship words, which you can now use to ask your child about what's going on in the story.",
+      "block3_text": "These involve describing things and finding properties that make things similar or different."
     },
     {
       "id": "efm_pd_1_7",
@@ -179,17 +239,27 @@
       "title": "Playdate 1-7",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 1-7"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Continue to emphasize words that describe properties and relationships.\n\n**Storybook:** This has relative sizes and shapes. \n\n**Activities:** These involve using properties to compare things and find patterns."
+          "eng": "**Playdate Focus:** Continue to emphasize words that describe properties and relationships."
+        },
+        "block2_text": {
+          "eng": "This has relative sizes and shapes."
+        },
+        "block3_text": {
+          "eng": "These involve using properties to compare things and find patterns."
         }
       },
-      "block1_text": "**Playdate Focus:** Continue to emphasize words that describe properties and relationships.\n\n**Storybook:** This has relative sizes and shapes. \n\n**Activities:** These involve using properties to compare things and find patterns."
+      "block1_text": "**Playdate Focus:** Continue to emphasize words that describe properties and relationships.",
+      "block2_text": "This has relative sizes and shapes.",
+      "block3_text": "These involve using properties to compare things and find patterns."
     },
     {
       "id": "efm_pd_1_8",
@@ -202,17 +272,27 @@
       "title": "Playdate 1-8",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 1-8"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** This is centered on what makes objects the same and different.\n\n**Storybook:** This has shapes, colors, relationships, and counting up to 5.\n\n**Activities:** These involve grouping things with the same property."
+          "eng": "**Playdate Focus:** This is centered on what makes objects the same and different."
+        },
+        "block2_text": {
+          "eng": "This has shapes, colors, relationships, and counting up to 5."
+        },
+        "block3_text": {
+          "eng": "These involve grouping things with the same property."
         }
       },
-      "block1_text": "**Playdate Focus:** This is centered on what makes objects the same and different.\n\n**Storybook:** This has shapes, colors, relationships, and counting up to 5.\n\n**Activities:** These involve grouping things with the same property."
+      "block1_text": "**Playdate Focus:** This is centered on what makes objects the same and different.",
+      "block2_text": "This has shapes, colors, relationships, and counting up to 5.",
+      "block3_text": "These involve grouping things with the same property."
     },
     {
       "id": "efm_pd_1_9",
@@ -225,17 +305,27 @@
       "title": "Playdate 1-9",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 1-9"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Use properties of things to establish patterns. Patterns are central to mathematics.\n\n**Storybook:** This talks about the daily feeding of hungry animals\n\n**Activities:** These involve properties and finding patterns involving those properties."
+          "eng": "**Playdate Focus:** Use properties of things to establish patterns. Patterns are central to mathematics."
+        },
+        "block2_text": {
+          "eng": "This talks about the daily feeding of hungry animals."
+        },
+        "block3_text": {
+          "eng": "These involve properties and finding patterns involving those properties."
         }
       },
-      "block1_text": "**Playdate Focus:** Use properties of things to establish patterns. Patterns are central to mathematics.\n\n**Storybook:** This talks about the daily feeding of hungry animals\n\n**Activities:** These involve properties and finding patterns involving those properties."
+      "block1_text": "**Playdate Focus:** Use properties of things to establish patterns. Patterns are central to mathematics.",
+      "block2_text": "This talks about the daily feeding of hungry animals.",
+      "block3_text": "These involve properties and finding patterns involving those properties."
     },
     {
       "id": "efm_pd_1_10",
@@ -248,17 +338,27 @@
       "title": "Playdate 1-10",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 1-10"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Discuss basic shapes and emphasize their names and descriptions. \n\n**Storybook:** This has shapes on every page. \n\n**Activities:** These continue the ongoing discussions about properties and patterns."
+          "eng": "**Playdate Focus:** Discuss basic shapes and emphasize their names and descriptions."
+        },
+        "block2_text": {
+          "eng": "his has shapes on every page."
+        },
+        "block3_text": {
+          "eng": "These continue the ongoing discussions about properties and patterns."
         }
       },
-      "block1_text": "**Playdate Focus:** Discuss basic shapes and emphasize their names and descriptions. \n\n**Storybook:** This has shapes on every page. \n\n**Activities:** These continue the ongoing discussions about properties and patterns."
+      "block1_text": "**Playdate Focus:** Discuss basic shapes and emphasize their names and descriptions.",
+      "block2_text": "his has shapes on every page.",
+      "block3_text": "These continue the ongoing discussions about properties and patterns."
     },
     {
       "id": "efm_pd_2_0",
@@ -297,17 +397,27 @@
       "title": "Playdate 2-1",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 2-1"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Count up from 1, start at 0 sometimes. This is the basis of understanding quantities and helps with beginning addition and subtraction. \n\n**Storybook:** This has counting from 0 to 9. It also has smallest, biggest, one more, one less, and colors.\n\n**Activities:** One activity introduces the idea of counterexamples. The other activity is a 2-person strategy game making triangles."
+          "eng": "**Playdate Focus:** Count up from 1, start at 0 sometimes. This is the basis of understanding quantities and helps with beginning addition and subtraction."
+        },
+        "block2_text": {
+          "eng": "This has counting from 0 to 9. It also has smallest, biggest, one more, one less, and colors."
+        },
+        "block3_text": {
+          "eng": "One activity introduces the idea of counterexamples. The other activity is a 2-person strategy game making triangles."
         }
       },
-      "block1_text": "**Playdate Focus:** Count up from 1, start at 0 sometimes. This is the basis of understanding quantities and helps with beginning addition and subtraction. \n\n**Storybook:** This has counting from 0 to 9. It also has smallest, biggest, one more, one less, and colors.\n\n**Activities:** One activity introduces the idea of counterexamples. The other activity is a 2-person strategy game making triangles."
+      "block1_text": "**Playdate Focus:** Count up from 1, start at 0 sometimes. This is the basis of understanding quantities and helps with beginning addition and subtraction.",
+      "block2_text": "This has counting from 0 to 9. It also has smallest, biggest, one more, one less, and colors.",
+      "block3_text": "One activity introduces the idea of counterexamples. The other activity is a 2-person strategy game making triangles."
     },
     {
       "id": "efm_pd_2_2",
@@ -322,17 +432,27 @@
       "title": "Playdate 2-2",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 2-2"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Count down to 1, ending at 0 sometimes. This deepens understanding of the number sequence. It also helps with subtraction.\n\n**Storybook:** This has the numbers from 1 to 7. It also has color descriptions on every page.\n\n**Activities:** These involve lots of counting and small quantities. One activity also has adding or subtracting of 1 and 2."
+          "eng": "**Playdate Focus:** Count down to 1, ending at 0 sometimes. This deepens understanding of the number sequence. It also helps with subtraction."
+        },
+        "block2_text": {
+          "eng": "This has the numbers from 1 to 7. It also has color descriptions on every page."
+        },
+        "block3_text": {
+          "eng": "These involve lots of counting and small quantities. One activity also has adding or subtracting of 1 and 2."
         }
       },
-      "block1_text": "**Playdate Focus:** Count down to 1, ending at 0 sometimes. This deepens understanding of the number sequence. It also helps with subtraction.\n\n**Storybook:** This has the numbers from 1 to 7. It also has color descriptions on every page.\n\n**Activities:** These involve lots of counting and small quantities. One activity also has adding or subtracting of 1 and 2."
+      "block1_text": "**Playdate Focus:** Count down to 1, ending at 0 sometimes. This deepens understanding of the number sequence. It also helps with subtraction.",
+      "block2_text": "This has the numbers from 1 to 7. It also has color descriptions on every page.",
+      "block3_text": "These involve lots of counting and small quantities. One activity also has adding or subtracting of 1 and 2."
     },
     {
       "id": "efm_pd_2_3",
@@ -345,17 +465,27 @@
       "title": "Playdate 2-3",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 2-3"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Understand strategies for comparing small numbers and quantities.\n\n**Storybook:** This has counting from 1 to 10; relationship words such as too big or too small; and spatial relationship words such as above and under.\n\n**Activities:** These involve  discovering shapes for quantities and playing with the order of numbers"
+          "eng": "**Playdate Focus:** Understand strategies for comparing small numbers and quantities."
+        },
+        "block2_text": {
+          "eng": "This has counting from 1 to 10; relationship words such as too big or too small; and spatial relationship words such as above and under."
+        },
+        "block3_text": {
+          "eng": "These involve  discovering shapes for quantities and playing with the order of numbers."
         }
       },
-      "block1_text": "**Playdate Focus:** Understand strategies for comparing small numbers and quantities.\n\n**Storybook:** This has counting from 1 to 10; relationship words such as too big or too small; and spatial relationship words such as above and under.\n\n**Activities:** These involve  discovering shapes for quantities and playing with the order of numbers"
+      "block1_text": "**Playdate Focus:** Understand strategies for comparing small numbers and quantities.",
+      "block2_text": "This has counting from 1 to 10; relationship words such as too big or too small; and spatial relationship words such as above and under.",
+      "block3_text": "These involve  discovering shapes for quantities and playing with the order of numbers."
     },
     {
       "id": "efm_pd_2_4",
@@ -368,17 +498,27 @@
       "title": "Playdate 2-4",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 2-4"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** This introduces the idea of Counting On and how valuable it is for understanding quantities and laying a foundation for addition.\n\n**Storybook:** This has counting to 12, colors, shapes, and patterns.\n\n**Activities:** These involve the order of numbers and how numbers compare to each other."
+          "eng": "**Playdate Focus:** This introduces the idea of Counting On and how valuable it is for understanding quantities and laying a foundation for addition."
+        },
+        "block2_text": {
+          "eng": "This has counting to 12, colors, shapes, and patterns."
+        },
+        "block3_text": {
+          "eng": "These involve the order of numbers and how numbers compare to each other."
         }
       },
-      "block1_text": "**Playdate Focus:** This introduces the idea of Counting On and how valuable it is for understanding quantities and laying a foundation for addition.\n\n**Storybook:** This has counting to 12, colors, shapes, and patterns.\n\n**Activities:** These involve the order of numbers and how numbers compare to each other."
+      "block1_text": "**Playdate Focus:** This introduces the idea of Counting On and how valuable it is for understanding quantities and laying a foundation for addition.",
+      "block2_text": "This has counting to 12, colors, shapes, and patterns.",
+      "block3_text": "These involve the order of numbers and how numbers compare to each other."
     },
     {
       "id": "efm_pd_2_5",
@@ -391,17 +531,27 @@
       "title": "Playdate 2-5",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 2-5"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Develop further your child's understanding of shapes. Introduce more shapes and their names and properties. You can use counting now to discuss numbers of edges and corners.\n\n**Storybook:** This has lots of shapes on every page.\n\n**Activities:** These involve creating lots of geometric shapes."
+          "eng": "**Playdate Focus:** Develop further your child's understanding of shapes. Introduce more shapes and their names and properties. You can use counting now to discuss numbers of edges and corners."
+        },
+        "block2_text": {
+          "eng": "This has lots of shapes on every page."
+        },
+        "block3_text": {
+          "eng": "These involve creating lots of geometric shapes."
         }
       },
-      "block1_text": "**Playdate Focus:** Develop further your child's understanding of shapes. Introduce more shapes and their names and properties. You can use counting now to discuss numbers of edges and corners.\n\n**Storybook:** This has lots of shapes on every page.\n\n**Activities:** These involve creating lots of geometric shapes."
+      "block1_text": "**Playdate Focus:** Develop further your child's understanding of shapes. Introduce more shapes and their names and properties. You can use counting now to discuss numbers of edges and corners.",
+      "block2_text": "This has lots of shapes on every page.",
+      "block3_text": "These involve creating lots of geometric shapes."
     },
     {
       "id": "efm_pd_2_6",
@@ -414,17 +564,27 @@
       "title": "Playdate 2-6",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 2-6"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Make a lot of use of \"one more\" and \"one less\" to help with the understanding of the number sequence as well as beginning an understanding of addition and subtraction.\n\n**Storybook:** This has counting to 9, one more, one less, and many relationship words.\n\n**Activities:** These involve the ordering of numbers and the use of a number line."
+          "eng": "**Playdate Focus:** Make a lot of use of \"one more\" and \"one less\" to help with the understanding of the number sequence as well as beginning an understanding of addition and subtraction."
+        },
+        "block2_text": {
+          "eng": "This has counting to 9, one more, one less, and many relationship words."
+        },
+        "block3_text": {
+          "eng": "These involve the ordering of numbers and the use of a number line."
         }
       },
-      "block1_text": "**Playdate Focus:** Make a lot of use of \"one more\" and \"one less\" to help with the understanding of the number sequence as well as beginning an understanding of addition and subtraction.\n\n**Storybook:** This has counting to 9, one more, one less, and many relationship words.\n\n**Activities:** These involve the ordering of numbers and the use of a number line."
+      "block1_text": "**Playdate Focus:** Make a lot of use of \"one more\" and \"one less\" to help with the understanding of the number sequence as well as beginning an understanding of addition and subtraction.",
+      "block2_text": "This has counting to 9, one more, one less, and many relationship words.",
+      "block3_text": "These involve the ordering of numbers and the use of a number line."
     },
     {
       "id": "efm_pd_2_7",
@@ -437,17 +597,27 @@
       "title": "Playdate 2-7",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 2-7"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Enjoy adding of small numbers with totals up to 5.\n\n**Storybook:** This has counting up to 6, with colors and shapes.\n\n**Activities:** These involve very small counting and adding. For now, only use small sums (up to around 6)  for the Bonded Groups puzzles."
+          "eng": "**Playdate Focus:** Enjoy adding of small numbers with totals up to 5."
+        },
+        "block2_text": {
+          "eng": "This has counting up to 6, with colors and shapes."
+        },
+        "block3_text": {
+          "eng": "These involve very small counting and adding. For now, only use small sums (up to around 6)  for the Bonded Groups puzzles."
         }
       },
-      "block1_text": "**Playdate Focus:** Enjoy adding of small numbers with totals up to 5.\n\n**Storybook:** This has counting up to 6, with colors and shapes.\n\n**Activities:** These involve very small counting and adding. For now, only use small sums (up to around 6)  for the Bonded Groups puzzles."
+      "block1_text": "**Playdate Focus:** Enjoy adding of small numbers with totals up to 5.",
+      "block2_text": "This has counting up to 6, with colors and shapes.",
+      "block3_text": "These involve very small counting and adding. For now, only use small sums (up to around 6)  for the Bonded Groups puzzles."
     },
     {
       "id": "efm_pd_2_8",
@@ -460,17 +630,27 @@
       "title": "Playdate 2-8",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 2-8"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Fingers are very useful for counting, adding, and subtracting. Show your child how to make good use of their fingers for numbers of 10 or less.\n\n**Storybook:** This has counting up to 12, shapes, and comparing.\n\n**Activities:** These involve a number line for counting, adding, and subtracting, and Bonded Groups for practicing adding. Keep the totals for Bonded Groups small (perhaps around 7 or so), and slowly let the totals get larger."
+          "eng": "**Playdate Focus:** Fingers are very useful for counting, adding, and subtracting. Show your child how to make good use of their fingers for numbers of 10 or less."
+        },
+        "block2_text": {
+          "eng": "This has counting up to 12, shapes, and comparing."
+        },
+        "block3_text": {
+          "eng": "These involve a number line for counting, adding, and subtracting, and Bonded Groups for practicing adding. Keep the totals for Bonded Groups small (perhaps around 7 or so), and slowly let the totals get larger."
         }
       },
-      "block1_text": "**Playdate Focus:** Fingers are very useful for counting, adding, and subtracting. Show your child how to make good use of their fingers for numbers of 10 or less.\n\n**Storybook:** This has counting up to 12, shapes, and comparing.\n\n**Activities:** These involve a number line for counting, adding, and subtracting, and Bonded Groups for practicing adding. Keep the totals for Bonded Groups small (perhaps around 7 or so), and slowly let the totals get larger."
+      "block1_text": "**Playdate Focus:** Fingers are very useful for counting, adding, and subtracting. Show your child how to make good use of their fingers for numbers of 10 or less.",
+      "block2_text": "This has counting up to 12, shapes, and comparing.",
+      "block3_text": "These involve a number line for counting, adding, and subtracting, and Bonded Groups for practicing adding. Keep the totals for Bonded Groups small (perhaps around 7 or so), and slowly let the totals get larger."
     },
     {
       "id": "efm_pd_2_9",
@@ -483,17 +663,27 @@
       "title": "Playdate 2-9",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 2-9"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Have fun skip counting by 2's with your child. It's a fun and fast way to count that helps them see numbers in a new way.\n\n**Storybook:** This has skip counting along with shapes and comparisons.\n\n**Activities:** These involve number shapes (to practice pairing things up for skip counting) and making symmetric shapes."
+          "eng": "**Playdate Focus:** Have fun skip counting by 2's with your child. It's a fun and fast way to count that helps them see numbers in a new way."
+        },
+        "block2_text": {
+          "eng": "This has skip counting along with shapes and comparisons."
+        },
+        "block3_text": {
+          "eng": "These involve number shapes (to practice pairing things up for skip counting) and making symmetric shapes."
         }
       },
-      "block1_text": "**Playdate Focus:** Have fun skip counting by 2's with your child. It's a fun and fast way to count that helps them see numbers in a new way.\n\n**Storybook:** This has skip counting along with shapes and comparisons.\n\n**Activities:** These involve number shapes (to practice pairing things up for skip counting) and making symmetric shapes."
+      "block1_text": "**Playdate Focus:** Have fun skip counting by 2's with your child. It's a fun and fast way to count that helps them see numbers in a new way.",
+      "block2_text": "This has skip counting along with shapes and comparisons.",
+      "block3_text": "These involve number shapes (to practice pairing things up for skip counting) and making symmetric shapes."
     },
     {
       "id": "efm_pd_2_10",
@@ -506,17 +696,27 @@
       "title": "Playdate 2-10",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 2-10"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Playfully find many different ways to count a group of objects. This helps with understanding quantities and that counting, adding, and subtracting can be playful.\n\n**Storybook:** This has skip counting and counting up to 14.\n\n**Activities:** These involve putting quantities of things into different shapes as well as playing with making estimates for quantities."
+          "eng": "**Playdate Focus:** Playfully find many different ways to count a group of objects. This helps with understanding quantities and that counting, adding, and subtracting can be playful."
+        },
+        "block2_text": {
+          "eng": "This has skip counting and counting up to 14."
+        },
+        "block3_text": {
+          "eng": "These involve putting quantities of things into different shapes as well as playing with making estimates for quantities."
         }
       },
-      "block1_text": "**Playdate Focus:** Playfully find many different ways to count a group of objects. This helps with understanding quantities and that counting, adding, and subtracting can be playful.\n\n**Storybook:** This has skip counting and counting up to 14.\n\n**Activities:** These involve putting quantities of things into different shapes as well as playing with making estimates for quantities."
+      "block1_text": "**Playdate Focus:** Playfully find many different ways to count a group of objects. This helps with understanding quantities and that counting, adding, and subtracting can be playful.",
+      "block2_text": "This has skip counting and counting up to 14.",
+      "block3_text": "These involve putting quantities of things into different shapes as well as playing with making estimates for quantities."
     },
     {
       "id": "efm_pd_3_0",
@@ -555,17 +755,27 @@
       "title": "Playdate 3-1",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 3-1"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Practice adding by using the idea of Counting On. The term  Counting On means that, if you count two groups, such as 4 and 3, you start your counting at 4 rather than 1.\n\n**Storybook:** This has lots of shapes and groupings of objects.\n\n**Activities:** These involve addition and subtraction. Use the \"Numbered\" version of Dots and Boxes with small numbers to practice addition."
+          "eng": "**Playdate Focus:** Practice adding by using the idea of Counting On. The term  Counting On means that, if you count two groups, such as 4 and 3, you start your counting at 4 rather than 1."
+        },
+        "block2_text": {
+          "eng": "This has lots of shapes and groupings of objects."
+        },
+        "block3_text": {
+          "eng": "These involve addition and subtraction. Use the \"Numbered\" version of Dots and Boxes with small numbers to practice addition."
         }
       },
-      "block1_text": "**Playdate Focus:** Practice adding by using the idea of Counting On. The term  Counting On means that, if you count two groups, such as 4 and 3, you start your counting at 4 rather than 1.\n\n**Storybook:** This has lots of shapes and groupings of objects.\n\n**Activities:** These involve addition and subtraction. Use the \"Numbered\" version of Dots and Boxes with small numbers to practice addition."
+      "block1_text": "**Playdate Focus:** Practice adding by using the idea of Counting On. The term  Counting On means that, if you count two groups, such as 4 and 3, you start your counting at 4 rather than 1.",
+      "block2_text": "This has lots of shapes and groupings of objects.",
+      "block3_text": "These involve addition and subtraction. Use the \"Numbered\" version of Dots and Boxes with small numbers to practice addition."
     },
     {
       "id": "efm_pd_3_2",
@@ -578,17 +788,27 @@
       "title": "Playdate 3-2",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 3-2"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Practice subtracting by counting down from the larger number. Talk about how \"take away\" and \"difference\" are two good models for subtraction.\n\n**Storybook:** This has skip counting, shapes, and comparisons.\n\n**Activities:** These involve comparing, adding, and subtracting."
+          "eng": "**Playdate Focus:** Practice subtracting by counting down from the larger number. Talk about how \"take away\" and \"difference\" are two good models for subtraction."
+        },
+        "block2_text": {
+          "eng": "This has skip counting, shapes, and comparisons."
+        },
+        "block3_text": {
+          "eng": "These involve comparing, adding, and subtracting."
         }
       },
-      "block1_text": "**Playdate Focus:** Practice subtracting by counting down from the larger number. Talk about how \"take away\" and \"difference\" are two good models for subtraction.\n\n**Storybook:** This has skip counting, shapes, and comparisons.\n\n**Activities:** These involve comparing, adding, and subtracting."
+      "block1_text": "**Playdate Focus:** Practice subtracting by counting down from the larger number. Talk about how \"take away\" and \"difference\" are two good models for subtraction.",
+      "block2_text": "This has skip counting, shapes, and comparisons.",
+      "block3_text": "These involve comparing, adding, and subtracting."
     },
     {
       "id": "efm_pd_3_3",
@@ -601,17 +821,27 @@
       "title": "Playdate 3-3",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 3-3"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Practice subtracting by counting up to find the difference. Reinforce that \"take away\" and \"difference\" are two good models for subtraction.\n\n**Storybook:** This has counting to 10 and shapes.\n\n**Activities:** These involve addition and some estimating of small quantities."
+          "eng": "**Playdate Focus:** Practice subtracting by counting up to find the difference. Reinforce that \"take away\" and \"difference\" are two good models for subtraction."
+        },
+        "block2_text": {
+          "eng": "This has counting to 10 and shapes."
+        },
+        "block3_text": {
+          "eng": "These involve addition and some estimating of small quantities."
         }
       },
-      "block1_text": "**Playdate Focus:** Practice subtracting by counting up to find the difference. Reinforce that \"take away\" and \"difference\" are two good models for subtraction.\n\n**Storybook:** This has counting to 10 and shapes.\n\n**Activities:** These involve addition and some estimating of small quantities."
+      "block1_text": "**Playdate Focus:** Practice subtracting by counting up to find the difference. Reinforce that \"take away\" and \"difference\" are two good models for subtraction.",
+      "block2_text": "This has counting to 10 and shapes.",
+      "block3_text": "These involve addition and some estimating of small quantities."
     },
     {
       "id": "efm_pd_3_4",
@@ -624,17 +854,27 @@
       "title": "Playdate 3-4",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 3-4"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** The Part-Whole relationship, seeing something as made out of parts, is a significant developmental step for a child. Practice Number Bonds, which are groups of numbers that total to the same result, with your child. Practicing with Ten Frames is an important part of this.\n\n**Storybook:** This has counting to 10, comparisons, and a discussion of problem solving.\n\n**Activities:** These involve lots of practice with number bonds."
+          "eng": "**Playdate Focus:** The Part-Whole relationship, seeing something as made out of parts, is a significant developmental step for a child. Practice Number Bonds, which are groups of numbers that total to the same result, with your child. Practicing with Ten Frames is an important part of this."
+        },
+        "block2_text": {
+          "eng": "This has counting to 10, comparisons, and a discussion of problem solving."
+        },
+        "block3_text": {
+          "eng": "These involve lots of practice with number bonds."
         }
       },
-      "block1_text": "**Playdate Focus:** The Part-Whole relationship, seeing something as made out of parts, is a significant developmental step for a child. Practice Number Bonds, which are groups of numbers that total to the same result, with your child. Practicing with Ten Frames is an important part of this.\n\n**Storybook:** This has counting to 10, comparisons, and a discussion of problem solving.\n\n**Activities:** These involve lots of practice with number bonds."
+      "block1_text": "**Playdate Focus:** The Part-Whole relationship, seeing something as made out of parts, is a significant developmental step for a child. Practice Number Bonds, which are groups of numbers that total to the same result, with your child. Practicing with Ten Frames is an important part of this.",
+      "block2_text": "This has counting to 10, comparisons, and a discussion of problem solving.",
+      "block3_text": "These involve lots of practice with number bonds."
     },
     {
       "id": "efm_pd_3_5",
@@ -647,17 +887,27 @@
       "title": "Playdate 3-5",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 3-5"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Ten has a very important role for our numbers. Practice adding and subtracting 10. Also practice taking the numbers from 10 to 19 and breaking them up into 10 plus some ones – for example, that 14 is 10 plus 4 more.\n\n**Storybook:** This has lots of shapes and counting with small numbers.\n\n**Activities:** These involve comparing and ordering numbers up to 20."
+          "eng": "**Playdate Focus:** Ten has a very important role for our numbers. Practice adding and subtracting 10. Also practice taking the numbers from 10 to 19 and breaking them up into 10 plus some ones – for example, that 14 is 10 plus 4 more."
+        },
+        "block2_text": {
+          "eng": "This has lots of shapes and counting with small numbers."
+        },
+        "block3_text": {
+          "eng": "These involve comparing and ordering numbers up to 20."
         }
       },
-      "block1_text": "**Playdate Focus:** Ten has a very important role for our numbers. Practice adding and subtracting 10. Also practice taking the numbers from 10 to 19 and breaking them up into 10 plus some ones – for example, that 14 is 10 plus 4 more.\n\n**Storybook:** This has lots of shapes and counting with small numbers.\n\n**Activities:** These involve comparing and ordering numbers up to 20."
+      "block1_text": "**Playdate Focus:** Ten has a very important role for our numbers. Practice adding and subtracting 10. Also practice taking the numbers from 10 to 19 and breaking them up into 10 plus some ones – for example, that 14 is 10 plus 4 more.",
+      "block2_text": "This has lots of shapes and counting with small numbers.",
+      "block3_text": "These involve comparing and ordering numbers up to 20."
     },
     {
       "id": "efm_pd_3_6",
@@ -670,17 +920,27 @@
       "title": "Playdate 3-6",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 3-6"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Use Fact Families to emphasize the connection between addition and subtraction. This is a natural follow on to the last Playdate's focus on number bonds.\n\n**Storybook:** This has counting to 12, colors, shapes, and patterns.\n\n**Activities:** These involve lots of practice with number bonds and with addition and subtraction of small numbers."
+          "eng": "**Playdate Focus:** Use Fact Families to emphasize the connection between addition and subtraction. This is a natural follow on to the last Playdate's focus on number bonds."
+        },
+        "block2_text": {
+          "eng": "This has counting to 12, colors, shapes, and patterns."
+        },
+        "block3_text": {
+          "eng": "These involve lots of practice with number bonds and with addition and subtraction of small numbers."
         }
       },
-      "block1_text": "**Playdate Focus:** Use Fact Families to emphasize the connection between addition and subtraction. This is a natural follow on to the last Playdate's focus on number bonds.\n\n**Storybook:** This has counting to 12, colors, shapes, and patterns.\n\n**Activities:** These involve lots of practice with number bonds and with addition and subtraction of small numbers."
+      "block1_text": "**Playdate Focus:** Use Fact Families to emphasize the connection between addition and subtraction. This is a natural follow on to the last Playdate's focus on number bonds.",
+      "block2_text": "This has counting to 12, colors, shapes, and patterns.",
+      "block3_text": "These involve lots of practice with number bonds and with addition and subtraction of small numbers."
     },
     {
       "id": "efm_pd_3_7",
@@ -693,17 +953,27 @@
       "title": "Playdate 3-7",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 3-7"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Adding Twins, where you add a number to itself, are often enjoyable addition facts for a child to learn. Near Twins, where you add a number to the next number (such as 3 + 4), are often easy to learn after adding twins have been learned, and they help your child to see how adding facts can be connected.\n\n**Storybook:** This has skip counting, adding twins, and counting to 14.\n\n**Activities:** These involve adding practice and estimating using a number line."
+          "eng": "**Playdate Focus:** Adding Twins, where you add a number to itself, are often enjoyable addition facts for a child to learn. Near Twins, where you add a number to the next number (such as 3 + 4), are often easy to learn after adding twins have been learned, and they help your child to see how adding facts can be connected."
+        },
+        "block2_text": {
+          "eng": "This has skip counting, adding twins, and counting to 14."
+        },
+        "block3_text": {
+          "eng": "These involve adding practice and estimating using a number line."
         }
       },
-      "block1_text": "**Playdate Focus:** Adding Twins, where you add a number to itself, are often enjoyable addition facts for a child to learn. Near Twins, where you add a number to the next number (such as 3 + 4), are often easy to learn after adding twins have been learned, and they help your child to see how adding facts can be connected.\n\n**Storybook:** This has skip counting, adding twins, and counting to 14.\n\n**Activities:** These involve adding practice and estimating using a number line."
+      "block1_text": "**Playdate Focus:** Adding Twins, where you add a number to itself, are often enjoyable addition facts for a child to learn. Near Twins, where you add a number to the next number (such as 3 + 4), are often easy to learn after adding twins have been learned, and they help your child to see how adding facts can be connected.",
+      "block2_text": "This has skip counting, adding twins, and counting to 14.",
+      "block3_text": "These involve adding practice and estimating using a number line."
     },
     {
       "id": "efm_pd_3_8",
@@ -716,17 +986,27 @@
       "title": "Playdate 3-8",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 3-8"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** After skip counting by 2's and doing adding twins, it is a great time to start doing doubling, multiplying by 2, halving, dividing by 2, splitting things into two equal parts, and looking at odd and even numbers. This is a lot of topics; however, they go together very naturally.\n\n**Storybook:** This has lots of discussion of how to split something fairly among coorperating friends.\n\n**Activities:** These involve doubling and taking halves."
+          "eng": "**Playdate Focus:** After skip counting by 2's and doing adding twins, it is a great time to start doing doubling, multiplying by 2, halving, dividing by 2, splitting things into two equal parts, and looking at odd and even numbers. This is a lot of topics; however, they go together very naturally."
+        },
+        "block2_text": {
+          "eng": "This has lots of discussion of how to split something fairly among coorperating friends."
+        },
+        "block3_text": {
+          "eng": "These involve doubling and taking halves."
         }
       },
-      "block1_text": "**Playdate Focus:** After skip counting by 2's and doing adding twins, it is a great time to start doing doubling, multiplying by 2, halving, dividing by 2, splitting things into two equal parts, and looking at odd and even numbers. This is a lot of topics; however, they go together very naturally.\n\n**Storybook:** This has lots of discussion of how to split something fairly among coorperating friends.\n\n**Activities:** These involve doubling and taking halves."
+      "block1_text": "**Playdate Focus:** After skip counting by 2's and doing adding twins, it is a great time to start doing doubling, multiplying by 2, halving, dividing by 2, splitting things into two equal parts, and looking at odd and even numbers. This is a lot of topics; however, they go together very naturally.",
+      "block2_text": "This has lots of discussion of how to split something fairly among coorperating friends.",
+      "block3_text": "These involve doubling and taking halves."
     },
     {
       "id": "efm_pd_3_9",
@@ -739,17 +1019,27 @@
       "title": "Playdate 3-9",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 3-9"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Do lots of practice skip counting by 2's – do this practice up and down, and start it anywhere (not just at multiples of 2). When this becomes easy, practice with other skip count amounts such as 5 and 10. \n\n**Storybook:** This has skip counting and shapes.\n\n**Activities:** These involve practice with addition and subtraction as well as seeing which numbers can be seen as groups of pairs."
+          "eng": "**Playdate Focus:** Do lots of practice skip counting by 2's – do this practice up and down, and start it anywhere (not just at multiples of 2). When this becomes easy, practice with other skip count amounts such as 5 and 10."
+        },
+        "block2_text": {
+          "eng": "This has skip counting and shapes."
+        },
+        "block3_text": {
+          "eng": "These involve practice with addition and subtraction as well as seeing which numbers can be seen as groups of pairs."
         }
       },
-      "block1_text": "**Playdate Focus:** Do lots of practice skip counting by 2's – do this practice up and down, and start it anywhere (not just at multiples of 2). When this becomes easy, practice with other skip count amounts such as 5 and 10. \n\n**Storybook:** This has skip counting and shapes.\n\n**Activities:** These involve practice with addition and subtraction as well as seeing which numbers can be seen as groups of pairs."
+      "block1_text": "**Playdate Focus:** Do lots of practice skip counting by 2's – do this practice up and down, and start it anywhere (not just at multiples of 2). When this becomes easy, practice with other skip count amounts such as 5 and 10.",
+      "block2_text": "This has skip counting and shapes.",
+      "block3_text": "These involve practice with addition and subtraction as well as seeing which numbers can be seen as groups of pairs."
     },
     {
       "id": "efm_pd_3_10",
@@ -762,17 +1052,27 @@
       "title": "Playdate 3-10",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 3-10"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Play lots of strategy games with your child. Even games that don't involve numbers have a lot of math in them. They will develop important problem solving skills.\n\n**Storybook:** This has counting to 10, comparisons, and a discussion of problem solving.\n\n**Activities:** These involve lots of problem solving while playing strategy games."
+          "eng": "**Playdate Focus:** Play lots of strategy games with your child. Even games that don't involve numbers have a lot of math in them. They will develop important problem solving skills."
+        },
+        "block2_text": {
+          "eng": "This has counting to 10, comparisons, and a discussion of problem solving."
+        },
+        "block3_text": {
+          "eng": "These involve lots of problem solving while playing strategy games."
         }
       },
-      "block1_text": "**Playdate Focus:** Play lots of strategy games with your child. Even games that don't involve numbers have a lot of math in them. They will develop important problem solving skills.\n\n**Storybook:** This has counting to 10, comparisons, and a discussion of problem solving.\n\n**Activities:** These involve lots of problem solving while playing strategy games."
+      "block1_text": "**Playdate Focus:** Play lots of strategy games with your child. Even games that don't involve numbers have a lot of math in them. They will develop important problem solving skills.",
+      "block2_text": "This has counting to 10, comparisons, and a discussion of problem solving.",
+      "block3_text": "These involve lots of problem solving while playing strategy games."
     },
     {
       "id": "efm_pd_4_0",
@@ -811,17 +1111,27 @@
       "title": "Playdate 4-1",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 4-1"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Count up and down to 100 with your child, paying particular attention to transitions at multiples of 10.\n\n**Storybook:** This has lots of shapes, counting, and groupings of objects.\n\n**Activities:** These involve ordering and comparing of numbers. Use numbers to 100 for I'm Thinking of a Number."
+          "eng": "**Playdate Focus:** Count up and down to 100 with your child, paying particular attention to transitions at multiples of 10."
+        },
+        "block2_text": {
+          "eng": "This has lots of shapes, counting, and groupings of objects."
+        },
+        "block3_text": {
+          "eng": "These involve ordering and comparing of numbers. Use numbers to 100 for I'm Thinking of a Number."
         }
       },
-      "block1_text": "**Playdate Focus:** Count up and down to 100 with your child, paying particular attention to transitions at multiples of 10.\n\n**Storybook:** This has lots of shapes, counting, and groupings of objects.\n\n**Activities:** These involve ordering and comparing of numbers. Use numbers to 100 for I'm Thinking of a Number."
+      "block1_text": "**Playdate Focus:** Count up and down to 100 with your child, paying particular attention to transitions at multiples of 10.",
+      "block2_text": "This has lots of shapes, counting, and groupings of objects.",
+      "block3_text": "These involve ordering and comparing of numbers. Use numbers to 100 for I'm Thinking of a Number."
     },
     {
       "id": "efm_pd_4_2",
@@ -834,17 +1144,27 @@
       "title": "Playdate 4-2",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 4-2"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Use Expanded Form and 2-digit place value to understand the value and meaning of numbers. Expanded Form is breaking a number into tens and ones, such as 43 is 40 + 3. Place value is understanding that 43 means 4 tens and 3 ones – the place a digit is in is what gives it its value. Use Expanded Form and place value to help compare numbers.\n\n**Storybook:** This has counting to 20, descriptions, and shapes.\n\n**Activities:** These involve ordering and comparing games."
+          "eng": "**Playdate Focus:** Use Expanded Form and 2-digit place value to understand the value and meaning of numbers. Expanded Form is breaking a number into tens and ones, such as 43 is 40 + 3. Place value is understanding that 43 means 4 tens and 3 ones – the place a digit is in is what gives it its value. Use Expanded Form and place value to help compare numbers."
+        },
+        "block2_text": {
+          "eng": "This has counting to 20, descriptions, and shapes."
+        },
+        "block3_text": {
+          "eng": "These involve ordering and comparing games."
         }
       },
-      "block1_text": "**Playdate Focus:** Use Expanded Form and 2-digit place value to understand the value and meaning of numbers. Expanded Form is breaking a number into tens and ones, such as 43 is 40 + 3. Place value is understanding that 43 means 4 tens and 3 ones – the place a digit is in is what gives it its value. Use Expanded Form and place value to help compare numbers.\n\n**Storybook:** This has counting to 20, descriptions, and shapes.\n\n**Activities:** These involve ordering and comparing games."
+      "block1_text": "**Playdate Focus:** Use Expanded Form and 2-digit place value to understand the value and meaning of numbers. Expanded Form is breaking a number into tens and ones, such as 43 is 40 + 3. Place value is understanding that 43 means 4 tens and 3 ones – the place a digit is in is what gives it its value. Use Expanded Form and place value to help compare numbers.",
+      "block2_text": "This has counting to 20, descriptions, and shapes.",
+      "block3_text": "These involve ordering and comparing games."
     },
     {
       "id": "efm_pd_4_3",
@@ -857,17 +1177,27 @@
       "title": "Playdate 4-3",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 4-3"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Use fingers and Counting On to make it easy to add a single-digit number to any number. Use Compensation to make some addition problems much easier.\n\n**Storybook:** This has shapes, quantities, and speeds.\n\n**Activities:** These involve lots of addition and subtraction, and some practice with number bonds."
+          "eng": "**Playdate Focus:** Use fingers and Counting On to make it easy to add a single-digit number to any number. Use Compensation to make some addition problems much easier."
+        },
+        "block2_text": {
+          "eng": "This has shapes, quantities, and speeds."
+        },
+        "block3_text": {
+          "eng": "These involve lots of addition and subtraction, and some practice with number bonds."
         }
       },
-      "block1_text": "**Playdate Focus:** Use fingers and Counting On to make it easy to add a single-digit number to any number. Use Compensation to make some addition problems much easier.\n\n**Storybook:** This has shapes, quantities, and speeds.\n\n**Activities:** These involve lots of addition and subtraction, and some practice with number bonds."
+      "block1_text": "**Playdate Focus:** Use fingers and Counting On to make it easy to add a single-digit number to any number. Use Compensation to make some addition problems much easier.",
+      "block2_text": "This has shapes, quantities, and speeds.",
+      "block3_text": "These involve lots of addition and subtraction, and some practice with number bonds."
     },
     {
       "id": "efm_pd_4_4",
@@ -880,17 +1210,27 @@
       "title": "Playdate 4-4",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 4-4"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Use fingers to make it easy to subtract a single-digit number from any number, or to subtract any two numbers whose difference is a single-digit number. \n\n**Storybook:** This has lots of shapes and polygons (many-sided flat shapes).\n\n**Activities:** These involve lots of practice with addition and subtraction."
+          "eng": "**Playdate Focus:** Use fingers to make it easy to subtract a single-digit number from any number, or to subtract any two numbers whose difference is a single-digit number."
+        },
+        "block2_text": {
+          "eng": "This has lots of shapes and polygons (many-sided flat shapes)."
+        },
+        "block3_text": {
+          "eng": "These involve lots of practice with addition and subtraction."
         }
       },
-      "block1_text": "**Playdate Focus:** Use fingers to make it easy to subtract a single-digit number from any number, or to subtract any two numbers whose difference is a single-digit number. \n\n**Storybook:** This has lots of shapes and polygons (many-sided flat shapes).\n\n**Activities:** These involve lots of practice with addition and subtraction."
+      "block1_text": "**Playdate Focus:** Use fingers to make it easy to subtract a single-digit number from any number, or to subtract any two numbers whose difference is a single-digit number.",
+      "block2_text": "This has lots of shapes and polygons (many-sided flat shapes).",
+      "block3_text": "These involve lots of practice with addition and subtraction."
     },
     {
       "id": "efm_pd_4_5",
@@ -903,17 +1243,27 @@
       "title": "Playdate 4-5",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 4-5"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Use compensation to make adding and subtracting a lot easier.\n\n**Storybook:** This has counting of groups and lots of comparison words.\n\n**Activities:** These involve adding and subtracting, as well as a little bit of probability."
+          "eng": "**Playdate Focus:** Use compensation to make adding and subtracting a lot easier."
+        },
+        "block2_text": {
+          "eng": "This has counting of groups and lots of comparison words."
+        },
+        "block3_text": {
+          "eng": "These involve adding and subtracting, as well as a little bit of probability."
         }
       },
-      "block1_text": "**Playdate Focus:** Use compensation to make adding and subtracting a lot easier.\n\n**Storybook:** This has counting of groups and lots of comparison words.\n\n**Activities:** These involve adding and subtracting, as well as a little bit of probability."
+      "block1_text": "**Playdate Focus:** Use compensation to make adding and subtracting a lot easier.",
+      "block2_text": "This has counting of groups and lots of comparison words.",
+      "block3_text": "These involve adding and subtracting, as well as a little bit of probability."
     },
     {
       "id": "efm_pd_4_6",
@@ -926,17 +1276,27 @@
       "title": "Playdate 4-6",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 4-6"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Use 10 as an intermediate stop to make mental arithmetic for adding and subtracting a lot easier, as well as reinforcing number relationships.\n\n**Storybook:** This has skip counting and number properties.\n\n**Activities:** These involve adding, subtracting, and number bonds."
+          "eng": "**Playdate Focus:** Use 10 as an intermediate stop to make mental arithmetic for adding and subtracting a lot easier, as well as reinforcing number relationships."
+        },
+        "block2_text": {
+          "eng": "This has skip counting and number properties."
+        },
+        "block3_text": {
+          "eng": "These involve adding, subtracting, and number bonds."
         }
       },
-      "block1_text": "**Playdate Focus:** Use 10 as an intermediate stop to make mental arithmetic for adding and subtracting a lot easier, as well as reinforcing number relationships.\n\n**Storybook:** This has skip counting and number properties.\n\n**Activities:** These involve adding, subtracting, and number bonds."
+      "block1_text": "**Playdate Focus:** Use 10 as an intermediate stop to make mental arithmetic for adding and subtracting a lot easier, as well as reinforcing number relationships.",
+      "block2_text": "This has skip counting and number properties.",
+      "block3_text": "These involve adding, subtracting, and number bonds."
     },
     {
       "id": "efm_pd_4_7",
@@ -949,17 +1309,27 @@
       "title": "Playdate 4-7",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 4-7"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Practice skip counting by 2's, 5's, and 10's starting anywhere and going up and down. This helps a lot with addition, subtraction, multiplication, and division. Skip counting by 10's also helps with place value.\n\n**Storybook:** This has counting to 14 and skip counting.\n\n**Activities:** These involve place value and simple additions with two-digit numbers."
+          "eng": "**Playdate Focus:** Practice skip counting by 2's, 5's, and 10's starting anywhere and going up and down. This helps a lot with addition, subtraction, multiplication, and division. Skip counting by 10's also helps with place value."
+        },
+        "block2_text": {
+          "eng": "This has counting to 14 and skip counting."
+        },
+        "block3_text": {
+          "eng": "These involve place value and simple additions with two-digit numbers."
         }
       },
-      "block1_text": "**Playdate Focus:** Practice skip counting by 2's, 5's, and 10's starting anywhere and going up and down. This helps a lot with addition, subtraction, multiplication, and division. Skip counting by 10's also helps with place value.\n\n**Storybook:** This has counting to 14 and skip counting.\n\n**Activities:** These involve place value and simple additions with two-digit numbers."
+      "block1_text": "**Playdate Focus:** Practice skip counting by 2's, 5's, and 10's starting anywhere and going up and down. This helps a lot with addition, subtraction, multiplication, and division. Skip counting by 10's also helps with place value.",
+      "block2_text": "This has counting to 14 and skip counting.",
+      "block3_text": "These involve place value and simple additions with two-digit numbers."
     },
     {
       "id": "efm_pd_4_8",
@@ -972,17 +1342,27 @@
       "title": "Playdate 4-8",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 4-8"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Use doubling and halving as a way to start using the words of multiplication and division without making a big deal about it.\n\n**Storybook:** This has skip counting and shapes.\n\n**Activities:** These involve doubling, adding or subtracting single-digit numbers with double-digit numbers, and place value."
+          "eng": "**Playdate Focus:** Use doubling and halving as a way to start using the words of multiplication and division without making a big deal about it."
+        },
+        "block2_text": {
+          "eng": "This has skip counting and shapes."
+        },
+        "block3_text": {
+          "eng": "These involve doubling, adding or subtracting single-digit numbers with double-digit numbers, and place value."
         }
       },
-      "block1_text": "**Playdate Focus:** Use doubling and halving as a way to start using the words of multiplication and division without making a big deal about it.\n\n**Storybook:** This has skip counting and shapes.\n\n**Activities:** These involve doubling, adding or subtracting single-digit numbers with double-digit numbers, and place value."
+      "block1_text": "**Playdate Focus:** Use doubling and halving as a way to start using the words of multiplication and division without making a big deal about it.",
+      "block2_text": "This has skip counting and shapes.",
+      "block3_text": "These involve doubling, adding or subtracting single-digit numbers with double-digit numbers, and place value."
     },
     {
       "id": "efm_pd_4_9",
@@ -995,17 +1375,27 @@
       "title": "Playdate 4-9",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 4-9"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Do mental multiplication with your child for any two numbers from 1 to 5. This is the beginning of mastering multiplication!\n\n**Storybook:** This has skip counting, shapes, and colors.\n\n**Activities:** These involve addition, subtraction, and multiplication. Number Scramble can now involve all three of these operations. War using multiplication should only use the cards from 1 to 5 until your child is comfortable with larger numbers."
+          "eng": "**Playdate Focus:** Do mental multiplication with your child for any two numbers from 1 to 5. This is the beginning of mastering multiplication!"
+        },
+        "block2_text": {
+          "eng": "This has skip counting, shapes, and colors."
+        },
+        "block3_text": {
+          "eng": "These involve addition, subtraction, and multiplication. Number Scramble can now involve all three of these operations. War using multiplication should only use the cards from 1 to 5 until your child is comfortable with larger numbers."
         }
       },
-      "block1_text": "**Playdate Focus:** Do mental multiplication with your child for any two numbers from 1 to 5. This is the beginning of mastering multiplication!\n\n**Storybook:** This has skip counting, shapes, and colors.\n\n**Activities:** These involve addition, subtraction, and multiplication. Number Scramble can now involve all three of these operations. War using multiplication should only use the cards from 1 to 5 until your child is comfortable with larger numbers."
+      "block1_text": "**Playdate Focus:** Do mental multiplication with your child for any two numbers from 1 to 5. This is the beginning of mastering multiplication!",
+      "block2_text": "This has skip counting, shapes, and colors.",
+      "block3_text": "These involve addition, subtraction, and multiplication. Number Scramble can now involve all three of these operations. War using multiplication should only use the cards from 1 to 5 until your child is comfortable with larger numbers."
     },
     {
       "id": "efm_pd_4_10",
@@ -1018,17 +1408,27 @@
       "title": "Playdate 4-10",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 4-10"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** This is a chance to take a deeper look at problem solving using strategy games. A strategy game is any game where the players have choices that can make the outcome of the game better or worse.\n\n**Storybook:** This has counting, comparisons, and problem solving.\n\n**Activities:** These involve addition and subtraction. Use the numbered version of Dots and Boxes and write in two-digit numbers if your child is ready for them."
+          "eng": "**Playdate Focus:** This is a chance to take a deeper look at problem solving using strategy games. A strategy game is any game where the players have choices that can make the outcome of the game better or worse."
+        },
+        "block2_text": {
+          "eng": "This has counting, comparisons, and problem solving."
+        },
+        "block3_text": {
+          "eng": "These involve addition and subtraction. Use the numbered version of Dots and Boxes and write in two-digit numbers if your child is ready for them."
         }
       },
-      "block1_text": "**Playdate Focus:** This is a chance to take a deeper look at problem solving using strategy games. A strategy game is any game where the players have choices that can make the outcome of the game better or worse.\n\n**Storybook:** This has counting, comparisons, and problem solving.\n\n**Activities:** These involve addition and subtraction. Use the numbered version of Dots and Boxes and write in two-digit numbers if your child is ready for them."
+      "block1_text": "**Playdate Focus:** This is a chance to take a deeper look at problem solving using strategy games. A strategy game is any game where the players have choices that can make the outcome of the game better or worse.",
+      "block2_text": "This has counting, comparisons, and problem solving.",
+      "block3_text": "These involve addition and subtraction. Use the numbered version of Dots and Boxes and write in two-digit numbers if your child is ready for them."
     },
     {
       "id": "efm_pd_5_0",
@@ -1063,17 +1463,22 @@
       "title": "Playdate 5-1",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 5-1"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Your child's numbers are going above 100, and their adding and subtracting involves two-digit numbers. Practice 2-digit and 3-digit expanded form and place value with them.\n\n**Activities:** These involve two-digit addition and subtraction."
+          "eng": "**Playdate Focus:** Your child's numbers are going above 100, and their adding and subtracting involves two-digit numbers. Practice 2-digit and 3-digit expanded form and place value with them."
+        },
+        "block3_text": {
+          "eng": "These involve two-digit addition and subtraction."
         }
       },
-      "block1_text": "**Playdate Focus:** Your child's numbers are going above 100, and their adding and subtracting involves two-digit numbers. Practice 2-digit and 3-digit expanded form and place value with them.\n\n**Activities:** These involve two-digit addition and subtraction."
+      "block1_text": "**Playdate Focus:** Your child's numbers are going above 100, and their adding and subtracting involves two-digit numbers. Practice 2-digit and 3-digit expanded form and place value with them.",
+      "block3_text": "These involve two-digit addition and subtraction."
     },
     {
       "id": "efm_pd_5_2",
@@ -1085,17 +1490,22 @@
       "title": "Playdate 5-2",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 5-2"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Use expanded form to practice double-digit addition and subtraction.\n\n**Activities:** These involve two-digit addition and subtraction."
+          "eng": "**Playdate Focus:** Use expanded form to practice double-digit addition and subtraction."
+        },
+        "block3_text": {
+          "eng": "These involve two-digit addition and subtraction."
         }
       },
-      "block1_text": "**Playdate Focus:** Use expanded form to practice double-digit addition and subtraction.\n\n**Activities:** These involve two-digit addition and subtraction."
+      "block1_text": "**Playdate Focus:** Use expanded form to practice double-digit addition and subtraction.",
+      "block3_text": "These involve two-digit addition and subtraction."
     },
     {
       "id": "efm_pd_5_3",
@@ -1107,17 +1517,22 @@
       "title": "Playdate 5-3",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 5-3"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Practice skip counting up and down by any skip amount starting at any number (not just multiples). This skip counting is great practice for all four of the operations.\n\n**Activities:** These involve lots of practice with skip counting."
+          "eng": "**Playdate Focus:** Practice skip counting up and down by any skip amount starting at any number (not just multiples). This skip counting is great practice for all four of the operations."
+        },
+        "block3_text": {
+          "eng": "These involve lots of practice with skip counting."
         }
       },
-      "block1_text": "**Playdate Focus:** Practice skip counting up and down by any skip amount starting at any number (not just multiples). This skip counting is great practice for all four of the operations.\n\n**Activities:** These involve lots of practice with skip counting."
+      "block1_text": "**Playdate Focus:** Practice skip counting up and down by any skip amount starting at any number (not just multiples). This skip counting is great practice for all four of the operations.",
+      "block3_text": "These involve lots of practice with skip counting."
     },
     {
       "id": "efm_pd_5_4",
@@ -1129,17 +1544,22 @@
       "title": "Playdate 5-4",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 5-4"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Practice mental multiplication using doubling for 2, 4, and 8. Practice mental multiplication by 5 and 10 because they are useful and easy.\n\n**Activities:** These involve doubling and general multiplication practice."
+          "eng": "**Playdate Focus:** Practice mental multiplication using doubling for 2, 4, and 8. Practice mental multiplication by 5 and 10 because they are useful and easy."
+        },
+        "block3_text": {
+          "eng": "These involve doubling and general multiplication practice."
         }
       },
-      "block1_text": "**Playdate Focus:** Practice mental multiplication using doubling for 2, 4, and 8. Practice mental multiplication by 5 and 10 because they are useful and easy.\n\n**Activities:** These involve doubling and general multiplication practice."
+      "block1_text": "**Playdate Focus:** Practice mental multiplication using doubling for 2, 4, and 8. Practice mental multiplication by 5 and 10 because they are useful and easy.",
+      "block3_text": "These involve doubling and general multiplication practice."
     },
     {
       "id": "efm_pd_5_5",
@@ -1151,17 +1571,22 @@
       "title": "Playdate 5-5",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 5-5"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Use the idea of one more and one less to practice mental multiplication for multiplying by 3, 4, 6, 9, and 11. For example, multiplying by 6 is one more than multiplying by 5.\n\n**Activities:** These involve lots of multiplication practice along with some mixed operation practice."
+          "eng": "**Playdate Focus:** Use the idea of one more and one less to practice mental multiplication for multiplying by 3, 4, 6, 9, and 11. For example, multiplying by 6 is one more than multiplying by 5."
+        },
+        "block3_text": {
+          "eng": "These involve lots of multiplication practice along with some mixed operation practice."
         }
       },
-      "block1_text": "**Playdate Focus:** Use the idea of one more and one less to practice mental multiplication for multiplying by 3, 4, 6, 9, and 11. For example, multiplying by 6 is one more than multiplying by 5.\n\n**Activities:** These involve lots of multiplication practice along with some mixed operation practice."
+      "block1_text": "**Playdate Focus:** Use the idea of one more and one less to practice mental multiplication for multiplying by 3, 4, 6, 9, and 11. For example, multiplying by 6 is one more than multiplying by 5.",
+      "block3_text": "These involve lots of multiplication practice along with some mixed operation practice."
     },
     {
       "id": "efm_pd_5_6",
@@ -1173,17 +1598,22 @@
       "title": "Playdate 5-6",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 5-6"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** All the pieces are in place, and your child is ready to finish off the mastery of all single-digit multiplication!\n\n**Activities:** These are repeated from the last Playdate and involve lots of multiplication practice along with some mixed operation practice."
+          "eng": "**Playdate Focus:** All the pieces are in place, and your child is ready to finish off the mastery of all single-digit multiplication!"
+        },
+        "block3_text": {
+          "eng": "These are repeated from the last Playdate and involve lots of multiplication practice along with some mixed operation practice."
         }
       },
-      "block1_text": "**Playdate Focus:** All the pieces are in place, and your child is ready to finish off the mastery of all single-digit multiplication!\n\n**Activities:** These are repeated from the last Playdate and involve lots of multiplication practice along with some mixed operation practice."
+      "block1_text": "**Playdate Focus:** All the pieces are in place, and your child is ready to finish off the mastery of all single-digit multiplication!",
+      "block3_text": "These are repeated from the last Playdate and involve lots of multiplication practice along with some mixed operation practice."
     },
     {
       "id": "efm_pd_5_7",
@@ -1195,17 +1625,22 @@
       "title": "Playdate 5-7",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 5-7"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Now that your child is getting comfortable with multiplying and dividing, it's time to develop a sense of how numbers can evenly divide other numbers. This involves in learning and practice the words: factor, divisor, and multiple.\n\n**Activities:** These involve lots of practice with factors and multiples."
+          "eng": "**Playdate Focus:** Now that your child is getting comfortable with multiplying and dividing, it's time to develop a sense of how numbers can evenly divide other numbers. This involves in learning and practice the words: factor, divisor, and multiple."
+        },
+        "block3_text": {
+          "eng": "These involve lots of practice with factors and multiples."
         }
       },
-      "block1_text": "**Playdate Focus:** Now that your child is getting comfortable with multiplying and dividing, it's time to develop a sense of how numbers can evenly divide other numbers. This involves in learning and practice the words: factor, divisor, and multiple.\n\n**Activities:** These involve lots of practice with factors and multiples."
+      "block1_text": "**Playdate Focus:** Now that your child is getting comfortable with multiplying and dividing, it's time to develop a sense of how numbers can evenly divide other numbers. This involves in learning and practice the words: factor, divisor, and multiple.",
+      "block3_text": "These involve lots of practice with factors and multiples."
     },
     {
       "id": "efm_pd_5_8",
@@ -1217,17 +1652,22 @@
       "title": "Playdate 5-8",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 5-8"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Using multiplication, primes are the building blocks of numbers. Help your child develop a strong sense of prime factorizations. The new words for this Playdate are: prime, composite, unit, and power.\n\n**Activities:** These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice prime factorizations by using them when you play Beep."
+          "eng": "**Playdate Focus:** Using multiplication, primes are the building blocks of numbers. Help your child develop a strong sense of prime factorizations. The new words for this Playdate are: prime, composite, unit, and power."
+        },
+        "block3_text": {
+          "eng": "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice prime factorizations by using them when you play Beep."
         }
       },
-      "block1_text": "**Playdate Focus:** Using multiplication, primes are the building blocks of numbers. Help your child develop a strong sense of prime factorizations. The new words for this Playdate are: prime, composite, unit, and power.\n\n**Activities:** These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice prime factorizations by using them when you play Beep."
+      "block1_text": "**Playdate Focus:** Using multiplication, primes are the building blocks of numbers. Help your child develop a strong sense of prime factorizations. The new words for this Playdate are: prime, composite, unit, and power.",
+      "block3_text": "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice prime factorizations by using them when you play Beep."
     },
     {
       "id": "efm_pd_5_9",
@@ -1239,17 +1679,22 @@
       "title": "Playdate 5-9",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 5-9"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** Practicing with fact families is a good way to deepen your child's understanding of the interconnection between multiplication and division.\n\n**Activities:** These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice multiples by using them when you play Beep."
+          "eng": "**Playdate Focus:** Practicing with fact families is a good way to deepen your child's understanding of the interconnection between multiplication and division."
+        },
+        "block3_text": {
+          "eng": "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice multiples by using them when you play Beep."
         }
       },
-      "block1_text": "**Playdate Focus:** Practicing with fact families is a good way to deepen your child's understanding of the interconnection between multiplication and division.\n\n**Activities:** These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice multiples by using them when you play Beep."
+      "block1_text": "**Playdate Focus:** Practicing with fact families is a good way to deepen your child's understanding of the interconnection between multiplication and division.",
+      "block3_text": "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice multiples by using them when you play Beep."
     },
     {
       "id": "efm_pd_5_10",
@@ -1261,17 +1706,22 @@
       "title": "Playdate 5-10",
       "_translations": {
         "title": {},
-        "block1_text": {}
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Playdate 5-10"
         },
         "block1_text": {
-          "eng": "**Playdate Focus:** This is a quick first step at practicing division with and without remainders. \n\n**Activities:** These involve lots of practice with multiplication and division."
+          "eng": "**Playdate Focus:** This is a quick first step at practicing division with and without remainders."
+        },
+        "block3_text": {
+          "eng": "These involve lots of practice with multiplication and division."
         }
       },
-      "block1_text": "**Playdate Focus:** This is a quick first step at practicing division with and without remainders. \n\n**Activities:** These involve lots of practice with multiplication and division."
+      "block1_text": "**Playdate Focus:** This is a quick first step at practicing division with and without remainders.",
+      "block3_text": "These involve lots of practice with multiplication and division."
     }
   ],
   "_xlsxPath": "EFM_pd_high_level_sheets.xlsx"

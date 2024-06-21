@@ -65,6 +65,84 @@
       "_nested_name": "number"
     },
     {
+      "name": "number_two",
+      "value": 2,
+      "type": "set_variable",
+      "_nested_name": "number_two"
+    },
+    {
+      "name": "number_three",
+      "value": 3,
+      "type": "set_variable",
+      "_nested_name": "number_three"
+    },
+    {
+      "name": "block_num_chars_two",
+      "value": "@local.block_chars@local.number_two",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "block_num_chars_two",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.block_chars@local.number_two",
+            "matchedExpression": "@local.block_chars",
+            "type": "local",
+            "fieldName": "block_chars"
+          },
+          {
+            "fullExpression": "@local.block_chars@local.number_two",
+            "matchedExpression": "@local.number_two",
+            "type": "local",
+            "fieldName": "number_two"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.block_chars": [
+          "value"
+        ],
+        "@local.number_two": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "block_num_chars_three",
+      "value": "@local.block_chars@local.number_three",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "block_num_chars_three",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.block_chars@local.number_three",
+            "matchedExpression": "@local.block_chars",
+            "type": "local",
+            "fieldName": "block_chars"
+          },
+          {
+            "fullExpression": "@local.block_chars@local.number_three",
+            "matchedExpression": "@local.number_three",
+            "type": "local",
+            "fieldName": "number_three"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.block_chars": [
+          "value"
+        ],
+        "@local.number_three": [
+          "value"
+        ]
+      }
+    },
+    {
       "name": "block_num_chars",
       "value": "@local.block_chars@local.number",
       "_translations": {
@@ -1404,6 +1482,66 @@
       }
     },
     {
+      "name": "sb_description_block_text_two",
+      "value": "local.efm_pd_a_ptr.@local.block_num_chars_two@local.chars_text",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "sb_description_block_text_two",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "local.efm_pd_a_ptr.@local.block_num_chars_two@local.chars_text",
+            "matchedExpression": "@local.block_num_chars_two",
+            "type": "local",
+            "fieldName": "block_num_chars_two"
+          },
+          {
+            "fullExpression": "local.efm_pd_a_ptr.@local.block_num_chars_two@local.chars_text",
+            "matchedExpression": "@local.chars_text",
+            "type": "local",
+            "fieldName": "chars_text"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.block_num_chars_two": [
+          "value"
+        ],
+        "@local.chars_text": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "sb_description",
+      "value": "@@local.sb_description_block_text_two",
+      "_translations": {
+        "value": {}
+      },
+      "style_list": [
+        "margin-top: -8px"
+      ],
+      "_nested_name": "sb_description",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@@local.sb_description_block_text_two",
+            "matchedExpression": "@local.sb_description_block_text_two",
+            "type": "local",
+            "fieldName": "sb_description_block_text_two"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.sb_description_block_text_two": [
+          "value"
+        ]
+      }
+    },
+    {
       "name": "current_sb",
       "value": "data.efm_storybooks.@local.sb_id",
       "_translations": {
@@ -1894,6 +2032,66 @@
       "_dynamicDependencies": {
         "@local.act_one_id": [
           "condition"
+        ]
+      }
+    },
+    {
+      "name": "act_description_block_text_three",
+      "value": "local.efm_pd_a_ptr.@local.block_num_chars_three@local.chars_text",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "act_description_block_text_three",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "local.efm_pd_a_ptr.@local.block_num_chars_three@local.chars_text",
+            "matchedExpression": "@local.block_num_chars_three",
+            "type": "local",
+            "fieldName": "block_num_chars_three"
+          },
+          {
+            "fullExpression": "local.efm_pd_a_ptr.@local.block_num_chars_three@local.chars_text",
+            "matchedExpression": "@local.chars_text",
+            "type": "local",
+            "fieldName": "chars_text"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.block_num_chars_three": [
+          "value"
+        ],
+        "@local.chars_text": [
+          "value"
+        ]
+      }
+    },
+    {
+      "type": "text",
+      "name": "activities_description",
+      "value": "@@local.act_description_block_text_three",
+      "_translations": {
+        "value": {}
+      },
+      "style_list": [
+        "margin-top: -8px"
+      ],
+      "_nested_name": "activities_description",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@@local.act_description_block_text_three",
+            "matchedExpression": "@local.act_description_block_text_three",
+            "type": "local",
+            "fieldName": "act_description_block_text_three"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.act_description_block_text_three": [
+          "value"
         ]
       }
     },
