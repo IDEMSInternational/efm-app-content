@@ -888,7 +888,7 @@
     "note": ""
   },
   {
-    "SourceText": "Soon, everyone was rushing home to prepare for their daily activities. \\PARA Ataa Ankra looked for his fish bucket. Farmers took their hoes. Children bathed and dressed, ready to go to school. Women tied monies at the ends of their cover cloths. They carried their basins and baskets and hurried to the market.",
+    "SourceText": "Soon, everyone was rushing home to prepare for their daily activities.\n\nAtaa Ankra looked for his fish bucket. Farmers took their hoes. Children bathed and dressed, ready to go to school. Women tied monies at the ends of their cover cloths. They carried their basins and baskets and hurried to the market.",
     "text": "Bientôt, tout le monde se précipite chez soi pour se préparer à ses activités quotidiennes.\n\nAtaa Ankra chercha son seau à poisson. Les fermiers ont pris leurs houes. Les enfants se baignaient et s'habillaient, prêts à aller à l'école. Les femmes attachaient de l'argent aux extrémités de leurs tissus de couverture. Elles portaient leurs bassines et leurs paniers et se hâtaient vers le marché.",
     "type": "data_list",
     "note": ""
@@ -5604,7 +5604,7 @@
     "note": ""
   },
   {
-    "SourceText": "They searched and searched, but all they could see was the tall grass and trees. \\PARA Suddenly, they heard a noise, and looked up.",
+    "SourceText": "They searched and searched, but all they could see was the tall grass and trees.\n\nSuddenly, they heard a noise, and looked up.",
     "text": "Ils cherchèrent et cherchèrent, mais tout ce qu’ils pouvaient voir, c’était les grandes herbes et les arbres.\n\nSoudain, ils entendirent un bruit et levèrent les yeux.",
     "type": "data_list",
     "note": ""
@@ -8220,18 +8220,6 @@
     "note": ""
   },
   {
-    "SourceText": "Horses of Debre Birhan",
-    "text": "Les chevaux de Debre Birhan",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This story has comparing words and counting in groups. Practice words: heavy, faster, enough, more than, too tight, very, old, skip counting by 2's and 4's, equal sharing, pair, pairing, odd, even, estimate, hundred, thousand, million, side, opposite side, round, and rectangle.",
-    "text": "Cette histoire comporte des mots de comparaison ainsi que du comptage par groupe. Mots clé : lourd, plus vite, assez, plus que, trop léger, très, vieux, compter 2 par 2 et 4 par 4, partage égal, pair, grouper par deux, impair, égal, cent, mille, million, côté, côté opposé, rond, et rectangle.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "How Many?",
     "text": "Combien ?",
     "type": "data_list",
@@ -8240,18 +8228,6 @@
   {
     "SourceText": "This story has counting to 14 and skip counting. Practice words: numbers to 14, skip counting, more, fewer, one more, three more, and double.",
     "text": "Dans cette histoire, il s'agit de compter jusqu'à 14 et de compter par bonds. Mots à pratiquer : chiffres jusqu'à 14, compter par bonds, plus, moins, un de plus, trois de plus, et double.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Hyena and Tortoise",
-    "text": "La Hyène et la Tortue",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This story has shapes and quantities. Practice words: round, cone, different shape, hexagon, regular hexagon, tile designs, squares, patterns, more, less, fewer, same, equal, number difference, estimate, stronger, weaker, faster, slower, slowly, and speed.",
-    "text": "Cette histoire contient des figures et des quantités. Mots travaillés : rond, cône, forme différente, hexagone, hexagone régulier, assemblages de tuiles, carrés, motifs, plus, moins de, moins que, même, égal, la différence mathématique, estimation, plus fort, plus faible, plus rapide, plus lent, lentement, et vitesse.",
     "type": "data_list",
     "note": ""
   },
@@ -8328,18 +8304,6 @@
     "note": ""
   },
   {
-    "SourceText": "Singing the Truth: The Story of Miriam Makeba",
-    "text": "Chanter la vérité : l’histoire de Miriam Makeba",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This story has lots of shapes. Practice words: shape, rectangle, straight, circle, arc, oval, arch, cone, ellipse, different, same, flat, outline, and stripe.",
-    "text": "Cette histoire aborde de nombreuses notions de formes. Mots clé : forme, rectangle, droit, cercle, arc, ovale, arche, cône, ellipse, différent, identique, plat, contour et rayure.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "Sun Moon and Water",
     "text": "Soleil, Lune, et Eau",
     "type": "data_list",
@@ -8360,18 +8324,6 @@
   {
     "SourceText": "This story has descriptions and comparisons. Practice words: high, on, onto, average, speed, 5 times, pairs, odd, even, sharing, too, very, fast, long, distance, light, heavy, lower, higher, different, estimate, more, stronger, vertically, diagonally, parallel lines, and big.",
     "text": "Cette histoire utilise des descriptions et des comparaisons. Mots à pratiquer : haut, dessus, sur, moyen, vitesse, 5 fois, paires, impair, même, partage, trop, très, rapide, long, distance, léger, lourd, plus bas, plus haut, différent, estimer, plus, plus fort, verticalement, en diagonale, lignes parallèles, et grand.",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Who Can Count to Ten?",
-    "text": "Qui sait compter jusqu’à dix ?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "This story has counting, comparisons, and problem solving. Practice words: numbers to ten, skip counting, counting by 2's, 3's, 4's, 5's, and 10's, odd numbers, more, difference, add, combination, total, stripes, spots, big, biggest, fast, fastest, strong, strongest, large largest, high, higher, pattern, and problem solving.",
-    "text": "Cette histoire contient des chiffres, des comparaisons et des résolutions de problèmes. Mots clé : nombres jusqu’à dix, compter par intervalles, compter 2 par 2, 3 par 3, 4 par 4, 5 par 5, 10 par 10, nombres impairs, ajout, différence, addition, combinaison, total, rayures, tâches, grand, le plus grand, rapide, le plus rapide, fort, le plus fort, large, le plus large, élevé, le plus élevé, schéma et résolution de problèmes.",
     "type": "data_list",
     "note": ""
   },
@@ -8408,6 +8360,30 @@
   {
     "SourceText": "This story has shapes and geometry.  Practice words: distance, middle, rectangle, triangle, pale, twice, pairs, counting by 20's, 50's, and 100's.",
     "text": "Cette histoire contient des figures et de la géométrie.  Mots travaillés : distance, milieu, rectangle, triangle, pâle, deux fois, les paires, compter par groupes de 20, de 50 et de 100.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Horses of Debre Birhan",
+    "text": "Les chevaux de Debre Birhan",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This story has comparing words and counting in groups. Practice words: heavy, faster, enough, more than, too tight, very, old, skip counting by 2's and 4's, equal sharing, pair, pairing, odd, even, estimate, hundred, thousand, million, side, opposite side, round, and rectangle.",
+    "text": "Cette histoire comporte des mots de comparaison ainsi que du comptage par groupe. Mots clé : lourd, plus vite, assez, plus que, trop léger, très, vieux, compter 2 par 2 et 4 par 4, partage égal, pair, grouper par deux, impair, égal, cent, mille, million, côté, côté opposé, rond, et rectangle.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Hyena and Tortoise",
+    "text": "La Hyène et la Tortue",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This story has shapes and quantities. Practice words: round, cone, different shape, hexagon, regular hexagon, tile designs, squares, patterns, more, less, fewer, same, equal, number difference, estimate, stronger, weaker, faster, slower, slowly, and speed.",
+    "text": "Cette histoire contient des figures et des quantités. Mots travaillés : rond, cône, forme différente, hexagone, hexagone régulier, assemblages de tuiles, carrés, motifs, plus, moins de, moins que, même, égal, la différence mathématique, estimation, plus fort, plus faible, plus rapide, plus lent, lentement, et vitesse.",
     "type": "data_list",
     "note": ""
   },
@@ -8472,6 +8448,18 @@
     "note": ""
   },
   {
+    "SourceText": "Singing the Truth: The Story of Miriam Makeba",
+    "text": "Chanter la vérité : l’histoire de Miriam Makeba",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This story has lots of shapes. Practice words: shape, rectangle, straight, circle, arc, oval, arch, cone, ellipse, different, same, flat, outline, and stripe.",
+    "text": "Cette histoire aborde de nombreuses notions de formes. Mots clé : forme, rectangle, droit, cercle, arc, ovale, arche, cône, ellipse, différent, identique, plat, contour et rayure.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Sizwe's Smile",
     "text": "Le sourire de Sizwe",
     "type": "data_list",
@@ -8492,6 +8480,18 @@
   {
     "SourceText": "This story has skip counting and shapes. Practice words: counting by 1's, 2's, 3's, 4's, and 6's; multiplying, dividing, estimate, rectangle, and triangle.",
     "text": "Cette histoire présente la méthode du comptage des nombres par bonds, consistant à ajouter à chaque fois un nombre au nombre précédent ainsi que les formes. Les mots à pratiquer sont : compter par 1,2,3,4, et 6 ; multiplier, diviser, estimer, le rectangle et le triangle.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Who Can Count to Ten?",
+    "text": "Qui sait compter jusqu’à dix ?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This story has counting, comparisons, and problem solving. Practice words: numbers to ten, skip counting, counting by 2's, 3's, 4's, 5's, and 10's, odd numbers, more, difference, add, combination, total, stripes, spots, big, biggest, fast, fastest, strong, strongest, large largest, high, higher, pattern, and problem solving.",
+    "text": "Cette histoire contient des chiffres, des comparaisons et des résolutions de problèmes. Mots clé : nombres jusqu’à dix, compter par intervalles, compter 2 par 2, 3 par 3, 4 par 4, 5 par 5, 10 par 10, nombres impairs, ajout, différence, addition, combinaison, total, rayures, tâches, grand, le plus grand, rapide, le plus rapide, fort, le plus fort, large, le plus large, élevé, le plus élevé, schéma et résolution de problèmes.",
     "type": "data_list",
     "note": ""
   },
@@ -19995,6 +19995,66 @@
     "SourceText": "A group of people often all think about something the same way and miss a good way to solve a problem. Good problem solvers discover new ways to approach problems!",
     "text": "Bien souvent, un groupe de personnes pense à quelque chose de la même manière et ils passent à côté d’un bon moyen de résoudre un problème. Ceux qui résolvent bien les problèmes découvrent de nouvelles façons de les résoudre !",
     "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Before Talking",
+    "text": "Avant le langage",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. For example, \"Where is the ball?\" If your child can't find the thing, point to it for them.",
+    "text": "Parlez avec votre enfant avant même qu’il ne parle ou comprenne les mots. Pointez du doigt, nommez et décrivez les choses que vous voyez telles que les formes, les couleurs, les comparaisons et les quantités. Lorsque votre enfant commence à comprendre des mots, posez-lui une question sur un objet et demandez-lui de le montrer du doigt. Par exemple : « Où est la balle ? » Si votre enfant ne peut pas trouver l’objet, montrez-le lui.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Early Talking",
+    "text": "Début du langage",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "As your child begins to understand and say words, mix in simple questions. Freely help with answers as needed. If you point and say \"Is this red?\" and they don't know, supply the answer. If you say \"Count the blocks.\" and your child does not know how, point and count the blocks with them \"one, two, three.\"",
+    "text": "Lorsque votre enfant commence à comprendre et à dire des mots, posez-lui des questions simples. Aidez-le librement si besoin. Si vous pointez du doigt et lui dites : « Est-ce que c’est rouge ? » et qu’il ne sait pas, donnez-lui la réponse. Si vous lui dites : « Compte les blocs ! » et que votre enfant ne sait pas comment faire, montrez-lui du doigt et comptez-les avec lui « un, deux, trois. »",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "3 Levels of Discussion",
+    "text": "3 Étapes de Discussion",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Pick an appropriate level for your child. Allow time for thought when asking questions or making comments. Help with the answer when your child stumbles, and follow up correct answers with questions or comments that are small expansions on the child's answer. \n\n**Level 1** Ask simple direct questions. Ask and point at what you see on the page. Where is the toy? What are they doing? What is its name? What color is it? How many balls are there? \n**Level 2** Ask general or open questions about this point in the story. What do you see happening here? What is this group of things? \n**Level 3** Ask about the story line. What has happened? What will happen next? Have you had experiences or seen things similar to this? How does she feel when this happens?",
+    "text": "Choisissez un niveau adéquat pour votre enfant. Laissez-lui du temps pour réfléchir quand vous lui posez des questions ou commentez. Aidez votre enfant à trouver la réponse lorsqu’il hésite et après une bonne réponse, répondez avec des questions ou des petits commentaires à partir de la réponse de votre enfant.\n\n**Niveau 1** Posez des questions simples et directes. Posez une question et pointez du doigt ce que vous voyez sur la page. Où est le jouet ? Que font-ils ? Quel est son nom ? De quelle couleur est-il ? Combien de balles il y a-t-il ?\n**Niveau 2** Posez des questions générales ou ouvertes par rapport à cette étape de l’histoire. Que se passe-t-il ici ? Quel est ce groupe d’objets ?\n**Niveau 1** Posez des questions à propos de l’histoire. Que s’est-il passé ? Que va-t-il se passer ensuite ? As-tu déjà vécu ou vu quelque chose qui ressemblait à ça ? Comment se sent-elle quand cela arrive ?",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Read, Talk, and Have Fun!",
+    "text": "Lisez, Parlez, et Amusez-Vous !",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "The supplied questions and comments are just the beginning. \n\n1. For the first reading, read the red questions and comments. \n2. For the second reading, read the blue questions and comments. \n3. For the third reading, read the green questions and comments. \n\nAfter that, follow your child's interests and let your discussions go in fun directions.",
+    "text": "Les questions posées et les commentaires ne sont que le début.\n\n1. Pour la première lecture, lisez les questions en rouge et les commentaires.\n2. Pour la deuxième lecture, lisez les questions en bleu et les commentaires.\n3. Pour la troisième lecture, lisez les questions en vert et les commentaires.\n\nAprès ça, utilisez les centres d’intérêt de votre enfant et laissez votre discussion prendre des tournants amusants.",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Math Themes and Words",
+    "text": "Des maths et des mots",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "**Adult Readers**",
+    "text": "**Lecteurs adultes**",
+    "type": "template",
     "note": ""
   }
 ]

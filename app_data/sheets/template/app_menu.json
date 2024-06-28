@@ -13,9 +13,7 @@
       "name": "button_privacy",
       "value": "Language",
       "_translations": {
-        "value": {
-          "es_es": true
-        }
+        "value": {}
       },
       "action_list": [
         {

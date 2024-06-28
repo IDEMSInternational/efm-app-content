@@ -54,9 +54,7 @@
           "name": "button_submit",
           "value": "Submit",
           "_translations": {
-            "value": {
-              "es_es": true
-            }
+            "value": {}
           },
           "action_list": [
             {

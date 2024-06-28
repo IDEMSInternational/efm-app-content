@@ -72,9 +72,7 @@
       "name": "syncing",
       "value": "Syncing...",
       "_translations": {
-        "value": {
-          "es_es": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "syncing"
@@ -99,9 +97,7 @@
       "name": "copied",
       "value": "Copied!",
       "_translations": {
-        "value": {
-          "es_es": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "copied"
@@ -207,9 +203,7 @@
       "name": "last_sync_text",
       "value": "Last sync at: @local.sync_latest",
       "_translations": {
-        "value": {
-          "es_es": true
-        }
+        "value": {}
       },
       "condition": "@local.sync_latest",
       "_nested_name": "last_sync_text",
@@ -268,9 +262,7 @@
       "name": "sync_button",
       "value": "Sync now",
       "_translations": {
-        "value": {
-          "es_es": true
-        }
+        "value": {}
       },
       "action_list": [
         {
