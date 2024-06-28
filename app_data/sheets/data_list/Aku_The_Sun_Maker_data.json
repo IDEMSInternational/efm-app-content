@@ -418,12 +418,9 @@
       "id": "page_11",
       "page_no": 11,
       "illustration": "EFMStorybooks/EFM-SB-ATSM-11.jpg",
-      "story_text": "Soon, everyone was rushing home to prepare for their daily activities. \\PARA Ataa Ankra looked for his fish bucket. Farmers took their hoes. Children bathed and dressed, ready to go to school. Women tied monies at the ends of their cover cloths. They carried their basins and baskets and hurried to the market.",
+      "story_text": "Soon, everyone was rushing home to prepare for their daily activities.\n\nAtaa Ankra looked for his fish bucket. Farmers took their hoes. Children bathed and dressed, ready to go to school. Women tied monies at the ends of their cover cloths. They carried their basins and baskets and hurried to the market.",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -439,7 +436,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "Soon, everyone was rushing home to prepare for their daily activities. \\PARA Ataa Ankra looked for his fish bucket. Farmers took their hoes. Children bathed and dressed, ready to go to school. Women tied monies at the ends of their cover cloths. They carried their basins and baskets and hurried to the market."
+          "eng": "Soon, everyone was rushing home to prepare for their daily activities.\n\nAtaa Ankra looked for his fish bucket. Farmers took their hoes. Children bathed and dressed, ready to go to school. Women tied monies at the ends of their cover cloths. They carried their basins and baskets and hurried to the market."
         },
         "annotation_1": {
           "eng": "It is dangerous to look at the sun, but we can still notice its changes. Depending on the weather and the time of day, the sun can look glowing yellow, hot white, orange, and even brown."

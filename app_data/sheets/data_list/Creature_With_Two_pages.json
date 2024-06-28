@@ -254,12 +254,9 @@
       "id": "page_7",
       "page_no": 7,
       "illustration": "EFMStorybooks/EFM-SB-CWT-7.jpg",
-      "story_text": "They searched and searched, but all they could see was the tall grass and trees. \\PARA Suddenly, they heard a noise, and looked up.",
+      "story_text": "They searched and searched, but all they could see was the tall grass and trees.\n\nSuddenly, they heard a noise, and looked up.",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -275,7 +272,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "They searched and searched, but all they could see was the tall grass and trees. \\PARA Suddenly, they heard a noise, and looked up."
+          "eng": "They searched and searched, but all they could see was the tall grass and trees.\n\nSuddenly, they heard a noise, and looked up."
         },
         "annotation_1": {
           "eng": "What do you think made that noise above them?"
