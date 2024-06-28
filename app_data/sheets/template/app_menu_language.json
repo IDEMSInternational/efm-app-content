@@ -7,9 +7,7 @@
       "type": "title",
       "value": "Language",
       "_translations": {
-        "value": {
-          "es_es": true
-        }
+        "value": {}
       },
       "name": "title_2",
       "_nested_name": "title_2"

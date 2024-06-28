@@ -358,9 +358,7 @@
       "name": "title_6",
       "value": "Security",
       "_translations": {
-        "value": {
-          "es_es": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true,
       "_nested_name": "title_6"
@@ -400,9 +398,7 @@
       "name": "title_8",
       "value": "Children’s Privacy",
       "_translations": {
-        "value": {
-          "es_es": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true,
       "_nested_name": "title_8"
@@ -452,9 +448,7 @@
       "name": "title_10",
       "value": "Contact Us",
       "_translations": {
-        "value": {
-          "es_es": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true,
       "_nested_name": "title_10"

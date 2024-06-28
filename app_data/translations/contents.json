@@ -4,5 +4,8 @@
   },
   "fr_fr": {
     "filename": "fr_fr/strings.json"
+  },
+  "kw_ar": {
+    "filename": "kw_ar/strings.json"
   }
 }
