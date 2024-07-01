@@ -10,18 +10,14 @@
       "chapter": 1,
       "block1_type": "all_text",
       "block2_type": "accord_all_text",
-      "title": "CHAPTER 1 – I CAN HEAR YOU!",
+      "title": "STAGE 1 – I CAN HEAR YOU!",
       "_translations": {
-        "title": {
-          "es_es": true
-        },
+        "title": {},
         "type_name": {
           "es_es": true,
           "fr_fr": true
         },
-        "page_title": {
-          "es_es": true
-        },
+        "page_title": {},
         "block1_text": {
           "es_es": true
         },
@@ -32,13 +28,13 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "CHAPTER 1 – I CAN HEAR YOU!"
+          "eng": "STAGE 1 – I CAN HEAR YOU!"
         },
         "type_name": {
           "eng": "Introduction"
         },
         "page_title": {
-          "eng": "Chapter 1 Introduction"
+          "eng": "Stage 1 Introduction"
         },
         "block1_text": {
           "eng": "What a wonderful time watching your young child learn about the world! They are little sponges observing everything going on around them and they can hear you! They play and experiment constantly, making sense of the world and learning how to crawl, walk, talk, and interact with all that they are experiencing.\n\nMathematics is a natural part of this world they are learning about. No matter what your experiences and feelings about math, this is your chance to make mathematics a playful and fun activity that your family does together.\n\nFor now, the main mathematical activity to do together will be exposing your child constantly to mathematical language and ideas. This is mostly just a matter of verbalizing what is going on in your head already. Counting things out loud as you work with them and naming items that your child plays with is what gets everything rolling.\n\nHave fun! This is an amazing time for your family!"
@@ -51,7 +47,7 @@
         }
       },
       "type_name": "Introduction",
-      "page_title": "Chapter 1 Introduction",
+      "page_title": "Stage 1 Introduction",
       "block1_text": "What a wonderful time watching your young child learn about the world! They are little sponges observing everything going on around them and they can hear you! They play and experiment constantly, making sense of the world and learning how to crawl, walk, talk, and interact with all that they are experiencing.\n\nMathematics is a natural part of this world they are learning about. No matter what your experiences and feelings about math, this is your chance to make mathematics a playful and fun activity that your family does together.\n\nFor now, the main mathematical activity to do together will be exposing your child constantly to mathematical language and ideas. This is mostly just a matter of verbalizing what is going on in your head already. Counting things out loud as you work with them and naming items that your child plays with is what gets everything rolling.\n\nHave fun! This is an amazing time for your family!",
       "block2_accord": "New ideas for this stage",
       "block2_text": "* Have fun with math together! This is the most important thing. \n* Verbalize math - You do math all the time in your head – include your child by saying those thoughts out loud to your child all the time. \n* Point and describe - When you talk about something, point to it and then talk about it. If your child is ready, ask questions about it. \n* Expose - Your child is learning by being exposed to things. Your child will probably not un- derstand things initially, but by frequent exposure your child will pick up on the patterns and learn what is going on. \n* Count everything out loud. Count up and down. Include 0 sometimes. \n* Objects have properties that can be named, described, compared, and discussed. Those properties lead to discoveries of natural and human-made patterns."
@@ -1787,18 +1783,14 @@
       "chapter": 2,
       "block1_type": "all_text",
       "block2_type": "accord_all_text",
-      "title": "CHAPTER 2 – I CAN COUNT TO 5!",
+      "title": "STAGE 2 – I CAN COUNT TO 5!",
       "_translations": {
-        "title": {
-          "es_es": true
-        },
+        "title": {},
         "type_name": {
           "es_es": true,
           "fr_fr": true
         },
-        "page_title": {
-          "es_es": true
-        },
+        "page_title": {},
         "block1_text": {
           "es_es": true
         },
@@ -1809,13 +1801,13 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "CHAPTER 2 – I CAN COUNT TO 5!"
+          "eng": "STAGE 2 – I CAN COUNT TO 5!"
         },
         "type_name": {
           "eng": "Introduction"
         },
         "page_title": {
-          "eng": "Chapter 2 Introduction"
+          "eng": "Stage 2 Introduction"
         },
         "block1_text": {
           "eng": "**Where You've Been**\n\nWow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n\nYour child is becoming more verbal and better able to reason and explain. You can discuss mathematical things and this allows you to start playing games and doing puzzles together."
@@ -1828,7 +1820,7 @@
         }
       },
       "type_name": "Introduction",
-      "page_title": "Chapter 2 Introduction",
+      "page_title": "Stage 2 Introduction",
       "block1_text": "**Where You've Been**\n\nWow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n\nYour child is becoming more verbal and better able to reason and explain. You can discuss mathematical things and this allows you to start playing games and doing puzzles together.",
       "block2_accord": "New ideas for this stage",
       "block2_text": "Your child will be learning many things in the coming months beyond counting to 10 and above.\nHere is a quick list of topics that will be covered in this Stage.\n\n• Counting forward and backward to 10. Don’t ignore backward counting – it is important for understanding number relationships as well as being an aid for subtraction.\n• Include 0 in your counting sometimes. Including 0 now makes it a familiar number and keeps it from feeling exotic.\n• Reasoning with properties and numbers. Understanding properties and reasoning with them is a key part of developing mathematical ability.\n• Deepening understanding of shapes, especially circles, triangles, and squares. Keep using descriptive shape names as your child interacts with them.\n• Comparing and ordering numbers. How quantities compare and interact with each other is central to understanding them.\n• One more, one less, two more, two less. These concepts are relatively easy to pick up, and they will form the basis for addition and subtraction.\n• Learning to use manipulatives, especially fingers, to understand adding and subtracting. Adding and subtracting 0.\n• Subtracting a number from itself."
@@ -4014,18 +4006,14 @@
       "chapter": 3,
       "block1_type": "all_text",
       "block2_type": "accord_all_text",
-      "title": "CHAPTER 3 – I CAN COUNT TO 10!",
+      "title": "STAGE 3 – I CAN COUNT TO 10!",
       "_translations": {
-        "title": {
-          "es_es": true
-        },
+        "title": {},
         "type_name": {
           "es_es": true,
           "fr_fr": true
         },
-        "page_title": {
-          "es_es": true
-        },
+        "page_title": {},
         "block1_text": {},
         "block2_accord": {},
         "block2_text": {
@@ -4034,13 +4022,13 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "CHAPTER 3 – I CAN COUNT TO 10!"
+          "eng": "STAGE 3 – I CAN COUNT TO 10!"
         },
         "type_name": {
           "eng": "Introduction"
         },
         "page_title": {
-          "eng": "Chapter 3 Introduction"
+          "eng": "Stage 3 Introduction"
         },
         "block1_text": {
           "eng": "**Where You've Been**\n\nYour child counts up and down between 0 and 10 and understands what those quantities mean. Early addition and subtraction skills are developing. An important foundation for those skills is confidence with adding and subtracting 1 and 2 with small numbers. Your child understands small quantities, and reasons with those quantities to do addition and subtraction for small numbers.\n\nIn addition to that wonderful stuff, your child reasons so much better now! They understand that objects and numbers have properties, and they can reason and do beginning problem solving. Your child is now a full member in family math games and puzzles and exploring the mathematical world around them"
@@ -4053,7 +4041,7 @@
         }
       },
       "type_name": "Introduction",
-      "page_title": "Chapter 3 Introduction",
+      "page_title": "Stage 3 Introduction",
       "block1_text": "**Where You've Been**\n\nYour child counts up and down between 0 and 10 and understands what those quantities mean. Early addition and subtraction skills are developing. An important foundation for those skills is confidence with adding and subtracting 1 and 2 with small numbers. Your child understands small quantities, and reasons with those quantities to do addition and subtraction for small numbers.\n\nIn addition to that wonderful stuff, your child reasons so much better now! They understand that objects and numbers have properties, and they can reason and do beginning problem solving. Your child is now a full member in family math games and puzzles and exploring the mathematical world around them",
       "block2_accord": "New ideas for this stage",
       "block2_text": "* Counting On – Count upward starting at any number, rather than always starting at 1. This is useful for addition and for finding differences.\n* Counting Down – This refers to counting downward starting at any number. It is useful for subtracting, as well as for developing a sense for the relationships between numbers.\n* Number Bonds – These are all pairs of numbers that add up to a specific number.\n* Ten Frames – Represent a number from 0 to 10 as that number of dots inside a 2 by 5 rectangular grid. For numbers greater than 4, the upper group of 5 squares is always filled.\n* Expanded Form – This refers to writing a multi-digit number broken down into the contribution of each of its digits. For example: 25 = 20 + 5 and 317 = 300 + 10 + 7.\n* Fact Families – This refers to a group of closely related math facts. For example, 2 + 5 = 7 is in the same family as 7 - 2 = 5 and 7 - 5 = 2.\n* Adding twins and near twins – An adding twin is adding a number to itself, such as 4 + 4. A near twin is one away from a twin, such as 4 + 5.\n* Doubling, multiplying by two, and halving, two equal parts, dividing in two – Children usu-\nally enjoy adding twins. With that comes the idea of doubling and multiplying by 2. Also\nassociated with that is halving, splitting something into two equal parts, and dividing by two.\n* Even and Odd numbers – Even numbers can be split into two equal parts. Odd numbers have one left over when split into two equal parts. Even numbers are the results of adding twins.\n* Skip counting by 2’s – Count up or down by 2’s – such as, 0, 2, 4, 6 or 13, 11, 9, 7."
@@ -5850,31 +5838,27 @@
       "chapter": 4,
       "block1_type": "all_text",
       "block2_type": "accord_all_text",
-      "title": "CHAPTER 4 – I CAN COUNT TO 20!",
+      "title": "STAGE 4 – I CAN COUNT TO 20!",
       "_translations": {
-        "title": {
-          "es_es": true
-        },
+        "title": {},
         "type_name": {
           "es_es": true,
           "fr_fr": true
         },
-        "page_title": {
-          "es_es": true
-        },
+        "page_title": {},
         "block1_text": {},
         "block2_accord": {},
         "block2_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "CHAPTER 4 – I CAN COUNT TO 20!"
+          "eng": "STAGE 4 – I CAN COUNT TO 20!"
         },
         "type_name": {
           "eng": "Introduction"
         },
         "page_title": {
-          "eng": "Chapter 4 Introduction"
+          "eng": "Stage 4 Introduction"
         },
         "block1_text": {
           "eng": "**Where You've Been**\n\nYour child has come so far! They can count up and down between 0 and 20 and understand what those quantities mean. Your child is comfortable “counting on” or “counting down” starting at any number in between 0 and 20. There is also a budding understanding of place value and how that relates to expanded form.\n\nCalculational abilities have also grown! Beyond adding and subtracting small numbers, your child has a sense of the number relationships of number bonds and fact families. The ideas of adding and subtracting 1 or 2, adding twins, and near twins, are ready to be the foundation for learning all addition and subtraction facts. Your child has also picked up skip counting by 2, doubling, halving, and even and odd numbers – all of which set the stage for learning multiplication and division."
@@ -5887,7 +5871,7 @@
         }
       },
       "type_name": "Introduction",
-      "page_title": "Chapter 4 Introduction",
+      "page_title": "Stage 4 Introduction",
       "block1_text": "**Where You've Been**\n\nYour child has come so far! They can count up and down between 0 and 20 and understand what those quantities mean. Your child is comfortable “counting on” or “counting down” starting at any number in between 0 and 20. There is also a budding understanding of place value and how that relates to expanded form.\n\nCalculational abilities have also grown! Beyond adding and subtracting small numbers, your child has a sense of the number relationships of number bonds and fact families. The ideas of adding and subtracting 1 or 2, adding twins, and near twins, are ready to be the foundation for learning all addition and subtraction facts. Your child has also picked up skip counting by 2, doubling, halving, and even and odd numbers – all of which set the stage for learning multiplication and division.",
       "block2_accord": "New ideas for this stage",
       "block2_text": "* Counting to 100 – While it’s fun to hear your child count to 100, keep this practice grounded in understanding the numbers – place value and counting backwards will help a lot with this.\n* Expanded Form and Place Value – The earlier practice with this will be reinforced here. Understanding tens and ones, and using expanded form (such as 37 = 30 + 7), is essential to\nunderstanding numbers.\n* Comparing double-digit numbers – Understanding place value will make this easy.\n* All single-digit adding and subtracting – This is first done with manipulatives, especially fingers. Then, using number relationships, it will be extended to mental arithmetic.\n* Compensation for Addition and Subtraction – Adjusting addition and subtraction problems to make them easier helps with mental arithmetic, and teaches the structure of numbers.\n* Skip Counting – Skipping up and down by single-digit numbers starting anywhere is great for doing mental addition and subtraction, and helps with multiplication and division.\n* Beginning multiplying – Your child already knows how to multiply by 2. This will be extended, in part using skip counting, to all single-digit numbers.\n* Games, Puzzles, Problem Solving and Investigations – The games and puzzles will be more\nchallenging in keeping with your child’s growing sophistication and abilities. Keep these activities fun and playful - enjoyment is the most important thing for your child’s long term mathematical success. Kindle sparks of joy when your child discovers or experiences particularly beautiful or satisfying mathematical patterns."
@@ -8059,31 +8043,27 @@
       "chapter": 5,
       "block1_type": "all_text",
       "block2_type": "accord_all_text",
-      "title": "CHAPTER 5 – I CAN COUNT TO 100!",
+      "title": "STAGE 5 – I CAN COUNT TO 100!",
       "_translations": {
-        "title": {
-          "es_es": true
-        },
+        "title": {},
         "type_name": {
           "es_es": true,
           "fr_fr": true
         },
-        "page_title": {
-          "es_es": true
-        },
+        "page_title": {},
         "block1_text": {},
         "block2_accord": {},
         "block2_text": {}
       },
       "_translatedFields": {
         "title": {
-          "eng": "CHAPTER 5 – I CAN COUNT TO 100!"
+          "eng": "STAGE 5 – I CAN COUNT TO 100!"
         },
         "type_name": {
           "eng": "Introduction"
         },
         "page_title": {
-          "eng": "Chapter 5 Introduction"
+          "eng": "Stage 5 Introduction"
         },
         "block1_text": {
           "eng": "**Where You've Been**\n\nYour child can now count to 100! They can comfortably do mental single-digit addition and subtraction. They can also count or skip count up or down by any number, and tied to that skill is their ability to add or subtract a single-digit number with a double-digit number. They can compare two double-digit numbers, and they have a beginning sense of place value with 10’s and 1’s.\n\nAs their skip counting is improving, they are also developing skills with multiplying by 2, 3, 4, 5, and 10. The idea of even and odd numbers now makes a lot more sense to them.\n\nExtend activities from earlier stages to these larger numbers: Stage 3: Shape Sums, Going Up Some More; Stage 4: War - Double Digit Add and Subtract, DiffTriangles and SumTriangles, Fix It, Island Hopping by 1’s and 10’s, Fill in the Blanks Comparison, Sum Square, and Addition Pyramid."
@@ -8096,7 +8076,7 @@
         }
       },
       "type_name": "Introduction",
-      "page_title": "Chapter 5 Introduction",
+      "page_title": "Stage 5 Introduction",
       "block1_text": "**Where You've Been**\n\nYour child can now count to 100! They can comfortably do mental single-digit addition and subtraction. They can also count or skip count up or down by any number, and tied to that skill is their ability to add or subtract a single-digit number with a double-digit number. They can compare two double-digit numbers, and they have a beginning sense of place value with 10’s and 1’s.\n\nAs their skip counting is improving, they are also developing skills with multiplying by 2, 3, 4, 5, and 10. The idea of even and odd numbers now makes a lot more sense to them.\n\nExtend activities from earlier stages to these larger numbers: Stage 3: Shape Sums, Going Up Some More; Stage 4: War - Double Digit Add and Subtract, DiffTriangles and SumTriangles, Fix It, Island Hopping by 1’s and 10’s, Fill in the Blanks Comparison, Sum Square, and Addition Pyramid.",
       "block2_accord": "New ideas for this stage",
       "block2_text": "* Counting to 200 – Introduce the 100’s place by looking at the numbers from 100 to 200.\n* Skip Counting to 100 – This is not new, but it is an important skill to reinforce.\n* Expanded Form and Place Value – This is a foundational skill, so it will be reinforced further.\n* Double-digit Addition and Subtraction – Skip counting will help make this seem effortless.\n* All Single-digit Multiplication – It is time to fill in the missing gaps for 6, 7, 8, and 9.\n* Rectangle Area is Length x Width – This is an important idea in its own right. This fact will also provide many opportunities for fun games and puzzles involving multiplication and factoring.\n* Factoring – Your child will learn the beauty of how numbers break apart into factors. 1 is a unit. A number bigger than 1 only divisible by 1 and itself is prime. A number bigger than 1 that is not prime is composite. 3 **squared** is 3 × 3. 3 **cubed** is 3 × 3 × 3. And 3 raised to a power means to multiply 3 by itself that many times - for example, 3 to the fourth is 3 × 3 × 3 × 3.\n* Factors, Divisors, and Multiples – 3 divides evenly into 12. That makes 3 a factor or divisor of 12, and 12 a multiple of 3. 3 is a common factor of 12 and 15, and 12 is a common multiple of 4 and 6.\n* Single-digit Division – Your child will learn division indirectly in the form of finding a missing factor in a multiplication problem.\n* Fact Families for Multiplication and Division – We'll reinforce the connection between these two operations. For example, 2 × 5 = 10, 5 × 2 = 10, 10 / 2 = 5, and 10 / 5 = 2 form a fact family."

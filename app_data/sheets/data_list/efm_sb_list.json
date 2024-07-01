@@ -766,12 +766,9 @@
       "illustrator": "Thea Nicole de Klerk",
       "intro_level": "advanced",
       "book_level": "intermediate",
-      "title": "A Dancers Tale",
+      "title": "A Dancer's Tale",
       "_translations": {
-        "title": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "title": {},
         "math_themes_words": {
           "es_es": true,
           "fr_fr": true
@@ -779,7 +776,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "A Dancers Tale"
+          "eng": "A Dancer's Tale"
         },
         "math_themes_words": {
           "eng": "This story has counting to 12, comparing, and shapes. Practice words: numbers to 12, smallest, shortest, longest, more, less, circle, arc, triangle, rectangle, right angle, straight lines, diagonal, shapes made with lines, Y shape."
