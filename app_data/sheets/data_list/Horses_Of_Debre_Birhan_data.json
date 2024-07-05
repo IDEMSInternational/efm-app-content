@@ -131,12 +131,9 @@
       "id": "page_4",
       "page_no": 4,
       "illustration": "EFMStorybooks/EFM-SB-HODB-4.jpg",
-      "story_text": "My harness doesn't fit me. It is too tight and cuts my skin, said one horse.\n\n\"Me too, me too,\" another agreed.",
+      "story_text": "\"My harness doesn't fit me. It is too tight and cuts my skin,\" said one horse.\n\n\"Me too, me too,\" another agreed.",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -152,7 +149,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "My harness doesn't fit me. It is too tight and cuts my skin, said one horse.\n\n\"Me too, me too,\" another agreed."
+          "eng": "\"My harness doesn't fit me. It is too tight and cuts my skin,\" said one horse.\n\n\"Me too, me too,\" another agreed."
         },
         "annotation_1": {
           "eng": "How do real horses talk with each other?"
@@ -213,12 +210,9 @@
       "id": "page_6",
       "page_no": 6,
       "illustration": "EFMStorybooks/EFM-SB-HODB-6.jpg",
-      "story_text": "We work very hard, but most of our owners treat us badly. Many do not know how to look after us, said Chalew.\n\nAll of the horses agreed.",
+      "story_text": "\"We work very hard, but most of our owners treat us badly. Many do not know how to look after us,\" said Chalew.\n\nAll of the horses agreed.",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -234,7 +228,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "We work very hard, but most of our owners treat us badly. Many do not know how to look after us, said Chalew.\n\nAll of the horses agreed."
+          "eng": "\"We work very hard, but most of our owners treat us badly. Many do not know how to look after us,\" said Chalew.\n\nAll of the horses agreed."
         },
         "annotation_1": {
           "eng": "What do you think Chalew is going to suggest that they do about their bad situation?"
@@ -254,12 +248,9 @@
       "id": "page_7",
       "page_no": 7,
       "illustration": "EFMStorybooks/EFM-SB-HODB-7.jpg",
-      "story_text": "We need better conditions. Let's go on strike! declared Chalew. The horses cheered!\n\nThey decided to stay in the field until the cart drivers agreed to change.",
+      "story_text": "\"We need better conditions. Let's go on strike!\" declared Chalew. The horses cheered!\n\nThey decided to stay in the field until the cart drivers agreed to change.",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -275,7 +266,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "We need better conditions. Let's go on strike! declared Chalew. The horses cheered!\n\nThey decided to stay in the field until the cart drivers agreed to change."
+          "eng": "\"We need better conditions. Let's go on strike!\" declared Chalew. The horses cheered!\n\nThey decided to stay in the field until the cart drivers agreed to change."
         },
         "annotation_1": {
           "eng": "A strike occurs when a group of workers refuse to work and insist on getting treated better by their company. People sometimes go on strike to get better working conditions, and sometimes they do it to get paid more."

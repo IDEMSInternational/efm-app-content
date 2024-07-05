@@ -223,10 +223,7 @@
           "es_es": true,
           "fr_fr": true
         },
-        "annotation_2": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "annotation_2": {},
         "annotation_3": {
           "es_es": true,
           "fr_fr": true
@@ -240,14 +237,14 @@
           "eng": "This view high up in the sky is something you don't get to see very often. Notice how the roofs all look like rectangles from up here. What does that tell you about the shape of the rooms underneath the roofs?"
         },
         "annotation_2": {
-          "eng": "There is a circle around the top of the helicopter. There is actually nothing circular there. What is causing it to look like there is a circle there?}"
+          "eng": "There is a circle around the top of the helicopter. There is actually nothing circular there. What is causing it to look like there is a circle there?"
         },
         "annotation_3": {
           "eng": "There is a second small circle at the far end of the helicopter. Because we are seeing it from the side, that circle looks like a very thin oval."
         }
       },
       "annotation_1": "This view high up in the sky is something you don't get to see very often. Notice how the roofs all look like rectangles from up here. What does that tell you about the shape of the rooms underneath the roofs?",
-      "annotation_2": "There is a circle around the top of the helicopter. There is actually nothing circular there. What is causing it to look like there is a circle there?}",
+      "annotation_2": "There is a circle around the top of the helicopter. There is actually nothing circular there. What is causing it to look like there is a circle there?",
       "annotation_3": "There is a second small circle at the far end of the helicopter. Because we are seeing it from the side, that circle looks like a very thin oval."
     },
     {

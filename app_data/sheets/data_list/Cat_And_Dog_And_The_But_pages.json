@@ -515,11 +515,8 @@
           "fr_fr": true,
           "kw_ar": true
         },
-        "annotation_2": {
-          "es_es": true,
-          "fr_fr": true,
-          "kw_ar": true
-        }
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -529,11 +526,15 @@
           "eng": "How many butterflies can you count? Are there too many for you to count?"
         },
         "annotation_2": {
-          "eng": "How many different colors of butterflies are there?{For which color of butterfly is there the most?}"
+          "eng": "How many different colors of butterflies are there?"
+        },
+        "annotation_3": {
+          "eng": "For which color of butterfly is there the most?"
         }
       },
       "annotation_1": "How many butterflies can you count? Are there too many for you to count?",
-      "annotation_2": "How many different colors of butterflies are there?{For which color of butterfly is there the most?}"
+      "annotation_2": "How many different colors of butterflies are there?",
+      "annotation_3": "For which color of butterfly is there the most?"
     },
     {
       "id": "page_13",

@@ -459,12 +459,9 @@
       "id": "page_12",
       "page_no": 12,
       "illustration": "EFMStorybooks/EFM-SB-SIF-12.jpg",
-      "story_text": "\"You are full of surprises, Doobie,\" says Duksie sweetly. \"How did you work it out? Maya asks. Doobie smiles to himself. For now it is his secret. Later, he will tell his dad.",
+      "story_text": "\"You are full of surprises, Doobie,\" says Duksie sweetly. \"How did you work it out?\" Maya asks. Doobie smiles to himself. For now it is his secret. Later, he will tell his dad.",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -480,7 +477,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "\"You are full of surprises, Doobie,\" says Duksie sweetly. \"How did you work it out? Maya asks. Doobie smiles to himself. For now it is his secret. Later, he will tell his dad."
+          "eng": "\"You are full of surprises, Doobie,\" says Duksie sweetly. \"How did you work it out?\" Maya asks. Doobie smiles to himself. For now it is his secret. Later, he will tell his dad."
         },
         "annotation_1": {
           "eng": "It can be fun to have a secret. What's a secret you once had that is no longer a secret?"

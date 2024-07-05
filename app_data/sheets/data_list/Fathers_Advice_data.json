@@ -459,12 +459,9 @@
       "id": "page_12",
       "page_no": 12,
       "illustration": "EFMStorybooks/EFM-SB-FA-12.jpg",
-      "story_text": "The father said, \"This is what I meant when I said you should make yourself a home. A home is more than many huts or a big expensive house. It is love, warmth and friendship with other people.",
+      "story_text": "The father said, \"This is what I meant when I said you should make yourself a home. A home is more than many huts or a big expensive house. It is love, warmth and friendship with other people.\"",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -480,7 +477,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "The father said, \"This is what I meant when I said you should make yourself a home. A home is more than many huts or a big expensive house. It is love, warmth and friendship with other people."
+          "eng": "The father said, \"This is what I meant when I said you should make yourself a home. A home is more than many huts or a big expensive house. It is love, warmth and friendship with other people.\""
         },
         "annotation_1": {
           "eng": "A home is not just a roof or walls or doors. In the place where you live, what kinds of things make it a home to you?"

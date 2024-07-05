@@ -548,13 +548,9 @@
       "id": "page_13",
       "page_no": 13,
       "illustration": "EFMStorybooks/EFM-SB-LD-13.jpg",
-      "story_text": "Are you making this up, Gramps? Is this story true? \"Lory is real -- real as me, real as you.\"",
+      "story_text": "\"Are you making this up, Gramps? Is this story true?\" \"Lory is real -- real as me, real as you.\"",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true,
-          "kw_ar": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true,
@@ -573,7 +569,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "Are you making this up, Gramps? Is this story true? \"Lory is real -- real as me, real as you.\""
+          "eng": "\"Are you making this up, Gramps? Is this story true?\" \"Lory is real -- real as me, real as you.\""
         },
         "annotation_1": {
           "eng": "The story may not be real, but it has a real message. What is the message?"
@@ -605,11 +601,7 @@
           "fr_fr": true,
           "kw_ar": true
         },
-        "annotation_2": {
-          "es_es": true,
-          "fr_fr": true,
-          "kw_ar": true
-        },
+        "annotation_2": {},
         "annotation_3": {
           "es_es": true,
           "fr_fr": true,
@@ -624,14 +616,14 @@
           "eng": "What do you think? Do \"sure\" and \"door\" rhyme?"
         },
         "annotation_2": {
-          "eng": "Go back and look at all the pairs of rhyming words. Can you find a few more words that with each pair?"
+          "eng": "Go back and look at all the pairs of rhyming words. Can you find a few more words that go with each pair?"
         },
         "annotation_3": {
           "eng": "Some kinds of poems use rhyming words. Have you ever written a poem?"
         }
       },
       "annotation_1": "What do you think? Do \"sure\" and \"door\" rhyme?",
-      "annotation_2": "Go back and look at all the pairs of rhyming words. Can you find a few more words that with each pair?",
+      "annotation_2": "Go back and look at all the pairs of rhyming words. Can you find a few more words that go with each pair?",
       "annotation_3": "Some kinds of poems use rhyming words. Have you ever written a poem?"
     },
     {

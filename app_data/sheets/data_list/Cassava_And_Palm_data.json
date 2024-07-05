@@ -131,12 +131,9 @@
       "id": "page_4",
       "page_no": 4,
       "illustration": "EFMStorybooks/EFM-SB-CAP-4.jpg",
-      "story_text": "What work can you do? the woman asked. The friends responded, \"We can provide food for your family and animals.\"\n\nThe woman asked, \"What do you need to provide the food?\" \"Give us land, water and good care,\" they replied.",
+      "story_text": "\"What work can you do?\" the woman asked. The friends responded, \"We can provide food for your family and animals.\"\n\nThe woman asked, \"What do you need to provide the food?\" \"Give us land, water and good care,\" they replied.",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -152,7 +149,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "What work can you do? the woman asked. The friends responded, \"We can provide food for your family and animals.\"\n\nThe woman asked, \"What do you need to provide the food?\" \"Give us land, water and good care,\" they replied."
+          "eng": "\"What work can you do?\" the woman asked. The friends responded, \"We can provide food for your family and animals.\"\n\nThe woman asked, \"What do you need to provide the food?\" \"Give us land, water and good care,\" they replied."
         },
         "annotation_1": {
           "eng": "Most of our food comes from plants. What are some of your favorite foods that come from trees? From bushes? From vines? (berries, tomatoes, beans, squash)"
@@ -336,12 +333,9 @@
       "id": "page_9",
       "page_no": 9,
       "illustration": "EFMStorybooks/EFM-SB-CAP-9.jpg",
-      "story_text": "My stems are used for planting. My leaves and peels feed your animals. What does Palm tree do? asked Cassava.",
+      "story_text": "\"My stems are used for planting. My leaves and peels feed your animals. What does Palm tree do?\" asked Cassava.",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -357,7 +351,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "My stems are used for planting. My leaves and peels feed your animals. What does Palm tree do? asked Cassava."
+          "eng": "\"My stems are used for planting. My leaves and peels feed your animals. What does Palm tree do?\" asked Cassava."
         },
         "annotation_1": {
           "eng": "Not all shapes are simple and regular. There are several large, irregularly-shaped dark patches on the goat. How many?"
@@ -459,12 +453,9 @@
       "id": "page_12",
       "page_no": 12,
       "illustration": "EFMStorybooks/EFM-SB-CAP-12.jpg",
-      "story_text": "In addition, my friends provide shade for your huts. You cool your heart with my sweet, rich, foamy palm wine after your hard day's work.",
+      "story_text": "\"In addition, my friends provide shade for your huts. You cool your heart with my sweet, rich, foamy palm wine after your hard day's work.\"",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -480,7 +471,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "In addition, my friends provide shade for your huts. You cool your heart with my sweet, rich, foamy palm wine after your hard day's work."
+          "eng": "\"In addition, my friends provide shade for your huts. You cool your heart with my sweet, rich, foamy palm wine after your hard day's work.\""
         },
         "annotation_1": {
           "eng": "The poles that hold up the palm frond roof are vertical -- they are straight up and down. The edge of the wall behind the people is horizontal -- it goes from side to side. Point out vertical and horizontal lines around you."
@@ -500,12 +491,9 @@
       "id": "page_13",
       "page_no": 13,
       "illustration": "EFMStorybooks/EFM-SB-CAP-13.jpg",
-      "story_text": "Above all, the brooms that are used to sweep the rooms and compounds come from me, concluded Palm.",
+      "story_text": "\"Above all, the brooms that are used to sweep the rooms and compounds come from me,\" concluded Palm.",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -521,7 +509,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "Above all, the brooms that are used to sweep the rooms and compounds come from me, concluded Palm."
+          "eng": "\"Above all, the brooms that are used to sweep the rooms and compounds come from me,\" concluded Palm."
         },
         "annotation_1": {
           "eng": "People tie palm fronds tightly together to make brooms. A dust broom is a really short broom for sweeping small areas. Do you have a dust broom?"
@@ -582,12 +570,9 @@
       "id": "page_15",
       "page_no": 15,
       "illustration": "EFMStorybooks/EFM-SB-CAP-15.jpg",
-      "story_text": "Both of you are very important to me. The two of you together make a delicious meal, fufu and palm nut soup! said the woman.",
+      "story_text": "\"Both of you are very important to me. The two of you together make a delicious meal, fufu and palm nut soup!\" said the woman.",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -603,7 +588,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "Both of you are very important to me. The two of you together make a delicious meal, fufu and palm nut soup! said the woman."
+          "eng": "\"Both of you are very important to me. The two of you together make a delicious meal, fufu and palm nut soup!\" said the woman."
         },
         "annotation_1": {
           "eng": "Giving a new way to look at something can resolve an argument. What did she say that made them both happy?"

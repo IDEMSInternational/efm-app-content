@@ -98,13 +98,9 @@
       "id": "page_3",
       "page_no": 3,
       "illustration": "EFMStorybooks/EFM-SB-CADATB-3.jpg",
-      "story_text": "Cat and Dog have a ball.\n\nThe ball is red and blue and green.",
+      "story_text": "Cat and Dog have a ball.\n\nThe ball is red and blue and yellow.",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true,
-          "kw_ar": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true,
@@ -123,7 +119,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "Cat and Dog have a ball.\n\nThe ball is red and blue and green."
+          "eng": "Cat and Dog have a ball.\n\nThe ball is red and blue and yellow."
         },
         "annotation_1": {
           "eng": "Count together the number of colors on the ball."

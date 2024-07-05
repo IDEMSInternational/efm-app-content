@@ -178,10 +178,7 @@
           "es_es": true,
           "fr_fr": true
         },
-        "annotation_1": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "annotation_1": {},
         "annotation_2": {
           "es_es": true,
           "fr_fr": true
@@ -196,7 +193,7 @@
           "eng": "They crossed a river. They got wet."
         },
         "annotation_1": {
-          "eng": "They got wet seems like an understatement for how they look in the picture. Hyenas are excellent swimmers, so it is surprising that Hyena looks so unhappy."
+          "eng": "\"They got wet\" seems like an understatement for how they look in the picture. Hyenas are excellent swimmers, so it is surprising that Hyena looks so unhappy."
         },
         "annotation_2": {
           "eng": "Do you like swimming? Have you ever gone swimming in rivers or other natural bodies of water?"
@@ -205,7 +202,7 @@
           "eng": "Which direction do you think the water is flowing? How can you tell?"
         }
       },
-      "annotation_1": "They got wet seems like an understatement for how they look in the picture. Hyenas are excellent swimmers, so it is surprising that Hyena looks so unhappy.",
+      "annotation_1": "\"They got wet\" seems like an understatement for how they look in the picture. Hyenas are excellent swimmers, so it is surprising that Hyena looks so unhappy.",
       "annotation_2": "Do you like swimming? Have you ever gone swimming in rivers or other natural bodies of water?",
       "annotation_3": "Which direction do you think the water is flowing? How can you tell?"
     },

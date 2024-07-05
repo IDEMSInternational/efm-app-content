@@ -52,7 +52,6 @@
     {
       "id": "page_2",
       "page_no": 2,
-      "illustration": "EFMStorybooks/EFM-SB-TFHH-2.jpg",
       "story_text": "\"Are you looking for something?\" Snail asked. \"Yes, Snail, I'm looking for my house. Have you seen it, by any chance?\"",
       "_translations": {
         "story_text": {
@@ -188,13 +187,9 @@
       "id": "page_5",
       "page_no": 5,
       "illustration": "EFMStorybooks/EFM-SB-TFHH-5.jpg",
-      "story_text": "The average speed of a tortoise is about 20 times faster than a snail. The average speed of a person is about five times faster than a tortoise.",
+      "story_text": "He flapped his wings and he whizzed away. \"But you’re going too fast for me,\" complained Tortoise. Sparrow came back. \"Alright, then I’ll hop on too.\"",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true,
-          "kw_ar": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true,
@@ -213,7 +208,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "The average speed of a tortoise is about 20 times faster than a snail. The average speed of a person is about five times faster than a tortoise."
+          "eng": "He flapped his wings and he whizzed away. \"But you’re going too fast for me,\" complained Tortoise. Sparrow came back. \"Alright, then I’ll hop on too.\""
         },
         "annotation_1": {
           "eng": "The average speed of a sparrow is at least 10 times faster than a person, so it is about 50 times faster than a tortoise!"

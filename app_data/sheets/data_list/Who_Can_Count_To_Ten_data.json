@@ -131,12 +131,9 @@
       "id": "page_4",
       "page_no": 4,
       "illustration": "EFMStorybooks/EFM-SB-WCCTT-4.jpg",
-      "story_text": "He cleared his throat and said, \"I've been thinking that it's time for me to pick a successor. But because I love all of you equally, I can't decide who among you is most worthy. So I've decided to let a contest decide for me.",
+      "story_text": "He cleared his throat and said, \"I've been thinking that it's time for me to pick a successor. But because I love all of you equally, I can't decide who among you is most worthy. So I've decided to let a contest decide for me.\"",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -152,7 +149,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "He cleared his throat and said, \"I've been thinking that it's time for me to pick a successor. But because I love all of you equally, I can't decide who among you is most worthy. So I've decided to let a contest decide for me."
+          "eng": "He cleared his throat and said, \"I've been thinking that it's time for me to pick a successor. But because I love all of you equally, I can't decide who among you is most worthy. So I've decided to let a contest decide for me.\""
         },
         "annotation_1": {
           "eng": "Some of these animals would usually hunt some of these other animals. Can you think of some examples in this picture of animals who would hunt and others who would be hunted?"
@@ -387,10 +384,7 @@
           "es_es": true,
           "fr_fr": true
         },
-        "annotation_2": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "annotation_2": {},
         "annotation_3": {
           "es_es": true,
           "fr_fr": true
@@ -404,14 +398,14 @@
           "eng": "What is unusual about the body positions these animals are in?"
         },
         "annotation_2": {
-          "eng": "Count the number of animals -- it is a bit tricky, but do your best. Each animal has two eyes, so you can double that number to find the total number of eyes. You can also count the eyes by skip counting by 2's."
+          "eng": "Count the number of animals as best you can. Each animal has two eyes, so you can double that number to find the total number of eyes. You can also count the eyes by skip counting by 2's."
         },
         "annotation_3": {
           "eng": "You can count all the legs by multiplying the number of animals by 4, skip counting by 4, or by doubling the number of eyes! Which do you like best? Why does this work?"
         }
       },
       "annotation_1": "What is unusual about the body positions these animals are in?",
-      "annotation_2": "Count the number of animals -- it is a bit tricky, but do your best. Each animal has two eyes, so you can double that number to find the total number of eyes. You can also count the eyes by skip counting by 2's.",
+      "annotation_2": "Count the number of animals as best you can. Each animal has two eyes, so you can double that number to find the total number of eyes. You can also count the eyes by skip counting by 2's.",
       "annotation_3": "You can count all the legs by multiplying the number of animals by 4, skip counting by 4, or by doubling the number of eyes! Which do you like best? Why does this work?"
     },
     {

@@ -323,13 +323,9 @@
       "id": "page_8",
       "page_no": 8,
       "illustration": "EFMStorybooks/EFM-SB-CBE-8.jpg",
-      "story_text": "Never ask a question like that! said her mother. Then she walked off, frowning.",
+      "story_text": "\"Never ask a question like that!\" said her mother. Then she walked off, frowning.",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true,
-          "kw_ar": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true,
@@ -348,7 +344,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "Never ask a question like that! said her mother. Then she walked off, frowning."
+          "eng": "\"Never ask a question like that!\" said her mother. Then she walked off, frowning."
         },
         "annotation_1": {
           "eng": "There are many groups of things in this picture, such as groups of ears, eyes, and eyelashes. How many different groups can you find?"
@@ -503,13 +499,9 @@
       "id": "page_12",
       "page_no": 12,
       "illustration": "EFMStorybooks/EFM-SB-CBE-12.jpg",
-      "story_text": "Hello, said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked.",
+      "story_text": "\"Hello,\" said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked.",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true,
-          "kw_ar": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true,
@@ -528,7 +520,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "Hello, said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked."
+          "eng": "\"Hello,\" said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked."
         },
         "annotation_1": {
           "eng": "Is Baby Elephant talking to a stone or to Crocodile?"
@@ -548,13 +540,9 @@
       "id": "page_13",
       "page_no": 13,
       "illustration": "EFMStorybooks/EFM-SB-CBE-13.jpg",
-      "story_text": "Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower.",
+      "story_text": "\"Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower.",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true,
-          "kw_ar": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true,
@@ -572,7 +560,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower."
+          "eng": "\"Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower."
         },
         "annotation_1": {
           "eng": "Uh oh! Why does Crocodile want Baby Elephant to get closer?"

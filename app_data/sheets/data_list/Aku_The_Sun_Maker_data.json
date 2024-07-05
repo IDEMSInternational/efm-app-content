@@ -15,11 +15,7 @@
           "fr_fr": true,
           "kw_ar": true
         },
-        "annotation_1": {
-          "es_es": true,
-          "fr_fr": true,
-          "kw_ar": true
-        },
+        "annotation_1": {},
         "annotation_2": {
           "es_es": true,
           "fr_fr": true,
@@ -36,7 +32,7 @@
           "eng": "Long ago, in a town call Sunland, lived a girl with very long legs. Aku was her name."
         },
         "annotation_1": {
-          "eng": "There are three round houses with thatched roofs. Thatch is a mix of dead and living plant material, usually grass. A thatch room can help keep a house cool or warm. From the distance, those roofs look like triangles."
+          "eng": "There are three round houses with thatched roofs. Thatch is a mix of dead and living plant material, usually grass. A thatched roof can help keep a house cool or warm. From the distance, those roofs look like triangles."
         },
         "annotation_2": {
           "eng": "Think of some reasons why these houses with thatched roofs are round."
@@ -45,7 +41,7 @@
           "eng": "Notice Aku's face and the position of her arms. We can learn a lot about how someone is feeling by their body position. What do you think she is feeling?"
         }
       },
-      "annotation_1": "There are three round houses with thatched roofs. Thatch is a mix of dead and living plant material, usually grass. A thatch room can help keep a house cool or warm. From the distance, those roofs look like triangles.",
+      "annotation_1": "There are three round houses with thatched roofs. Thatch is a mix of dead and living plant material, usually grass. A thatched roof can help keep a house cool or warm. From the distance, those roofs look like triangles.",
       "annotation_2": "Think of some reasons why these houses with thatched roofs are round.",
       "annotation_3": "Notice Aku's face and the position of her arms. We can learn a lot about how someone is feeling by their body position. What do you think she is feeling?"
     },
@@ -299,12 +295,9 @@
       "id": "page_8",
       "page_no": 8,
       "illustration": "EFMStorybooks/EFM-SB-ATSM-8.jpg",
-      "story_text": "Oti came into the house with one of his friends to fetch his ball. He saw the toppled calabash, the spilled palm oil. He saw his soiled ball too.\n\nBefore he could run out to tell A'nua what Aku had done, Aku picked up the ball and ran off. The boys followed Aku. They all met A'anua outside the house. A'anua saw Aku holding the ball. Before she could call Aku and scold her, Aku ran past her.\n\nOti, A'anua and all the people of Sunland watched Aku run away. They wondered what she would do with the soiled ball.",
+      "story_text": "Oti came into the house with one of his friends to fetch his ball. He saw the toppled calabash, the spilled palm oil. He saw his soiled ball too.\n\nBefore he could run out to tell A'anua what Aku had done, Aku picked up the ball and ran off. The boys followed Aku. They all met A'anua outside the house. A'anua saw Aku holding the ball. Before she could call Aku and scold her, Aku ran past her.\n\nOti, A'anua and all the people of Sunland watched Aku run away. They wondered what she would do with the soiled ball.",
       "_translations": {
-        "story_text": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "story_text": {},
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -320,7 +313,7 @@
       },
       "_translatedFields": {
         "story_text": {
-          "eng": "Oti came into the house with one of his friends to fetch his ball. He saw the toppled calabash, the spilled palm oil. He saw his soiled ball too.\n\nBefore he could run out to tell A'nua what Aku had done, Aku picked up the ball and ran off. The boys followed Aku. They all met A'anua outside the house. A'anua saw Aku holding the ball. Before she could call Aku and scold her, Aku ran past her.\n\nOti, A'anua and all the people of Sunland watched Aku run away. They wondered what she would do with the soiled ball."
+          "eng": "Oti came into the house with one of his friends to fetch his ball. He saw the toppled calabash, the spilled palm oil. He saw his soiled ball too.\n\nBefore he could run out to tell A'anua what Aku had done, Aku picked up the ball and ran off. The boys followed Aku. They all met A'anua outside the house. A'anua saw Aku holding the ball. Before she could call Aku and scold her, Aku ran past her.\n\nOti, A'anua and all the people of Sunland watched Aku run away. They wondered what she would do with the soiled ball."
         },
         "annotation_1": {
           "eng": "Many ten-year olds can run a mile in ten minutes. Aku is extra fast. How many minutes do you think it takes her to run a mile? 2 minutes? 5 minutes? 8 minutes?"
