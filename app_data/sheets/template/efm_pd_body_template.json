@@ -14,6 +14,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "block_chars"
     },
@@ -23,6 +24,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "chars_type"
     },
@@ -32,6 +34,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "chars_text"
     },
@@ -41,6 +44,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "remove_paragraph_space"
     },
@@ -55,6 +59,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "paragraph_space"
     },
@@ -247,6 +252,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "now",
       "_dynamicFields": {
@@ -271,6 +277,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "book_click_history"
     },
@@ -415,6 +422,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "dont_do_sbs_and_acts_lists",
       "_dynamicFields": {
@@ -439,6 +447,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "dont_do_sbs_list",
       "_dynamicFields": {
@@ -503,6 +512,7 @@
                       "type": "items",
                       "name": "make_buttons_for_activities",
                       "value": "@data.@local.act_list_id_name",
+                      "exclude_from_translation": true,
                       "rows": [
                         {
                           "name": "next_activ",
@@ -734,6 +744,7 @@
                       "type": "items",
                       "name": "make_buttons_for_storybooks",
                       "value": "@data.@local.sb_list_id_name",
+                      "exclude_from_translation": true,
                       "rows": [
                         {
                           "name": "book_id",
@@ -765,6 +776,7 @@
                           "_translations": {
                             "value": {}
                           },
+                          "exclude_from_translation": true,
                           "type": "set_variable",
                           "_nested_name": "sb_and_act_accordions.acoordion.bloxk_2.storybook_buttons.make_buttons_for_storybooks.click_history_field_name",
                           "_dynamicFields": {
@@ -799,6 +811,7 @@
                             "value": {}
                           },
                           "condition": "!!(@fields.@local.click_history_field_name)",
+                          "exclude_from_translation": true,
                           "type": "set_variable",
                           "_nested_name": "sb_and_act_accordions.acoordion.bloxk_2.storybook_buttons.make_buttons_for_storybooks.books_click_history",
                           "_dynamicFields": {
@@ -842,6 +855,7 @@
                             "value": {}
                           },
                           "condition": "!(@fields.@local.click_history_field_name)",
+                          "exclude_from_translation": true,
                           "type": "set_variable",
                           "_nested_name": "sb_and_act_accordions.acoordion.bloxk_2.storybook_buttons.make_buttons_for_storybooks.books_click_history",
                           "_dynamicFields": {
@@ -975,6 +989,7 @@
                             "style": "short",
                             "text_align": "center"
                           },
+                          "exclude_from_translation": true,
                           "_nested_name": "sb_and_act_accordions.acoordion.bloxk_2.storybook_buttons.make_buttons_for_storybooks.button_@local.sbook_button_text",
                           "_dynamicFields": {
                             "name": [
@@ -1653,6 +1668,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "click_history_field_name",
       "_dynamicFields": {
@@ -1687,6 +1703,7 @@
         "value": {}
       },
       "condition": "!!(@fields.@local.click_history_field_name)",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "books_click_history",
       "_dynamicFields": {
@@ -1730,6 +1747,7 @@
         "value": {}
       },
       "condition": "!(@fields.@local.click_history_field_name)",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "books_click_history",
       "_dynamicFields": {
@@ -1792,6 +1810,7 @@
         "style": "short",
         "text_align": "center"
       },
+      "exclude_from_translation": true,
       "_nested_name": "sb_button",
       "_dynamicFields": {
         "value": [

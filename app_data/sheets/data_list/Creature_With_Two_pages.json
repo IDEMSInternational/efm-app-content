@@ -465,11 +465,7 @@
           "fr_fr": true,
           "kw_ar": true
         },
-        "annotation_1": {
-          "es_es": true,
-          "fr_fr": true,
-          "kw_ar": true
-        },
+        "annotation_1": {},
         "annotation_2": {
           "es_es": true,
           "fr_fr": true,
@@ -486,7 +482,7 @@
           "eng": "I am just like you, continued the creature. \"The only difference is that I was made with two of almost everything.\""
         },
         "annotation_1": {
-          "eng": "What body parts do you have two of and which do you have one of?"
+          "eng": "Which body parts do you have two of and which do you have one of?"
         },
         "annotation_2": {
           "eng": "For the body parts you have one of, are they on the sides or the middle line of your body?"
@@ -495,7 +491,7 @@
           "eng": "Think of someone you know. List three ways they are similar to you and three ways that they are different."
         }
       },
-      "annotation_1": "What body parts do you have two of and which do you have one of?",
+      "annotation_1": "Which body parts do you have two of and which do you have one of?",
       "annotation_2": "For the body parts you have one of, are they on the sides or the middle line of your body?",
       "annotation_3": "Think of someone you know. List three ways they are similar to you and three ways that they are different."
     },

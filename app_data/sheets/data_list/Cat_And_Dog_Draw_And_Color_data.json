@@ -589,10 +589,7 @@
           "es_es": true,
           "fr_fr": true
         },
-        "annotation_1": {
-          "es_es": true,
-          "fr_fr": true
-        },
+        "annotation_1": {},
         "annotation_2": {
           "es_es": true,
           "fr_fr": true
@@ -607,7 +604,7 @@
           "eng": "At last he draws some black circles on the body of Dog and he colors the body yellow.\n\nThen the drawing is finished.\n\nWow, that is wonderful!"
         },
         "annotation_1": {
-          "eng": "How many steps did this drawing take? Was it the less than, the same as, or more than the number of steps for the first drawing?"
+          "eng": "How many steps did this drawing take? Was it less than, the same as, or more than the number of steps for the first drawing?"
         },
         "annotation_2": {
           "eng": "In this drawing, you don't see Dog's mouth. Even still, you can tell Dog is happy in the drawing. How can you tell?"
@@ -616,7 +613,7 @@
           "eng": "Have you ever seen cats and dogs stand on their back two feet? Some can do it for a short time, but it is unusual."
         }
       },
-      "annotation_1": "How many steps did this drawing take? Was it the less than, the same as, or more than the number of steps for the first drawing?",
+      "annotation_1": "How many steps did this drawing take? Was it less than, the same as, or more than the number of steps for the first drawing?",
       "annotation_2": "In this drawing, you don't see Dog's mouth. Even still, you can tell Dog is happy in the drawing. How can you tell?",
       "annotation_3": "Have you ever seen cats and dogs stand on their back two feet? Some can do it for a short time, but it is unusual."
     },

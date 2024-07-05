@@ -104,11 +104,7 @@
           "fr_fr": true,
           "kw_ar": true
         },
-        "annotation_1": {
-          "es_es": true,
-          "fr_fr": true,
-          "kw_ar": true
-        },
+        "annotation_1": {},
         "annotation_2": {
           "es_es": true,
           "fr_fr": true,
@@ -125,7 +121,7 @@
           "eng": "One day, Fana saw other children throwing stones at doves."
         },
         "annotation_1": {
-          "eng": "Throwing stones at animals is a mean things to do!"
+          "eng": "Throwing stones at animals is a mean thing to do!"
         },
         "annotation_2": {
           "eng": "What would you do if you saw someone doing something that was mean?"
@@ -134,7 +130,7 @@
           "eng": "Count all the birds. Which is more and which is less -- birds in the air or birds on the ground?"
         }
       },
-      "annotation_1": "Throwing stones at animals is a mean things to do!",
+      "annotation_1": "Throwing stones at animals is a mean thing to do!",
       "annotation_2": "What would you do if you saw someone doing something that was mean?",
       "annotation_3": "Count all the birds. Which is more and which is less -- birds in the air or birds on the ground?"
     },

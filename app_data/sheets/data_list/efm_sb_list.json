@@ -632,13 +632,9 @@
       "illustrator": "Rob Owen",
       "intro_level": "basic",
       "book_level": "beginner",
-      "title": "Pendo Our Cow",
+      "title": "Pendo, Our Cow",
       "_translations": {
-        "title": {
-          "es_es": true,
-          "fr_fr": true,
-          "kw_ar": true
-        },
+        "title": {},
         "math_themes_words": {
           "es_es": true,
           "fr_fr": true,
@@ -647,7 +643,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "Pendo Our Cow"
+          "eng": "Pendo, Our Cow"
         },
         "math_themes_words": {
           "eng": "This story has quantities up to six and comparing. Practice words: numbers to six, more, most, less, least, and rectangle."
@@ -763,21 +759,17 @@
           "fr_fr": true,
           "kw_ar": true
         },
-        "math_themes_words": {
-          "es_es": true,
-          "fr_fr": true,
-          "kw_ar": true
-        }
+        "math_themes_words": {}
       },
       "_translatedFields": {
         "title": {
           "eng": "Where Is My Bat?"
         },
         "math_themes_words": {
-          "eng": "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line."
+          "eng": "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more, one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line."
         }
       },
-      "math_themes_words": "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line."
+      "math_themes_words": "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more, one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line."
     },
     {
       "id": "efm_sb_Where_Is_My_Cat",
@@ -818,13 +810,9 @@
       "illustrator": "Thea Nicole de Klerk",
       "intro_level": "advanced",
       "book_level": "intermediate",
-      "title": "A Dancers Tale",
+      "title": "A Dancer's Tale",
       "_translations": {
-        "title": {
-          "es_es": true,
-          "fr_fr": true,
-          "kw_ar": true
-        },
+        "title": {},
         "math_themes_words": {
           "es_es": true,
           "fr_fr": true,
@@ -833,7 +821,7 @@
       },
       "_translatedFields": {
         "title": {
-          "eng": "A Dancers Tale"
+          "eng": "A Dancer's Tale"
         },
         "math_themes_words": {
           "eng": "This story has counting to 12, comparing, and shapes. Practice words: numbers to 12, smallest, shortest, longest, more, less, circle, arc, triangle, rectangle, right angle, straight lines, diagonal, shapes made with lines, Y shape."
