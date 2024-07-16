@@ -108,8 +108,8 @@
     "note": ""
   },
   {
-    "SourceText": "When people laugh at you, does that make you feel angry or ashamed? Were you able to ignore them knowing they were just being mean",
-    "text": "Cuando alguien se ríe de ti, ¿eso te hace sentir enojado o avergonzado? ¿Lograste ignorarlos sabiendo que sólo estaban siendo mezquinos?",
+    "SourceText": "When people laugh at you, does that make you feel angry or ashamed? Were you able to ignore them knowing they were just being mean?",
+    "text": "Cuando alguien se ríe de ti, ¿sientes enojo o vergüenza? ¿Lograste ignorarlos sabiendo que sólo estaban siendo mezquinos?",
     "type": "data_list",
     "note": ""
   },
@@ -654,7 +654,7 @@
     "note": ""
   },
   {
-    "SourceText": "There are three round houses with thatched roofs. Thatch is a mix of dead and living plant material, usually grass. A thatch room can help keep a house cool or warm. From the distance, those roofs look like triangles.",
+    "SourceText": "There are three round houses with thatched roofs. Thatch is a mix of dead and living plant material, usually grass. A thatched roof can help keep a house cool or warm. From the distance, those roofs look like triangles.",
     "text": "En la imagen hay tres casas redondas con techos de paja. La paja es una mezcla de material vegetal vivo y descompuesto, generalmente pasto. Un techo de paja puede ayudar a mantener una casa fresca o cálida. De lejos, los techos lucen como triángulos.",
     "type": "data_list",
     "note": ""
@@ -816,8 +816,8 @@
     "note": ""
   },
   {
-    "SourceText": "Oti came into the house with one of his friends to fetch his ball. He saw the toppled calabash, the spilled palm oil. He saw his soiled ball too.\n\nBefore he could run out to tell A'nua what Aku had done, Aku picked up the ball and ran off. The boys followed Aku. They all met A'anua outside the house. A'anua saw Aku holding the ball. Before she could call Aku and scold her, Aku ran past her.\n\nOti, A'anua and all the people of Sunland watched Aku run away. They wondered what she would do with the soiled ball.",
-    "text": "Oti llegó a la casa con uno de sus amigos para buscar su pelota. Vió el jícaro volcado, el aceite de palma derramado. También vió su pelota sucia. \n\nAntes de que pudiera ir corriendo donde A’nua para decirle lo que Aku había hecho, Aku recogió la pelota y se escapó. Los niños persiguieron a Aku. Todos se encontraron con A’anua afuera de la casa. A’anua vió que Aku tenía la pelota. Antes de que pudiera llamar a Aku para regañarla, Aku huyó corriendo. \n\nOti, A’anua y toda la gente de Sunland vieron a Aku escaparse. Se preguntaron qué haría Aku con la pelota sucia.",
+    "SourceText": "Oti came into the house with one of his friends to fetch his ball. He saw the toppled calabash, the spilled palm oil. He saw his soiled ball too.\n\nBefore he could run out to tell A'anua what Aku had done, Aku picked up the ball and ran off. The boys followed Aku. They all met A'anua outside the house. A'anua saw Aku holding the ball. Before she could call Aku and scold her, Aku ran past her.\n\nOti, A'anua and all the people of Sunland watched Aku run away. They wondered what she would do with the soiled ball.",
+    "text": "Oti llegó a la casa con uno de sus amigos para buscar su pelota. Vió el jícaro volcado, el aceite de palma derramado. También vió su pelota sucia. \n\nAntes de que pudiera ir corriendo donde A’anua para decirle lo que Aku había hecho, Aku recogió la pelota y se escapó. Los niños persiguieron a Aku. Todos se encontraron con A’anua afuera de la casa. A’anua vió que Aku tenía la pelota. Antes de que pudiera llamar a Aku para regañarla, Aku huyó corriendo. \n\nOti, A’anua y toda la gente de Sunland vieron a Aku escaparse. Se preguntaron qué haría Aku con la pelota sucia.",
     "type": "data_list",
     "note": ""
   },
@@ -2592,7 +2592,7 @@
     "note": ""
   },
   {
-    "SourceText": "What work can you do? the woman asked. The friends responded, \"We can provide food for your family and animals.\"\n\nThe woman asked, \"What do you need to provide the food?\" \"Give us land, water and good care,\" they replied.",
+    "SourceText": "\"What work can you do?\" the woman asked. The friends responded, \"We can provide food for your family and animals.\"\n\nThe woman asked, \"What do you need to provide the food?\" \"Give us land, water and good care,\" they replied.",
     "text": "La mujer preguntó: “¿Qué trabajo pueden hacer?”. Los amigos respondieron: \"Podemos proporcionar alimento para tu familia y tus animales\".\n\nLa mujer preguntó: \"¿Qué necesitan para proporcionar alimento?\". Ellos respondieron: \"Danos tierra, agua y buenos cuidados\".",
     "type": "data_list",
     "note": ""
@@ -2712,7 +2712,7 @@
     "note": ""
   },
   {
-    "SourceText": "My stems are used for planting. My leaves and peels feed your animals. What does Palm tree do? asked Cassava.",
+    "SourceText": "\"My stems are used for planting. My leaves and peels feed your animals. What does Palm tree do?\" asked Cassava.",
     "text": "\"Mis tallos se usan para el cultivo. Mis hojas y cáscaras alimentan a tus animales. ¿Qué hace Palmera?\", preguntó Yuca.",
     "type": "data_list",
     "note": ""
@@ -2784,12 +2784,6 @@
     "note": ""
   },
   {
-    "SourceText": "In addition, my friends provide shade for your huts. You cool your heart with my sweet, rich, foamy palm wine after your hard day's work.",
-    "text": "“Además, mis amigos proporcionan la sombra de tus chozas. Refrescas tu corazón con mi vino de palma dulce, rico y espumante después de un duro día de trabajo\".",
-    "type": "data_list",
-    "note": ""
-  },
-  {
     "SourceText": "The poles that hold up the palm frond roof are vertical -- they are straight up and down. The edge of the wall behind the people is horizontal -- it goes from side to side. Point out vertical and horizontal lines around you.",
     "text": "Los postes que sostienen el techo de palma son verticales —son rectos de arriba a abajo. El borde del muro detrás de las personas es horizontal —va de lado a lado. Señala las líneas verticales y horizontales a tu alrededor.",
     "type": "data_list",
@@ -2804,12 +2798,6 @@
   {
     "SourceText": "Most drink containers are round. Why do you suppose that is?",
     "text": "La mayoría de los contenedores de bebidas son redondos. ¿Por qué crees que es eso?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Above all, the brooms that are used to sweep the rooms and compounds come from me, concluded Palm.",
-    "text": "\"Sobre todo, las escobas que se utilizan para barrer las habitaciones y recintos provienen de mí\", concluyó Palmera.",
     "type": "data_list",
     "note": ""
   },
@@ -2852,12 +2840,6 @@
   {
     "SourceText": "How many bumps do you see on Palm's body? Can you count that high?",
     "text": "¿Cuántas protuberancias puedes ver en el cuerpo de Palmera? ¿Puedes contar tan alto?",
-    "type": "data_list",
-    "note": ""
-  },
-  {
-    "SourceText": "Both of you are very important to me. The two of you together make a delicious meal, fufu and palm nut soup! said the woman.",
-    "text": "\"Los dos son muy importantes para mí. Los dos juntos hacen una comida deliciosa: ¡fufú y sopa de palmito!\", dijo la mujer.",
     "type": "data_list",
     "note": ""
   },
@@ -2946,8 +2928,8 @@
     "note": ""
   },
   {
-    "SourceText": "Cat and Dog have a ball.\n\nThe ball is red and blue and green.",
-    "text": "Gato y Perro tienen una pelota.\n\nLa pelota es roja, azul y verde.",
+    "SourceText": "Cat and Dog have a ball.\n\nThe ball is red and blue and yellow.",
+    "text": "Gato y Perro tienen una pelota.\n\nLa pelota es roja, azul y amarilla.",
     "type": "data_list",
     "note": ""
   },
@@ -3456,8 +3438,14 @@
     "note": ""
   },
   {
-    "SourceText": "How many different colors of butterflies are there?{For which color of butterfly is there the most?}",
-    "text": "¿Cuántos colores diferentes de mariposas hay? ¿De qué color hay más mariposas?",
+    "SourceText": "How many different colors of butterflies are there?",
+    "text": "¿Cuántos colores diferentes de mariposas hay?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "For which color of butterfly is there the most?",
+    "text": "¿De qué color hay más mariposas?",
     "type": "data_list",
     "note": ""
   },
@@ -4560,7 +4548,7 @@
     "note": ""
   },
   {
-    "SourceText": "How many steps did this drawing take? Was it the less than, the same as, or more than the number of steps for the first drawing?",
+    "SourceText": "How many steps did this drawing take? Was it less than, the same as, or more than the number of steps for the first drawing?",
     "text": "¿Cuántos pasos tomó hacer este dibujo? ¿Fueron menos, más o el mismo número de pasos que para el primer dibujo?",
     "type": "data_list",
     "note": ""
@@ -5706,7 +5694,7 @@
     "note": ""
   },
   {
-    "SourceText": "What body parts do you have two of and which do you have one of?",
+    "SourceText": "Which body parts do you have two of and which do you have one of?",
     "text": "¿De qué partes del cuerpo tienes dos y de qué partes tienes solo una?",
     "type": "data_list",
     "note": ""
@@ -5916,7 +5904,7 @@
     "note": ""
   },
   {
-    "SourceText": "Never ask a question like that! said her mother. Then she walked off, frowning.",
+    "SourceText": "\"Never ask a question like that!\" said her mother. Then she walked off, frowning.",
     "text": "\"¡Nunca hagas una pregunta así!\", dijo su madre. Luego se marchó con el ceño fruncido.",
     "type": "data_list",
     "note": ""
@@ -6012,7 +6000,7 @@
     "note": ""
   },
   {
-    "SourceText": "Hello, said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked.",
+    "SourceText": "\"Hello,\" said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked.",
     "text": "\"Hola\", dijo una piedra cerca de la orilla del río. \"Hola\", dijo Elefantita. \"¿Me puedes decir qué cena Cocodrilo?\", preguntó ella.",
     "type": "data_list",
     "note": ""
@@ -6036,7 +6024,7 @@
     "note": ""
   },
   {
-    "SourceText": "Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower.",
+    "SourceText": "\"Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower.",
     "text": "“Agáchate y te diré\", dijo la piedra. \"Más abajo, más abajo\", dijo la piedra. Así que Elefantita se agachó más y más.",
     "type": "data_list",
     "note": ""
@@ -6414,14 +6402,14 @@
     "note": ""
   },
   {
-    "SourceText": "CHAPTER 1 – I CAN HEAR YOU!",
-    "text": "Capítulo 1 — ¡Puedo escucharte!",
+    "SourceText": "STAGE 1 – I CAN HEAR YOU!",
+    "text": "Etapa 1 — ¡Puedo escucharte!",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Chapter 1 Introduction",
-    "text": "Capítulo 1 Introducción",
+    "SourceText": "Stage 1 Introduction",
+    "text": "Etapa 1 Introducción",
     "type": "data_list",
     "note": ""
   },
@@ -7092,14 +7080,14 @@
     "note": ""
   },
   {
-    "SourceText": "CHAPTER 2 – I CAN COUNT TO 5!",
-    "text": "Capítulo 2 – ¡Puedo contar hasta 5!",
+    "SourceText": "STAGE 2 – I CAN COUNT TO 5!",
+    "text": "Etapa 2 – ¡Puedo contar hasta 5!",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Chapter 2 Introduction",
-    "text": "Capítulo 2 Introducción",
+    "SourceText": "Stage 2 Introduction",
+    "text": "Etapa 2 Introducción",
     "type": "data_list",
     "note": ""
   },
@@ -7452,14 +7440,14 @@
     "note": ""
   },
   {
-    "SourceText": "CHAPTER 3 – I CAN COUNT TO 10!",
-    "text": "CAPÍTULO 3 – ¡PUEDO CONTAR HASTA 10!",
+    "SourceText": "STAGE 3 – I CAN COUNT TO 10!",
+    "text": "Etapa 3 – ¡Puedo contar hasta 10!",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Chapter 3 Introduction",
-    "text": "Capítulo 3 Introducción",
+    "SourceText": "Stage 3 Introduction",
+    "text": "Etapa 3 Introducción",
     "type": "data_list",
     "note": ""
   },
@@ -7746,14 +7734,14 @@
     "note": ""
   },
   {
-    "SourceText": "CHAPTER 4 – I CAN COUNT TO 20!",
-    "text": "CAPÍTULO 4 – ¡PUEDO CONTAR HASTA 20!",
+    "SourceText": "STAGE 4 – I CAN COUNT TO 20!",
+    "text": "Etapa 4 – ¡Puedo contar hasta 20!",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Chapter 4 Introduction",
-    "text": "Capítulo 4 Introducción",
+    "SourceText": "Stage 4 Introduction",
+    "text": "Etapa 4 Introducción",
     "type": "data_list",
     "note": ""
   },
@@ -8112,14 +8100,14 @@
     "note": ""
   },
   {
-    "SourceText": "CHAPTER 5 – I CAN COUNT TO 100!",
-    "text": "CAPÍTULO 5 – ¡PUEDO CONTAR HASTA 100!",
+    "SourceText": "STAGE 5 – I CAN COUNT TO 100!",
+    "text": "Etapa 5 – ¡Puedo contar hasta 100!",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "Chapter 5 Introduction",
-    "text": "Capítulo 5 Introducción",
+    "SourceText": "Stage 5 Introduction",
+    "text": "Etapa 5 Introducción",
     "type": "data_list",
     "note": ""
   },
@@ -8503,7 +8491,7 @@
   },
   {
     "SourceText": "Here are a few examples to help you get started.\n\n* rabbit, dog, butterfly, pillow - The first three are alive and the pillow is not.\n* banana, cheese, hammer, carrot - The hammer is the only one you cannot eat.\n* cheese, shoes, coat, shirt - The cheese is the only one you cannot wear.\n* red triangle, red square with a hole, green square, red square with no hole - Any one of the first three can be the odd one. The red triangle is the only one that is not a square. The red square with a hole is the only one that is not solid. The green square is the only one that is not red.\n* dog, cat, lion, goldfish - The lion is the only animal on the list that would make a bad pet. It is also quite a bit bigger than the other animals. Or, three of them have four legs and the fish lives in water.\n* bench, table, couch, stool - The table is the only one that you don’t sit on. Or only the couch is soft.\n* bark, honk, rainbow, click - The rainbow is the only one that is not a sound.\n* socks, pants, toothbrush, hat - The toothbrush is the only one that you wouldn’t wear.\n* chair, umbrella, sofa, stool - The umbrella is the only one you wouldn’t want to sit on.\n* ants, pig, spiders, grasshoppers - The pig is the only one that is not a little bug.\n\nYou can also do this with pictures instead of words. Make a habit of cutting pictures out of ads, magazines, and whatever else comes your way so that you can play games with the pictures.",
-    "text": "A continuación, se muestran algunos ejemplos que le ayudarán a empezar.\n\n*conejo, perro, mariposa, almohada: los tres primeros están vivos y la almohada no.\n*banano, queso, martillo, zanahoria: el martillo es el único que no se puede comer.\n*queso, zapatos, abrigo, camisa: el queso es el único que no se puede vestir.\n*triángulo rojo, cuadrado rojo con un agujero, cuadrado verde, cuadrado rojo sin agujero - Cualquiera de los tres primeros puede ser el diferente. El triángulo rojo es el único que no es un cuadrado. El cuadrado rojo con un agujero es el único que no es sólido. El cuadrado verde es el único que no es rojo.\n*perro, gato, león, pez dorado: el león es el único animal de la lista que sería una mala mascota. También es bastante más grande que los otros animales. O tres de ellos tienen cuatro patas y el pez vive en el agua.\nrosal, roble, arce, pino: el rosal es el único que no es un árbol.\n*banco, mesa, sofá, taburete: la mesa es la única en la que uno no se sienta. O solo el sofá es suave.\n*ladrido, bocinazo, arco iris, clic: el arco iris es el único que no es un sonido.\n*calcetines, pantalones, cepillo de dientes, sombrero: el cepillo de dientes es el único que no se puede vestir.\n*silla, paraguas, sofá, taburete: el paraguas es el único en el que no querrás sentarte.\n*hormigas, cerdo, arañas, saltamontes - El cerdo es el único que no es un bicho pequeño.\n\nTambién puede hacer esto con imágenes en lugar de palabras. Adquiera el hábito de recortar imágenes de anuncios, revistas y cualquier otra cosa que se le presente para que pueda jugar con las imágenes.",
+    "text": "A continuación, se muestran algunos ejemplos que le ayudarán a empezar.\n\n* conejo, perro, mariposa, almohada: los tres primeros están vivos y la almohada no.\n* banano, queso, martillo, zanahoria: el martillo es el único que no se puede comer.\n* queso, zapatos, abrigo, camisa: el queso es el único que no se puede vestir.\n* triángulo rojo, cuadrado rojo con un agujero, cuadrado verde, cuadrado rojo sin agujero - Cualquiera de los tres primeros puede ser el diferente. El triángulo rojo es el único que no es un cuadrado. El cuadrado rojo con un agujero es el único que no es sólido. El cuadrado verde es el único que no es rojo.\n* perro, gato, león, pez dorado: el león es el único animal de la lista que sería una mala mascota. También es bastante más grande que los otros animales. O tres de ellos tienen cuatro patas y el pez vive en el agua.\nrosal, roble, arce, pino: el rosal es el único que no es un árbol.\n* banco, mesa, sofá, taburete: la mesa es la única en la que uno no se sienta. O solo el sofá es suave.\n* ladrido, bocinazo, arco iris, clic: el arco iris es el único que no es un sonido.\n* calcetines, pantalones, cepillo de dientes, sombrero: el cepillo de dientes es el único que no se puede vestir.\n* silla, paraguas, sofá, taburete: el paraguas es el único en el que no querrás sentarte.\n* hormigas, cerdo, arañas, saltamontes - El cerdo es el único que no es un bicho pequeño.\n\nTambién puede hacer esto con imágenes en lugar de palabras. Adquiera el hábito de recortar imágenes de anuncios, revistas y cualquier otra cosa que se le presente para que pueda jugar con las imágenes.",
     "type": "data_list",
     "note": ""
   },
@@ -8797,7 +8785,7 @@
   },
   {
     "SourceText": "One type of statement to use is saying that something is always true. Here are some examples with quick discussions of why they are lies.\n\n* All trucks have four wheels. - Large trucks often have 6, 10 or more wheels.\n* All rectangles are squares. - Rectangles need not have all their sides the same length.\n* All birds can fly. - Ostriches, emus, and kiwis are birds that cannot fly.\n* The moon is only visible at night. - The moon is often visible during the day.\n* All shapes have straight sides. - A circle does not have a straight side.\n* All playgrounds have swing sets. - Some playgrounds don’t have swing sets.\n* All rooms have chairs. Bedrooms and bathrooms often don’t have a chair.",
-    "text": "Un tipo de afirmación que se puede utilizar es decir que algo siempre es cierto. Aquí hay algunos ejemplos con discusiones rápidas de por qué son mentiras.\n\n*Todos los camiones tienen cuatro ruedas. - Los camiones grandes suelen tener 6, 10 o más ruedas.\n*Todos los rectángulos son cuadrados. - No es necesario que los rectángulos tengan todos sus lados de la misma longitud.\n*Todas las aves pueden volar. - Avestruces, emúes y kiwis son aves que no pueden volar.\n*La luna solo es visible de noche. - La luna suele ser visible durante el día.\n*Todas las formas tienen lados rectos. - Un círculo no tiene un lado recto.\n*Todos los patios de recreo tienen columpios. - Algunos parques infantiles no tienen columpios.\n*Todas las habitaciones tienen sillas. Los dormitorios y los baños a menudo no tienen silla.",
+    "text": "Un tipo de afirmación que se puede utilizar es decir que algo siempre es cierto. Aquí hay algunos ejemplos con discusiones rápidas de por qué son mentiras.\n\n* Todos los camiones tienen cuatro ruedas. - Los camiones grandes suelen tener 6, 10 o más ruedas.\n* Todos los rectángulos son cuadrados. - No es necesario que los rectángulos tengan todos sus lados de la misma longitud.\n* Todas las aves pueden volar. - Avestruces, emúes y kiwis son aves que no pueden volar.\n* La luna solo es visible de noche. - La luna suele ser visible durante el día.\n* Todas las formas tienen lados rectos. - Un círculo no tiene un lado recto.\n* Todos los patios de recreo tienen columpios. - Algunos parques infantiles no tienen columpios.\n* Todas las habitaciones tienen sillas. Los dormitorios y los baños a menudo no tienen silla.",
     "type": "data_list",
     "note": ""
   },
@@ -8809,7 +8797,7 @@
   },
   {
     "SourceText": "Another type of statement is of the form “if __, then ___ .” Here are some examples with quick discussions of why they are lies.\n\n* If today is Monday, then it is a school day. - Some Mondays are holidays and some Mondays occur during the summer.\n* If I don’t eat for three hours, then I am hungry. - Most people can sleep for more than three hours and not wake up hungry.\n* If a person is taller than someone, then they are older. - Children often grow up to be taller than their parents.\n* If the sun is shining, it is a warm day. - Winter days can be sunny and cold.\n* If someone is late, something bad must have happened to them. - Sometimes people are late through carelessness or reasons beyond their control (traffic, bad weather, car trouble).",
-    "text": "Otro tipo de declaración es de la forma \"si __, entonces ___\". Aquí hay algunos ejemplos con discusiones rápidas de por qué son mentiras.\n\n*Si hoy es lunes, entonces es un día escolar. - Algunos lunes son festivos y otros durante el verano.\n*Si no como durante tres horas, entonces tengo hambre. - La mayoría de las personas pueden dormir más de tres horas y no despertarse con hambre.\n*Si una persona es más alta que otra, entonces es mayor. - Los niños suelen llegar a ser más altos que sus padres.\n*Si brilla el sol, es un día cálido. - Los días de invierno pueden ser soleados y fríos.\n*Si alguien llega tarde, debe haberle pasado algo malo. - A veces las personas llegan tarde por descuido o por motivos que escapan a su control (tráfico, mal tiempo, problemas con el coche).",
+    "text": "Otro tipo de declaración es de la forma \"si __, entonces ___\". Aquí hay algunos ejemplos con discusiones rápidas de por qué son mentiras.\n\n* Si hoy es lunes, entonces es un día escolar. - Algunos lunes son festivos y otros durante el verano.\n* Si no como durante tres horas, entonces tengo hambre. - La mayoría de las personas pueden dormir más de tres horas y no despertarse con hambre.\n* Si una persona es más alta que otra, entonces es mayor. - Los niños suelen llegar a ser más altos que sus padres.\n* Si brilla el sol, es un día cálido. - Los días de invierno pueden ser soleados y fríos.\n* Si alguien llega tarde, debe haberle pasado algo malo. - A veces las personas llegan tarde por descuido o por motivos que escapan a su control (tráfico, mal tiempo, problemas con el coche).",
     "type": "data_list",
     "note": ""
   },
@@ -8953,7 +8941,7 @@
   },
   {
     "SourceText": "The fun thing about an investigation is that it invites a person to play with the numbers and be a mathematician. As mentioned above, play around with different groups of three numbers. After some experimentation, your child may notice that any group of three numbers that has at least one even number and one odd number behaves the same. However, if all the numbers are all odd numbers or all even numbers, then the sums are all even. Which brings up the usual question: Why does that happen?\n\nAfter some experimentation, even a young child can stumble upon the beautiful number theory rule that says:\n\n* Even plus Even is Even\n* Even plus Odd is Odd\n* Odd plus Odd is Even\n\nWhy does this rule work? Use the Number Shapes activity to represent even numbers and odd numbers with two rows of tokens - when will adding these numbers come out to two equal rows?\n\nOnce this rule is discovered, your child may realize that the particular numbers do not matter so much. Having the numbers 1, 2, 3 is really no different from having the numbers 3, 4, 5 (or 3, 12, 17 for that matter). The analysis really depends on how many numbers are even and how many are odd.\n\nWith that in mind, here is a table of the possible outcomes for groups of size three and four.\n\n3 Numbers:\n\n* 3 Evens, 0 Odds - 3 Even sums\n* 2 Evens, 1 Odd - 1 Even sum, 2 Odd sums\n* 1 Even, 2 Odds - 1 Even sum, 2 Odd sums\n* 0 Evens, 3 Odds - 3 Even sums\n\n4 Numbers:\n\n* 4 Evens, 0 Odds - 6 Even sums\n* 3 Evens, 1 Odd - 3 Even sums, 3 Odd sums\n* 2 Evens, 2 Odds - 2 Even sums, 4 Odd sums\n* 1 Even, 3 Odds - 3 Even sums, 3 Odd sums\n* 0 Evens, 4 Odds - 6 Even sums\n\nThe results are surprising and leave many things to investigate if one is interested! What happens with 5 numbers, 6 numbers, or more? Why is it that interchanging Even numbers and Odd numbers does not seem to change the results? For example, if you have 3 Evens and 1 Odd you get the same results as 1 Even and 3 odds. For circumstances like 3 Evens and 1 Odd, why do the results come out balanced when the Even and Odd counts start out unbalanced?\n\nThis is some cool mathematics and even a small child can play around with it!",
-    "text": "Lo divertido de una investigación es que invita a una persona a jugar con los números y a ser matemático. Como se mencionó anteriormente, juegue con diferentes grupos de tres números. Después de un poco de experimentación, su niño/niña puede notar que cualquier grupo de tres números que tenga al menos un número par y un número impar se comporta de la misma manera. Sin embargo, si todos los números son impares o pares, entonces las sumas son todas pares. Lo que trae a colación la pregunta habitual: ¿Por qué sucede eso?\n\nDespués de un poco de experimentación, incluso un niño pequeño puede dar con la hermosa regla de la teoría de los números que dice:\n\n*Par más par resulta en par\n*Par más impar resulta en impar\n*Impar más impar resulta en par\n\n¿Por qué funciona esta regla? Utilice la actividad Formas de números para representar números pares e impares con dos filas de fichas. ¿Cuándo va a resultar en dos filas iguales la suma de estos dos números?\n\nUna vez que se descubre esta regla, su niño/niña puede darse cuenta de que los números en particular no importan tanto. Tener los números 1, 2, 3 realmente no es diferente de tener los números 3, 4, 5 (o 3, 12, 17 para el caso). El análisis realmente depende de cuántos números son pares y cuántos son impares.\n\nCon eso en mente, aquí hay una tabla de los posibles resultados para grupos de tamaño tres y cuatro.\n\n3 números:\n\n*3 pares, 0 impares - 3 sumas pares\n*2 pares, 1 impar - 1 suma par, 2 sumas impares\n*1 par, 2 impares - 1 suma par, 2 sumas impares \n*0 pares, 3 impares - 3 sumas pares\n\n4 números:\n\n*4 pares, 0 impares - 6 sumas pares\n*3 pares, 1 impar - 3 sumas pares, 3 sumas impares \n*2 pares, 2 impares - 2 sumas pares, 4 sumas impares\n*1 par, 3 impares - 3 sumas pares, 3 sumas impares \n*0 pares, 4 impares - 6 sumas pares\n\n¡Los resultados son sorprendentes y dejan muchas cosas por investigar si a uno le interesa! ¿Qué sucede con 5 números, 6 números o más? ¿Por qué el intercambio de números pares e impares no parece cambiar los resultados? Por ejemplo, si tiene 3 pares y 1 impar, obtendrá los mismos resultados que 1 par y 3 impares. Para circunstancias como 3 pares y 1 impar, ¿por qué los resultados salen equilibrados cuando los pares e impares comienzan desequilibrados?\n\n¡Estas son algunas matemáticas geniales e incluso un niño pequeño puede jugar con ellas!",
+    "text": "Lo divertido de una investigación es que invita a una persona a jugar con los números y a ser matemático. Como se mencionó anteriormente, juegue con diferentes grupos de tres números. Después de un poco de experimentación, su niño/niña puede notar que cualquier grupo de tres números que tenga al menos un número par y un número impar se comporta de la misma manera. Sin embargo, si todos los números son impares o pares, entonces las sumas son todas pares. Lo que trae a colación la pregunta habitual: ¿Por qué sucede eso?\n\nDespués de un poco de experimentación, incluso un niño pequeño puede dar con la hermosa regla de la teoría de los números que dice:\n\n* Par más par resulta en par\n* Par más impar resulta en impar\n* Impar más impar resulta en par\n\n¿Por qué funciona esta regla? Utilice la actividad Formas de números para representar números pares e impares con dos filas de fichas. ¿Cuándo va a resultar en dos filas iguales la suma de estos dos números?\n\nUna vez que se descubre esta regla, su niño/niña puede darse cuenta de que los números en particular no importan tanto. Tener los números 1, 2, 3 realmente no es diferente de tener los números 3, 4, 5 (o 3, 12, 17 para el caso). El análisis realmente depende de cuántos números son pares y cuántos son impares.\n\nCon eso en mente, aquí hay una tabla de los posibles resultados para grupos de tamaño tres y cuatro.\n\n3 números:\n\n* 3 pares, 0 impares - 3 sumas pares\n* 2 pares, 1 impar - 1 suma par, 2 sumas impares\n* 1 par, 2 impares - 1 suma par, 2 sumas impares \n* 0 pares, 3 impares - 3 sumas pares\n\n4 números:\n\n* 4 pares, 0 impares - 6 sumas pares\n* 3 pares, 1 impar - 3 sumas pares, 3 sumas impares \n* 2 pares, 2 impares - 2 sumas pares, 4 sumas impares\n* 1 par, 3 impares - 3 sumas pares, 3 sumas impares \n* 0 pares, 4 impares - 6 sumas pares\n\n¡Los resultados son sorprendentes y dejan muchas cosas por investigar si a uno le interesa! ¿Qué sucede con 5 números, 6 números o más? ¿Por qué el intercambio de números pares e impares no parece cambiar los resultados? Por ejemplo, si tiene 3 pares y 1 impar, obtendrá los mismos resultados que 1 par y 3 impares. Para circunstancias como 3 pares y 1 impar, ¿por qué los resultados salen equilibrados cuando los pares e impares comienzan desequilibrados?\n\n¡Estas son algunas matemáticas geniales e incluso un niño pequeño puede jugar con ellas!",
     "type": "data_list",
     "note": ""
   },
@@ -9876,6 +9864,66 @@
     "note": ""
   },
   {
+    "SourceText": "Stage 1 — I Can Hear You!",
+    "text": "Etapa 1: ¡Te escucho!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stage 2 — I Can Count to 5!",
+    "text": "Etapa 2 – ¡Ya puedo contar hasta 5!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stage 3 — I Can Count to 10!",
+    "text": "Etapa 3 – ¡Ya puedo contar hasta 10!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stage 4 — I Can Count to 20!",
+    "text": "Etapa 4 – ¡Ya puedo contar hasta 20!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stage 5 — I Can Count to 100!",
+    "text": "Etapa 5 – ¡Ya puedo contar hasta 100!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "1.0 Stage 1 Introduction",
+    "text": "1.0 Etapa 1 Introducción",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "2.0 Stage 2 Introduction",
+    "text": "2.0 Etapa 2 Introducción",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "3.0 Stage 3 Introduction",
+    "text": "3.0 Etapa 3 Introducción",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "4.0 Stage 4 Introduction",
+    "text": "4.0 Etapa 4 Introducción",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "5.0 Stage 5 Introduction",
+    "text": "5.0 Etapa 5 Introducción",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "A Very Tall Man",
     "text": "Un Hombre Muy Alto",
     "type": "data_list",
@@ -10116,7 +10164,7 @@
     "note": ""
   },
   {
-    "SourceText": "Pendo Our Cow",
+    "SourceText": "Pendo, Our Cow",
     "text": "Pendo, Nuestra Vaca",
     "type": "data_list",
     "note": ""
@@ -10170,7 +10218,7 @@
     "note": ""
   },
   {
-    "SourceText": "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line.",
+    "SourceText": "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more, one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line.",
     "text": "Esta historia enseña a contar hasta 7, palabras de relación y formas. Practica palabras como: cuántos, números hasta el 7, uno más, uno menos, detrás, dentro, encima, alto, demasiado alto, debajo, rectángulo, caja y línea vertical.",
     "type": "data_list",
     "note": ""
@@ -10188,7 +10236,7 @@
     "note": ""
   },
   {
-    "SourceText": "A Dancers Tale",
+    "SourceText": "A Dancer's Tale",
     "text": "La Historia de una Bailarina",
     "type": "data_list",
     "note": ""
@@ -10908,7 +10956,7 @@
     "note": ""
   },
   {
-    "SourceText": "Throwing stones at animals is a mean things to do!",
+    "SourceText": "Throwing stones at animals is a mean thing to do!",
     "text": "¡Tirar piedras a los animales es un acto cruel!",
     "type": "data_list",
     "note": ""
@@ -11310,8 +11358,8 @@
     "note": ""
   },
   {
-    "SourceText": "The father said, \"This is what I meant when I said you should make yourself a home. A home is more than many huts or a big expensive house. It is love, warmth and friendship with other people.",
-    "text": "El padre dijo: \"Esto es lo que quise decir cuando dije que deberían construir sus hogares. Un hogar es más que varias chozas o una casa grande y costosa. Es amor, calidez y amistad con otras personas.",
+    "SourceText": "The father said, \"This is what I meant when I said you should make yourself a home. A home is more than many huts or a big expensive house. It is love, warmth and friendship with other people.\"",
+    "text": "El padre dijo: \"Esto es lo que quise decir cuando dije que deberían construir sus hogares. Un hogar es más que varias chozas o una casa grande y costosa. Es amor, calidez y amistad con otras personas.\"",
     "type": "data_list",
     "note": ""
   },
@@ -12822,7 +12870,7 @@
     "note": ""
   },
   {
-    "SourceText": "My harness doesn't fit me. It is too tight and cuts my skin, said one horse.\n\n\"Me too, me too,\" another agreed.",
+    "SourceText": "\"My harness doesn't fit me. It is too tight and cuts my skin,\" said one horse.\n\n\"Me too, me too,\" another agreed.",
     "text": "“Mi arnés no me queda bien. Está demasiado apretado y me corta la piel”, dijo un caballo.\n\n“A mi también me pasa eso”, dijo otro.",
     "type": "data_list",
     "note": ""
@@ -12870,7 +12918,7 @@
     "note": ""
   },
   {
-    "SourceText": "We work very hard, but most of our owners treat us badly. Many do not know how to look after us, said Chalew.\n\nAll of the horses agreed.",
+    "SourceText": "\"We work very hard, but most of our owners treat us badly. Many do not know how to look after us,\" said Chalew.\n\nAll of the horses agreed.",
     "text": "“Trabajamos muy duro, pero la mayoría de nuestros dueños nos tratan mal. Muchos no saben cómo cuidar de nosotros”, dijo Chalew.\n\nTodos los caballos estuvieron de acuerdo.",
     "type": "data_list",
     "note": ""
@@ -12894,7 +12942,7 @@
     "note": ""
   },
   {
-    "SourceText": "We need better conditions. Let's go on strike! declared Chalew. The horses cheered!\n\nThey decided to stay in the field until the cart drivers agreed to change.",
+    "SourceText": "\"We need better conditions. Let's go on strike!\" declared Chalew. The horses cheered!\n\nThey decided to stay in the field until the cart drivers agreed to change.",
     "text": "“Necesitamos mejores condiciones. ¡Deberíamos ponernos en huelga!” dijo Chalew. ¡Los caballos aclamaron!\n\nDecidieron quedarse en el campo hasta que los conductores de carreta aceptaran cambiar.",
     "type": "data_list",
     "note": ""
@@ -13620,7 +13668,7 @@
     "note": ""
   },
   {
-    "SourceText": "They got wet seems like an understatement for how they look in the picture. Hyenas are excellent swimmers, so it is surprising that Hyena looks so unhappy.",
+    "SourceText": "\"They got wet\" seems like an understatement for how they look in the picture. Hyenas are excellent swimmers, so it is surprising that Hyena looks so unhappy.",
     "text": "\"Ellos se mojaron\" parece quedar corto por como se ven en la imagen. Las hienas son excelentes para nadar, entonces es sorprendente que la hiena se vea tan descontenta.",
     "type": "data_list",
     "note": ""
@@ -14562,7 +14610,7 @@
     "note": ""
   },
   {
-    "SourceText": "There is a circle around the top of the helicopter. There is actually nothing circular there. What is causing it to look like there is a circle there?}",
+    "SourceText": "There is a circle around the top of the helicopter. There is actually nothing circular there. What is causing it to look like there is a circle there?",
     "text": "Hay un círculo alrededor de la parte superior del helicóptero. En realidad no hay nada circular allí. ¿Qué es lo que hace que parezca que hay un círculo ahí?",
     "type": "data_list",
     "note": ""
@@ -16140,7 +16188,7 @@
     "note": ""
   },
   {
-    "SourceText": "Are you making this up, Gramps? Is this story true? \"Lory is real -- real as me, real as you.\"",
+    "SourceText": "\"Are you making this up, Gramps? Is this story true?\" \"Lory is real -- real as me, real as you.\"",
     "text": "¿Te lo estás inventando, abuelo? ¿Es cierta esta historia?. \"Lory es real, real como yo, real como tú\".",
     "type": "data_list",
     "note": ""
@@ -16176,7 +16224,7 @@
     "note": ""
   },
   {
-    "SourceText": "Go back and look at all the pairs of rhyming words. Can you find a few more words that with each pair?",
+    "SourceText": "Go back and look at all the pairs of rhyming words. Can you find a few more words that go with each pair?",
     "text": "Regresa y mira todos los pares de palabras que riman. ¿Puedes encontrar algunas palabras más que rimen con cada par?",
     "type": "data_list",
     "note": ""
@@ -18516,7 +18564,7 @@
     "note": ""
   },
   {
-    "SourceText": "\"You are full of surprises, Doobie,\" says Duksie sweetly. \"How did you work it out? Maya asks. Doobie smiles to himself. For now it is his secret. Later, he will tell his dad.",
+    "SourceText": "\"You are full of surprises, Doobie,\" says Duksie sweetly. \"How did you work it out?\" Maya asks. Doobie smiles to himself. For now it is his secret. Later, he will tell his dad.",
     "text": "\"Estás lleno de sorpresas, Doobie\", dice Duksie dulcemente. \"¿Cómo lo has resuelto?”, pregunta Maya. Doobie sonríe para sí mismo. Por ahora es su secreto. Más tarde, se lo contará a su padre.",
     "type": "data_list",
     "note": ""
@@ -20208,6 +20256,12 @@
     "note": ""
   },
   {
+    "SourceText": "The average speed of a tortoise is about 20 times faster than a snail. The average speed of a person is about five times faster than a tortoise.",
+    "text": "La velocidad promedio de una tortuga es aproximadamente 20 veces más rápida que la de un caracol. La velocidad promedio de una persona es aproximadamente cinco veces más rápida que la de una tortuga.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Why did the story mention where the sun is? Do you think something interesting is going to happen with the sun?",
     "text": "¿Por qué se menciona en la historia dónde está el sol? ¿Crees que va a pasar algo interesante con relación al sol?",
     "type": "data_list",
@@ -20238,8 +20292,8 @@
     "note": ""
   },
   {
-    "SourceText": "The average speed of a tortoise is about 20 times faster than a snail. The average speed of a person is about five times faster than a tortoise.",
-    "text": "La velocidad promedio de una tortuga es aproximadamente 20 veces más rápida que la de un caracol. La velocidad promedio de una persona es aproximadamente cinco veces más rápida que la de una tortuga.",
+    "SourceText": "He flapped his wings and he whizzed away. \"But you’re going too fast for me,\" complained Tortoise. Sparrow came back. \"Alright, then I’ll hop on too.\"",
+    "text": "Batió sus alas y se fue zumbando. \"Pero estás yendo demasiado rápido\", se quejó Tortuga. Gorrión regresó. \"Está bien, entonces me voy a subir también\".",
     "type": "data_list",
     "note": ""
   },
@@ -21762,8 +21816,8 @@
     "note": ""
   },
   {
-    "SourceText": "He cleared his throat and said, \"I've been thinking that it's time for me to pick a successor. But because I love all of you equally, I can't decide who among you is most worthy. So I've decided to let a contest decide for me.",
-    "text": "Se aclaró la garganta y dijo: \"He estado pensando que es hora de elegir un sucesor. Pero como los amo a todos por igual, no puedo decidir quién de ustedes es más digno. Así que he decidido dejar que un concurso decida por mí.",
+    "SourceText": "He cleared his throat and said, \"I've been thinking that it's time for me to pick a successor. But because I love all of you equally, I can't decide who among you is most worthy. So I've decided to let a contest decide for me.\"",
+    "text": "Se aclaró la garganta y dijo: \"He estado pensando que es hora de elegir un sucesor. Pero como los amo a todos por igual, no puedo decidir quién de ustedes es más digno. Así que he decidido dejar que un concurso decida por mí.\"",
     "type": "data_list",
     "note": ""
   },
@@ -21918,7 +21972,7 @@
     "note": ""
   },
   {
-    "SourceText": "Count the number of animals -- it is a bit tricky, but do your best. Each animal has two eyes, so you can double that number to find the total number of eyes. You can also count the eyes by skip counting by 2's.",
+    "SourceText": "Count the number of animals as best you can. Each animal has two eyes, so you can double that number to find the total number of eyes. You can also count the eyes by skip counting by 2's.",
     "text": "Cuenta la cantidad de animales; es un poco complicado, pero haz lo mejor que puedas. Cada animal tiene dos ojos, así que puedes duplicar ese número para encontrar el número total de ojos. También puedes contar los ojos de 2 en 2.",
     "type": "data_list",
     "note": ""
@@ -22170,6 +22224,12 @@
     "note": ""
   },
   {
+    "SourceText": "**Stages**",
+    "text": "**Etapas**",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "**Bonus Material**",
     "text": "**Material Adicional**",
     "type": "template",
@@ -22184,6 +22244,18 @@
   {
     "SourceText": "No Match",
     "text": "Sin Coincidencia",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "**Storybook**",
+    "text": "**Historia**",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Stage",
+    "text": "Etapa",
     "type": "template",
     "note": ""
   },
@@ -22322,6 +22394,12 @@
   {
     "SourceText": "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page.",
     "text": "Algunas de las actividades tienen material adicional con ejemplos y explicaciones adicionales. Puedes consultarlos aquí o al final de la página de actividades correspondiente.",
+    "type": "tour",
+    "note": ""
+  },
+  {
+    "SourceText": "Stages",
+    "text": "Etapas",
     "type": "tour",
     "note": ""
   },

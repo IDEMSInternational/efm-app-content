@@ -108,7 +108,7 @@
     "note": ""
   },
   {
-    "SourceText": "When people laugh at you, does that make you feel angry or ashamed? Were you able to ignore them knowing they were just being mean",
+    "SourceText": "When people laugh at you, does that make you feel angry or ashamed? Were you able to ignore them knowing they were just being mean?",
     "text": "Quand les gens se moquent de toi, ressens-tu de la colère ou de la honte ? Est-ce que tu as réussi à les ignorer en sachant qu’ils étaient juste méchants ?",
     "type": "data_list",
     "note": ""
@@ -654,8 +654,8 @@
     "note": ""
   },
   {
-    "SourceText": "There are three round houses with thatched roofs. Thatch is a mix of dead and living plant material, usually grass. A thatch room can help keep a house cool or warm. From the distance, those roofs look like triangles.",
-    "text": "Il y a trois maisons rondes avec des toits de chaume. Le chaume est un mélange de matériaux végétaux morts et vivants, généralement de l'herbe. Une pièce en chaume peut aider à garder une maison fraîche ou chaude. De loin, ces toits ressemblent à des triangles.",
+    "SourceText": "There are three round houses with thatched roofs. Thatch is a mix of dead and living plant material, usually grass. A thatched roof can help keep a house cool or warm. From the distance, those roofs look like triangles.",
+    "text": "Il y a trois maisons rondes avec des toits de chaume. Le chaume est un mélange de matériaux végétaux morts et vivants, généralement de l'herbe. Un toit de chaume peut aider à garder une maison fraîche ou chaude. De loin, ces toits ressemblent à des triangles.",
     "type": "data_list",
     "note": ""
   },
@@ -816,7 +816,7 @@
     "note": ""
   },
   {
-    "SourceText": "Oti came into the house with one of his friends to fetch his ball. He saw the toppled calabash, the spilled palm oil. He saw his soiled ball too.\n\nBefore he could run out to tell A'nua what Aku had done, Aku picked up the ball and ran off. The boys followed Aku. They all met A'anua outside the house. A'anua saw Aku holding the ball. Before she could call Aku and scold her, Aku ran past her.\n\nOti, A'anua and all the people of Sunland watched Aku run away. They wondered what she would do with the soiled ball.",
+    "SourceText": "Oti came into the house with one of his friends to fetch his ball. He saw the toppled calabash, the spilled palm oil. He saw his soiled ball too.\n\nBefore he could run out to tell A'anua what Aku had done, Aku picked up the ball and ran off. The boys followed Aku. They all met A'anua outside the house. A'anua saw Aku holding the ball. Before she could call Aku and scold her, Aku ran past her.\n\nOti, A'anua and all the people of Sunland watched Aku run away. They wondered what she would do with the soiled ball.",
     "text": "Oti est entré dans la maison avec un de ses amis pour aller chercher son ballon. Il a vu la calebasse renversée, l'huile de palme renversée. Il a aussi vu sa balle souillée.\n\nAvant qu'il puisse courir dire à A'nua ce qu'Aku avait fait, Aku a ramassé le ballon et s'est enfui. Les garçons ont suivi Aku. Ils ont tous rencontré A'anua devant la maison. A'anua a vu Aku tenir le ballon. Avant qu'elle puisse appeler Aku et la gronder, Aku est passé en courant devant elle.\n\nOti, A'anua et tous les habitants de Sunland ont regardé Aku s'enfuir. Ils se demandaient ce qu'elle allait faire avec la balle souillée.",
     "type": "data_list",
     "note": ""
@@ -2592,7 +2592,7 @@
     "note": ""
   },
   {
-    "SourceText": "What work can you do? the woman asked. The friends responded, \"We can provide food for your family and animals.\"\n\nThe woman asked, \"What do you need to provide the food?\" \"Give us land, water and good care,\" they replied.",
+    "SourceText": "\"What work can you do?\" the woman asked. The friends responded, \"We can provide food for your family and animals.\"\n\nThe woman asked, \"What do you need to provide the food?\" \"Give us land, water and good care,\" they replied.",
     "text": "« Quel travail peux-tu faire ? » demanda la femme. Les amis ont répondu : « Nous pouvons fournir de la nourriture à votre famille et à vos animaux. »\n\nLa femme demanda : « De quoi as-tu besoin pour fournir la nourriture ? » « Donnez-nous de la terre, de l'eau et de bons soins, » répondirent-ils.",
     "type": "data_list",
     "note": ""
@@ -2712,7 +2712,7 @@
     "note": ""
   },
   {
-    "SourceText": "My stems are used for planting. My leaves and peels feed your animals. What does Palm tree do? asked Cassava.",
+    "SourceText": "\"My stems are used for planting. My leaves and peels feed your animals. What does Palm tree do?\" asked Cassava.",
     "text": "« Mes tiges sont utilisées pour les plantations. Mes feuilles et mes écorces nourrissent vos animaux. Que fait Palme ? » demande Manioc.",
     "type": "data_list",
     "note": ""
@@ -2784,7 +2784,7 @@
     "note": ""
   },
   {
-    "SourceText": "In addition, my friends provide shade for your huts. You cool your heart with my sweet, rich, foamy palm wine after your hard day's work.",
+    "SourceText": "\"In addition, my friends provide shade for your huts. You cool your heart with my sweet, rich, foamy palm wine after your hard day's work.\"",
     "text": "« De plus, mes amis fournissent de l'ombre à vos huttes. Tu te rafraîchis le cœur avec mon vin de palme doux, riche et mousseux après ta dure journée de travail. »",
     "type": "data_list",
     "note": ""
@@ -2808,7 +2808,7 @@
     "note": ""
   },
   {
-    "SourceText": "Above all, the brooms that are used to sweep the rooms and compounds come from me, concluded Palm.",
+    "SourceText": "\"Above all, the brooms that are used to sweep the rooms and compounds come from me,\" concluded Palm.",
     "text": "« Surtout, les balais qui servent à balayer les salles et les enceintes viennent de moi, » conclut Palme.",
     "type": "data_list",
     "note": ""
@@ -2856,7 +2856,7 @@
     "note": ""
   },
   {
-    "SourceText": "Both of you are very important to me. The two of you together make a delicious meal, fufu and palm nut soup! said the woman.",
+    "SourceText": "\"Both of you are very important to me. The two of you together make a delicious meal, fufu and palm nut soup!\" said the woman.",
     "text": "« Tous les deux, vous êtes très importants pour moi. Vous faites tous les deux un repas délicieux, une soupe au fufu et aux noix de palme ! », dit la femme.",
     "type": "data_list",
     "note": ""
@@ -2946,8 +2946,8 @@
     "note": ""
   },
   {
-    "SourceText": "Cat and Dog have a ball.\n\nThe ball is red and blue and green.",
-    "text": "Chat et Chien ont un ballon.\n\nLe ballon est rouge, bleu et vert.",
+    "SourceText": "Cat and Dog have a ball.\n\nThe ball is red and blue and yellow.",
+    "text": "Chat et Chien ont un ballon.\n\nLe ballon est rouge, bleu et jaune.",
     "type": "data_list",
     "note": ""
   },
@@ -3456,8 +3456,14 @@
     "note": ""
   },
   {
-    "SourceText": "How many different colors of butterflies are there?{For which color of butterfly is there the most?}",
+    "SourceText": "How many different colors of butterflies are there?",
     "text": "Combien y a-t-il de couleurs différentes de papillons ?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "For which color of butterfly is there the most?",
+    "text": "Quelle couleur de papillon y en a-t-il le plus ?",
     "type": "data_list",
     "note": ""
   },
@@ -4560,7 +4566,7 @@
     "note": ""
   },
   {
-    "SourceText": "How many steps did this drawing take? Was it the less than, the same as, or more than the number of steps for the first drawing?",
+    "SourceText": "How many steps did this drawing take? Was it less than, the same as, or more than the number of steps for the first drawing?",
     "text": "Combien d'étapes ce dessin a-t-il nécessité ? Était-il inférieur, égal ou supérieur au nombre d'étapes du premier dessin ?",
     "type": "data_list",
     "note": ""
@@ -5706,7 +5712,7 @@
     "note": ""
   },
   {
-    "SourceText": "What body parts do you have two of and which do you have one of?",
+    "SourceText": "Which body parts do you have two of and which do you have one of?",
     "text": "Quelles parties de ton corps as-tu deux fois et lesquelles as-tu une fois ?",
     "type": "data_list",
     "note": ""
@@ -5916,7 +5922,7 @@
     "note": ""
   },
   {
-    "SourceText": "Never ask a question like that! said her mother. Then she walked off, frowning.",
+    "SourceText": "\"Never ask a question like that!\" said her mother. Then she walked off, frowning.",
     "text": "« Ne pose jamais une telle question ! » dit sa mère. Puis elle est partie en fronçant les sourcils.",
     "type": "data_list",
     "note": ""
@@ -6012,7 +6018,7 @@
     "note": ""
   },
   {
-    "SourceText": "Hello, said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked.",
+    "SourceText": "\"Hello,\" said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked.",
     "text": "« Bonjour » dit une pierre près de la berge de la rivière. « Bonjour » dit le bébé éléphant. « Peux-tu me dire ce que le crocodile mange pour le dîner ? » demande-t-elle.",
     "type": "data_list",
     "note": ""
@@ -6036,7 +6042,7 @@
     "note": ""
   },
   {
-    "SourceText": "Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower.",
+    "SourceText": "\"Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower.",
     "text": "« Baisse-toi et je te le dirai, » dit la pierre. « Plus bas, plus bas, » dit la pierre. Alors bébé éléphant se penche de plus en plus bas.",
     "type": "data_list",
     "note": ""
@@ -8040,7 +8046,7 @@
     "note": ""
   },
   {
-    "SourceText": "Pendo Our Cow",
+    "SourceText": "Pendo, Our Cow",
     "text": "Notre vache Pendo",
     "type": "data_list",
     "note": ""
@@ -8094,7 +8100,7 @@
     "note": ""
   },
   {
-    "SourceText": "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line.",
+    "SourceText": "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more, one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line.",
     "text": "Cette histoire suivante compte jusqu'à 7, et contient des mots de relation et des formes. Mots à pratiquer : combien, nombres jusqu'à 7, un de plus, un de moins, derrière, dedans, sur, haute, très haut, dessous, rectangle, boîte, et ligne verticale.",
     "type": "data_list",
     "note": ""
@@ -8112,7 +8118,7 @@
     "note": ""
   },
   {
-    "SourceText": "A Dancers Tale",
+    "SourceText": "A Dancer's Tale",
     "text": "Le conte d'un danseur",
     "type": "data_list",
     "note": ""
@@ -8832,7 +8838,7 @@
     "note": ""
   },
   {
-    "SourceText": "Throwing stones at animals is a mean things to do!",
+    "SourceText": "Throwing stones at animals is a mean thing to do!",
     "text": "Jeter des pierres sur des animaux est cruel !",
     "type": "data_list",
     "note": ""
@@ -9234,7 +9240,7 @@
     "note": ""
   },
   {
-    "SourceText": "The father said, \"This is what I meant when I said you should make yourself a home. A home is more than many huts or a big expensive house. It is love, warmth and friendship with other people.",
+    "SourceText": "The father said, \"This is what I meant when I said you should make yourself a home. A home is more than many huts or a big expensive house. It is love, warmth and friendship with other people.\"",
     "text": "Le père dit : « C'est ce que je voulais dire quand je disais que tu devais te faire un foyer. Un foyer, c'est plus que de nombreuses huttes ou une grande maison coûteuse. C'est l'amour, la chaleur et l'amitié avec d'autres personnes. »",
     "type": "data_list",
     "note": ""
@@ -10746,7 +10752,7 @@
     "note": ""
   },
   {
-    "SourceText": "My harness doesn't fit me. It is too tight and cuts my skin, said one horse.\n\n\"Me too, me too,\" another agreed.",
+    "SourceText": "\"My harness doesn't fit me. It is too tight and cuts my skin,\" said one horse.\n\n\"Me too, me too,\" another agreed.",
     "text": "« Mon harnais ne me va pas. Il est trop serré et il me coupe la peau, » dit un cheval.\n\n« Moi aussi, moi aussi, » dit un autre.",
     "type": "data_list",
     "note": ""
@@ -10794,7 +10800,7 @@
     "note": ""
   },
   {
-    "SourceText": "We work very hard, but most of our owners treat us badly. Many do not know how to look after us, said Chalew.\n\nAll of the horses agreed.",
+    "SourceText": "\"We work very hard, but most of our owners treat us badly. Many do not know how to look after us,\" said Chalew.\n\nAll of the horses agreed.",
     "text": "« Nous travaillons très dur mais la plupart de nos propriétaires nous traitent mal. Beaucoup ne savent pas comment s’occuper de nous, » dit Chalew.\n\nTous les chevaux étaient d’accord.",
     "type": "data_list",
     "note": ""
@@ -10818,7 +10824,7 @@
     "note": ""
   },
   {
-    "SourceText": "We need better conditions. Let's go on strike! declared Chalew. The horses cheered!\n\nThey decided to stay in the field until the cart drivers agreed to change.",
+    "SourceText": "\"We need better conditions. Let's go on strike!\" declared Chalew. The horses cheered!\n\nThey decided to stay in the field until the cart drivers agreed to change.",
     "text": "« Nos conditions de travail doivent changer. Faisons grève ! » dit Chalew. Les chevaux applaudirent !\n\nIls décidèrent de rester dans le champ jusqu’à ce que les conducteurs acceptent de changer.",
     "type": "data_list",
     "note": ""
@@ -11544,7 +11550,7 @@
     "note": ""
   },
   {
-    "SourceText": "They got wet seems like an understatement for how they look in the picture. Hyenas are excellent swimmers, so it is surprising that Hyena looks so unhappy.",
+    "SourceText": "\"They got wet\" seems like an understatement for how they look in the picture. Hyenas are excellent swimmers, so it is surprising that Hyena looks so unhappy.",
     "text": "« Elles se mouillèrent » semble être un euphémisme au vu de leur apparence sur l’image. Les hyènes sont d’excellentes nageuses, donc il est étonnant de voir la Hyène si mécontente.",
     "type": "data_list",
     "note": ""
@@ -12486,7 +12492,7 @@
     "note": ""
   },
   {
-    "SourceText": "There is a circle around the top of the helicopter. There is actually nothing circular there. What is causing it to look like there is a circle there?}",
+    "SourceText": "There is a circle around the top of the helicopter. There is actually nothing circular there. What is causing it to look like there is a circle there?",
     "text": "Il y a un cercle autour du sommet de l’hélicoptère. Il n’y a en fait rien de circulaire là-dedans. Qu’est-ce qui donne l’impression qu’il y a un cercle là-bas ?",
     "type": "data_list",
     "note": ""
@@ -14064,7 +14070,7 @@
     "note": ""
   },
   {
-    "SourceText": "Are you making this up, Gramps? Is this story true? \"Lory is real -- real as me, real as you.\"",
+    "SourceText": "\"Are you making this up, Gramps? Is this story true?\" \"Lory is real -- real as me, real as you.\"",
     "text": "Est-ce que tu inventes tout ça Grand-père ? Cette histoire est-elle vraie ? Lory est réelle, comme nous.",
     "type": "data_list",
     "note": ""
@@ -14100,7 +14106,7 @@
     "note": ""
   },
   {
-    "SourceText": "Go back and look at all the pairs of rhyming words. Can you find a few more words that with each pair?",
+    "SourceText": "Go back and look at all the pairs of rhyming words. Can you find a few more words that go with each pair?",
     "text": "Retourne à l’histoire de Lory, et trouve toutes les paires de mots qui riment. Peux-tu trouver quelques autres mots qui riment avec les paires que tu as déjà trouvées ?",
     "type": "data_list",
     "note": ""
@@ -16440,7 +16446,7 @@
     "note": ""
   },
   {
-    "SourceText": "\"You are full of surprises, Doobie,\" says Duksie sweetly. \"How did you work it out? Maya asks. Doobie smiles to himself. For now it is his secret. Later, he will tell his dad.",
+    "SourceText": "\"You are full of surprises, Doobie,\" says Duksie sweetly. \"How did you work it out?\" Maya asks. Doobie smiles to himself. For now it is his secret. Later, he will tell his dad.",
     "text": "« Tu es plein de surprises, Doobie, » dit gentiment Duksie. « Comment as-tu fait ? », demanda Maya. Doobie sourit et ne dit rien. Pour le moment, il garde le secret. Il le dira plus tard à son père.",
     "type": "data_list",
     "note": ""
@@ -18132,6 +18138,12 @@
     "note": ""
   },
   {
+    "SourceText": "The average speed of a tortoise is about 20 times faster than a snail. The average speed of a person is about five times faster than a tortoise.",
+    "text": "La vitesse moyenne d'une tortue est environ 20 fois supérieure à celle d'un escargot. La vitesse moyenne d'une personne est environ cinq fois plus rapide que celle d'une tortue.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Why did the story mention where the sun is? Do you think something interesting is going to happen with the sun?",
     "text": "Pourquoi l'histoire mentionne-t-elle où est le soleil ? Pensez-vous qu'il va se passer quelque chose d'intéressant avec le soleil ?",
     "type": "data_list",
@@ -18162,8 +18174,8 @@
     "note": ""
   },
   {
-    "SourceText": "The average speed of a tortoise is about 20 times faster than a snail. The average speed of a person is about five times faster than a tortoise.",
-    "text": "La vitesse moyenne d'une tortue est environ 20 fois supérieure à celle d'un escargot. La vitesse moyenne d'une personne est environ cinq fois plus rapide que celle d'une tortue.",
+    "SourceText": "He flapped his wings and he whizzed away. \"But you’re going too fast for me,\" complained Tortoise. Sparrow came back. \"Alright, then I’ll hop on too.\"",
+    "text": "Il battit des ailes et s'envola. « Mais tu vas trop vite pour moi », se plaint Tortue. Moineau revient. « D'accord, alors je monte aussi. »",
     "type": "data_list",
     "note": ""
   },
@@ -19686,7 +19698,7 @@
     "note": ""
   },
   {
-    "SourceText": "He cleared his throat and said, \"I've been thinking that it's time for me to pick a successor. But because I love all of you equally, I can't decide who among you is most worthy. So I've decided to let a contest decide for me.",
+    "SourceText": "He cleared his throat and said, \"I've been thinking that it's time for me to pick a successor. But because I love all of you equally, I can't decide who among you is most worthy. So I've decided to let a contest decide for me.\"",
     "text": "Le roi se racla la gorge et dit : « Je pense que le moment est venu pour moi de me trouver un successeur. Mais comme je vous aime tous tout autant, il m’est impossible de décider qui en est le plus digne parmi vous. J’ai donc décidé d’organiser une compétition. »",
     "type": "data_list",
     "note": ""
@@ -19842,7 +19854,7 @@
     "note": ""
   },
   {
-    "SourceText": "Count the number of animals -- it is a bit tricky, but do your best. Each animal has two eyes, so you can double that number to find the total number of eyes. You can also count the eyes by skip counting by 2's.",
+    "SourceText": "Count the number of animals as best you can. Each animal has two eyes, so you can double that number to find the total number of eyes. You can also count the eyes by skip counting by 2's.",
     "text": "C’est un peu difficile, mais essaie de compter combien il y a d’animaux du mieux que tu le peux. Chaque animal à deux yeux, donc tu peux doubler ce nombre pour trouver le nombre total d’yeux. Tu peux aussi compter les yeux en comptant de 2 par 2.",
     "type": "data_list",
     "note": ""

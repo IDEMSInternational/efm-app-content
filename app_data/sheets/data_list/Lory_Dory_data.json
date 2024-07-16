@@ -550,7 +550,11 @@
       "illustration": "EFMStorybooks/EFM-SB-LD-13.jpg",
       "story_text": "\"Are you making this up, Gramps? Is this story true?\" \"Lory is real -- real as me, real as you.\"",
       "_translations": {
-        "story_text": {},
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
         "annotation_1": {
           "es_es": true,
           "fr_fr": true,
@@ -601,7 +605,11 @@
           "fr_fr": true,
           "kw_ar": true
         },
-        "annotation_2": {},
+        "annotation_2": {
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
         "annotation_3": {
           "es_es": true,
           "fr_fr": true,

@@ -133,7 +133,10 @@
       "illustration": "EFMStorybooks/EFM-SB-HODB-4.jpg",
       "story_text": "\"My harness doesn't fit me. It is too tight and cuts my skin,\" said one horse.\n\n\"Me too, me too,\" another agreed.",
       "_translations": {
-        "story_text": {},
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -212,7 +215,10 @@
       "illustration": "EFMStorybooks/EFM-SB-HODB-6.jpg",
       "story_text": "\"We work very hard, but most of our owners treat us badly. Many do not know how to look after us,\" said Chalew.\n\nAll of the horses agreed.",
       "_translations": {
-        "story_text": {},
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -250,7 +256,10 @@
       "illustration": "EFMStorybooks/EFM-SB-HODB-7.jpg",
       "story_text": "\"We need better conditions. Let's go on strike!\" declared Chalew. The horses cheered!\n\nThey decided to stay in the field until the cart drivers agreed to change.",
       "_translations": {
-        "story_text": {},
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
         "annotation_1": {
           "es_es": true,
           "fr_fr": true

@@ -178,7 +178,10 @@
           "es_es": true,
           "fr_fr": true
         },
-        "annotation_1": {},
+        "annotation_1": {
+          "es_es": true,
+          "fr_fr": true
+        },
         "annotation_2": {
           "es_es": true,
           "fr_fr": true

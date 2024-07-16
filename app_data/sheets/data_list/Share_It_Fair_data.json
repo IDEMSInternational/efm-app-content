@@ -461,7 +461,10 @@
       "illustration": "EFMStorybooks/EFM-SB-SIF-12.jpg",
       "story_text": "\"You are full of surprises, Doobie,\" says Duksie sweetly. \"How did you work it out?\" Maya asks. Doobie smiles to himself. For now it is his secret. Later, he will tell his dad.",
       "_translations": {
-        "story_text": {},
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
