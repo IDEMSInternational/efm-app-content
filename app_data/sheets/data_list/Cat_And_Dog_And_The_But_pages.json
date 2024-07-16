@@ -515,8 +515,16 @@
           "fr_fr": true,
           "kw_ar": true
         },
-        "annotation_2": {},
-        "annotation_3": {}
+        "annotation_2": {
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "annotation_3": {
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "story_text": {

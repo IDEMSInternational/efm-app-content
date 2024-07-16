@@ -1,4 +1,7 @@
 {
+  "cn_zh": {
+    "filename": "cn_zh/strings.json"
+  },
   "es_es": {
     "filename": "es_es/strings.json"
   },

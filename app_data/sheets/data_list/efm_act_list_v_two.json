@@ -12,12 +12,16 @@
       "block2_type": "accord_all_text",
       "title": "STAGE 1 – I CAN HEAR YOU!",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "type_name": {
           "es_es": true,
           "fr_fr": true
         },
-        "page_title": {},
+        "page_title": {
+          "es_es": true
+        },
         "block1_text": {
           "es_es": true
         },
@@ -1785,12 +1789,16 @@
       "block2_type": "accord_all_text",
       "title": "STAGE 2 – I CAN COUNT TO 5!",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "type_name": {
           "es_es": true,
           "fr_fr": true
         },
-        "page_title": {},
+        "page_title": {
+          "es_es": true
+        },
         "block1_text": {
           "es_es": true
         },
@@ -4008,12 +4016,16 @@
       "block2_type": "accord_all_text",
       "title": "STAGE 3 – I CAN COUNT TO 10!",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "type_name": {
           "es_es": true,
           "fr_fr": true
         },
-        "page_title": {},
+        "page_title": {
+          "es_es": true
+        },
         "block1_text": {},
         "block2_accord": {},
         "block2_text": {
@@ -5840,12 +5852,16 @@
       "block2_type": "accord_all_text",
       "title": "STAGE 4 – I CAN COUNT TO 20!",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "type_name": {
           "es_es": true,
           "fr_fr": true
         },
-        "page_title": {},
+        "page_title": {
+          "es_es": true
+        },
         "block1_text": {},
         "block2_accord": {},
         "block2_text": {}
@@ -8045,12 +8061,16 @@
       "block2_type": "accord_all_text",
       "title": "STAGE 5 – I CAN COUNT TO 100!",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "type_name": {
           "es_es": true,
           "fr_fr": true
         },
-        "page_title": {},
+        "page_title": {
+          "es_es": true
+        },
         "block1_text": {},
         "block2_accord": {},
         "block2_text": {}

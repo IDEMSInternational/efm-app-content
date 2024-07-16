@@ -325,7 +325,11 @@
       "illustration": "EFMStorybooks/EFM-SB-CBE-8.jpg",
       "story_text": "\"Never ask a question like that!\" said her mother. Then she walked off, frowning.",
       "_translations": {
-        "story_text": {},
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
         "annotation_1": {
           "es_es": true,
           "fr_fr": true,
@@ -501,7 +505,11 @@
       "illustration": "EFMStorybooks/EFM-SB-CBE-12.jpg",
       "story_text": "\"Hello,\" said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked.",
       "_translations": {
-        "story_text": {},
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
         "annotation_1": {
           "es_es": true,
           "fr_fr": true,
@@ -542,7 +550,11 @@
       "illustration": "EFMStorybooks/EFM-SB-CBE-13.jpg",
       "story_text": "\"Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower.",
       "_translations": {
-        "story_text": {},
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
         "annotation_1": {
           "es_es": true,
           "fr_fr": true,
@@ -550,7 +562,8 @@
         },
         "annotation_2": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_3": {
           "es_es": true,

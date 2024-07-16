@@ -189,7 +189,11 @@
       "illustration": "EFMStorybooks/EFM-SB-TFHH-5.jpg",
       "story_text": "He flapped his wings and he whizzed away. \"But you’re going too fast for me,\" complained Tortoise. Sparrow came back. \"Alright, then I’ll hop on too.\"",
       "_translations": {
-        "story_text": {},
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
         "annotation_1": {
           "es_es": true,
           "fr_fr": true,

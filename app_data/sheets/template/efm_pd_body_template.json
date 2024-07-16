@@ -1473,7 +1473,9 @@
       "name": "storybook_info",
       "value": "**Storybook**",
       "_translations": {
-        "value": {}
+        "value": {
+          "es_es": true
+        }
       },
       "condition": "@local.sb_id",
       "parameter_list": {

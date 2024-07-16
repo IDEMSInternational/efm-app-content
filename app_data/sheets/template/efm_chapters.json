@@ -783,7 +783,9 @@
           "name": "chapter_select",
           "value": "**Stages**",
           "_translations": {
-            "value": {}
+            "value": {
+              "es_es": true
+            }
           },
           "_nested_name": "dg_chapters.chapter_select"
         },

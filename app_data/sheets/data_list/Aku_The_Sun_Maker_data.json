@@ -15,7 +15,11 @@
           "fr_fr": true,
           "kw_ar": true
         },
-        "annotation_1": {},
+        "annotation_1": {
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
         "annotation_2": {
           "es_es": true,
           "fr_fr": true,
@@ -53,19 +57,23 @@
       "_translations": {
         "story_text": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_1": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_2": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_3": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -94,19 +102,23 @@
       "_translations": {
         "story_text": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_1": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_2": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_3": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -135,19 +147,23 @@
       "_translations": {
         "story_text": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_1": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_2": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_3": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -176,19 +192,23 @@
       "_translations": {
         "story_text": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_1": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_2": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_3": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -217,19 +237,23 @@
       "_translations": {
         "story_text": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_1": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_2": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_3": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -258,19 +282,23 @@
       "_translations": {
         "story_text": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_1": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_2": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_3": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -297,18 +325,25 @@
       "illustration": "EFMStorybooks/EFM-SB-ATSM-8.jpg",
       "story_text": "Oti came into the house with one of his friends to fetch his ball. He saw the toppled calabash, the spilled palm oil. He saw his soiled ball too.\n\nBefore he could run out to tell A'anua what Aku had done, Aku picked up the ball and ran off. The boys followed Aku. They all met A'anua outside the house. A'anua saw Aku holding the ball. Before she could call Aku and scold her, Aku ran past her.\n\nOti, A'anua and all the people of Sunland watched Aku run away. They wondered what she would do with the soiled ball.",
       "_translations": {
-        "story_text": {},
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
         "annotation_1": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_2": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_3": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -337,19 +372,23 @@
       "_translations": {
         "story_text": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_1": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_2": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_3": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -378,19 +417,23 @@
       "_translations": {
         "story_text": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_1": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_2": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_3": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -419,19 +462,23 @@
       "_translations": {
         "story_text": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_1": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_2": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_3": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -460,19 +507,23 @@
       "_translations": {
         "story_text": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_1": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_2": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "annotation_3": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {

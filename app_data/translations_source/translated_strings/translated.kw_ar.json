@@ -108,7 +108,7 @@
     "note": ""
   },
   {
-    "SourceText": "When people laugh at you, does that make you feel angry or ashamed? Were you able to ignore them knowing they were just being mean",
+    "SourceText": "When people laugh at you, does that make you feel angry or ashamed? Were you able to ignore them knowing they were just being mean?",
     "text": "عندما يضحك الناس عليك، هل يجعلك ذلك تشعر بالغضب أو الخجل؟ هل تستطيع تجاهلهم مع العلم أنهم لئيمون فقط؟",
     "type": "data_list",
     "note": ""
@@ -289,12 +289,12 @@
   },
   {
     "SourceText": "Long ago, in a town call Sunland, lived a girl with very long legs. Aku was her name.",
-    "text": "منذ زمن بعيد، في بلدة تدعى أرض الشمس، عاشت فتاة بأرجل طويلة جداً. كان اسمها آكو.",
+    "text": "منذ زمن بعيد، في بلدة تدعى أرض الشمس، عاشت فتاة ذات أرجل طويلة جداً. كان اسمها آكو.",
     "type": "data_list",
     "note": ""
   },
   {
-    "SourceText": "There are three round houses with thatched roofs. Thatch is a mix of dead and living plant material, usually grass. A thatch room can help keep a house cool or warm. From the distance, those roofs look like triangles.",
+    "SourceText": "There are three round houses with thatched roofs. Thatch is a mix of dead and living plant material, usually grass. A thatched roof can help keep a house cool or warm. From the distance, those roofs look like triangles.",
     "text": "يوجد ثلاثة منازل مستديرة ذات أسقف من القش. القش هو مزيج من المواد النباتية الميتة والحية، عادةً من العشب. يمكن لغرفة القش أن تساعد في إبقاء المنزل بارداً أو دافئاً. من بعيد، تبدو هذه الأسقف كالمثلثات.",
     "type": "data_list",
     "note": ""
@@ -308,6 +308,270 @@
   {
     "SourceText": "Notice Aku's face and the position of her arms. We can learn a lot about how someone is feeling by their body position. What do you think she is feeling?",
     "text": "لاحظ وجه آكو ووضع ذراعيها. يمكننا أن نتعلم الكثير عن مشاعر شخص ما من خلال وضعية جسمه. ماذا تعتقد أنها تشعر؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Aku wondered about a lot of things.\n\nSometimes Aku's father, Ataa Ankra, a fisherman, let her go to the river with him to fish in his canoe. While Aku fished with her father, she wondered why the sun always looked at her from the sky.\n\nSometimes Aku helped her mother, A'anua, to cook. Aku wondered why palm oil looked red in calabash but yellow in yam pottage.",
+    "text": "تساءلت آكو عن الكثير من الأشياء.\n\nأحياناً كان والد آكو، أتا أنكرا، وهو صياد سمك، يدعها تذهب إلى النهر معه لصيد السمك في زورقه. بينما كانت آكو تصيد السمك مع والدها، كانت تتساءل لماذا كانت الشمس دائماً تنظر إليها من السماء.\n\nأحياناً كانت آكو تساعد والدتها، آنوا، في الطهي. كانت آكو تتساءل لماذا يبدو زيت النخيل أحمر في وعاء كالاباش ولكنه أصفر في حساء البطاطا.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Being curious and asking questions is an important way we learn new things. What are some things you are curious about right now?",
+    "text": "إن الفضول وطرح الأسئلة هما وسيلة مهمة لتعلم أشياء جديدة. ما هي بعض الأشياء التي تثير فضولك الآن؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Aku feels a special connection to the sun. Some people feel a connection to the moon or a star. Do you notice things about the sun, such as where it is in the morning or evening?",
+    "text": "تشعر آكو بارتباط خاص بالشمس. بعض الناس يشعرون بارتباط بالقمر أو نجمٌ ما. هل تلاحظ أشياء عن الشمس، مثل مكانها في الصباح أو المساء؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "One thing about the sun is what happens when it shines through rain. This creates a beautiful arc, which is part of a circle, in the sky. Can you name the colors of the rainbow?",
+    "text": "أحد الأشياء المتعلقة بالشمس هو ما يحدث عندما تشرق خلال المطر. هذا يخلق قوساً جميلاً، وهو جزء من دائرة، في السماء. هل تستطيع تسمية ألوان قوس قزح؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "And Aku wondered why Oti, her brother, and the other boys would not let her play football (soccer) with them. Once, Aku asked the boys why. They only laughed and told her to go and play with the girls.\n\nThe girls too would not play with Aku. \"Your legs are too long,\" they always said.\n\nAku was left lonely. She had no one to share her many thoughts with.",
+    "text": "تساءلت آكو لماذا لم يسمح لها شقيقها أوتي والأولاد الآخرون بلعب كرة القدم معهم. ذات مرة، سألت آكو الأولاد عن السبب. لقد ضحكوا وقالوا لها أن تذهب وتلعب مع الفتيات.\n\nالفتيات أيضاً لم يلعبن مع آكو. كانوا يقولون دائماً: \"ساقاك طويلتان جداً\".\n\nبقيت آكو وحيدة. لم يكن لديها أحد لتشارك أفكارها الكثيرة معه.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Is football (soccer) a game that only boys can play? Are there any sports that only boys or only girls can play?",
+    "text": "هل كرة القدم لعبة لا يلعبها إلا الأولاد؟ هل هناك أي رياضات يمكن للأولاد فقط أو للفتيات فقط أن يلعبوها؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Point at matching colors in the clothes in this picture. Are there any colors that don't have a match?",
+    "text": "أشر إلى الألوان المتطابقة في الملابس في هذه الصورة. هل هناك أي ألوان ليس لها مُطابق؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Many time people get excluded from a group because there are different in some way. Did you ever see someone excluded like this? It's a mean thing to do!",
+    "text": "في كثير من الأحيان يتم استبعاد الأشخاص من المجموعة لأنهم مختلفون بطريقةٍ ما. هل سبق لك أن رأيت شخصاً مستبعداً بهذه الطريقة؟ إنه تصرفٌ لئيم!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "But Aku soon became friends with the sun.\n\nShe looked forward to seeing the sun every morning when she woke up. The cocks crowed to announce sunrise. Aku loved to dance in the early morning sun, her shadow dancing with her. The tweeting of birds made the cock crow music sweeter.\n\nThen sun filled Aku with happiness. The sun made Aku smile a lot.",
+    "text": "لكن سرعان ما أصبحت آكو صديقةً للشمس.\n\nكانت تتطلع لرؤية الشمس كل صباح عندما تستيقظ. كانت الديوك تصيح لتعلن عن شروق الشمس. كانت آكو تحب أن ترقص في شمس الصباح الباكر، وظلّها يرقص معها. جعل تغريد الطيور موسيقى صياح الديك أجمل.\n\nملأت الشمس آكو بالسعادة. جعلت الشمس آكو تبتسم كثيراً.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Birds often chirp and roosters crow right before the sun rises. Have you noticed special morning sounds when you wake up early?",
+    "text": "غالباً ما تغرد الطيور وتصيح الديوك قبل شروق الشمس مباشرةً. هل لاحظت أصواتاً مميزة في الصباح عندما تستيقظ مبكراً؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Notice the shadows that the sun makes on this page and many of the other pages.",
+    "text": "لاحظ الظلال التي تصنعها الشمس على هذه الصفحة والعديد من الصفحات الأخرى.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The sun creates longer shadows in the morning and late afternoon, and very short shadows at midday. Have you played with your own shadow as it copies you and follows you?",
+    "text": "تخلق الشمس ظلالاً أطول في الصباح وبعد الظهر، وظلالاً قصيرة جداً في وقت الظهيرة. هل سبق لك أن لعبت مع ظلّك وهو يقلدك ويتبعك؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "But one day, the sun did not rise. Aku waited for the cocks to crow. They did not. The birds too did not tweet.\n\nAnd without the sun in Sunland, people could not go about their daily activities. Farmers could not go to tend their crops. And the sky was grey and sad. Ataa Ankra could not go fishing. Children too could not prepare for school. And women could not go to the market to haggle over the prices of soap and kerosene.\n\nAku missed all these. She missed the cock crows and bird tweets too. And she missed the sunrise more.",
+    "text": "لكن في يوم من الأيام، لم تشرق الشمس. انتظرت آكو الديوك حتى تصيح. لم يفعلوا. لم تغرد الطيور أيضاً.\n\nوبدون الشمس في أرض الشمس، لم يستطع الناس من القيام بأنشطتهم اليومية. لم يستطع المزارعون الذهاب لرعاية محاصيلهم. وكانت السماء رمادية وحزينة. لم يستطع أتا أنكرا الذهاب لصيد السمك. لم يستطع الأطفال أيضاً الاستعداد للمدرسة. لم تتمكن النساء من الذهاب إلى السوق للمساومة على أسعار الصابون والكيروسين.\n\nافتقدت آكو كل هذا. افتقدت صياح الديك وأغاريد الطيور أيضاً. وافتقدت شروق الشمس أكثر.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "A rectangle is a shape with four straight sides, like this page. How many rectangles can you find in this picture?",
+    "text": "المستطيل هو شكل له أربعة جوانب مستقيمة، مثل هذه الصفحة. كم عدد المستطيلات التي يمكنك العثور عليها في هذه الصورة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If it is dark when you get up, what kinds of things can you do without the sun in the sky?",
+    "text": "إذا كان ظلاماً عندما تستيقظ، ما هي الأشياء التي يمكنك القيام بها دون الشمس في السماء؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If you didn't see the sun one dark morning, what would you think?",
+    "text": "إذا لم ترَ الشمس في صباحٍ مظلم، ماذا ستفكر؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Everyone wanted to know where the sun went. \"Maybe the sun is dead,\" some people said. \"The sun has travelled,\" said others.\n\nAku disagreed, \"No, the sun is not dead. And the sun has not travelled. Or it would have first told me.\"\n\nSome people chuckled at what Aku said. She continued anyway, \"I tell the truth. The sun is my friend. The sun is not dead. It is only —\". But no one would hear anymore. Everyone forgot about the sun. They laughed hard at Aku. The children laughed too. The children's laughter pained Aku the most.",
+    "text": "أراد الجميع أن يعرفوا أين ذهبت الشمس. قال بعض الناس: \"ربما ماتت الشمس\". قال آخرون: \"لقد سافرت الشمس\".\n \nلم توافق آكو على ذلك، \"لا، الشمس لم تمت. والشمس لم تسافر. أو كانت ستخبرني أولاً\".\n\nضحك بعض الناس على ما قالته آكو. لكنّها استمرت: \"أقول الحقيقة. الشمس صديقتي. الشمس لم تمت. إنّها فقط -\". لكن لم يعد أحد يسمع. نَسِيَ الجميع الشمس. ضحكوا بشدةٍ على آكو. ضحك الأطفال أيضاً. ضَحكات الأطفال آلمَتْ آكو أكثر من غيرها.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There are 6 children in this picture. How many of their limbs (arms and legs) can you see?",
+    "text": "يوجد ٦ أطفال في هذه الصورة. كم عدد أطرافهم (أذرعهم وأرجلهم) التي يمكنك رؤيتها؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Skip count by 4's six times to count how many limbs these 6 children have. You can also skip count by 6's four times to get this same number. Why does that work?",
+    "text": "عد قفزياً بمقدار ٤ ست مرات لعد عدد الأطراف التي يمتلكها هؤلاء الأطفال الستة. يمكنك أيضاً العد قفزياً بمقدار ٦ أربع مرات للحصول على نفس الرقم. لماذا يعمل ذلك؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many more limbs do they have than the number you can see?",
+    "text": "كم عدد الأطراف التي لديهم أكثر من العدد الذي يمكنك رؤيته؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sad like the sky, Aku hastened into her house.\n\nOn the way, she accidentally kicked her brother's football. The ball rolled into the kitchen. There was a calabash of palm oil in a corner of the kitchen. The ball hit the calabash. The calabash was toppled.\n\nThe palm oil on it spilled. The palm oil soiled the ball.",
+    "text": "حزينةٌ كالسماء، أسرعت آكو إلى منزلها.\n\nفي طريقها، ركلت كرة القدم الخاصة بأخيها عن طريق الخطأ. تدحرجت الكرة إلى المطبخ. كان هناك وعاء كالاباش مليء بزيت النخيل في زاوية من زوايا المطبخ. ضربت الكرة وعاء كالاباش. سقط وعاء كالاباش.\n\nانسكب زيت النخيل من عليه. تلطّخت الكرة بزيت النخيل.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What do you think Aku's brother will do when he sees that his ball has oil all over it?",
+    "text": "ماذا تعتقد أن شقيق آكو سيفعل عندما يرى كرته مغطاة بالزيت؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The calabash is the bowl that was holding the oil. How did all that oil fit in that calabash?",
+    "text": "الكالاباش هو الوعاء الذي كان يحمل الزيت. كيف اتّسع كل ذلك الزيت في ذلك الوعاء؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Did you ever spill a small glass of water or milk and watch it spread out on the floor? A little bit can cover a lot of floor!",
+    "text": "هل سبق لك أن سكبت كوباً صغيراً من الماء أو الحليب وشاهدته ينتشر على الأرض؟ يمكن للقليل منه أن يغطي مساحة كبيرة من الأرض!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Oti came into the house with one of his friends to fetch his ball. He saw the toppled calabash, the spilled palm oil. He saw his soiled ball too.\n\nBefore he could run out to tell A'anua what Aku had done, Aku picked up the ball and ran off. The boys followed Aku. They all met A'anua outside the house. A'anua saw Aku holding the ball. Before she could call Aku and scold her, Aku ran past her.\n\nOti, A'anua and all the people of Sunland watched Aku run away. They wondered what she would do with the soiled ball.",
+    "text": "دخل أوتي المنزل مع أحد أصدقائه لإحضار كرته. رأى وعاء كالاباش المقلوب، والزيت المنسكب. ورأى كرته المتسخة أيضاً.\n\nقبل أن يتمكن من الخروج لإخبار آنوا بما فعلته آكو، التقطت آكو الكرة وهربت. تبعها الأولاد. التقى جميعهم بآنوا خارج المنزل. رأت آنوا آكو ممسكةً بالكرة. قبل أن تتمكن من مناداة آكو وتوبيخها، تخطتها آكو راكضةً.\n\nشاهد أوتي وآنوا وجميع سكان أرض الشمس آكو وهي تهرب. تساءلوا عما ستفعله بالكرة المتسخة.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Many ten-year olds can run a mile in ten minutes. Aku is extra fast. How many minutes do you think it takes her to run a mile? 2 minutes? 5 minutes? 8 minutes?",
+    "text": "يمكن للعديد من الأطفال في سن العاشرة أن يركضوا ميلاً في عشر دقائق. آكو سريعة جداً. في رأيك، كم دقيقة يستغرقها الركض لمسافة ميل؟ دقيقتان؟ ٥ دقائق؟ ٨ دقائق؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What about Aku allows her to run so fast?",
+    "text": "ما الذي يميز آكو ويسمح لها بالركض بهذه السرعة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The sun is gone, people are laughing at Aku, and Aku has a dirty ball. How do you think the story will resolve all these problems?",
+    "text": "الشمس غائبة، الناس يضحكون على آكو، وآكو لديها كرة متسخة. في رأيك، كيف ستحلُّ القصة كل هذه المشاكل؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Aku stopped when she got to the middle of the town square. She put the ball on the ground.\n\nWith a mighty swing of her hands and a swift pull of one long leg behind the other, Aku kicked the ball. The ball turned round on the ground, spinning towards the edge of the town square. It hit the roots of the palm tree at one end of the town square.",
+    "text": "توقفت آكو عندما وصلت إلى وسط ساحة البلدة. وضعت الكرة على الأرض.\n\nبحركة قوية من يديها وسحب سريع لإحدى ساقيها الطويلتين خلف الأخرى، ركلت آكو الكرة. استدارت الكرة على الأرض، ودارت باتجاه حافة ساحة البلدة. ضربت جذور شجرة النخيل في أحد أطراف الساحة.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What in the picture tells you that the ball is flying fast?",
+    "text": "ما الذي يخبرك في الصورة أن الكرة تطير بسرعة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Why is the path of the ball curved instead of straight?",
+    "text": "لماذا يكون مسار الكرة منحنياً بدلاً من أن يكون مستقيماً؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Why did Aku need to swing her hands to kick the ball hard? Notice how many other parts of your body are involved with action of just one part.",
+    "text": "لماذا احتاجت آكو إلى تحريك يديها لركل الكرة بقوة؟ لاحظ كم جزء آخر من جسمك يشارك في حركة جزء واحد فقط.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The ball shot into the sad sky. With mouths opened wide, the people of Sunland gazed after the flying ball. The ball flew beyond the clouds, beyond the gaze of the eyes.\n\nEverything was still. All was quiet.\n\nSuddenly, the sky cleared. The clouds became white, round and fluffy. Then a big ball came from behind the clouds. The ball was bright. And it was red and yellow like palm oil. The ball was the sun. Aku's sun.\n\nEverything stirred. The quietness left.",
+    "text": "انطلقت الكرة نحو السماء الحزينة. بفمٍ مفتوح، نظر سكان أرض الشمس إلى الكرة الطائرة. طارت الكرة إلى ما وراء الغيوم، وراء أنظار العيون.\n\nكان كل شيء ساكناً. كان كل شيء هادئاً.\n\nفجأة، صفت السماء. أصبحت الغيوم بيضاء ومستديرة ورقيقة. ثم جاءت كرة كبيرة من خلف السحب. كانت الكرة ساطعة. وكانت حمراء وصفراء مثل زيت النخيل. كانت الكرة هي الشمس. شمس آكو.\n\nتحرك كل شيء. رحل الهدوء.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many different colors of clothes do you see here? Which colors of the rainbow are missing?",
+    "text": "كم عدد ألوان الملابس المختلفة التي تراها هنا؟ أي من ألوان قوس قزح مفقودة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Do the colors of the clothes you are wearing match any of these clothes?",
+    "text": "هل تتطابق ألوان الملابس التي ترتديها مع أي من هذه الملابس؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Finding what is the same and what is different is an important way we understand the things in our world.",
+    "text": "إن العثور على ما هو متماثل وما هو مختلف هو وسيلة مهمة لفهم الأشياء في عالمنا.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Soon, everyone was rushing home to prepare for their daily activities.\n\nAtaa Ankra looked for his fish bucket. Farmers took their hoes. Children bathed and dressed, ready to go to school. Women tied monies at the ends of their cover cloths. They carried their basins and baskets and hurried to the market.",
+    "text": "وسرعان ما هرع الجميع إلى منازلهم للاستعداد لأنشطتهم اليومية.\n\nبحث أتا أنكرا عن دلو السمك الخاص به. أخذ المزارعون معازقهم. استحم الأطفال وارتدو ملابسهم استعداداً للذهاب إلى المدرسة. ربطت النساء الأموال في نهايات أغطية ملابسهن. حملن طُسُوتهن وسلالهن وهرعن إلى السوق.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "It is dangerous to look at the sun, but we can still notice its changes. Depending on the weather and the time of day, the sun can look glowing yellow, hot white, orange, and even brown.",
+    "text": "إنَّ النظر إلى الشمس أمرٌ خطير، ولكن لا يزال بإمكاننا ملاحظة تغيّراتها. اعتماداً على الطقس ووقت النهار، يمكن أن تبدو الشمس صفراء متوهجة، بيضاء ساخنة، برتقالية، وحتى بنّية.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What do you do during the day that you can't do at night?",
+    "text": "ما الذي تفعله خلال النهار لا يمكنك فعله في الليل؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The story mentioned farmers working, people going to market, and children going to school. What other adult things only happen when the sun is out?",
+    "text": "ذكرت القصة عمل المزارعين، وذهاب الناس إلى السوق، وذهاب الأطفال إلى المدرسة. ما هي الأشياء الأخرى التي يقوم بها الكبار فقط عندما تكون الشمس مشرقة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The sun returned to Sunland. Aku made it. A new day began ...",
+    "text": "عادت الشمس إلى أرض الشمس. آكو صنعتها. بدأ يوم جديد...",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Why did Aku kick the ball into the sky? Did she do it to make the sun come out, or did she do it for some other reason?",
+    "text": "لماذا ركلت آكو الكرة نحو السماء؟ هل فعلت ذلك لجعل الشمس تطلَع، أم فعلت ذلك لسبب آخر؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The sun was Aku's only friend. She paid the sun a lot of attention, and the sun stayed with her without making fun of her long legs. Which things do you think make friendships work?",
+    "text": "كانت الشمس صديقة آكو الوحيدة. كانت تولي الشمس الكثير من الاهتمام، وبقيت الشمس معها دون أن تسخر من ساقيها الطويلتين. ما هي الأشياء التي تعتقد أنها تجعل الصداقات ناجحة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Sometimes, when some experience bothers two friends, it can get between them so they can't see each other. Has that happened to you with one of your friends? Did you find a way to fix things?",
+    "text": "في بعض الأحيان، عندما يزعج موقف ما صديقين، يمكن أن يقف هذا بينهما بحيث لا يستطيعان رؤية بعضهما البعض. هل حدث هذا لك مع أحد أصدقائك؟ هل وجدت وسيلة لإصلاح الأمور بينكم؟",
     "type": "data_list",
     "note": ""
   },
@@ -409,7 +673,7 @@
   },
   {
     "SourceText": "\"You are so weird,\" they said. \"We won't play with you anymore.\"",
-    "text": "قال الدجاج لديزي: \"أنتِ غريبة الأطوار، نحن لا نريد اللعب معكِ بعد الآن\".\"",
+    "text": "قال الدجاج لديزي: \"أنتِ غريبة الأطوار، نحن لا نريد اللعب معكِ بعد الآن.\"",
     "type": "data_list",
     "note": ""
   },
@@ -1938,8 +2202,8 @@
     "note": ""
   },
   {
-    "SourceText": "Cat and Dog have a ball.\n\nThe ball is red and blue and green.",
-    "text": "القط والكلب يملكان كرة.\n\nالكرة حمراء وزرقاء وخضراء.",
+    "SourceText": "Cat and Dog have a ball.\n\nThe ball is red and blue and yellow.",
+    "text": "القط والكلب يملكان كرة.\n\nالكرة حمراء وزرقاء وصفراء.",
     "type": "data_list",
     "note": ""
   },
@@ -2448,8 +2712,14 @@
     "note": ""
   },
   {
-    "SourceText": "How many different colors of butterflies are there?{For which color of butterfly is there the most?}",
+    "SourceText": "How many different colors of butterflies are there?",
     "text": "كم عدد ألوان الفراشات المختلفة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "For which color of butterfly is there the most?",
+    "text": "ما هو لون الفراشة الأكثر تواجدًا؟",
     "type": "data_list",
     "note": ""
   },
@@ -3211,7 +3481,7 @@
   },
   {
     "SourceText": "This is Cat.\n\nThis is Dog.",
-    "text": "هذا القط. هذا الكلب.",
+    "text": "هذا القط.\n\n هذا الكلب.",
     "type": "data_list",
     "note": ""
   },
@@ -3475,7 +3745,7 @@
   },
   {
     "SourceText": "Point together at the white circles Safi has on her back and belly.",
-    "text": "{أشيروا معًا إلى الدوائر البيضاء التي تملكها صافي على ظهرها وبطنها.",
+    "text": "أشيروا معًا إلى الدوائر البيضاء التي تملكها صافي على ظهرها وبطنها.",
     "type": "data_list",
     "note": ""
   },
@@ -4320,7 +4590,7 @@
     "note": ""
   },
   {
-    "SourceText": "What body parts do you have two of and which do you have one of?",
+    "SourceText": "Which body parts do you have two of and which do you have one of?",
     "text": "ما هي الأعضاء التي في جسدك اثنان منها وأي أعضاء لديك منها واحدة؟",
     "type": "data_list",
     "note": ""
@@ -4530,7 +4800,7 @@
     "note": ""
   },
   {
-    "SourceText": "Never ask a question like that! said her mother. Then she walked off, frowning.",
+    "SourceText": "\"Never ask a question like that!\" said her mother. Then she walked off, frowning.",
     "text": "\"لا تسألي سؤالاً كهذا أبدًا!\" قالت والدتها. ثم انصرفت وهي عابسة.",
     "type": "data_list",
     "note": ""
@@ -4626,7 +4896,7 @@
     "note": ""
   },
   {
-    "SourceText": "Hello, said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked.",
+    "SourceText": "\"Hello,\" said a stone near the river bank. \"Hello,\" said Baby Elephant. \"Can you tell me what Crocodile eats for dinner?\" she asked.",
     "text": "\"مرحباً،\" قال حجر بالقرب من ضفة النهر. \"مرحباً،\" قالت الفيلة الصغيرة. \"هل يمكنك أن تخبرني ماذا يأكل التمساح على العشاء؟\" سألته.",
     "type": "data_list",
     "note": ""
@@ -4650,7 +4920,7 @@
     "note": ""
   },
   {
-    "SourceText": "Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower.",
+    "SourceText": "\"Bend down and I will tell you,\" said the stone. \"Lower, lower,\" said the stone. So Baby Elephant bent down lower, and lower.",
     "text": "\"انحني وسأخبرك،\" قال الحجر.\"أسفل، أقل\"، قال الحجر. لذلك انحنت الفيلة الصغيرة إلى الأسفل، وإلى الأسفل.",
     "type": "data_list",
     "note": ""
@@ -5059,7 +5329,7 @@
   },
   {
     "SourceText": "This story looks at counting from 0 to 9, colors, and color patterns. Practice counting words, color words, words like: too many, biggest number, smallest number, one more, and one less.",
-    "text": "كلمات الألوان، وكلمات مثل: كثير جدًا، أكبر رقم، أصغر رقم، واحد أكثر، وواحد أقل.",
+    "text": "تتناول هذه القصة العد من 0 إلى 9 والألوان وأنماط الألوان. تدرب على كلمات العد، كلمات الألوان، وكلمات مثل: كثير ج ًدا، أكبر رقم، أصغر رقم، واحد أكثر، وواحد أقل.",
     "type": "data_list",
     "note": ""
   },
@@ -5268,7 +5538,7 @@
     "note": ""
   },
   {
-    "SourceText": "Pendo Our Cow",
+    "SourceText": "Pendo, Our Cow",
     "text": "بيندو، بقرتنا",
     "type": "data_list",
     "note": ""
@@ -5322,7 +5592,7 @@
     "note": ""
   },
   {
-    "SourceText": "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line.",
+    "SourceText": "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more, one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line.",
     "text": "تحتوي هذه القصة على العد حتى 7، وكلمات العلاقات، والأشكال. كلمات التدريب: كم، الأرقام حتى 7، واحد إضافي واحد أقل، خلف، داخل، على، مرتفع، مرتفع جدًا، تحت، مستطيل، مربع، وخط عمودي.",
     "type": "data_list",
     "note": ""
@@ -5340,7 +5610,7 @@
     "note": ""
   },
   {
-    "SourceText": "A Dancers Tale",
+    "SourceText": "A Dancer's Tale",
     "text": "قصة الراقصة: فيليس سبيرا",
     "type": "data_list",
     "note": ""
@@ -5371,7 +5641,7 @@
   },
   {
     "SourceText": "This story has colors, descriptions, and shapes. Practice words: white, red, yellow, orange, brown, rainbow colors, same, matching, different, difference, long, longer, short, very, curved, straight, round, triangle, and rectangle.",
-    "text": "تحتوي هذه القصة على ألوان وأوصاف وأشكال. كلمات التدريب: أبيض، أحمر، أصفر، برتقالي، بني، ألوان قوس قزح، نفس الشيء، متطابق، مختلف، اختلاف، طويل، أطول، قصير، جداً، منحني، مستقيم، مستدير، مثلث، ومستطيل.",
+    "text": "تحتوي هذه القصة على الألوان والأوصاف والأشكال. كلمات التدريب: أبيض، أحمر، أصفر، برتقالي، بني، ألوان قوس قزح، نفس الشيء، متطابق، مختلف، اختلاف، طويل، أطول، قصير، جداً، منحني، مستقيم، مستدير، مثلث، ومستطيل.",
     "type": "data_list",
     "note": ""
   },
@@ -5400,6 +5670,30 @@
     "note": ""
   },
   {
+    "SourceText": "How Many?",
+    "text": "كم العدد؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This story has counting to 14 and skip counting. Practice words: numbers to 14, skip counting, more, fewer, one more, three more, and double.",
+    "text": "تحتوي هذه القصة على العد حتى 14 والعد القفزي. كلمات التدريب: الأرقام حتى 14، العد القفزي، أكثر، أقل، واحد إضافي، ثلاثة إضافي، ومضاعف.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I Love Forests",
+    "text": "أحب الغابات",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This story has counting to ten and comparing quantities. Practice words: numbers to ten, counting by 2's, one more, one less, most, and least.",
+    "text": "تحتوي هذه القصة على العد إلى عشرة ومقارنة الكميات. كلمات التدريب: الأرقام إلى عشرة، العد بمقدار 2، واحد أكثر، واحد أقل، أكثر، وأقل.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Listen to My Body",
     "text": "استمع إلى جسدي",
     "type": "data_list",
@@ -5419,7 +5713,19 @@
   },
   {
     "SourceText": "This story has shapes and descriptions. Practice words: thin, pairs, line, parallel, horizontal, vertical, perpendicular, negative space, different, triangle, side, straight, sphere, circle, arc, red, blue, right, left, and skip count by 5's.",
-    "text": "السلبية، مختلف، مثلث، جانب، مستقيم، كرة، دائرة، قوس، أحمر، أزرق، يمين، يسار، والعد القفزي بمقدار 5.",
+    "text": "تحتوي هذه القصة على الأشكال والصفات. كلمات التدريب: رفيع، أزواج، خط، المتوازي، أفقي، عمودي، متعامد، المساحة السلبية، مختلف، مثلث، جانب، مستقيم، كرة، دائرة، قوس، أحمر، أزرق، يمين، يسار، والعد القفزي بمقدار 5.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Maguru Gives Legs",
+    "text": "ماجورو يعطي أرجلاً",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This story has shapes and groupings. Practice words: long, round, cone, flat, rectangle, square, close, closer, estimate, skip counting by 2's and 4's, colors, more, less, object properties, grouping by property, fewer, first, last, after, before, faster, slower, none, and zero.",
+    "text": "تحتوي هذه القصة على الأشكال والمجموعات. كلمات التدريب: طويلة، مستديرة، مخروطية، مسطحة، مستطيلة، مربعة، قريبة، أقرب، تقدير، العد القفزي بمقدار 2 و4، الألوان، أكثر، أقل، خصائص الكائن، التجميع حسب الخاصية، أقل، أول، أخيرًا، بعد، قبل، أسرع، أبطأ، لا شيء وصفر.",
     "type": "data_list",
     "note": ""
   },
@@ -5431,7 +5737,7 @@
   },
   {
     "SourceText": "This story has descriptions and comparisons. Practice words: high, on, onto, average, speed, 5 times, pairs, odd, even, sharing, too, very, fast, long, distance, light, heavy, lower, higher, different, estimate, more, stronger, vertically, diagonally, parallel lines, and big.",
-    "text": "مشاركة، أيضًا، سريع جدًا، طويل، مسافة، خفيف، ثقيل، أقل، أعلى، مختلف، تقدير، أكثر، أقوى، عمودياً، قطرياً، خطوط متوازية، وكبير.",
+    "text": "تحتوي هذه القصة على الصفات والمقارنات. كلمات التدريب: عالي، على، متوسط، سرعة، 5 مرات، أزواج، فردي، زوجي، مشاركة، أي ًضا، سريع ج ًدا، طويل، مسافة، خفيف، ثقيل، أقل، أعلى، مختلف، تقدير، أكثر، أقوى، عمودياً، قطرياً، خطوط متوازية، وكبير.",
     "type": "data_list",
     "note": ""
   },
@@ -5484,7 +5790,7 @@
     "note": ""
   },
   {
-    "SourceText": "Throwing stones at animals is a mean things to do!",
+    "SourceText": "Throwing stones at animals is a mean thing to do!",
     "text": "إن رمي الحيوانات بالحجارة أمر سيئ!",
     "type": "data_list",
     "note": ""
@@ -5618,6 +5924,12 @@
   {
     "SourceText": "Fana has worn many different colors during this story. Can you remember them all?",
     "text": "لقد ارتدت فانا العديد من الألوان المختلفة خلال هذه القصة. هل يمكنك تذكرها جميعًا؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Count together the people in this picture.",
+    "text": "قوموا بعدّ الأشخاص الموجودين في هذه الصورة معًا.",
     "type": "data_list",
     "note": ""
   },
@@ -6414,6 +6726,198 @@
     "note": ""
   },
   {
+    "SourceText": "How many legs do two ladybugs have?",
+    "text": "كم عدد الأرجل التي تمتلكها الدعسوقة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Skip counting is counting by steps bigger than 1. You can skip count these legs by 6's by counting 6, 12. You can also skip count by 3's using the sides of their bodies 3, 6, 9, 12.",
+    "text": "العدّ القفزي هو العد بخطوات أكبر من 1. يمكنك القيام بالعدّ القفزي بمقدار 6 عن طريق العد 6، 12. يمكنك أيضًا القيام بالعدّ القفزي بمقدار 3 باستخدام جوانب أجسامها 3، 6، 9، 12.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "You can skip count to 12 in steps of 3 and 6. Can you think of other ways to skip count to 12? Which ways work (1, 2, 3, 4, 6, 12) and which ways don't (5, 7, 8, 9, 10, 11)?",
+    "text": "يمكنك القيام بالعدّ القفزي إلى 12 بخطوات 3 و6. هل يمكنك التفكير في طرق أخرى للعدّ القفزي إلى 12؟ ما هي الطرق التي تعمل (1، 2، 3، 4، 6، 12) وأي الطرق لا تعمل (5، 7، 8، 9، 10، 11)؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Count together the dots on each ladybug's back. Have you seen ladybugs around where you live -- did they have more or fewer dots than these?",
+    "text": "عدّوا النقاط الموجودة على ظهر كل دعسوقة معًا. هل سبق لك أن رأيت دعاسيق في المكان الذي تعيش فيه -- هل كانت تمتلك نقاط أكثر أو أقل من هذه؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many wings do four birds have?",
+    "text": "كم عدد أجنحة أربعة طيور؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Skip count the wings by counting by 2's -- one 2 for each bird.",
+    "text": "قم بالعدّ القفزي للأجنحة عن طريق العد بمقدار 2 - 2 واحدة لكل طائر.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Skip count the wings by counting the four left wings and then the four right wings. It's fun that you get the same answer whether you skip by 2's or 4's!",
+    "text": "قم بالعدّ القفزي للأجنحة من خلال عد الأجنحة الأربعة اليسرى ثم الأجنحة الأربعة اليمنى. من الممتع أن تحصل على نفس الإجابة سواء تخطيت رقم 2 أو 14.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If the bird in the sky flies away, how many of the four birds will remain?",
+    "text": "إذا طار طير واحد في السماء فكم يبقى من الطيور الأربعة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many horns do three rhinos have?",
+    "text": "كم عدد القرون التي تمتلكها ثلاثة من وحيدات القرن؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Each rhino has two horns, a big one and a small one. Skip count their horns by 2's and 3's.",
+    "text": "لكل وحيد قرن قرنان، كبير وصغير. تخطي عد قرونهم بمقدار 2 و 3.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How would you skip count to find out how many feet they have?",
+    "text": "كيف يمكنك القيام بالعدّ القفزي لمعرفة عدد الأقدام التي تمتلكها؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Each rhino has twice as many feet as horns. Take the total number of horns and double that to get the total number of feet.",
+    "text": "يبلغ عدد أقدام كل وحيد قرن ضعف عدد القرون. خذ العدد الإجمالي للقرون وضاعفه لتحصل على العدد الإجمالي للأقدام.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many trunks do five elephants have?",
+    "text": "كم عدد الخراطيم التي تمتلكها خمسة أفيال؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Let's count trunks, tails, tusks, and ears. Counting tails and trunks is simple -- what number do you get?",
+    "text": "لنعد الخراطيم والذيول والأنياب والآذان. يعد عد الذيول والأنياب أمرًا بسيطًا - ما العدد الذي ستحصل عليه؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Each elephant has two tusks and two ears. Which do you like better -- skip counting these by 2's or by 5's?",
+    "text": "لكل فيل نابان وأذنان. ما الذي تفضله أكثر -- العدّ القفزي لهذه الأرقام بمقدار 2 أو 5؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There are four big elephants and one baby elephant. How much is four plus one more?",
+    "text": "هناك أربعة أفيال كبيرة وفيل صغير. كم يساوي أربعة زائد واحد بالإضافة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many ears do seven dogs have?",
+    "text": "كم عدد آذان سبعة كلاب؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Did you count the ears by 1's, 2's, or 7's?",
+    "text": "هل عددت الأذنين بواحد أم اثنين أم سبعة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There are 14 ears. We can skip count to 14 by 1's, 2's, and 7's. Are there any other step sizes that work for counting to 14?",
+    "text": "هناك 14 أذناً. يمكننا العدّ بالتخطي إلى 14 بمقدار 1 و2 و7. هل هناك أية خطوات أخرى مناسبة للعد حتى 14؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There are four dogs in the top group and three in the bottom. What do you get when put four dogs together with three more?",
+    "text": "توجد أربعة كلاب في المجموعة العليا وثلاثة في المجموعة السفلى. ما الذي تحصل عليه عندما تضع أربعة كلاب مع ثلاثة آخرين؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many tails do three monkeys have?",
+    "text": "كم عدد ذيول ثلاثة قرود؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Let's count the tails, eyes, and feet. How many tails do you count?",
+    "text": "لنعد الذيول والعيون والأقدام. كم عدد الذيول التي قمت بعدّها؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you count the eyes two at a time, two for each monkey, or would you count them three at a time, which is doubling the number of monkeys?",
+    "text": "أتعد عيونها عينين في الوقت عينه، اثنتين لكل قرد أم تعدها ثلاثا في كل مرة وهو ضعف عدد القرود؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "You have many choices for skip counting their feet. What are your choices and which one would you choose to use?",
+    "text": "لديك العديد من الخيارات لعدّ أقدامها بالتخطي. ما هي اختياراتك وأي منها تفضل أن تستخدم؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many eyes do six cats have?",
+    "text": "كم عدد عيون ست قطط؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Wow, these cats are a bit creepy! Did you skip count the eyes by 2's or 6's?",
+    "text": "واو، هذه القطط مخيفة بعض الشيء! هل عددت العيون بالتخطي بمقدار 2 أو 6؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many whiskers does each cat have? Can you count high enough to skip count all the whiskers?",
+    "text": "كم عدد الشوارب التي تمتلكها كل قطة؟ هل يمكنك العد بالتخطي بدرجة كافية لحساب عدد الشوارب؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Can you skip count high enough to count all the feet?",
+    "text": "هل يمكنك العد بالتخطي بدرجة كافية لحساب كل الأقدام؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many legs does one worm have?",
+    "text": "كم عدد الأرجل التي تمتلكها الدودة الواحدة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Can you count all those legs, or is it too tricky to see or too high to count?",
+    "text": "هل يمكنك عد كل تلك الأرجل، أم أن رؤيتها صعبة للغاية أو أن عددها مرتفع جدًا بحيث لا يمكن عدها؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Think of some other things that are just too many to count.",
+    "text": "فكر في بعض الأشياء الأخرى التي لا يمكن إحصاؤها.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Skip counting can be fun because it gets you to the answer much more quickly than counting by 1's. It's also fun to discover the different step sizes that give you the same answer.",
+    "text": "يمكن أن يكون العد التخطي أمرًا ممتعًا لأنه يوصلك إلى الإجابة بسرعة أكبر بكثير من العد بالرقم 1. ومن الممتع أيضًا اكتشاف الخطوات المختلفة التي تمنحك نفس الإجابة.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Mod the toad was tired of living in water.",
     "text": "لقد سئمت الضفدعة مود من العيش في الماء.",
     "type": "data_list",
@@ -6698,6 +7202,198 @@
   {
     "SourceText": "Have you ever gone to a pond, river, or lake to explore water life?",
     "text": "هل سبق لك أن ذهبت إلى بركة أو نهر أو بحيرة لاستكشاف الحياة المائية؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I love forests!",
+    "text": "أنا أحب الغابات!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What are some great things about forests?",
+    "text": "ما هي بعض الأشياء الرائعة عن الغابات.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There are many types of places. For example, there are deserts, hills, beaches, canyons, mesas, and mountain slopes. What are some of your favorite places?",
+    "text": "هناك أنواع عديدة من الأماكن. على سبيل المثال، هناك الصحاري والتلال والشواطئ والأودية والهضاب والمنحدرات الجبلية. ما هي بعض الأماكن المفضلة لديك؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many of the trees in this picture can you count? Can you count that high?",
+    "text": "كم عدد الأشجار التي يمكنك عدها في هذه الصورة؟ هل يمكنك العد بهذا الارتفاع؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Last week I went to Kibale forest.",
+    "text": "ذهبت الأسبوع الماضي إلى غابة كيبالي.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Kibale National Park is a rain forest in Western Uganda near the center of Africa. It is a sanctuary for a large variety of primates, wildlife, and vegetation.",
+    "text": "منتزه كيبالي الوطني عبارة عن غابة مطيرة في غرب أوغندا بالقرب من وسط أفريقيا. إنه ملاذ لمجموعة كبيرة ومتنوعة من الرئيسيات والحياة البرية والنباتات.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Are there parks or natural areas that you like to visit?",
+    "text": "هل هناك حدائق أو مناطق طبيعية تحب زيارتها؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Which do you find more interesting to see: plants and trees or lots of animals?",
+    "text": "ما الذي تجده أكثر إثارة للاهتمام: النباتات والأشجار أم الكثير من الحيوانات؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I saw many trees. I saw Fig, Muvule, Palm, and Ebony trees.",
+    "text": "رأيت العديد من الأشجار. رأيت أشجار التين والموفول والنخل والأبنوس.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This picture shows plains with mountains in the distance. Do you think a mixture of living areas will be good for creating a mixture of plants and animals for the park?",
+    "text": "تظهر هذه الصورة سهولًا مع وجود جبال في الأفق. هل تعتقد أن مزيج مناطق المعيشة سيكون جيدًا لإنشاء مزيج من النباتات والحيوانات للحديقة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The story mentions four types of trees in the park. Do you see four types in this picture?",
+    "text": "تذكر القصة أربعة أنواع من الأشجار الموجودة في الحديقة. هل ترى أربعة أنواع في هذه الصورة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many types of trees can you think of near where you live?",
+    "text": "كم عدد أنواع الأشجار التي يمكنك التفكير فيها بالقرب من المكان الذي تعيش فيه؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I saw chimpanzees, baboons, and monkeys.",
+    "text": "رأيت الشمبانزي والبابون والقردة.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These adult animals are sitting in pairs, which makes them easy to count by 2's - 2, 4, 6. Adding in one more baby makes 7!",
+    "text": "تجلس هذه الحيوانات البالغة في أزواج، مما يجعل من السهل العد بمقدار 2 - 2، 4، 6. وبإضافة طفل آخر نحصل على 7!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "One more than the 6 adults is 7. If you take away the one baby, how many is one less than 7?",
+    "text": "واحد أكثر من 6 أشخاص بالغين هو 7. إذا أخذت طفلًا واحدًا، فكم هو العدد الأقل من 7 بواحد؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you think this mixture of animals would naturally be together like this, or did the artist take some liberties with the picture?",
+    "text": "هل تعتقد أنه من الطبيعي أن يكون هذا الخليط من الحيوانات معاً، أم أن الفنان أخذ بعض الحرية في الصورة.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I saw different birds. I saw crested cranes, eagles, and owls.",
+    "text": "رأيت طيورًا مختلفة. رأيت الكركي المتوج والنسور والبوم.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What about this picture -- do you think these birds would all be together like this?",
+    "text": "ماذا عن هذه الصورة - هل تعتقد أن هذه الطيور ستكون مع بعضها بهذا الشكل؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There are four birds and one fish. How many animals is that all together? How many is one more than four?",
+    "text": "هناك أربعة طيور وسمكة واحدة. كم عدد الحيوانات مجتمعة؟ كم هو واحد أكثر من أربعة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The story mentions three types of birds and shows us four birds. Do you think two of these birds are of the same type? If so, which two?",
+    "text": "تذكر القصة ثلاثة أنواع من الطيور وتبين لنا أربعة طيور. هل تعتقد أن اثنتين من هذه الطيور من نفس النوع؟ إذا كان الأمر كذلك، أي اثنتين؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I laughed when I saw a big elephant with a little tail.",
+    "text": "ضحكت عندما رأيت فيلًا كبيرًا لديه ذيل صغير.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Why do you think such a large animal has such a little tail?",
+    "text": "لماذا تعتقد أن هذا الحيوان الكبير لديه مثل هذا الذيل الصغير؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The parts the elephant has two of (ears, tusks, pairs of legs, and eyes) are on opposite sides of its body, and the parts it has one of (mouth, tail, and trunk) are in the middle of its body. Are all animals like this?",
+    "text": "الأجزاء التي للفيل منها اثنان (الأذنان، والأنابان، وأزواج الأرجل، والعيون) موجودة في طرفين متقابلين من جسمه، والأجزاء التي يمتلك واحداً منها (الفم والذيل والجذع) موجودة في وسط جسمه. هل كل الحيوانات هكذا؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Can you think of an animal that doesn't have its parts  arranged about a middle line?",
+    "text": "هل يمكنك أن تتخيل حيوانًا لا تترتب أجزاؤه حول خط وسط؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "I saw so many different animals, birds, and plants.",
+    "text": "رأيت الكثير من الحيوانات والطيور والنباتات المختلفة.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Describe the animals by where they are in the picture -- some are in the air, the trees, the water, and in the grass.",
+    "text": "صف الحيوانات من خلال مكان تواجدها في الصورة، بعضها في الهواء، وفي الأشجار، وفي الماء، وفي العشب.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Count each group and then count them all together -- do you get the same result?",
+    "text": "عد كل مجموعة ثم قم بعدها معًا -- هل تحصل على نفس النتيجة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Which group has the most animals in it? Which has the least?",
+    "text": "أي المجموعة تضم حيوانات أكثر؟ أيها تصم الأقل؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Kibale forest is a good place to visit. I love forests! Do you?",
+    "text": "تعد غابة كيبالي مكانًا جيدًا للزيارة. أنا أحب الغابات! هل تحبها أيضاً؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you like to visit forests?",
+    "text": "هل تحب زيارة الغابات؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What is your favorite place to visit away from where you live?",
+    "text": "ما هو المكان المفضل لديك للزيارة بعيداً عن المكان الذي تعيش فيه؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What is your favorite spot to go to around where you live?",
+    "text": "ما هو المكان الذي تفضل الذهاب إليه في المكان الذي تعيش فيه؟",
     "type": "data_list",
     "note": ""
   },
@@ -7566,7 +8262,7 @@
     "note": ""
   },
   {
-    "SourceText": "Are you making this up, Gramps? Is this story true? \"Lory is real -- real as me, real as you.\"",
+    "SourceText": "\"Are you making this up, Gramps? Is this story true?\" \"Lory is real -- real as me, real as you.\"",
     "text": "\"هل تختلق هذا يا جدي؟ هل هذه القصة حقيقية؟\" \"لوري حقيقية - حقيقية مثلي، حقيقية مثلك.\"",
     "type": "data_list",
     "note": ""
@@ -7602,7 +8298,7 @@
     "note": ""
   },
   {
-    "SourceText": "Go back and look at all the pairs of rhyming words. Can you find a few more words that with each pair?",
+    "SourceText": "Go back and look at all the pairs of rhyming words. Can you find a few more words that go with each pair?",
     "text": "الأرضية مظللة بطيات غطاء السرير. هل ترى التجاعيد؟",
     "type": "data_list",
     "note": ""
@@ -7610,6 +8306,390 @@
   {
     "SourceText": "Some kinds of poems use rhyming words. Have you ever written a poem?",
     "text": "إنه أمر خاص عندما يقوم شخص ما باختلاق قصة ويرويها. هل تعرف أحداً يروي قصصاً كهذه؟ هل تختلق القصص وترويها؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Long time ago, animals had no legs.\n\nThey all used to crawl.",
+    "text": "منذ زمن طويل، لم تكن للحيوانات أرجل.\n\nكانت جميعها تزحف.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Imagine if you had to crawl everywhere. How hard would that be?",
+    "text": "تخيل لو كان عليك الزحف في كل مكان. ما هو مدى صعوبة ذلك؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "An estimate is an educated guess. Without counting, estimate how many spots the giraffe has. Now count the spots and see how close you came.",
+    "text": "التقدير هو تخمين مدروس. بدون العد، قم بتقدير عدد البقع الموجودة على الزرافة. الآن قم بعدّ البقع وشاهد مدى قرب تقديرك منها.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Do the estimation game with a friend. When you see a group of things, both of you make a quick estimate for the count. Now count the things and see which of you was closer.",
+    "text": "قم بلعبة التقدير مع صديق. عندما ترى مجموعة من الأشياء، يقوم كل منكما بتقدير سريع للعدد. ثم تعدان الأشياء وتنظران أيكما أقرب.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Only people had legs, which Maguru gave to them.",
+    "text": "كان البشر فقط هم من يمتلكون الأرجل، والتي أعطاها لهم ماجورو.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Arms and legs are called limbs. How many limbs does one person have? How many limbs do two people have?",
+    "text": "تسمى الأذرع والأرجل أطرافاً. كم عدد الأطراف التي يمتلكها الشخص الواحد؟ كم عدد الأطراف لدى شخصين؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "To find all the limbs for two people, you can count them by 4's as four plus four more. Another way is to count the pairs of limbs by 2's as 2, 4, 6, 8. Of course you can just count them all one at a time. Which way do you like best?",
+    "text": "للعثور على جميع الأطراف لشخصين، يمكنك حسابها بأربعة زائد أربعة آخرين. هناك طريقة أخرى وهي حساب أزواج الأطراف بمقدار 2 على أنها 2، 4، 6، 8. بالطبع يمكنك عدها جميعًا واحدة تلو الأخرى. ما هي الطريقة التي تفضلها أكثر؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There are lots of colors in this picture. Which colors of the rainbow are missing?",
+    "text": "هناك الكثير من الألوان في هذه الصورة. ما هي ألوان قوس قزح المفقودة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "One day, Maguru decided to give legs to every animal. He wanted them to walk.\n\nHe told them about it.",
+    "text": "في أحد الأيام، قرر ماجورو إعطاء أرجل لكل حيوان. أراد منهم أن يسيروا.\n\nأخبرهم بذلك.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Count as many round shapes in this picture as you can.",
+    "text": "قم بعدّ أكبر عدد ممكن من الأشكال المستديرة في هذه الصورة.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "A round shape that comes to a point is called a cone. The megaphone and the tops of the houses are all cones. Have you ever had food, such as ice cream, out of a cone?",
+    "text": "الشكل الدائري الذي يصل إلى زاوية ما يسمى مخروطًا. مكبر الصوت وأسطح المنازل كلها مخروطية. هل سبق لك أن تناولت طعامًا، مثل المثلجات، ذات شكل مخروط؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Maguru's hand has an unusual number of fingers. Who has more fingers, you or Maguru?",
+    "text": "تحتوي يد ماجورو على عدد غير عادي من الأصابع. من لديه أصابع أكثر، أنت أم ماجورو؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The animals said, \"It will be very nice to have legs.\"\n\nThey sang and danced.",
+    "text": "قالت الحيوانات: \"سيكون من الجيد جدًا أن تكون لدينا أرجل.”\n\nغنت ورقصت.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "You can dance sitting down and you can dance lying down. Have you ever tried dancing on your knees?",
+    "text": "يمكنك الرقص وأنت جالس ويمكنك الرقص وأنت مستلقي. هل سبق لك أن حاولت الرقص على ركبتيك؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These animals can be grouped in many ways. Some have ears and some do not seem to. Some have bodies with just one color and others do not. Some have skinny tails and others do not. Can you think of some other groupings?",
+    "text": "يمكن تجميع هذه الحيوانات بعدة طرق. البعض لديه آذان والبعض الآخر لا. لدى البعض أجسام ذات لون واحد فقط والبعض الآخر لا. البعض لديه ذيول نحيفة والبعض الآخر لا. هل يمكنك التفكير في بعض المجموعات الأخرى؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Grouping things using their properties is an important way we understand things in the world. What are some of your most important properties?",
+    "text": "يعد تجميع الأشياء باستخدام خصائصها طريقة مهمة لفهم الأشياء في العالم. ما هي بعض أهم خصائصك؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The animals said it was hard to crawl.\n\nThey felt pain.",
+    "text": "قالت الحيوانات أنه كان من الصعب الزحف.\n\nكانت تشعر بالألم.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Would you rather crawl or walk?",
+    "text": "هل تفضل الزحف أم المشي؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you think the mouse will get legs long enough to put him in the clouds?",
+    "text": "هل تعتقد أن الفأر سيكون له أرجل طويلة بما يكفي ليصل إلى السحاب؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Why do you think the crocodile has band-aids on?",
+    "text": "لماذا تعتقد أن التمساح يرتدي ضمادات؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "When the day came, many animals went to Maguru's house.\n\nGiraffes, lions, elephants, rabbits, crocodiles, and birds stood in a line.",
+    "text": "عندما جاء اليوم، ذهبت العديد من الحيوانات إلى منزل ماجورو.\n\nوقفت الزرافات والأسود والفيلة والأرانب والتماسيح والطيور في صف.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "That's a very long line! Estimate how many animals are in that line.",
+    "text": "هذا صف طويل جدا! قدّر عدد الحيوانات الموجودة في هذا الصف.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Count all the animals and see how close your estimate was. Can you count that high? Was it too high, too low, or exactly right?",
+    "text": "قم بعدّ جميع الحيوانات وانظر إلى أي مدى كان تقديرك قريبًا. هل يمكنك العد بهذا الارتفاع؟ هل كان تقديرك مرتفعاً جدًا أم منخفضاً جدًا أم صحيحاً تمامًا؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you see any animals going down? Do you think there is a different path on the backside of the mountain for going down?",
+    "text": "هل رأيت أي حيوانات تنزل؟ هل تعتقد أن هناك طريقًا مختلفًا في الجزء الخلفي من الجبل للنزول؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Each animal was given four legs.\n\nBirds were given two legs each.",
+    "text": "أعطيت أربعة أرجل لكل حيوان.\n\nأعطيت رجلان لكل طير.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Birds are animals, so why are they being treated differently than the other animals?",
+    "text": "الطيور حيوانات فلماذا تتم معاملتها بشكل مختلف عن الحيوانات الأخرى؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many fewer feet did birds get than the other animals?",
+    "text": "حصلت الطيور على كم رجل أقل من الحيوانات الأخرى؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If you were a bird, would you feel short-changed getting only two feet, or do you think having two feet is more fun than having four?",
+    "text": "لو كنت طائرًا، هل ستشعر بالنقص لحصولك على رجلين فقط، أم تعتقد أن امتلاك رجلين أكثر متعة من امتلاك أربعة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Everything was different after they got legs.\n\nSome danced for joy. Others fell down.",
+    "text": "كل شيء أصبح مختلفاً بعد حصولها على أرجل.\n\nرقص بعضها من الفرح. وسقط بعضها الآخر.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Look at their faces. What are the different feelings these animals have?",
+    "text": "انظر إلى وجوهها. ما هي المشاعر المختلفة التي تشعر بها هذه الحيوانات؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Some of the animals are having trouble with their new legs. Is it fun for you when you try something new, or is it frustrating sometimes? What is something new you tried that was difficult for you?",
+    "text": "تعاني بعض الحيوانات من مشكلة في أرجلها الجديدة. هل من الممتع بالنسبة لك تجربة شيء جديد، أم أنه محبط في بعض الأحيان؟ ما هو الشيء الجديد الذي جربته وصعب عليك؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many of these animals have four legs and how many have two? What is the total number of legs on this page?",
+    "text": "كم من هذه الحيوانات لديه أربع أرجل وكم منها لديه اثنتان؟ ما هو إجمالي عدد الأرجل في هذه الصفحة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "They went to show people.\n\nThe animals said, \"We will never crawl again.\"",
+    "text": "ذهبت لتري البشر.\n\nقالت الحيوانات: “لن نزحف مرة أخرى.”",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "People are animals and only have two legs. According to this story, does that mean that people are birds?",
+    "text": "البشر حيوانات وليس لديهم سوى رجلين. فهل يعني هذا بحسب هذه القصة أن الناس طيور؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Is it possible for two types of animals to have a property in common, such as having two legs, and still be different? How much do two things have to have in common to be the same?",
+    "text": "هل من الممكن أن يكون لنوعين من الحيوانات خاصية مشتركة، مثل أن يكون لهما رجلان، ويظلان مختلفين؟ ما هو القدر المشترك بين شيئين ليكونا متماثلين؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "One of these animals has four legs, but it is standing on two of them. Which one is it?",
+    "text": "لواحد من هذه الحيوانات أربع أرجل ولكنه يقف على اثنتين منها. أي واحد هو؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The last one in the line was Millipede. Maguru asked, \"Is there anyone else after you?\"\n\nMillipede answered, \"No, I am the last one.\"",
+    "text": "كانت الدودة آخر واحدة في الطابور. سأل ماجورو: \"هل هناك أحد بعدك؟”\n\nأجابت الدودة: \"لا، أنا الأخيرة.\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "When you are in line and there is no one after you, you are the last one. Where are you in line if there is no one before you?",
+    "text": "عندما تكون في الصف ولا يوجد أحد بعدك، فأنت الأخير. أين أنت من الصف إذا لم يكن قبلك أحد؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Why was it important to Maguru that Millipede is last? Do you think Maguru is tired of giving legs to animals?",
+    "text": "لماذا كان من المهم بالنسبة إلى ماجورو أن تكون الدودة هي الأخيرة؟ هل تعتقد أن ماجورو سئم من إعطاء الأرجل للحيوانات؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What do you think will happen next?",
+    "text": "ماذا تعتقد سوف يحدث بعد ذلك؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Maguru thought, \"He is the last one. What will I do with the rest of the legs?\"\n\nMaguru gave Millipede all the remaining legs.",
+    "text": "فكر ماجورو: \"إنها الأخيرة. ماذا سأفعل ببقية الأرجل؟”\n\nأعطى ماجورو للدودة كل الأرجل المتبقية.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Millipede looks very happy to have so many legs. Would you like to have that many legs?",
+    "text": "تبدو الدودة الألفية سعيدة جدًا لامتلاكها هذا العدد من الأرجل. هل ترغب في الحصول على هذا العدد من الأرجل؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If you had so many legs, think of all the shoes you would need. Tying your shoes in the morning would take forever!",
+    "text": "إذا كان لديك الكثير من الأرجل، فكر في كل الأحذية التي قد تحتاجها. ربط حذائك في الصباح سيستغرق إلى الأبد!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Can you count high enough to count all of Millipede's feet? Millipede's name means \"thousand feet.\" The record for a millipede is 750 feet, so the name is not exactly correct.",
+    "text": "هل يمكنك العد عاليًا بما يكفي لحساب كل أقدام الدودة الألفية؟ اسم الدودة الألفية يعني \"ذات الألف رجل\". الرقم القياسي للديدان الألفية هو 750 قدمًا، لذا فإن الاسم ليس صحيحًا تمامًا.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Millipede was very happy. He said, \"I will move faster than others.\"",
+    "text": "كانت الدودة الألفية سعيدة جدًا. قالت: \"أنا أسرع من غيري.\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you think an animal moves faster because it has more feet? Can you think of four-legged animals that move more slowly than people?",
+    "text": "هل تعتقد أن الحيوان يتحرك بشكل أسرع لأن عدد أقدامه أكبر؟ هل يمكنك التفكير في حيوانات ذات أربع أرجل تتحرك بشكل أبطأ من البشر؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Have you ever seen a millipede? They do not move very quickly at all! Why do you suppose they are so slow?",
+    "text": "هل سبق لك أن رأيت الديدان الألفية؟ إنها لا تتحرك بسرعة كبيرة على الإطلاق! لماذا تفترض أنها بطيئة جدًا؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Clouds often look like the clouds in this picture; they have flat bottoms and fluffy tops. Do you have any ideas on why that would be?",
+    "text": "غالبًا ما تبدو الغيوم مثل الغيوم في هذه الصورة؛ لديها قيعان مسطحة وقمم رقيقة. هل لديك أي فكرة حول سبب ذلك؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "After Millipede left, Snake came to Maguru's house. He said to Maguru, \"Please give me some legs.\"",
+    "text": "بعد مغادرة الدودة الألفية، جاءت الأفعى إلى منزل ماجورو. قالت لماجورو، \"من فضلك أعطني بعض الأرجل.\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Uh oh! There are no more legs and Snake needs some. How would you solve this problem?",
+    "text": "اه أوه! لم يعد هناك المزيد من الأرجل والأفعى تحتاج إلى بعض منها. كيف يمكنك حل هذه المشكلة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Rectangles are shapes with four straight sides that look like this page. How many rectangles can you find on this page?",
+    "text": "المستطيلات هي أشكال ذات أربعة جوانب مستقيمة تشبه هذه الصفحة. كم عدد المستطيلات التي يمكنك العثور عليها في هذه الصفحة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Squares are rectangles with four equal sides. Can you find the rectangle on this page that is a square?",
+    "text": "المربعات عبارة عن مستطيلات ذات أربعة أضلاع متساوية. هل يمكنك العثور على المستطيل المربع في هذه الصفحة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Maguru said, \"I have given out all the legs. Where were you?\"\n\nSnake answered, \"I overslept.\"",
+    "text": "قال ماجورو: \"لقد انتهت كل الأرجل. أين كنت؟”\n\nأجابت الأفعى: \"لقد أفرطت في النوم.\"",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Look at their faces. How do they feel?",
+    "text": "انظر إلى وجهيهما. كيف يشعران؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Have you ever overslept? Was it fun to sleep in, or did you feel guilty about sleeping so long?",
+    "text": "هل سبق لك أن أفرطت في النوم؟ هل كان النوم ممتعًا أم أنك شعرت بالذنب بسبب النوم لفترة طويلة؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Can you count all the stripes on this page? Can you count that high?",
+    "text": "هل يمكنك حساب جميع الخطوط الموجودة في هذه الصفحة؟ هل يمكنك العد بهذا الارتفاع؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Maguru looked to see if there were legs remaining.\n\nHe did not find any.",
+    "text": "نظر ماجورو ليرى ما إذا كانت هناك أرجل متبقية.\n\nلم يجد أياً منها.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Describe some of the rectangles on this page. Are any of  them squares?",
+    "text": "صف بعض المستطيلات في هذه الصفحة. هل أي منها مربع؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "When you can only see part of something that has a stripe, it can look like a rectangle. Describe a few of those on this page.",
+    "text": "عندما لا يمكنك رؤية سوى جزء من شيء يحتوي على شريط، فقد يبدو كمستطيل. قم بوصف عدد قليل من تلك الموجودة في هذه الصفحة.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There are no legs where Maguru looked. When you have none of something, you have 0 of them. Zero is a very useful number for describing not having anything. Name some silly things that you have zero of!",
+    "text": "لا توجد أرجل حيث نظر ماجورو. عندما لا يكون لديك أي شيء، يكون لديك 0 منه. الصفر هو رقم مفيد جدًا لوصف عدم وجود أي شيء. اذكر بعض الأشياء السخيفة التي ليس لديك أي منها!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Maguru said to Snake, \"Sorry. There are no legs left.\" Snake crawled home without legs.\n\nFrom that day, Snake does not sleep much. He is waiting to be first in line to get legs.",
+    "text": "قال ماجورو للأفعى: \"آسف. لم تعد هناك أرجل متبقية.\" زحفت الأفعى إلى المنزل بدون أرجل.\n\nمنذ ذلك اليوم، لم تعد الأفعى تنام كثيرًا. إنها تنتظر أن تكون في الأولى في الصف للحصول على أرجل.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "It is a very sad day for Snake! Have you ever been sad that others got something that you did not? Were you happy for the others, or just sad that you were left out?",
+    "text": "إنه يوم حزين للغاية بالنسبة للأفعى! هل حزنت يومًا لأن الآخرين حصلوا على شيء لم تحصل عليه؟ هل كنت سعيدًا من أجل الآخرين، أم حزينًا لأنك استُبعدت؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Can you think of some other animals that have zero legs?",
+    "text": "هل يمكنك التفكير في بعض الحيوانات الأخرى التي ليست لها أرجل؟",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There is a cloud next to Maguru that is quite strange! The cloud is between Snake and Maguru's home. It must be a very tiny cloud!",
+    "text": "هناك سحابة غريبة جداً بجوار ماجورو! السحابة بين منزل الأفعى و ماجورو. لا بد أنها سحابة صغيرة جدًا!",
     "type": "data_list",
     "note": ""
   },
@@ -8634,6 +9714,12 @@
     "note": ""
   },
   {
+    "SourceText": "The average speed of a tortoise is about 20 times faster than a snail. The average speed of a person is about five times faster than a tortoise.",
+    "text": "متوسط ​​سرعة السلحفاة أسرع بحوالي 20 مرة من الحلزون. متوسط ​​سرعة الإنسان أسرع بحوالي خمس مرات من السلحفاة.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Why did the story mention where the sun is? Do you think something interesting is going to happen with the sun?",
     "text": "لماذا ذكرت القصة مكان الشمس؟ هل تعتقد أن شيئًا مثيرًا للاهتمام سيحدث مع الشمس؟",
     "type": "data_list",
@@ -8664,8 +9750,8 @@
     "note": ""
   },
   {
-    "SourceText": "The average speed of a tortoise is about 20 times faster than a snail. The average speed of a person is about five times faster than a tortoise.",
-    "text": "متوسط ​​سرعة السلحفاة أسرع بحوالي 20 مرة من الحلزون. متوسط ​​سرعة الإنسان أسرع بحوالي خمس مرات من السلحفاة.",
+    "SourceText": "He flapped his wings and he whizzed away. \"But you’re going too fast for me,\" complained Tortoise. Sparrow came back. \"Alright, then I’ll hop on too.\"",
+    "text": "رفرف بجناحيه وانطلق بعيدًا. اشتكت السلحفاة قائلة: \"لكنك تسير بسرعة كبيرة جدًا بالنسبة لي\". عاد الدوري. \"حسنًا، إذاً سأقفز أيضًا.\"",
     "type": "data_list",
     "note": ""
   },
@@ -10123,7 +11209,7 @@
   },
   {
     "SourceText": "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. For example, \"Where is the ball?\" If your child can't find the thing, point to it for them.",
-    "text": "وقم بتسميتها ووصفها، مثل الأشكال والألوان والمقارنات والكميات. عندما يبدأ طفلك في فهم الكلمات، اسأل عن شيء ما واطلب من طفلك أن يشير إليه. على سبيل المثال، \"أين الكرة؟\" إذا لم يتمكن طفلك من العثور على الشيء، فأشر إليه.",
+    "text": "تحدث مع طفلك قبل أن يتمكن من التحدث أو حتى فهم الكلمات. أشر إلى الأشياء التي تراها وقم بتسميتها ووصفها، مثل الأشكال والألوان والمقارنات والكميات. عندما يبدأ طفلك في فهم الكلمات، اسأل عن شيء ما واطلب من طفلك أن يشير إليه. على سبيل المثال، \"أين الكرة؟\" إذا لم يتمكن طفلك من العثور على الشيء، فأشر إليه.",
     "type": "template",
     "note": ""
   },

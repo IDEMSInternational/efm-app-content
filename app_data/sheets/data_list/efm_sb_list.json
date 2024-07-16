@@ -634,7 +634,11 @@
       "book_level": "beginner",
       "title": "Pendo, Our Cow",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
         "math_themes_words": {
           "es_es": true,
           "fr_fr": true,
@@ -759,7 +763,11 @@
           "fr_fr": true,
           "kw_ar": true
         },
-        "math_themes_words": {}
+        "math_themes_words": {
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -812,7 +820,11 @@
       "book_level": "intermediate",
       "title": "A Dancer's Tale",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
         "math_themes_words": {
           "es_es": true,
           "fr_fr": true,
@@ -1081,11 +1093,13 @@
       "_translations": {
         "title": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "math_themes_words": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -1110,11 +1124,13 @@
       "_translations": {
         "title": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "math_themes_words": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -1259,11 +1275,13 @@
       "_translations": {
         "title": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         },
         "math_themes_words": {
           "es_es": true,
-          "fr_fr": true
+          "fr_fr": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {

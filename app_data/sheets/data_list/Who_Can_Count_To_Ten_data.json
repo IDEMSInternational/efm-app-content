@@ -133,7 +133,10 @@
       "illustration": "EFMStorybooks/EFM-SB-WCCTT-4.jpg",
       "story_text": "He cleared his throat and said, \"I've been thinking that it's time for me to pick a successor. But because I love all of you equally, I can't decide who among you is most worthy. So I've decided to let a contest decide for me.\"",
       "_translations": {
-        "story_text": {},
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -384,7 +387,10 @@
           "es_es": true,
           "fr_fr": true
         },
-        "annotation_2": {},
+        "annotation_2": {
+          "es_es": true,
+          "fr_fr": true
+        },
         "annotation_3": {
           "es_es": true,
           "fr_fr": true

@@ -10,7 +10,9 @@
       "block1_type": "all_text",
       "title": "1.0 Stage 1 Introduction",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "block1_text": {}
       },
       "_translatedFields": {
@@ -246,7 +248,9 @@
       "block1_type": "all_text",
       "title": "2.0 Stage 2 Introduction",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "block1_text": {}
       },
       "_translatedFields": {
@@ -482,7 +486,9 @@
       "block1_type": "all_text",
       "title": "3.0 Stage 3 Introduction",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "block1_text": {}
       },
       "_translatedFields": {
@@ -709,7 +715,9 @@
       "block1_type": "all_text",
       "title": "4.0 Stage 4 Introduction",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "block1_text": {}
       },
       "_translatedFields": {
@@ -927,7 +935,9 @@
       "block1_type": "all_text",
       "title": "5.0 Stage 5 Introduction",
       "_translations": {
-        "title": {},
+        "title": {
+          "es_es": true
+        },
         "block1_text": {}
       },
       "_translatedFields": {

@@ -133,7 +133,10 @@
       "illustration": "EFMStorybooks/EFM-SB-CAP-4.jpg",
       "story_text": "\"What work can you do?\" the woman asked. The friends responded, \"We can provide food for your family and animals.\"\n\nThe woman asked, \"What do you need to provide the food?\" \"Give us land, water and good care,\" they replied.",
       "_translations": {
-        "story_text": {},
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -335,7 +338,10 @@
       "illustration": "EFMStorybooks/EFM-SB-CAP-9.jpg",
       "story_text": "\"My stems are used for planting. My leaves and peels feed your animals. What does Palm tree do?\" asked Cassava.",
       "_translations": {
-        "story_text": {},
+        "story_text": {
+          "es_es": true,
+          "fr_fr": true
+        },
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -455,7 +461,9 @@
       "illustration": "EFMStorybooks/EFM-SB-CAP-12.jpg",
       "story_text": "\"In addition, my friends provide shade for your huts. You cool your heart with my sweet, rich, foamy palm wine after your hard day's work.\"",
       "_translations": {
-        "story_text": {},
+        "story_text": {
+          "fr_fr": true
+        },
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -493,7 +501,9 @@
       "illustration": "EFMStorybooks/EFM-SB-CAP-13.jpg",
       "story_text": "\"Above all, the brooms that are used to sweep the rooms and compounds come from me,\" concluded Palm.",
       "_translations": {
-        "story_text": {},
+        "story_text": {
+          "fr_fr": true
+        },
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
@@ -572,7 +582,9 @@
       "illustration": "EFMStorybooks/EFM-SB-CAP-15.jpg",
       "story_text": "\"Both of you are very important to me. The two of you together make a delicious meal, fufu and palm nut soup!\" said the woman.",
       "_translations": {
-        "story_text": {},
+        "story_text": {
+          "fr_fr": true
+        },
         "annotation_1": {
           "es_es": true,
           "fr_fr": true
