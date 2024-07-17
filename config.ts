@@ -34,8 +34,8 @@ config.app_config.APP_LANGUAGES_META = { kw_ar: { rtl: true } };
 config.app_config.APP_HEADER_DEFAULTS.title = "Early Family Math";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "EFM";
 config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from Early Family Math";
-config.app_config.APP_THEMES.available = ["professional", "early_family_math"];
-config.app_config.APP_THEMES.defaultThemeName = "professional";
+config.app_config.APP_THEMES.available = ["default", "professional", "early_family_math"];
+config.app_config.APP_THEMES.defaultThemeName = "default";
 config.app_config.APP_UPDATES.enabled = true;
 config.app_config.APP_UPDATES.completeUpdateTemplate = "app_update_complete";
 
