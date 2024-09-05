@@ -7,8 +7,12 @@
       "type": "step",
       "title": "Math Learning Steps",
       "_translations": {
-        "title": {},
-        "message_text": {}
+        "title": {
+          "cn_zh": true
+        },
+        "message_text": {
+          "cn_zh": true
+        }
       },
       "message_text": "Each Stage of learning is divided into ten basic learning steps. Each step describes what your child is learning, how you can help with that learning, and how the steps are connected with each other.",
       "template_component_name": "dg_mls_stages",
@@ -19,9 +23,11 @@
       "title": "Help",
       "_translations": {
         "title": {
+          "cn_zh": true,
           "es_es": true
         },
         "message_text": {
+          "cn_zh": true,
           "es_es": true
         }
       },

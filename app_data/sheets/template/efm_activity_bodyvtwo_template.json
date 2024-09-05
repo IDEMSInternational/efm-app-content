@@ -12,7 +12,10 @@
       "name": "block_chars",
       "value": "block",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "block_chars"
@@ -76,6 +79,7 @@
       "value": "Read Bonus Material",
       "_translations": {
         "value": {
+          "cn_zh": true,
           "es_es": true
         }
       },
@@ -86,7 +90,10 @@
       "name": "remove_paragraph_space",
       "value": "margin-top: -5px",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "remove_paragraph_space"
@@ -95,7 +102,10 @@
       "name": "paragraph_space",
       "value": "margin-top: 0px",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "paragraph_space"
@@ -344,7 +354,10 @@
               "name": "paragraph_space",
               "value": "margin-top: 0px",
               "_translations": {
-                "value": {}
+                "value": {
+                  "cn_zh": true,
+                  "es_es": true
+                }
               },
               "type": "set_variable",
               "_nested_name": "run_through_body_sections.display_group_8.paragraph_space"

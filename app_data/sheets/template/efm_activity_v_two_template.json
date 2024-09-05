@@ -182,6 +182,7 @@
       "value": "Stage",
       "_translations": {
         "value": {
+          "cn_zh": true,
           "es_es": true
         }
       },

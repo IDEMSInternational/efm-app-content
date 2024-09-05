@@ -8,7 +8,9 @@
       "name": "title",
       "value": "Syncing",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true
+        }
       },
       "_nested_name": "title"
     },
@@ -72,7 +74,9 @@
       "name": "syncing",
       "value": "Syncing...",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "syncing"
@@ -88,7 +92,9 @@
       "name": "copy",
       "value": "Copy",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "copy"
@@ -97,7 +103,9 @@
       "name": "copied",
       "value": "Copied!",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "copied"
@@ -203,7 +211,10 @@
       "name": "last_sync_text",
       "value": "Last sync at: @local.sync_latest",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
       },
       "condition": "@local.sync_latest",
       "_nested_name": "last_sync_text",
@@ -237,7 +248,9 @@
       "name": "not_synced_text",
       "value": "This device has never been synced.",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true
+        }
       },
       "condition": "!@local.sync_latest",
       "_nested_name": "not_synced_text",
@@ -262,7 +275,9 @@
       "name": "sync_button",
       "value": "Sync now",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true
+        }
       },
       "action_list": [
         {

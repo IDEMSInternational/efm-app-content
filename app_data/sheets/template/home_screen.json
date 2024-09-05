@@ -36,6 +36,7 @@
           "value": "Welcome!",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -219,6 +220,7 @@
           "value": "Storybooks",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -341,6 +343,7 @@
           "value": "Storybooks",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -551,6 +554,7 @@
           "value": "Activities",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -673,6 +677,7 @@
           "value": "Activities",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -882,7 +887,9 @@
           "name": "math_learning_steps",
           "value": "Math Learning Steps",
           "_translations": {
-            "value": {}
+            "value": {
+              "cn_zh": true
+            }
           },
           "action_list": [
             {
@@ -1002,7 +1009,9 @@
           "name": "math_learning_steps",
           "value": "Math Learning Steps",
           "_translations": {
-            "value": {}
+            "value": {
+              "cn_zh": true
+            }
           },
           "action_list": [
             {
@@ -1210,7 +1219,9 @@
           "name": "button_playdates",
           "value": "Playdates",
           "_translations": {
-            "value": {}
+            "value": {
+              "cn_zh": true
+            }
           },
           "action_list": [
             {
@@ -1330,7 +1341,9 @@
           "name": "button_playdates",
           "value": "Playdates",
           "_translations": {
-            "value": {}
+            "value": {
+              "cn_zh": true
+            }
           },
           "action_list": [
             {

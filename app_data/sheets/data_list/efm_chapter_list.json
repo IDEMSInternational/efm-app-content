@@ -10,6 +10,7 @@
       "title": "Stage 1 — I Can Hear You!",
       "_translations": {
         "title": {
+          "cn_zh": true,
           "es_es": true
         }
       },
@@ -25,6 +26,7 @@
       "title": "Stage 2 — I Can Count to 5!",
       "_translations": {
         "title": {
+          "cn_zh": true,
           "es_es": true
         }
       },
@@ -40,6 +42,7 @@
       "title": "Stage 3 — I Can Count to 10!",
       "_translations": {
         "title": {
+          "cn_zh": true,
           "es_es": true
         }
       },
@@ -55,6 +58,7 @@
       "title": "Stage 4 — I Can Count to 20!",
       "_translations": {
         "title": {
+          "cn_zh": true,
           "es_es": true
         }
       },
@@ -70,6 +74,7 @@
       "title": "Stage 5 — I Can Count to 100!",
       "_translations": {
         "title": {
+          "cn_zh": true,
           "es_es": true
         }
       },

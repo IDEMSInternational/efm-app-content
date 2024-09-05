@@ -12,7 +12,9 @@
           "name": "spacer",
           "value": "Playdates",
           "_translations": {
-            "value": {}
+            "value": {
+              "cn_zh": true
+            }
           },
           "style_list": [
             "flex:1"

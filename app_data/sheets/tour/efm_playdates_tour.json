@@ -7,8 +7,12 @@
       "type": "step",
       "title": "Playdates",
       "_translations": {
-        "title": {},
-        "message_text": {}
+        "title": {
+          "cn_zh": true
+        },
+        "message_text": {
+          "cn_zh": true
+        }
       },
       "message_text": "Each Stage has ten playdates for your family to enjoy with a group of other families. Each playdate has suggested storybooks and activities to enjoy together during the playdate. The playdates correspond to the ten math learning steps for each Stage. Links are provided to give direct and easy access to each of those resources.",
       "template_component_name": "dg_playdate_stages",
@@ -19,9 +23,11 @@
       "title": "Help",
       "_translations": {
         "title": {
+          "cn_zh": true,
           "es_es": true
         },
         "message_text": {
+          "cn_zh": true,
           "es_es": true
         }
       },

@@ -8,9 +8,11 @@
       "title": "Bonus Material",
       "_translations": {
         "title": {
+          "cn_zh": true,
           "es_es": true
         },
         "message_text": {
+          "cn_zh": true,
           "es_es": true
         }
       },
