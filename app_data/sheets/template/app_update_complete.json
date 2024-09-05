@@ -8,7 +8,10 @@
       "name": "text",
       "value": "EFM App has downloaded an update. Please restart the app to finish installation.",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
       },
       "_nested_name": "text"
     },
@@ -17,7 +20,10 @@
       "name": "button",
       "value": "Restart",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
       },
       "action_list": [
         {

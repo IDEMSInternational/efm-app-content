@@ -12,7 +12,10 @@
       "name": "block_chars",
       "value": "block",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
       },
       "exclude_from_translation": true,
       "type": "set_variable",
@@ -42,7 +45,10 @@
       "name": "remove_paragraph_space",
       "value": "margin-top: -5px",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
       },
       "exclude_from_translation": true,
       "type": "set_variable",
@@ -57,7 +63,10 @@
       "name": "paragraph_space",
       "value": "margin-top: 0px",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
       },
       "exclude_from_translation": true,
       "type": "set_variable",
@@ -478,7 +487,10 @@
           "name": "accordion_label_1",
           "value": "Activity list",
           "_translations": {
-            "value": {}
+            "value": {
+              "cn_zh": true,
+              "es_es": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "sb_and_act_accordions.accordion_label_1"
@@ -487,7 +499,10 @@
           "name": "accordion_label_2",
           "value": "Storybook list",
           "_translations": {
-            "value": {}
+            "value": {
+              "cn_zh": true,
+              "es_es": true
+            }
           },
           "type": "set_variable",
           "_nested_name": "sb_and_act_accordions.accordion_label_2"
@@ -1218,7 +1233,10 @@
       "name": "mls_info",
       "value": "**Math Learning Step**",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
       },
       "condition": "@local.mls_id",
       "parameter_list": {
@@ -1474,6 +1492,7 @@
       "value": "**Storybook**",
       "_translations": {
         "value": {
+          "cn_zh": true,
           "es_es": true
         }
       },
@@ -2033,7 +2052,10 @@
       "name": "activity_info",
       "value": "**Activities**",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
       },
       "condition": "@local.act_one_id",
       "parameter_list": {

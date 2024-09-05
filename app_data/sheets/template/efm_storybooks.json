@@ -13,6 +13,7 @@
           "value": "Storybooks",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -56,6 +57,7 @@
       "value": "Beginning",
       "_translations": {
         "value": {
+          "cn_zh": true,
           "es_es": true
         }
       },
@@ -67,6 +69,7 @@
       "value": "Intermediate",
       "_translations": {
         "value": {
+          "cn_zh": true,
           "es_es": true
         }
       },
@@ -77,7 +80,10 @@
       "name": "description_advance",
       "value": "Advanced",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "description_advance"
@@ -291,6 +297,7 @@
           "value": "**Beginning Storybooks**",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -644,6 +651,7 @@
           "value": "**Intermediate Storybooks**",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -996,7 +1004,9 @@
           "name": "advanced_sb_text",
           "value": "**Advanced Storybooks**",
           "_translations": {
-            "value": {}
+            "value": {
+              "cn_zh": true
+            }
           },
           "_nested_name": "dg_advanced_sb.advanced_sb_text"
         },

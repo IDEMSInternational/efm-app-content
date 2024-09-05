@@ -13,6 +13,7 @@
           "value": "Activities",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -63,6 +64,7 @@
           "value": "Introductions",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -74,6 +76,7 @@
           "value": "Games",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -85,6 +88,7 @@
           "value": "Puzzles",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -96,6 +100,7 @@
           "value": "Activities",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -107,6 +112,7 @@
           "value": "Investigations",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true,
               "fr_fr": true
             }
@@ -594,6 +600,7 @@
           "value": "Individually",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -605,6 +612,7 @@
           "value": "By topic",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -784,6 +792,7 @@
           "value": "**Stages**",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -960,6 +969,7 @@
           "value": "**Bonus Material**",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },
@@ -1120,6 +1130,7 @@
           "value": "Bonus Material — Activities",
           "_translations": {
             "value": {
+              "cn_zh": true,
               "es_es": true
             }
           },

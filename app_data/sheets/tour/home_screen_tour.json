@@ -8,9 +8,12 @@
       "title": "Welcome!",
       "_translations": {
         "title": {
+          "cn_zh": true,
           "es_es": true
         },
-        "message_text": {}
+        "message_text": {
+          "cn_zh": true
+        }
       },
       "message_text": "Enjoy reading and playing with math together! The best way to learn and experience math is in a social and playful way. Early Family Math has created four kinds of materials for your family to enjoy together.",
       "route": "template/home_screen"
@@ -20,9 +23,12 @@
       "title": "Storybooks",
       "_translations": {
         "title": {
+          "cn_zh": true,
           "es_es": true
         },
-        "message_text": {}
+        "message_text": {
+          "cn_zh": true
+        }
       },
       "message_text": "These storybooks are for an adult to read to a child. They have math comments and guiding questions on every page. Help your child grow mathematically and create strong associations of math with the happy, cozy experience of reading together!",
       "template_component_name": "dg_storybooks",
@@ -33,9 +39,11 @@
       "title": "Activities",
       "_translations": {
         "title": {
+          "cn_zh": true,
           "es_es": true
         },
         "message_text": {
+          "cn_zh": true,
           "es_es": true
         }
       },
@@ -47,8 +55,12 @@
       "type": "step",
       "title": "Math Learning Steps",
       "_translations": {
-        "title": {},
-        "message_text": {}
+        "title": {
+          "cn_zh": true
+        },
+        "message_text": {
+          "cn_zh": true
+        }
       },
       "message_text": "Have you ever wondered what the beginning learning steps are for math, and how they connect with each other? Here are brief descriptions of the ten math learning steps your child will be experiencing as they go through each of the five Stages.",
       "template_component_name": "dg_math_learning_steps",
@@ -58,8 +70,12 @@
       "type": "step",
       "title": "Playdates",
       "_translations": {
-        "title": {},
-        "message_text": {}
+        "title": {
+          "cn_zh": true
+        },
+        "message_text": {
+          "cn_zh": true
+        }
       },
       "message_text": "Get together with other families and have a math playdate. These playdates have suggested storybooks, games, and puzzles for your group of families to enjoy together.",
       "template_component_name": "dg_playdates",
@@ -70,9 +86,11 @@
       "title": "Help",
       "_translations": {
         "title": {
+          "cn_zh": true,
           "es_es": true
         },
         "message_text": {
+          "cn_zh": true,
           "es_es": true
         }
       },

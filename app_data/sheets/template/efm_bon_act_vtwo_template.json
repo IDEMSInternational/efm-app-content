@@ -73,7 +73,10 @@
       "name": "block_chars",
       "value": "block",
       "_translations": {
-        "value": {}
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "block_chars"

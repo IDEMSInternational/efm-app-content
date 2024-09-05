@@ -484,6 +484,11 @@
       "flow_type": "global",
       "flow_name": "efm_act_globals",
       "_xlsxPath": "EFM_high_level_sheets.xlsx"
+    },
+    "tour_buttons": {
+      "flow_type": "global",
+      "flow_name": "tour_buttons",
+      "_xlsxPath": "EFM_tours.xlsx"
     }
   },
   "template": {

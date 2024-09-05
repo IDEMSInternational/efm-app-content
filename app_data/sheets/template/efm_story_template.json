@@ -369,6 +369,7 @@
       "value": "Story text",
       "_translations": {
         "value": {
+          "cn_zh": true,
           "es_es": true
         }
       },
@@ -380,6 +381,7 @@
       "value": "First reading",
       "_translations": {
         "value": {
+          "cn_zh": true,
           "es_es": true
         }
       },
@@ -391,6 +393,7 @@
       "value": "Second reading",
       "_translations": {
         "value": {
+          "cn_zh": true,
           "es_es": true
         }
       },
@@ -402,6 +405,7 @@
       "value": "Third reading",
       "_translations": {
         "value": {
+          "cn_zh": true,
           "es_es": true
         }
       },

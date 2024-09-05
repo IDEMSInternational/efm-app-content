@@ -8,9 +8,13 @@
       "title": "Activities",
       "_translations": {
         "title": {
+          "cn_zh": true,
           "es_es": true
         },
-        "message_text": {}
+        "message_text": {
+          "cn_zh": true,
+          "es_es": true
+        }
       },
       "message_text": "Each of the Stages has about a dozen sections of fun games, puzzles, activities, and investigations for your family to enjoy together.",
       "route": "template/efm_chapters"
@@ -20,9 +24,12 @@
       "title": "Stages",
       "_translations": {
         "title": {
+          "cn_zh": true,
           "es_es": true
         },
-        "message_text": {}
+        "message_text": {
+          "cn_zh": true
+        }
       },
       "message_text": "Each Stage name describes the main requirement for your child to start that Stage. For example, if your child can count to ten, and knows what those numbers mean, then start with Stage 3. The materials in the Stages are designed in a learning progression so that later sections build on the earlier ones.",
       "template_component_name": "dg_chapters",
@@ -33,6 +40,7 @@
       "message_text": "Please select the kinds of activities you would like to do.",
       "_translations": {
         "message_text": {
+          "cn_zh": true,
           "es_es": true
         }
       },
@@ -43,7 +51,9 @@
       "type": "step",
       "message_text": "Please select whether you would rather view the Stage activities individually or by topic.",
       "_translations": {
-        "message_text": {}
+        "message_text": {
+          "cn_zh": true
+        }
       },
       "template_component_name": "dg_view",
       "route": "template/efm_chapters"
@@ -53,9 +63,11 @@
       "title": "Help",
       "_translations": {
         "title": {
+          "cn_zh": true,
           "es_es": true
         },
         "message_text": {
+          "cn_zh": true,
           "es_es": true
         }
       },
