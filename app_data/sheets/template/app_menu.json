@@ -14,7 +14,8 @@
       "value": "Language",
       "_translations": {
         "value": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true
         }
       },
       "action_list": [

@@ -488,7 +488,8 @@
           "value": "Activity list",
           "_translations": {
             "value": {
-              "cn_zh": true
+              "cn_zh": true,
+              "es_es": true
             }
           },
           "type": "set_variable",
@@ -499,7 +500,8 @@
           "value": "Storybook list",
           "_translations": {
             "value": {
-              "cn_zh": true
+              "cn_zh": true,
+              "es_es": true
             }
           },
           "type": "set_variable",
@@ -1232,7 +1234,8 @@
       "value": "**Math Learning Step**",
       "_translations": {
         "value": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true
         }
       },
       "condition": "@local.mls_id",
@@ -2050,7 +2053,8 @@
       "value": "**Activities**",
       "_translations": {
         "value": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true
         }
       },
       "condition": "@local.act_one_id",

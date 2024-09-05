@@ -81,7 +81,8 @@
       "value": "Advanced",
       "_translations": {
         "value": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true
         }
       },
       "type": "set_variable",

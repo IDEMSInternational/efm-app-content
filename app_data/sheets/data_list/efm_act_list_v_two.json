@@ -6307,14 +6307,16 @@
           "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true
         },
         "block2_accord": {
           "cn_zh": true,
           "es_es": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true
         }
       },
       "_translatedFields": {
@@ -7571,7 +7573,8 @@
           "kw_ar": true
         },
         "block5_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true
         },
         "block6_accord": {
           "cn_zh": true,
@@ -9335,7 +9338,8 @@
           "es_es": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true
         }
       },
       "_translatedFields": {
@@ -10757,7 +10761,8 @@
       "title": "FILL IN THE BLANKS REVISITED",
       "_translations": {
         "title": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true
         },
         "type_name": {
           "cn_zh": true,
@@ -10769,14 +10774,16 @@
           "es_es": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true
         },
         "block2_accord": {
           "cn_zh": true,
           "es_es": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true
         }
       },
       "_translatedFields": {
