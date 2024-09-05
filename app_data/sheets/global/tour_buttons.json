@@ -1,0 +1,32 @@
+{
+  "flow_type": "global",
+  "flow_name": "tour_buttons",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "next",
+      "value": "Next",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "previous",
+      "value": "Previous",
+      "_translations": {
+        "value": {}
+      }
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "done",
+      "value": "Done",
+      "_translations": {
+        "value": {}
+      }
+    }
+  ],
+  "_xlsxPath": "EFM_tours.xlsx"
+}
