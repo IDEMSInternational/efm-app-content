@@ -40,6 +40,15 @@
       "language_label": "العربية",
       "name": "kw_ar",
       "text": "العربية"
+    },
+    {
+      "id": "cn_zh",
+      "country_code": "cn",
+      "country_label": "China",
+      "language_code": "zh",
+      "language_label": "中文",
+      "name": "cn_zh",
+      "text": "中文"
     }
   ],
   "_xlsxPath": "EFM_high_level_sheets.xlsx"
