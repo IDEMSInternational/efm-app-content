@@ -146,9 +146,6 @@
         {
           "type": "display_group",
           "name": "dg_box_intermediate",
-          "style_list": [
-            "margin-top: -6px"
-          ],
           "rows": [
             {
               "type": "toggle_bar",
@@ -197,9 +194,6 @@
         {
           "type": "display_group",
           "name": "dg_box_advanced",
-          "style_list": [
-            "margin-top: -6px"
-          ],
           "rows": [
             {
               "type": "toggle_bar",

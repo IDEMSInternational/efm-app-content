@@ -301,9 +301,6 @@
         },
         {
           "type": "display_group",
-          "style_list": [
-            "margin-top: -6px"
-          ],
           "rows": [
             {
               "type": "toggle_bar",
@@ -483,9 +480,6 @@
         },
         {
           "type": "display_group",
-          "style_list": [
-            "margin-top: -6px"
-          ],
           "rows": [
             {
               "type": "toggle_bar",
