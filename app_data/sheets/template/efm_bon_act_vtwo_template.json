@@ -9,6 +9,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "efm_activity",
       "_dynamicFields": {
@@ -33,6 +34,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "efm_activity_ptr",
       "_dynamicFields": {
@@ -57,6 +59,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "chars_activity_title"
     },
@@ -66,6 +69,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "chars_activity_type"
     },
@@ -78,6 +82,7 @@
           "es_es": true
         }
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "block_chars"
     },
@@ -87,6 +92,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "chars_text"
     },
@@ -96,6 +102,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "chars_title"
     },
@@ -105,6 +112,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "chars_illust"
     },
@@ -114,6 +122,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "chars_illust_max_width"
     },
@@ -123,6 +132,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "activity_title",
       "_dynamicFields": {
@@ -147,6 +157,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "activity_type",
       "_dynamicFields": {
@@ -176,6 +187,7 @@
         "text_align": "center",
         "style": "large emphasised"
       },
+      "exclude_from_translation": true,
       "_nested_name": "display_act_title",
       "_dynamicFields": {
         "value": [
@@ -207,6 +219,7 @@
       "style_list": [
         "margin-top: -10px"
       ],
+      "exclude_from_translation": true,
       "_nested_name": "display_act_type",
       "_dynamicFields": {
         "value": [
@@ -228,6 +241,7 @@
       "type": "items",
       "name": "run_through_body_sections",
       "value": "@data.efm_num_list_one_to_ten",
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "block_num_chars",
@@ -235,6 +249,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "run_through_body_sections.block_num_chars",
           "_dynamicFields": {
@@ -268,6 +283,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "run_through_body_sections.block_title",
           "_dynamicFields": {
@@ -301,6 +317,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "run_through_body_sections.block_text",
           "_dynamicFields": {
@@ -334,6 +351,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "run_through_body_sections.block_illustration",
           "_dynamicFields": {
@@ -367,6 +385,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "run_through_body_sections.block_illustration_max_width",
           "_dynamicFields": {
@@ -400,6 +419,7 @@
           "parameter_list": {
             "style": "column"
           },
+          "exclude_from_translation": true,
           "rows": [
             {
               "type": "text",
@@ -453,6 +473,7 @@
               "style_list": [
                 "margin-top: -5px"
               ],
+              "exclude_from_translation": true,
               "_nested_name": "run_through_body_sections.display_group_6.display_text",
               "_dynamicFields": {
                 "value": [
@@ -495,6 +516,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "run_through_body_sections.illust_max_width"
         },
@@ -505,6 +527,7 @@
             "value": {}
           },
           "condition": "@@local.block_illustration_max_width",
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "run_through_body_sections.illust_max_width",
           "_dynamicFields": {
@@ -538,6 +561,7 @@
           "parameter_list": {
             "style": "column"
           },
+          "exclude_from_translation": true,
           "rows": [
             {
               "type": "image",
@@ -549,6 +573,7 @@
               "style_list": [
                 "max-width: @local.illust_max_width"
               ],
+              "exclude_from_translation": true,
               "_nested_name": "run_through_body_sections.display_group_9.display_illust",
               "_dynamicFields": {
                 "value": [
