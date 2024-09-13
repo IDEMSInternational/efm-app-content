@@ -999,7 +999,8 @@
           "value": "**Advanced Storybooks**",
           "_translations": {
             "value": {
-              "cn_zh": true
+              "cn_zh": true,
+              "es_es": true
             }
           },
           "_nested_name": "dg_advanced_sb.advanced_sb_text"

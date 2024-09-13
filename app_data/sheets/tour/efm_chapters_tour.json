@@ -28,7 +28,8 @@
           "es_es": true
         },
         "message_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true
         }
       },
       "message_text": "Each Stage name describes the main requirement for your child to start that Stage. For example, if your child can count to ten, and knows what those numbers mean, then start with Stage 3. The materials in the Stages are designed in a learning progression so that later sections build on the earlier ones.",
@@ -52,7 +53,8 @@
       "message_text": "Please select whether you would rather view the Stage activities individually or by topic.",
       "_translations": {
         "message_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true
         }
       },
       "template_component_name": "dg_view",
