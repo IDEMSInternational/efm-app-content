@@ -5,6 +5,7 @@
   "rows": [
     {
       "name": "efm_activity_ptr",
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "efm_activity_ptr"
     },
@@ -17,6 +18,7 @@
           "es_es": true
         }
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "block_chars"
     },
@@ -26,6 +28,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "chars_type"
     },
@@ -35,6 +38,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "chars_accord"
     },
@@ -44,6 +48,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "chars_text"
     },
@@ -53,6 +58,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "chars_illust"
     },
@@ -62,6 +68,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "chars_illust_flex"
     },
@@ -71,6 +78,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "chars_illust_max_width"
     },
@@ -95,6 +103,7 @@
           "es_es": true
         }
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "remove_paragraph_space"
     },
@@ -107,6 +116,7 @@
           "es_es": true
         }
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "paragraph_space"
     },
@@ -114,6 +124,7 @@
       "type": "items",
       "name": "run_through_body_sections",
       "value": "@data.efm_num_list_one_to_six",
+      "exclude_from_translation": true,
       "rows": [
         {
           "name": "block_num_chars",
@@ -121,6 +132,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "run_through_body_sections.block_num_chars",
           "_dynamicFields": {
@@ -154,6 +166,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "run_through_body_sections.block_type",
           "_dynamicFields": {
@@ -187,6 +200,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "run_through_body_sections.block_text",
           "_dynamicFields": {
@@ -220,6 +234,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "run_through_body_sections.accordion_label",
           "_dynamicFields": {
@@ -253,6 +268,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "run_through_body_sections.block_illustration",
           "_dynamicFields": {
@@ -286,6 +302,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "run_through_body_sections.block_illustration_flex",
           "_dynamicFields": {
@@ -319,6 +336,7 @@
           "_translations": {
             "value": {}
           },
+          "exclude_from_translation": true,
           "type": "set_variable",
           "_nested_name": "run_through_body_sections.block_illustration_max_width",
           "_dynamicFields": {
@@ -349,6 +367,7 @@
         {
           "type": "display_group",
           "condition": "@@local.block_type == \"accord_all_text\"",
+          "exclude_from_translation": true,
           "rows": [
             {
               "name": "paragraph_space",
@@ -359,6 +378,7 @@
                   "es_es": true
                 }
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "run_through_body_sections.display_group_8.paragraph_space"
             },
@@ -368,11 +388,13 @@
               "parameter_list": {
                 "open_multiple": "TRUE"
               },
+              "exclude_from_translation": true,
               "rows": [
                 {
                   "type": "accordion_section",
                   "name": "bloxk_1",
                   "value": "@@local.accordion_label",
+                  "exclude_from_translation": true,
                   "rows": [
                     {
                       "type": "text",
@@ -381,6 +403,7 @@
                       "_translations": {
                         "value": {}
                       },
+                      "exclude_from_translation": true,
                       "_nested_name": "run_through_body_sections.display_group_8.accordion.bloxk_1.display_text",
                       "_dynamicFields": {
                         "value": [
@@ -444,6 +467,7 @@
           "style_list": [
             "@local.paragraph_space"
           ],
+          "exclude_from_translation": true,
           "rows": [
             {
               "name": "paragraph_space",
@@ -451,6 +475,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "run_through_body_sections.display_group_9.paragraph_space",
               "_dynamicFields": {
@@ -476,6 +501,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "_nested_name": "run_through_body_sections.display_group_9.display_text",
               "_dynamicFields": {
                 "value": [
@@ -534,6 +560,7 @@
           "style_list": [
             "@local.paragraph_space"
           ],
+          "exclude_from_translation": true,
           "rows": [
             {
               "type": "image",
@@ -545,6 +572,7 @@
               "style_list": [
                 "max-width: @@local.block_illustration_max_width"
               ],
+              "exclude_from_translation": true,
               "_nested_name": "run_through_body_sections.display_group_10.display_illust",
               "_dynamicFields": {
                 "value": [
@@ -613,6 +641,7 @@
           "style_list": [
             "@local.paragraph_space"
           ],
+          "exclude_from_translation": true,
           "rows": [
             {
               "name": "paragraph_space",
@@ -620,6 +649,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "run_through_body_sections.display_group_11.paragraph_space",
               "_dynamicFields": {
@@ -649,6 +679,7 @@
                 "flex: @@local.block_illustration_flex",
                 "max-width: @@local.block_illustration_max_width"
               ],
+              "exclude_from_translation": true,
               "_nested_name": "run_through_body_sections.display_group_11.display_illust",
               "_dynamicFields": {
                 "value": [
@@ -700,6 +731,7 @@
               "style_list": [
                 "flex:100"
               ],
+              "exclude_from_translation": true,
               "_nested_name": "run_through_body_sections.display_group_11.display_text",
               "_dynamicFields": {
                 "value": [
@@ -755,6 +787,7 @@
           "style_list": [
             "@local.paragraph_space"
           ],
+          "exclude_from_translation": true,
           "rows": [
             {
               "name": "paragraph_space",
@@ -762,6 +795,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "run_through_body_sections.display_group_12.paragraph_space",
               "_dynamicFields": {
@@ -790,6 +824,7 @@
               "style_list": [
                 "flex:100"
               ],
+              "exclude_from_translation": true,
               "_nested_name": "run_through_body_sections.display_group_12.display_text",
               "_dynamicFields": {
                 "value": [
@@ -818,6 +853,7 @@
                 "flex: @@local.block_illustration_flex",
                 "max-width: @@local.block_illustration_max_width"
               ],
+              "exclude_from_translation": true,
               "_nested_name": "run_through_body_sections.display_group_12.display_illust",
               "_dynamicFields": {
                 "value": [
@@ -915,6 +951,7 @@
       "_translations": {
         "value": {}
       },
+      "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "bonus_act_id",
       "_dynamicFields": {
@@ -966,6 +1003,7 @@
         "style": "short",
         "text_align": "center"
       },
+      "exclude_from_translation": true,
       "_nested_name": "bonus_button",
       "_dynamicFields": {
         "value": [
