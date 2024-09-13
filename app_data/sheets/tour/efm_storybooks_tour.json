@@ -12,7 +12,8 @@
           "es_es": true
         },
         "message_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true
         }
       },
       "message_text": "Reading with your child is a wonderful experience! These storybooks are for an adult to read to a child. Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience.",
@@ -69,10 +70,12 @@
       "title": "Advanced Storybooks",
       "_translations": {
         "title": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true
         },
         "message_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true
         }
       },
       "message_text": "The story lines are getting ever more detailed and complex. The math involves larger numbers and more advanced concepts. The description of objects is getting more detailed and involved.",

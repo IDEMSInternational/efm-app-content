@@ -13,7 +13,8 @@
           "value": "Math Learning Steps",
           "_translations": {
             "value": {
-              "cn_zh": true
+              "cn_zh": true,
+              "es_es": true
             }
           },
           "style_list": [

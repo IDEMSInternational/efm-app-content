@@ -13,10 +13,7 @@
       "name": "block_chars",
       "value": "block",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
@@ -46,10 +43,7 @@
       "name": "remove_paragraph_space",
       "value": "margin-top: -5px",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
@@ -65,10 +59,7 @@
       "name": "paragraph_space",
       "value": "margin-top: 0px",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",

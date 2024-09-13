@@ -3365,7 +3365,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -5009,7 +5010,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -7644,14 +7646,18 @@
           "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_accord": {
           "cn_zh": true,
           "es_es": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -7689,7 +7695,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -7697,10 +7704,13 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -7735,7 +7745,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -7743,16 +7754,23 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block3_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -7798,7 +7816,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -7806,16 +7825,23 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block3_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -7854,7 +7880,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -7863,17 +7890,22 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_accord": {
           "cn_zh": true,
           "es_es": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -7916,7 +7948,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -7925,13 +7958,18 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block3_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -7966,7 +8004,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -7975,17 +8014,22 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_accord": {
           "cn_zh": true,
           "es_es": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8024,7 +8068,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -8033,17 +8078,22 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_accord": {
           "cn_zh": true,
           "es_es": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8081,17 +8131,22 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
           "es_es": true
         },
         "page_title": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8121,17 +8176,22 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
           "es_es": true
         },
         "page_title": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8161,17 +8221,22 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
           "es_es": true
         },
         "page_title": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8201,17 +8266,22 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
           "es_es": true
         },
         "page_title": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8241,17 +8311,22 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
           "es_es": true
         },
         "page_title": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8281,17 +8356,22 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
           "es_es": true
         },
         "page_title": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8322,7 +8402,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -8331,17 +8412,22 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_accord": {
           "cn_zh": true,
           "es_es": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8384,7 +8470,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -8393,13 +8480,18 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block3_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8434,7 +8526,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -8442,17 +8535,23 @@
           "fr_fr": true
         },
         "page_title": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_accord": {
           "cn_zh": true,
           "es_es": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8491,7 +8590,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -8499,17 +8599,23 @@
           "fr_fr": true
         },
         "page_title": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_accord": {
           "cn_zh": true,
           "es_es": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8547,7 +8653,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -8555,10 +8662,14 @@
           "fr_fr": true
         },
         "page_title": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8588,7 +8699,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -8596,10 +8708,14 @@
           "fr_fr": true
         },
         "page_title": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8637,7 +8753,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -8645,13 +8762,19 @@
           "fr_fr": true
         },
         "page_title": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block4_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8685,7 +8808,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -8693,10 +8817,13 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8726,7 +8853,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -8735,10 +8863,13 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8773,7 +8904,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -8782,13 +8914,18 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block3_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8826,7 +8963,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -8835,13 +8973,18 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block3_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8880,7 +9023,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -8889,13 +9033,18 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8933,7 +9082,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -8941,13 +9091,18 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block3_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -8981,7 +9136,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -8989,10 +9145,13 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9027,7 +9186,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9036,13 +9196,18 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block3_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9076,7 +9241,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9085,10 +9251,13 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9119,7 +9288,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9128,17 +9298,22 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_accord": {
           "cn_zh": true,
           "es_es": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9177,7 +9352,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9186,17 +9362,22 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_accord": {
           "cn_zh": true,
           "es_es": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9234,7 +9415,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9243,10 +9425,13 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9276,7 +9461,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9285,10 +9471,13 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9319,7 +9508,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9328,10 +9518,13 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_accord": {
           "cn_zh": true,
@@ -9377,7 +9570,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9385,10 +9579,14 @@
           "fr_fr": true
         },
         "page_title": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9419,7 +9617,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9427,17 +9626,23 @@
           "fr_fr": true
         },
         "page_title": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_accord": {
           "cn_zh": true,
           "es_es": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9480,7 +9685,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9493,10 +9699,14 @@
           "fr_fr": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block3_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9534,7 +9744,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9547,7 +9758,9 @@
           "fr_fr": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9577,7 +9790,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9585,10 +9799,13 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9621,7 +9838,9 @@
       "title": "COVER UP",
       "_translations": {
         "title": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9629,13 +9848,18 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block3_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9681,13 +9905,18 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block3_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9721,7 +9950,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9729,10 +9959,13 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9762,7 +9995,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9770,10 +10004,13 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9809,7 +10046,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9821,17 +10059,23 @@
           "es_es": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block3_accord": {
           "cn_zh": true,
           "es_es": true
         },
         "block3_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9878,7 +10122,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9890,10 +10135,14 @@
           "es_es": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block3_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9927,7 +10176,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9938,7 +10188,9 @@
           "es_es": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -9969,7 +10221,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -9981,14 +10234,18 @@
           "es_es": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block2_accord": {
           "cn_zh": true,
           "es_es": true
         },
         "block2_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -10035,10 +10292,13 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -10069,7 +10329,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -10077,10 +10338,13 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -10115,7 +10379,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -10123,14 +10388,18 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block3_text": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
@@ -10169,7 +10438,8 @@
       "_translations": {
         "title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "type_name": {
           "cn_zh": true,
@@ -10177,13 +10447,18 @@
         },
         "page_title": {
           "cn_zh": true,
-          "es_es": true
+          "es_es": true,
+          "kw_ar": true
         },
         "block1_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         },
         "block3_text": {
-          "cn_zh": true
+          "cn_zh": true,
+          "es_es": true,
+          "kw_ar": true
         }
       },
       "_translatedFields": {
