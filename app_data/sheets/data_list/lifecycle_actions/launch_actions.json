@@ -6,8 +6,27 @@
   "rows": [
     {
       "lifecycle_event": "app_start",
-      "id": "app_start_home_screen_tour",
+      "id": "app_start_update_complete",
       "priority": 1,
+      "condition_list": [
+        "@fields._app_update_downloaded"
+      ],
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "app_update",
+          "args": [
+            "complete"
+          ],
+          "_raw": "app_update: complete",
+          "_cleaned": "click | app_update: complete"
+        }
+      ]
+    },
+    {
+      "lifecycle_event": "app_start",
+      "id": "app_start_home_screen_tour",
+      "priority": 2,
       "condition_list": [
         "!@fields.home_screen_tour_started"
       ],
@@ -36,7 +55,7 @@
     {
       "lifecycle_event": "app_start",
       "id": "app_start_update_prompt",
-      "priority": 2,
+      "priority": 3,
       "action_list": [
         {
           "trigger": "click",
