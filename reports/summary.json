@@ -1,0 +1,5873 @@
+{
+  "template_components": {
+    "data": [
+      {
+        "type": "accordion",
+        "count": 5
+      },
+      {
+        "type": "accordion_section",
+        "count": 10
+      },
+      {
+        "type": "button",
+        "count": 55
+      },
+      {
+        "type": "debug_toggle",
+        "count": 1
+      },
+      {
+        "type": "display_group",
+        "count": 63
+      },
+      {
+        "type": "image",
+        "count": 13
+      },
+      {
+        "type": "items",
+        "count": 21
+      },
+      {
+        "type": "qr_code",
+        "count": 1
+      },
+      {
+        "type": "radio_button_grid",
+        "count": 1
+      },
+      {
+        "type": "radio_group",
+        "count": 1
+      },
+      {
+        "type": "round_button",
+        "count": 6
+      },
+      {
+        "type": "select_text",
+        "count": 1
+      },
+      {
+        "type": "set_field",
+        "count": 11
+      },
+      {
+        "type": "set_variable",
+        "count": 421
+      },
+      {
+        "type": "simple_checkbox",
+        "count": 4
+      },
+      {
+        "type": "template",
+        "count": 64
+      },
+      {
+        "type": "text",
+        "count": 83
+      },
+      {
+        "type": "text_area",
+        "count": 2
+      },
+      {
+        "type": "tile_component",
+        "count": 3
+      },
+      {
+        "type": "title",
+        "count": 27
+      },
+      {
+        "type": "toggle_bar",
+        "count": 8
+      }
+    ]
+  },
+  "template_actions": {
+    "data": [
+      {
+        "type": "app_update",
+        "count": 1
+      },
+      {
+        "type": "emit: completed",
+        "count": 58
+      },
+      {
+        "type": "emit: force_reload",
+        "count": 7
+      },
+      {
+        "type": "emit: force_reprocess",
+        "count": 4
+      },
+      {
+        "type": "emit: server_sync",
+        "count": 1
+      },
+      {
+        "type": "emit: set_language",
+        "count": 1
+      },
+      {
+        "type": "emit: uncompleted",
+        "count": 58
+      },
+      {
+        "type": "feedback",
+        "count": 11
+      },
+      {
+        "type": "go_to",
+        "count": 30
+      },
+      {
+        "type": "go_to_url",
+        "count": 3
+      },
+      {
+        "type": "reset_app",
+        "count": 1
+      },
+      {
+        "type": "set_field",
+        "count": 45
+      },
+      {
+        "type": "set_local",
+        "count": 5
+      },
+      {
+        "type": "start_tour",
+        "count": 10
+      }
+    ]
+  },
+  "assets_size": {
+    "data": [
+      {
+        "assets": "total",
+        "KB": "28183 KB",
+        "MB": "28.2 MB"
+      },
+      {
+        "assets": "unused",
+        "KB": "1498 KB",
+        "MB": "1.5 MB"
+      }
+    ]
+  },
+  "assets_unused": {
+    "data": [
+      {
+        "path": "AVeryTallMan.pdf",
+        "size_kb": 261.2
+      },
+      {
+        "path": "EFM00Logo.svg",
+        "size_kb": 10.6
+      },
+      {
+        "path": "EFM00LogoFixedDotsBad.svg",
+        "size_kb": 13
+      },
+      {
+        "path": "EFM00LogoWhite2x.jpg",
+        "size_kb": 190.5
+      },
+      {
+        "path": "EFM10EFMPairLookingAway.svg",
+        "size_kb": 23.6
+      },
+      {
+        "path": "EFM110NumberLineforNim.svg",
+        "size_kb": 21
+      },
+      {
+        "path": "EFM120SmallestSingleNumber.svg",
+        "size_kb": 48.6
+      },
+      {
+        "path": "EFM125ImThinkingofaNumber1.svg",
+        "size_kb": 14.9
+      },
+      {
+        "path": "EFM125ImThinkingofaNumber2.svg",
+        "size_kb": 14.4
+      },
+      {
+        "path": "EFM12CautioinSign.svg",
+        "size_kb": 1.8
+      },
+      {
+        "path": "EFM12TriangleSign.svg",
+        "size_kb": 2.3
+      },
+      {
+        "path": "EFM135MakingSquares.svg",
+        "size_kb": 26.7
+      },
+      {
+        "path": "EFM135ShapeSodukuExample.svg",
+        "size_kb": 32.6
+      },
+      {
+        "path": "EFM170FIngers8-5asdifference.svg",
+        "size_kb": 22.3
+      },
+      {
+        "path": "EFM170Fingers8takeaway5.svg",
+        "size_kb": 22.2
+      },
+      {
+        "path": "EFM200SimTriangle.svg",
+        "size_kb": 5
+      },
+      {
+        "path": "EFM370CircleGraphs1To12StarOfDavid.svg",
+        "size_kb": 13.5
+      },
+      {
+        "path": "EFM370CircleGraphs1To7H.svg",
+        "size_kb": 8.1
+      },
+      {
+        "path": "EFM370CircleGraphs1To9Star.svg",
+        "size_kb": 7.3
+      },
+      {
+        "path": "EFM450RevealingProducts.jpg",
+        "size_kb": 52.1
+      },
+      {
+        "path": "EFM450RevealingProducts.odg",
+        "size_kb": 12.1
+      },
+      {
+        "path": "EFM60Hopscotch.svg",
+        "size_kb": 9
+      },
+      {
+        "path": "EFM70Fork.svg",
+        "size_kb": 7.6
+      },
+      {
+        "path": "EFM70ForkGold.svg",
+        "size_kb": 9.9
+      },
+      {
+        "path": "EFM70Spoon.svg",
+        "size_kb": 5.2
+      },
+      {
+        "path": "EFM70SpoonGold.svg",
+        "size_kb": 6.4
+      },
+      {
+        "path": "EFM70WhichOneIsDifferent.svg",
+        "size_kb": 4.9
+      },
+      {
+        "path": "EFM90HouseConnecttheDots2.svg",
+        "size_kb": 8.5
+      },
+      {
+        "path": "EFMBM180 Complex Shape Sums Examples.svg",
+        "size_kb": 14.8
+      },
+      {
+        "path": "EFMBM180ComplexShapeSums.svg",
+        "size_kb": 15.9
+      },
+      {
+        "path": "EFMBM340FixIt.svg",
+        "size_kb": 17.3
+      },
+      {
+        "path": "EFMBM370CircleGraphs1to12StarofDavid.svg",
+        "size_kb": 13.5
+      },
+      {
+        "path": "EFMBM370CircleGraphs1to6MagicCircle.svg",
+        "size_kb": 9.5
+      },
+      {
+        "path": "EFMBM370CircleGraphs1to7H.svg",
+        "size_kb": 8.1
+      },
+      {
+        "path": "EFMBM370CircleGraphs1to9Star.svg",
+        "size_kb": 7.3
+      },
+      {
+        "path": "EFMBM390AdditionPyramid.svg",
+        "size_kb": 17.6
+      },
+      {
+        "path": "EFMBM390SumSquare.svg",
+        "size_kb": 10.9
+      },
+      {
+        "path": "EFMBM400FibTableTo9.svg",
+        "size_kb": 14.5
+      },
+      {
+        "path": "EFMBM400FibTableto9.png",
+        "size_kb": 12.4
+      },
+      {
+        "path": "EFMBM490DivideUptheBox.svg",
+        "size_kb": 7.3
+      },
+      {
+        "path": "EFMBM520LetterSubstitution2.svg",
+        "size_kb": 24.8
+      },
+      {
+        "path": "EFMBM530SquaresinSquares2.svg",
+        "size_kb": 3.8
+      },
+      {
+        "path": "EFMBM550Mobile2.svg",
+        "size_kb": 10
+      },
+      {
+        "path": "EFMBM550Mobile3.svg",
+        "size_kb": 12.6
+      },
+      {
+        "path": "EFMBM95SnowflakeFoldingSequence1.svg",
+        "size_kb": 10.2
+      },
+      {
+        "path": "EFMBM95SnowflakeFoldingSequence2.svg",
+        "size_kb": 10.4
+      },
+      {
+        "path": "EFMBM95SnowflakeFoldingSequence3.svg",
+        "size_kb": 9.6
+      },
+      {
+        "path": "EFMBM95SnowflakeFoldingSequence4.svg",
+        "size_kb": 12.3
+      },
+      {
+        "path": "EFMBM95SnowflakeFoldingSequence5.svg",
+        "size_kb": 9.8
+      },
+      {
+        "path": "EFMBM95SnowflakeFoldingSequence6.svg",
+        "size_kb": 9.2
+      },
+      {
+        "path": "EFMBM95SnowflakeFoldingSequence7.svg",
+        "size_kb": 9.4
+      },
+      {
+        "path": "EFMBM95SnowflakeFoldingSequence8.svg",
+        "size_kb": 16.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FB-.jpg",
+        "size_kb": 29.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-20.jpg",
+        "size_kb": 3.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSMILE-8.jpg",
+        "size_kb": 3.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-2.jpg",
+        "size_kb": 10.6
+      },
+      {
+        "path": "android/icon-background.png",
+        "size_kb": 7
+      },
+      {
+        "path": "android/icon-foreground.png",
+        "size_kb": 53.9
+      },
+      {
+        "path": "android/icon.png",
+        "size_kb": 75.2
+      },
+      {
+        "path": "android/splash.png",
+        "size_kb": 155.1
+      },
+      {
+        "path": "logos/swing_favicon.png",
+        "size_kb": 16.7
+      }
+    ]
+  },
+  "assets_missing": {
+    "data": []
+  },
+  "asset_summary": {
+    "data": [
+      {
+        "path": "EFM100DominoesGame.svg",
+        "count": 1,
+        "size_kb": 16.7
+      },
+      {
+        "path": "EFM100StealingBones.svg",
+        "count": 1,
+        "size_kb": 19.1
+      },
+      {
+        "path": "EFM105BackAndForth12Move0.svg",
+        "count": 1,
+        "size_kb": 11.8
+      },
+      {
+        "path": "EFM105BackAndForth12Move1.svg",
+        "count": 1,
+        "size_kb": 13.5
+      },
+      {
+        "path": "EFM105BingoWithCards.svg",
+        "count": 1,
+        "size_kb": 27.7
+      },
+      {
+        "path": "EFM105GoFish.svg",
+        "count": 1,
+        "size_kb": 16.9
+      },
+      {
+        "path": "EFM105GoFishMatch.svg",
+        "count": 1,
+        "size_kb": 11.9
+      },
+      {
+        "path": "EFM105MemoryChallenge.svg",
+        "count": 1,
+        "size_kb": 11.1
+      },
+      {
+        "path": "EFM10PairLookingAway.svg",
+        "count": 1,
+        "size_kb": 23.6
+      },
+      {
+        "path": "EFM10PairReadingOnBench.svg",
+        "count": 1,
+        "size_kb": 33.7
+      },
+      {
+        "path": "EFM110InvisibleAddSub.svg",
+        "count": 1,
+        "size_kb": 16
+      },
+      {
+        "path": "EFM110NumberLineforNimReverse.svg",
+        "count": 1,
+        "size_kb": 20.7
+      },
+      {
+        "path": "EFM110WithinOneorTwo.svg",
+        "count": 1,
+        "size_kb": 13.1
+      },
+      {
+        "path": "EFM115FeatureMatchingGame.svg",
+        "count": 1,
+        "size_kb": 17.1
+      },
+      {
+        "path": "EFM115MatchingPuzzle.svg",
+        "count": 1,
+        "size_kb": 11.4
+      },
+      {
+        "path": "EFM115TripletExamples.svg",
+        "count": 1,
+        "size_kb": 35.2
+      },
+      {
+        "path": "EFM120FittingIn.svg",
+        "count": 1,
+        "size_kb": 14.5
+      },
+      {
+        "path": "EFM120WarCards.svg",
+        "count": 1,
+        "size_kb": 15.9
+      },
+      {
+        "path": "EFM125ImThinkingofaNumberAll.svg",
+        "count": 1,
+        "size_kb": 43.8
+      },
+      {
+        "path": "EFM125NumberLineBattleship.svg",
+        "count": 1,
+        "size_kb": 34.4
+      },
+      {
+        "path": "EFM12Apples.svg",
+        "count": 1,
+        "size_kb": 5.3
+      },
+      {
+        "path": "EFM12EFMLogoNoEFM.svg",
+        "count": 1,
+        "size_kb": 12.8
+      },
+      {
+        "path": "EFM12EFMLogoNoEFMpng.png",
+        "count": 1,
+        "size_kb": 33.1
+      },
+      {
+        "path": "EFM12StopSign.svg",
+        "count": 1,
+        "size_kb": 2.3
+      },
+      {
+        "path": "EFM12TrafficSignal.svg",
+        "count": 1,
+        "size_kb": 3.6
+      },
+      {
+        "path": "EFM130FingerTenFrame.svg",
+        "count": 2,
+        "size_kb": 6.5
+      },
+      {
+        "path": "EFM130Fingers3plus1.svg",
+        "count": 1,
+        "size_kb": 10.9
+      },
+      {
+        "path": "EFM130WhatsMissing.svg",
+        "count": 1,
+        "size_kb": 16.8
+      },
+      {
+        "path": "EFM135MakingSquaresComplex.svg",
+        "count": 1,
+        "size_kb": 12.8
+      },
+      {
+        "path": "EFM135MakingSquaresSimple.svg",
+        "count": 1,
+        "size_kb": 16
+      },
+      {
+        "path": "EFM135PatternsConnecttheDots.svg",
+        "count": 1,
+        "size_kb": 21.2
+      },
+      {
+        "path": "EFM135ShapeSoduku.svg",
+        "count": 1,
+        "size_kb": 30.7
+      },
+      {
+        "path": "EFM140BagGame.svg",
+        "count": 1,
+        "size_kb": 14.9
+      },
+      {
+        "path": "EFM140IceCreamScoopStory.svg",
+        "count": 1,
+        "size_kb": 12.5
+      },
+      {
+        "path": "EFM145Estimation.svg",
+        "count": 1,
+        "size_kb": 34.4
+      },
+      {
+        "path": "EFM145GetOutofMyHouse.svg",
+        "count": 1,
+        "size_kb": 23.4
+      },
+      {
+        "path": "EFM145InBetweenGame.svg",
+        "count": 1,
+        "size_kb": 10.5
+      },
+      {
+        "path": "EFM150GreaterThanSudoku4by4.svg",
+        "count": 2,
+        "size_kb": 41.5
+      },
+      {
+        "path": "EFM150GreaterThanSudoku6by6.svg",
+        "count": 2,
+        "size_kb": 111.6
+      },
+      {
+        "path": "EFM150JigsawSudoku4by4.svg",
+        "count": 1,
+        "size_kb": 24.1
+      },
+      {
+        "path": "EFM150JigsawSudoku5by5.svg",
+        "count": 1,
+        "size_kb": 31.3
+      },
+      {
+        "path": "EFM160Codebreaker.svg",
+        "count": 1,
+        "size_kb": 11.2
+      },
+      {
+        "path": "EFM160FifteenPuzzle3by3.svg",
+        "count": 2,
+        "size_kb": 24.6
+      },
+      {
+        "path": "EFM170Fingers4Plus2.svg",
+        "count": 1,
+        "size_kb": 6.3
+      },
+      {
+        "path": "EFM170Fingers4Plus2CountingOn.svg",
+        "count": 2,
+        "size_kb": 17.3
+      },
+      {
+        "path": "EFM170Fingers8takeaway5Fixed.svg",
+        "count": 1,
+        "size_kb": 21.8
+      },
+      {
+        "path": "EFM180ComplexShapeSums.svg",
+        "count": 1,
+        "size_kb": 14.8
+      },
+      {
+        "path": "EFM180SimpleShapeSums.svg",
+        "count": 1,
+        "size_kb": 10.3
+      },
+      {
+        "path": "EFM190NumberCardsto20.svg",
+        "count": 1,
+        "size_kb": 96.4
+      },
+      {
+        "path": "EFM200NumberShapes.svg",
+        "count": 2,
+        "size_kb": 6.7
+      },
+      {
+        "path": "EFM200NumberShapesAddingEvensOdds.svg",
+        "count": 1,
+        "size_kb": 21.4
+      },
+      {
+        "path": "EFM200NumberShapesEvensOdds.svg",
+        "count": 1,
+        "size_kb": 12.2
+      },
+      {
+        "path": "EFM200NumberShapesTrapezoidal.svg",
+        "count": 1,
+        "size_kb": 6.6
+      },
+      {
+        "path": "EFM200SimTriangle0.svg",
+        "count": 1,
+        "size_kb": 5.3
+      },
+      {
+        "path": "EFM200SimTriangle13579.svg",
+        "count": 1,
+        "size_kb": 24.6
+      },
+      {
+        "path": "EFM200SimilarStars.svg",
+        "count": 1,
+        "size_kb": 4.1
+      },
+      {
+        "path": "EFM200SquareOfOddNumbers.svg",
+        "count": 1,
+        "size_kb": 9.7
+      },
+      {
+        "path": "EFM200SymmetricArt.svg",
+        "count": 1,
+        "size_kb": 12.3
+      },
+      {
+        "path": "EFM20Balloons.svg",
+        "count": 1,
+        "size_kb": 27
+      },
+      {
+        "path": "EFM20BlueClock.svg",
+        "count": 1,
+        "size_kb": 2.3
+      },
+      {
+        "path": "EFM20BoxWithHoles.svg",
+        "count": 1,
+        "size_kb": 8.3
+      },
+      {
+        "path": "EFM20ColoredTiling.svg",
+        "count": 1,
+        "size_kb": 14.7
+      },
+      {
+        "path": "EFM220NumberBlobs.svg",
+        "count": 1,
+        "size_kb": 39.3
+      },
+      {
+        "path": "EFM230OrderedSteps.svg",
+        "count": 1,
+        "size_kb": 4.1
+      },
+      {
+        "path": "EFM230OrderingCards.svg",
+        "count": 1,
+        "size_kb": 21.7
+      },
+      {
+        "path": "EFM240EvenOddAndKropkiSudoku4by4.svg",
+        "count": 1,
+        "size_kb": 19.9
+      },
+      {
+        "path": "EFM240SumdokuDiffdoku.svg",
+        "count": 1,
+        "size_kb": 25.6
+      },
+      {
+        "path": "EFM270PyramidSolitaire.svg",
+        "count": 1,
+        "size_kb": 32.5
+      },
+      {
+        "path": "EFM280DotsAndBoxes.svg",
+        "count": 1,
+        "size_kb": 6.8
+      },
+      {
+        "path": "EFM280DotsAndBoxesNumbered.svg",
+        "count": 1,
+        "size_kb": 8.8
+      },
+      {
+        "path": "EFM280Tapatan.svg",
+        "count": 1,
+        "size_kb": 7.1
+      },
+      {
+        "path": "EFM290Fingers11-3.svg",
+        "count": 1,
+        "size_kb": 21.6
+      },
+      {
+        "path": "EFM290FingersFor8-3.svg",
+        "count": 1,
+        "size_kb": 11.8
+      },
+      {
+        "path": "EFM290FingersFor8Plus3.svg",
+        "count": 1,
+        "size_kb": 11.8
+      },
+      {
+        "path": "EFM300IslandHoppingCompensation.svg",
+        "count": 1,
+        "size_kb": 24.7
+      },
+      {
+        "path": "EFM300RegionSums.svg",
+        "count": 1,
+        "size_kb": 10.9
+      },
+      {
+        "path": "EFM30MugOnShelf.svg",
+        "count": 1,
+        "size_kb": 4.9
+      },
+      {
+        "path": "EFM30ShapePattern.svg",
+        "count": 2,
+        "size_kb": 5.6
+      },
+      {
+        "path": "EFM30Socks.svg",
+        "count": 1,
+        "size_kb": 18
+      },
+      {
+        "path": "EFM310DiffTriangles.svg",
+        "count": 1,
+        "size_kb": 14.9
+      },
+      {
+        "path": "EFM310PanBalanceWithWeights4s7sOneSide.svg",
+        "count": 1,
+        "size_kb": 2699.7
+      },
+      {
+        "path": "EFM310SumTriangles.svg",
+        "count": 1,
+        "size_kb": 15.5
+      },
+      {
+        "path": "EFM330IslandHoppingSkipCounting.svg",
+        "count": 1,
+        "size_kb": 19.9
+      },
+      {
+        "path": "EFM340FixIt.svg",
+        "count": 1,
+        "size_kb": 17.3
+      },
+      {
+        "path": "EFM340PairingDown.svg",
+        "count": 1,
+        "size_kb": 29.6
+      },
+      {
+        "path": "EFM350ExpandedFormFoldingPaper.svg",
+        "count": 1,
+        "size_kb": 11.4
+      },
+      {
+        "path": "EFM350IslandHoppingby1sAnd10s.svg",
+        "count": 1,
+        "size_kb": 15.6
+      },
+      {
+        "path": "EFM370CircleGraphs1to6MagicCircle.svg",
+        "count": 1,
+        "size_kb": 19.2
+      },
+      {
+        "path": "EFM370CircleGraphsAll4.svg",
+        "count": 1,
+        "size_kb": 29
+      },
+      {
+        "path": "EFM380MultiplyingCommutes.svg",
+        "count": 3,
+        "size_kb": 5.4
+      },
+      {
+        "path": "EFM385CoverUp.svg",
+        "count": 1,
+        "size_kb": 37.3
+      },
+      {
+        "path": "EFM390AdditionPyramid.svg",
+        "count": 1,
+        "size_kb": 18
+      },
+      {
+        "path": "EFM390SumSquare.svg",
+        "count": 1,
+        "size_kb": 8
+      },
+      {
+        "path": "EFM400FibTableTo9.svg",
+        "count": 1,
+        "size_kb": 14.5
+      },
+      {
+        "path": "EFM40CheerioPyramid.svg",
+        "count": 1,
+        "size_kb": 40.5
+      },
+      {
+        "path": "EFM40FindingTwos.svg",
+        "count": 1,
+        "size_kb": 17.5
+      },
+      {
+        "path": "EFM40OneMoreAppleSlice.svg",
+        "count": 1,
+        "size_kb": 18.4
+      },
+      {
+        "path": "EFM440BondedGroups.svg",
+        "count": 1,
+        "size_kb": 28.3
+      },
+      {
+        "path": "EFM440BondedGroupsOriginal.svg",
+        "count": 1,
+        "size_kb": 27.2
+      },
+      {
+        "path": "EFM440MissingNumbers.svg",
+        "count": 1,
+        "size_kb": 15.7
+      },
+      {
+        "path": "EFM450MultiplicationCards1.svg",
+        "count": 1,
+        "size_kb": 13.3
+      },
+      {
+        "path": "EFM450MultiplicationCards2.svg",
+        "count": 1,
+        "size_kb": 7.6
+      },
+      {
+        "path": "EFM450MultiplicationCards3.svg",
+        "count": 1,
+        "size_kb": 8
+      },
+      {
+        "path": "EFM450RevealingProducts.svg",
+        "count": 1,
+        "size_kb": 71.8
+      },
+      {
+        "path": "EFM455CoverFactorsMultiples.svg",
+        "count": 1,
+        "size_kb": 16.4
+      },
+      {
+        "path": "EFM460SieveOfEratosthenes.svg",
+        "count": 2,
+        "size_kb": 47
+      },
+      {
+        "path": "EFM460SieveofEratosthenes2s3s.svg",
+        "count": 1,
+        "size_kb": 35.1
+      },
+      {
+        "path": "EFM470LeverBalance.svg",
+        "count": 1,
+        "size_kb": 11.3
+      },
+      {
+        "path": "EFM480TurningTheTables.svg",
+        "count": 1,
+        "size_kb": 17.4
+      },
+      {
+        "path": "EFM490DivideUpTheBox.svg",
+        "count": 1,
+        "size_kb": 7.3
+      },
+      {
+        "path": "EFM490RectangleArea.svg",
+        "count": 1,
+        "size_kb": 3.3
+      },
+      {
+        "path": "EFM500SimpleShapeProducts.svg",
+        "count": 1,
+        "size_kb": 10.3
+      },
+      {
+        "path": "EFM500SimpleShapeSums.svg",
+        "count": 1,
+        "size_kb": 10.3
+      },
+      {
+        "path": "EFM50NumberCards.svg",
+        "count": 1,
+        "size_kb": 133.6
+      },
+      {
+        "path": "EFM50NumberLine.svg",
+        "count": 1,
+        "size_kb": 21.7
+      },
+      {
+        "path": "EFM50ShapeDeck.svg",
+        "count": 1,
+        "size_kb": 42.9
+      },
+      {
+        "path": "EFM510FactorTrees.svg",
+        "count": 2,
+        "size_kb": 17.2
+      },
+      {
+        "path": "EFM510ProductPyramid.svg",
+        "count": 1,
+        "size_kb": 17.6
+      },
+      {
+        "path": "EFM520LetterSubstitution1.svg",
+        "count": 1,
+        "size_kb": 12.4
+      },
+      {
+        "path": "EFM520LetterSubstitution2.svg",
+        "count": 1,
+        "size_kb": 24.8
+      },
+      {
+        "path": "EFM530BilliardBallBouncing.svg",
+        "count": 1,
+        "size_kb": 5.9
+      },
+      {
+        "path": "EFM530Calculator4-7PlusMinus.svg",
+        "count": 1,
+        "size_kb": 841.1
+      },
+      {
+        "path": "EFM530SquaresInSquares.svg",
+        "count": 1,
+        "size_kb": 3.1
+      },
+      {
+        "path": "EFM540IslandHoppingWithProducts.svg",
+        "count": 1,
+        "size_kb": 21.7
+      },
+      {
+        "path": "EFM540ProductGame.svg",
+        "count": 1,
+        "size_kb": 26.5
+      },
+      {
+        "path": "EFM550Mobile1.svg",
+        "count": 1,
+        "size_kb": 6.9
+      },
+      {
+        "path": "EFM550Mobile2.svg",
+        "count": 1,
+        "size_kb": 10
+      },
+      {
+        "path": "EFM570CrossProducts3By3.svg",
+        "count": 1,
+        "size_kb": 12.9
+      },
+      {
+        "path": "EFM570CrossProducts4By4.svg",
+        "count": 1,
+        "size_kb": 17.7
+      },
+      {
+        "path": "EFM60HomeStoreItems.svg",
+        "count": 1,
+        "size_kb": 35.3
+      },
+      {
+        "path": "EFM60Hopscotchto10.svg",
+        "count": 1,
+        "size_kb": 10.1
+      },
+      {
+        "path": "EFM60TwoCheeriosinahand.svg",
+        "count": 1,
+        "size_kb": 10.2
+      },
+      {
+        "path": "EFM70EachOfTheseIsDifferent.svg",
+        "count": 1,
+        "size_kb": 6.5
+      },
+      {
+        "path": "EFM70EachOfTheseIsDifferentExample.svg",
+        "count": 2,
+        "size_kb": 4.7
+      },
+      {
+        "path": "EFM70ForkSpoonGold.svg",
+        "count": 1,
+        "size_kb": 14.9
+      },
+      {
+        "path": "EFM70GoingInCircles.svg",
+        "count": 2,
+        "size_kb": 10.6
+      },
+      {
+        "path": "EFM90HouseConnecttheDots.svg",
+        "count": 1,
+        "size_kb": 9.2
+      },
+      {
+        "path": "EFM90IslandHoppingConsecutive.svg",
+        "count": 1,
+        "size_kb": 20.8
+      },
+      {
+        "path": "EFM90StringNumberLine.svg",
+        "count": 1,
+        "size_kb": 22
+      },
+      {
+        "path": "EFM95ColoredShapesonFloor.svg",
+        "count": 1,
+        "size_kb": 10.2
+      },
+      {
+        "path": "EFM95Kirigami.svg",
+        "count": 1,
+        "size_kb": 12.2
+      },
+      {
+        "path": "EFMBM135CirclesofDots.svg",
+        "count": 1,
+        "size_kb": 71
+      },
+      {
+        "path": "EFMBM135ConnecttheDotsBanana.svg",
+        "count": 1,
+        "size_kb": 9.1
+      },
+      {
+        "path": "EFMBM135ConnecttheDotsStringsAroundaCircle.svg",
+        "count": 1,
+        "size_kb": 57.8
+      },
+      {
+        "path": "EFMBM135ConnecttheDotsUmbrella.svg",
+        "count": 1,
+        "size_kb": 10.4
+      },
+      {
+        "path": "EFMBM135HouseConnecttheDotswithDashes.svg",
+        "count": 1,
+        "size_kb": 9.2
+      },
+      {
+        "path": "EFMBM135StringArtPattern.svg",
+        "count": 1,
+        "size_kb": 14.2
+      },
+      {
+        "path": "EFMBM135StringArtPatternsOneAngle.svg",
+        "count": 1,
+        "size_kb": 14.5
+      },
+      {
+        "path": "EFMBM135cFinishedShapeSodukuExamples.svg",
+        "count": 1,
+        "size_kb": 187
+      },
+      {
+        "path": "EFMBM150aJigsawSudoku4by4ExamplesSolved.svg",
+        "count": 1,
+        "size_kb": 132.1
+      },
+      {
+        "path": "EFMBM150aJigsawSudoku5by5ExamplesSolved.svg",
+        "count": 1,
+        "size_kb": 101.7
+      },
+      {
+        "path": "EFMBM150aJigsawSudoku6by6ExamplesSolved.svg",
+        "count": 1,
+        "size_kb": 75.6
+      },
+      {
+        "path": "EFMBM180ComplexShapeSums1.svg",
+        "count": 1,
+        "size_kb": 15.1
+      },
+      {
+        "path": "EFMBM180ComplexShapeSums2.svg",
+        "count": 1,
+        "size_kb": 15.9
+      },
+      {
+        "path": "EFMBM180ComplexShapeSums3.svg",
+        "count": 1,
+        "size_kb": 32.8
+      },
+      {
+        "path": "EFMBM180SimpleShapeSums.svg",
+        "count": 1,
+        "size_kb": 11.6
+      },
+      {
+        "path": "EFMBM180SimpleShapeSums7Examples.svg",
+        "count": 1,
+        "size_kb": 54
+      },
+      {
+        "path": "EFMBM220SumGroups.svg",
+        "count": 1,
+        "size_kb": 39.3
+      },
+      {
+        "path": "EFMBM220SumGroups10.svg",
+        "count": 1,
+        "size_kb": 132.7
+      },
+      {
+        "path": "EFMBM220SumGroups6.svg",
+        "count": 1,
+        "size_kb": 129.3
+      },
+      {
+        "path": "EFMBM220SumGroups7.svg",
+        "count": 1,
+        "size_kb": 132.5
+      },
+      {
+        "path": "EFMBM220SumGroups8.svg",
+        "count": 1,
+        "size_kb": 133.2
+      },
+      {
+        "path": "EFMBM220SumGroups9.svg",
+        "count": 1,
+        "size_kb": 133.3
+      },
+      {
+        "path": "EFMBM240EvenOddandKropkiSudoku4by4.svg",
+        "count": 1,
+        "size_kb": 19.9
+      },
+      {
+        "path": "EFMBM240SumdokuDiffdoku.svg",
+        "count": 1,
+        "size_kb": 25.6
+      },
+      {
+        "path": "EFMBM270DifferencePyramid6Solutions.svg",
+        "count": 1,
+        "size_kb": 31
+      },
+      {
+        "path": "EFMBM300IslandHoppingCompensation.svg",
+        "count": 1,
+        "size_kb": 25
+      },
+      {
+        "path": "EFMBM300RegionSums.svg",
+        "count": 1,
+        "size_kb": 10.9
+      },
+      {
+        "path": "EFMBM300RegionSumsMoreExamples.svg",
+        "count": 1,
+        "size_kb": 68
+      },
+      {
+        "path": "EFMBM310DiffTriangles.svg",
+        "count": 1,
+        "size_kb": 14.9
+      },
+      {
+        "path": "EFMBM310DiffTriangles1.svg",
+        "count": 1,
+        "size_kb": 35.8
+      },
+      {
+        "path": "EFMBM310DiffTriangles2.svg",
+        "count": 1,
+        "size_kb": 32
+      },
+      {
+        "path": "EFMBM310DiffTriangles3.svg",
+        "count": 1,
+        "size_kb": 51.7
+      },
+      {
+        "path": "EFMBM310SumTriangles.svg",
+        "count": 1,
+        "size_kb": 15.5
+      },
+      {
+        "path": "EFMBM310SumTriangles1.svg",
+        "count": 1,
+        "size_kb": 31.9
+      },
+      {
+        "path": "EFMBM330IslandHoppingConsecutivetoSkipping.svg",
+        "count": 1,
+        "size_kb": 23.8
+      },
+      {
+        "path": "EFMBM330IslandHoppingSkipCounting.svg",
+        "count": 1,
+        "size_kb": 19.9
+      },
+      {
+        "path": "EFMBM340FixItMoreExamples1.svg",
+        "count": 1,
+        "size_kb": 68.7
+      },
+      {
+        "path": "EFMBM340FixItMoreExamples2.svg",
+        "count": 1,
+        "size_kb": 42
+      },
+      {
+        "path": "EFMBM350IslandHoppingBy1sand10s.svg",
+        "count": 1,
+        "size_kb": 15.6
+      },
+      {
+        "path": "EFMBM350IslandHoppingBy1sand10swithCircles.svg",
+        "count": 1,
+        "size_kb": 21.2
+      },
+      {
+        "path": "EFMBM370MagicCircles1to6.svg",
+        "count": 1,
+        "size_kb": 19.2
+      },
+      {
+        "path": "EFMBM370MagicDesigns1.svg",
+        "count": 1,
+        "size_kb": 6.3
+      },
+      {
+        "path": "EFMBM370MagicDesigns2.svg",
+        "count": 1,
+        "size_kb": 14.7
+      },
+      {
+        "path": "EFMBM370MagicDesigns3.svg",
+        "count": 1,
+        "size_kb": 21.5
+      },
+      {
+        "path": "EFMBM370MagicDesigns4.svg",
+        "count": 1,
+        "size_kb": 24.4
+      },
+      {
+        "path": "EFMBM370MagicDesigns7.svg",
+        "count": 1,
+        "size_kb": 38.4
+      },
+      {
+        "path": "EFMBM370MagicDesigns8.svg",
+        "count": 1,
+        "size_kb": 20.8
+      },
+      {
+        "path": "EFMBM370MagicDesigns9.svg",
+        "count": 1,
+        "size_kb": 13.3
+      },
+      {
+        "path": "EFMBM390AdditionPyramid2.svg",
+        "count": 1,
+        "size_kb": 26.3
+      },
+      {
+        "path": "EFMBM390SumSquare2.svg",
+        "count": 1,
+        "size_kb": 29.3
+      },
+      {
+        "path": "EFMBM470LeverBalance1.svg",
+        "count": 1,
+        "size_kb": 11.3
+      },
+      {
+        "path": "EFMBM470LeverBalance2.svg",
+        "count": 1,
+        "size_kb": 12.9
+      },
+      {
+        "path": "EFMBM490DivideUptheBoxSolution1.svg",
+        "count": 1,
+        "size_kb": 16.3
+      },
+      {
+        "path": "EFMBM490DivideUptheBoxSolution2.svg",
+        "count": 1,
+        "size_kb": 28.2
+      },
+      {
+        "path": "EFMBM520LetterSubstitution1.svg",
+        "count": 1,
+        "size_kb": 12.4
+      },
+      {
+        "path": "EFMBM520LetterSubstitution3.svg",
+        "count": 1,
+        "size_kb": 52.8
+      },
+      {
+        "path": "EFMBM530BilliardBallBouncing.svg",
+        "count": 1,
+        "size_kb": 5.9
+      },
+      {
+        "path": "EFMBM530BilliardBallBouncingUnfolded.svg",
+        "count": 1,
+        "size_kb": 9
+      },
+      {
+        "path": "EFMBM530SquaresinSquares.svg",
+        "count": 2,
+        "size_kb": 3.1
+      },
+      {
+        "path": "EFMBM540ProductGame10-12.svg",
+        "count": 1,
+        "size_kb": 149.4
+      },
+      {
+        "path": "EFMBM540ProductGame9.svg",
+        "count": 1,
+        "size_kb": 32.1
+      },
+      {
+        "path": "EFMBM550Mobile1.svg",
+        "count": 3,
+        "size_kb": 6.9
+      },
+      {
+        "path": "EFMBM90IslandHoppingConsecutiveEasy.svg",
+        "count": 1,
+        "size_kb": 23
+      },
+      {
+        "path": "EFMBM90IslandHoppingConsecutiveEven Harder.svg",
+        "count": 1,
+        "size_kb": 15.8
+      },
+      {
+        "path": "EFMBM90IslandHoppingConsecutiveHarder.svg",
+        "count": 1,
+        "size_kb": 19.2
+      },
+      {
+        "path": "EFMBM95-1FoldTree.svg",
+        "count": 1,
+        "size_kb": 3.4
+      },
+      {
+        "path": "EFMBM95-1Foldstar.svg",
+        "count": 1,
+        "size_kb": 4.4
+      },
+      {
+        "path": "EFMBM95-2FoldsLeaves.svg",
+        "count": 1,
+        "size_kb": 5.5
+      },
+      {
+        "path": "EFMBM95-3FoldsFlower.svg",
+        "count": 1,
+        "size_kb": 12.2
+      },
+      {
+        "path": "EFMBM95SnowflakeFoldingSequence.svg",
+        "count": 1,
+        "size_kb": 53.2
+      },
+      {
+        "path": "EFMFactFamilies2And3.svg",
+        "count": 1,
+        "size_kb": 2.5
+      },
+      {
+        "path": "EFMSevenDotsInATenFrame.svg",
+        "count": 3,
+        "size_kb": 4.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-0-PageDivider.svg",
+        "count": 2,
+        "size_kb": 3.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-1.jpg",
+        "count": 1,
+        "size_kb": 21.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-10.jpg",
+        "count": 1,
+        "size_kb": 12.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-11.jpg",
+        "count": 1,
+        "size_kb": 14.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-12.jpg",
+        "count": 1,
+        "size_kb": 12.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-13.jpg",
+        "count": 1,
+        "size_kb": 22.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-14.jpg",
+        "count": 1,
+        "size_kb": 14.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-15.jpg",
+        "count": 1,
+        "size_kb": 12.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-16.jpg",
+        "count": 1,
+        "size_kb": 16.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-17.jpg",
+        "count": 1,
+        "size_kb": 14.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-18.jpg",
+        "count": 1,
+        "size_kb": 18.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-19.jpg",
+        "count": 1,
+        "size_kb": 16.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-2.jpg",
+        "count": 1,
+        "size_kb": 14.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-20.jpg",
+        "count": 1,
+        "size_kb": 8.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-21.jpg",
+        "count": 1,
+        "size_kb": 32.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-3.jpg",
+        "count": 1,
+        "size_kb": 15.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-4.jpg",
+        "count": 1,
+        "size_kb": 13
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-5.jpg",
+        "count": 1,
+        "size_kb": 12.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-6.jpg",
+        "count": 1,
+        "size_kb": 13.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-7.jpg",
+        "count": 1,
+        "size_kb": 25.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-8.jpg",
+        "count": 1,
+        "size_kb": 22.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-9.jpg",
+        "count": 1,
+        "size_kb": 13.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AD-Cover.jpg",
+        "count": 1,
+        "size_kb": 13.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ADT-1.jpg",
+        "count": 1,
+        "size_kb": 15.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ADT-10.jpg",
+        "count": 1,
+        "size_kb": 19.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ADT-11.jpg",
+        "count": 1,
+        "size_kb": 16
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ADT-12.jpg",
+        "count": 1,
+        "size_kb": 15.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ADT-13.jpg",
+        "count": 1,
+        "size_kb": 38
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ADT-2.jpg",
+        "count": 1,
+        "size_kb": 18
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ADT-3.jpg",
+        "count": 1,
+        "size_kb": 19
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ADT-4.jpg",
+        "count": 1,
+        "size_kb": 17.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ADT-5.jpg",
+        "count": 1,
+        "size_kb": 16
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ADT-6.jpg",
+        "count": 1,
+        "size_kb": 17.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ADT-7.jpg",
+        "count": 1,
+        "size_kb": 14.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ADT-8.jpg",
+        "count": 1,
+        "size_kb": 14.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ADT-9.jpg",
+        "count": 1,
+        "size_kb": 17.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ADT-Cover.jpg",
+        "count": 1,
+        "size_kb": 15.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AFAAG-1.jpg",
+        "count": 1,
+        "size_kb": 17.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AFAAG-10.jpg",
+        "count": 1,
+        "size_kb": 16.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AFAAG-11.jpg",
+        "count": 1,
+        "size_kb": 22.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AFAAG-12.jpg",
+        "count": 1,
+        "size_kb": 19.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AFAAG-13.jpg",
+        "count": 1,
+        "size_kb": 33.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AFAAG-2.jpg",
+        "count": 1,
+        "size_kb": 13.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AFAAG-3.jpg",
+        "count": 1,
+        "size_kb": 14.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AFAAG-4.jpg",
+        "count": 1,
+        "size_kb": 21.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AFAAG-5.jpg",
+        "count": 1,
+        "size_kb": 17.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AFAAG-6.jpg",
+        "count": 1,
+        "size_kb": 21.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AFAAG-7.jpg",
+        "count": 1,
+        "size_kb": 16.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AFAAG-8.jpg",
+        "count": 1,
+        "size_kb": 21.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AFAAG-9.jpg",
+        "count": 1,
+        "size_kb": 19.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AFAAG-Cover.jpg",
+        "count": 1,
+        "size_kb": 22.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ALD-1.jpg",
+        "count": 1,
+        "size_kb": 27.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ALD-10.jpg",
+        "count": 1,
+        "size_kb": 33.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ALD-11.jpg",
+        "count": 1,
+        "size_kb": 31.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ALD-12.jpg",
+        "count": 1,
+        "size_kb": 28.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ALD-13.jpg",
+        "count": 1,
+        "size_kb": 33.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ALD-2.jpg",
+        "count": 1,
+        "size_kb": 31.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ALD-3.jpg",
+        "count": 1,
+        "size_kb": 35.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ALD-4.jpg",
+        "count": 1,
+        "size_kb": 29
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ALD-5.jpg",
+        "count": 1,
+        "size_kb": 33
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ALD-6.jpg",
+        "count": 1,
+        "size_kb": 23
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ALD-7.jpg",
+        "count": 1,
+        "size_kb": 20.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ALD-8.jpg",
+        "count": 1,
+        "size_kb": 19.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ALD-9.jpg",
+        "count": 1,
+        "size_kb": 35.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ALD-Cover.jpg",
+        "count": 1,
+        "size_kb": 31.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-1.jpg",
+        "count": 1,
+        "size_kb": 14.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-10.jpg",
+        "count": 1,
+        "size_kb": 11.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-11.jpg",
+        "count": 1,
+        "size_kb": 4.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-12.jpg",
+        "count": 1,
+        "size_kb": 6.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-13.jpg",
+        "count": 1,
+        "size_kb": 7.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-14.jpg",
+        "count": 1,
+        "size_kb": 9.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-15.jpg",
+        "count": 1,
+        "size_kb": 8.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-16.jpg",
+        "count": 1,
+        "size_kb": 28.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-2.jpg",
+        "count": 1,
+        "size_kb": 13.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-3.jpg",
+        "count": 1,
+        "size_kb": 7.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-4.jpg",
+        "count": 1,
+        "size_kb": 12.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-5.jpg",
+        "count": 1,
+        "size_kb": 8.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-6.jpg",
+        "count": 1,
+        "size_kb": 11.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-7.jpg",
+        "count": 1,
+        "size_kb": 6.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-8.jpg",
+        "count": 1,
+        "size_kb": 11.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-9.jpg",
+        "count": 1,
+        "size_kb": 4.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ASM-Cover.jpg",
+        "count": 1,
+        "size_kb": 8.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ATSM-1.jpg",
+        "count": 1,
+        "size_kb": 29.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ATSM-10.jpg",
+        "count": 1,
+        "size_kb": 29.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ATSM-11.jpg",
+        "count": 1,
+        "size_kb": 29.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ATSM-12.jpg",
+        "count": 1,
+        "size_kb": 23.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ATSM-13.jpg",
+        "count": 1,
+        "size_kb": 34.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ATSM-2.jpg",
+        "count": 1,
+        "size_kb": 30.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ATSM-3.jpg",
+        "count": 1,
+        "size_kb": 29.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ATSM-4.jpg",
+        "count": 1,
+        "size_kb": 26
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ATSM-5.jpg",
+        "count": 1,
+        "size_kb": 24
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ATSM-6.jpg",
+        "count": 1,
+        "size_kb": 27.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ATSM-7.jpg",
+        "count": 1,
+        "size_kb": 19.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ATSM-8.jpg",
+        "count": 1,
+        "size_kb": 27.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ATSM-9.jpg",
+        "count": 1,
+        "size_kb": 22.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ATSM-Cover.jpg",
+        "count": 1,
+        "size_kb": 29.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AVTM-1.jpg",
+        "count": 1,
+        "size_kb": 19.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AVTM-10.jpg",
+        "count": 1,
+        "size_kb": 19.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AVTM-11.jpg",
+        "count": 1,
+        "size_kb": 28.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AVTM-12.jpg",
+        "count": 1,
+        "size_kb": 32.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AVTM-2.jpg",
+        "count": 1,
+        "size_kb": 20.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AVTM-3.jpg",
+        "count": 1,
+        "size_kb": 17.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AVTM-4.jpg",
+        "count": 1,
+        "size_kb": 21.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AVTM-5.jpg",
+        "count": 1,
+        "size_kb": 12.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AVTM-6.jpg",
+        "count": 1,
+        "size_kb": 22
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AVTM-7.jpg",
+        "count": 1,
+        "size_kb": 19.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AVTM-8.jpg",
+        "count": 1,
+        "size_kb": 16.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AVTM-9.jpg",
+        "count": 1,
+        "size_kb": 22.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-AVTM-Cover.jpg",
+        "count": 1,
+        "size_kb": 19.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CA-1.jpg",
+        "count": 1,
+        "size_kb": 23.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CA-2.jpg",
+        "count": 1,
+        "size_kb": 33.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CA-3.jpg",
+        "count": 1,
+        "size_kb": 23.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CA-4.jpg",
+        "count": 1,
+        "size_kb": 28.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CA-5.jpg",
+        "count": 1,
+        "size_kb": 33.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CA-6.jpg",
+        "count": 1,
+        "size_kb": 24.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CA-7.jpg",
+        "count": 1,
+        "size_kb": 34.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CA-8.jpg",
+        "count": 1,
+        "size_kb": 29.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CA-9.jpg",
+        "count": 1,
+        "size_kb": 38.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CA-Cover.jpg",
+        "count": 1,
+        "size_kb": 34.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATB-1.jpg",
+        "count": 1,
+        "size_kb": 15.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATB-10.jpg",
+        "count": 1,
+        "size_kb": 17
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATB-11.jpg",
+        "count": 1,
+        "size_kb": 16.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATB-12.jpg",
+        "count": 1,
+        "size_kb": 15.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATB-13.jpg",
+        "count": 1,
+        "size_kb": 28.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATB-14.jpg",
+        "count": 1,
+        "size_kb": 30.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATB-2.jpg",
+        "count": 1,
+        "size_kb": 17.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATB-3.jpg",
+        "count": 1,
+        "size_kb": 17
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATB-4.jpg",
+        "count": 1,
+        "size_kb": 16
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATB-5.jpg",
+        "count": 1,
+        "size_kb": 18.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATB-6.jpg",
+        "count": 1,
+        "size_kb": 17.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATB-7.jpg",
+        "count": 1,
+        "size_kb": 15.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATB-8.jpg",
+        "count": 1,
+        "size_kb": 15.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATB-9.jpg",
+        "count": 1,
+        "size_kb": 16.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATB-Cover.jpg",
+        "count": 1,
+        "size_kb": 34.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATBu-1.jpg",
+        "count": 1,
+        "size_kb": 15.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATBu-10.jpg",
+        "count": 1,
+        "size_kb": 17.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATBu-11.jpg",
+        "count": 1,
+        "size_kb": 21.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATBu-12.jpg",
+        "count": 1,
+        "size_kb": 23.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATBu-13.jpg",
+        "count": 1,
+        "size_kb": 16.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATBu-14.jpg",
+        "count": 1,
+        "size_kb": 41.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATBu-15.jpg",
+        "count": 1,
+        "size_kb": 32.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATBu-2.jpg",
+        "count": 1,
+        "size_kb": 19.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATBu-3.jpg",
+        "count": 1,
+        "size_kb": 14.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATBu-4.jpg",
+        "count": 1,
+        "size_kb": 20.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATBu-5.jpg",
+        "count": 1,
+        "size_kb": 15.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATBu-6.jpg",
+        "count": 1,
+        "size_kb": 19.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATBu-7.jpg",
+        "count": 1,
+        "size_kb": 18.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATBu-8.jpg",
+        "count": 1,
+        "size_kb": 20.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATBu-9.jpg",
+        "count": 1,
+        "size_kb": 16.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATBu-Cover.jpg",
+        "count": 1,
+        "size_kb": 33.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-1.jpg",
+        "count": 1,
+        "size_kb": 15.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-10.jpg",
+        "count": 1,
+        "size_kb": 18.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-11.jpg",
+        "count": 1,
+        "size_kb": 23.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-12.jpg",
+        "count": 1,
+        "size_kb": 19.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-13.jpg",
+        "count": 1,
+        "size_kb": 23.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-14.jpg",
+        "count": 1,
+        "size_kb": 16.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-15.jpg",
+        "count": 1,
+        "size_kb": 41.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-16.jpg",
+        "count": 1,
+        "size_kb": 32.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-2.jpg",
+        "count": 1,
+        "size_kb": 22.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-3.jpg",
+        "count": 1,
+        "size_kb": 22
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-4.jpg",
+        "count": 1,
+        "size_kb": 25.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-5.jpg",
+        "count": 1,
+        "size_kb": 20.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-6.jpg",
+        "count": 1,
+        "size_kb": 17.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-7.jpg",
+        "count": 1,
+        "size_kb": 24.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-8.jpg",
+        "count": 1,
+        "size_kb": 23.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-9.jpg",
+        "count": 1,
+        "size_kb": 22.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADATE-Cover.jpg",
+        "count": 1,
+        "size_kb": 28.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-1.jpg",
+        "count": 1,
+        "size_kb": 15.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-10.jpg",
+        "count": 1,
+        "size_kb": 15.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-11.jpg",
+        "count": 1,
+        "size_kb": 14.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-12.jpg",
+        "count": 1,
+        "size_kb": 15.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-13.jpg",
+        "count": 1,
+        "size_kb": 16
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-14.jpg",
+        "count": 1,
+        "size_kb": 13.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-15.jpg",
+        "count": 1,
+        "size_kb": 16.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-16.jpg",
+        "count": 1,
+        "size_kb": 20.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-17.jpg",
+        "count": 1,
+        "size_kb": 41.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-18.jpg",
+        "count": 1,
+        "size_kb": 30
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-2.jpg",
+        "count": 1,
+        "size_kb": 12.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-3.jpg",
+        "count": 1,
+        "size_kb": 14.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-4.jpg",
+        "count": 1,
+        "size_kb": 12.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-5.jpg",
+        "count": 1,
+        "size_kb": 14.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-6.jpg",
+        "count": 1,
+        "size_kb": 13.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-7.jpg",
+        "count": 1,
+        "size_kb": 13.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-8.jpg",
+        "count": 1,
+        "size_kb": 17.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-9.jpg",
+        "count": 1,
+        "size_kb": 12.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDAC-Cover.jpg",
+        "count": 1,
+        "size_kb": 33.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-1.jpg",
+        "count": 1,
+        "size_kb": 15.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-10.jpg",
+        "count": 1,
+        "size_kb": 15.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-11.jpg",
+        "count": 1,
+        "size_kb": 15.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-12.jpg",
+        "count": 1,
+        "size_kb": 15
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-13.jpg",
+        "count": 1,
+        "size_kb": 16.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-14.jpg",
+        "count": 1,
+        "size_kb": 17
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-15.jpg",
+        "count": 1,
+        "size_kb": 17.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-16.jpg",
+        "count": 1,
+        "size_kb": 16.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-17.jpg",
+        "count": 1,
+        "size_kb": 18.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-18.jpg",
+        "count": 1,
+        "size_kb": 41.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-19.jpg",
+        "count": 1,
+        "size_kb": 32.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-2.jpg",
+        "count": 1,
+        "size_kb": 19
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-3.jpg",
+        "count": 1,
+        "size_kb": 13.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-4.jpg",
+        "count": 1,
+        "size_kb": 17.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-5.jpg",
+        "count": 1,
+        "size_kb": 13.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-6.jpg",
+        "count": 1,
+        "size_kb": 16.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-7.jpg",
+        "count": 1,
+        "size_kb": 15.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-8.jpg",
+        "count": 1,
+        "size_kb": 14.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-9.jpg",
+        "count": 1,
+        "size_kb": 15.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CADDIC-Cover.jpg",
+        "count": 1,
+        "size_kb": 31.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-1.jpg",
+        "count": 1,
+        "size_kb": 53.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-10.jpg",
+        "count": 1,
+        "size_kb": 53.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-11.jpg",
+        "count": 1,
+        "size_kb": 33.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-12.jpg",
+        "count": 1,
+        "size_kb": 42
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-13.jpg",
+        "count": 1,
+        "size_kb": 27.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-14.jpg",
+        "count": 1,
+        "size_kb": 45
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-15.jpg",
+        "count": 1,
+        "size_kb": 43.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-16.jpg",
+        "count": 1,
+        "size_kb": 33.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-17.jpg",
+        "count": 1,
+        "size_kb": 37.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-2.jpg",
+        "count": 1,
+        "size_kb": 45.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-3.jpg",
+        "count": 1,
+        "size_kb": 43.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-4.jpg",
+        "count": 1,
+        "size_kb": 45.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-5.jpg",
+        "count": 1,
+        "size_kb": 45.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-6.jpg",
+        "count": 1,
+        "size_kb": 41.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-7.jpg",
+        "count": 1,
+        "size_kb": 43.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-8.jpg",
+        "count": 1,
+        "size_kb": 25.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-9.jpg",
+        "count": 1,
+        "size_kb": 28.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CAP-Cover.jpg",
+        "count": 1,
+        "size_kb": 45.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-1.jpg",
+        "count": 1,
+        "size_kb": 33.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-10.jpg",
+        "count": 1,
+        "size_kb": 18.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-11.jpg",
+        "count": 1,
+        "size_kb": 35
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-12.jpg",
+        "count": 1,
+        "size_kb": 27.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-13.jpg",
+        "count": 1,
+        "size_kb": 21.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-14.jpg",
+        "count": 1,
+        "size_kb": 32.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-15.jpg",
+        "count": 1,
+        "size_kb": 31.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-16.jpg",
+        "count": 1,
+        "size_kb": 27.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-17.jpg",
+        "count": 1,
+        "size_kb": 27.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-18.jpg",
+        "count": 1,
+        "size_kb": 25.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-19.jpg",
+        "count": 1,
+        "size_kb": 22.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-2.jpg",
+        "count": 1,
+        "size_kb": 22.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-20.jpg",
+        "count": 1,
+        "size_kb": 27.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-21.jpg",
+        "count": 1,
+        "size_kb": 33.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-3.jpg",
+        "count": 1,
+        "size_kb": 25.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-4.jpg",
+        "count": 1,
+        "size_kb": 15
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-5.jpg",
+        "count": 1,
+        "size_kb": 23.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-6.jpg",
+        "count": 1,
+        "size_kb": 27.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-7.jpg",
+        "count": 1,
+        "size_kb": 22.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-8.jpg",
+        "count": 1,
+        "size_kb": 31.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-9.jpg",
+        "count": 1,
+        "size_kb": 21.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CBE-Cover.jpg",
+        "count": 1,
+        "size_kb": 25.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CC-1.jpg",
+        "count": 1,
+        "size_kb": 25.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CC-10.jpg",
+        "count": 1,
+        "size_kb": 20.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CC-11.jpg",
+        "count": 1,
+        "size_kb": 16.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CC-12.jpg",
+        "count": 1,
+        "size_kb": 30.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CC-13.jpg",
+        "count": 1,
+        "size_kb": 29.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CC-2.jpg",
+        "count": 1,
+        "size_kb": 20.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CC-3.jpg",
+        "count": 1,
+        "size_kb": 21.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CC-4.jpg",
+        "count": 1,
+        "size_kb": 15.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CC-5.jpg",
+        "count": 1,
+        "size_kb": 12.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CC-6.jpg",
+        "count": 1,
+        "size_kb": 22.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CC-7.jpg",
+        "count": 1,
+        "size_kb": 15.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CC-8.jpg",
+        "count": 1,
+        "size_kb": 21.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CC-9.jpg",
+        "count": 1,
+        "size_kb": 16.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CC-Cover.jpg",
+        "count": 1,
+        "size_kb": 16.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-1.jpg",
+        "count": 1,
+        "size_kb": 25.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-10.jpg",
+        "count": 1,
+        "size_kb": 7.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-11.jpg",
+        "count": 1,
+        "size_kb": 15.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-12.jpg",
+        "count": 1,
+        "size_kb": 7.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-13.jpg",
+        "count": 1,
+        "size_kb": 13.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-14.jpg",
+        "count": 1,
+        "size_kb": 6.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-15.jpg",
+        "count": 1,
+        "size_kb": 17.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-16.jpg",
+        "count": 1,
+        "size_kb": 15.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-17.jpg",
+        "count": 1,
+        "size_kb": 30.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-2.jpg",
+        "count": 1,
+        "size_kb": 6.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-3.jpg",
+        "count": 1,
+        "size_kb": 15.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-4.jpg",
+        "count": 1,
+        "size_kb": 7.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-5.jpg",
+        "count": 1,
+        "size_kb": 19.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-6.jpg",
+        "count": 1,
+        "size_kb": 7.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-7.jpg",
+        "count": 1,
+        "size_kb": 21.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-8.jpg",
+        "count": 1,
+        "size_kb": 7.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-9.jpg",
+        "count": 1,
+        "size_kb": 50.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-COAR-Cover.jpg",
+        "count": 1,
+        "size_kb": 25.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWCOC-1.jpg",
+        "count": 1,
+        "size_kb": 26.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWCOC-10.jpg",
+        "count": 1,
+        "size_kb": 19.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWCOC-11.jpg",
+        "count": 1,
+        "size_kb": 22.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWCOC-12.jpg",
+        "count": 1,
+        "size_kb": 31.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWCOC-2.jpg",
+        "count": 1,
+        "size_kb": 16.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWCOC-3.jpg",
+        "count": 1,
+        "size_kb": 24.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWCOC-4.jpg",
+        "count": 1,
+        "size_kb": 33.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWCOC-5.jpg",
+        "count": 1,
+        "size_kb": 20.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWCOC-6.jpg",
+        "count": 1,
+        "size_kb": 27.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWCOC-7.jpg",
+        "count": 1,
+        "size_kb": 25.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWCOC-8.jpg",
+        "count": 1,
+        "size_kb": 21
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWCOC-9.jpg",
+        "count": 1,
+        "size_kb": 24.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWCOC-Cover.jpg",
+        "count": 1,
+        "size_kb": 24.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWT-1.jpg",
+        "count": 1,
+        "size_kb": 32.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWT-10.jpg",
+        "count": 1,
+        "size_kb": 17.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWT-11.jpg",
+        "count": 1,
+        "size_kb": 17.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWT-12.jpg",
+        "count": 1,
+        "size_kb": 24.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWT-13.jpg",
+        "count": 1,
+        "size_kb": 33.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWT-2.jpg",
+        "count": 1,
+        "size_kb": 28.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWT-3.jpg",
+        "count": 1,
+        "size_kb": 26.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWT-4.jpg",
+        "count": 1,
+        "size_kb": 27
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWT-5.jpg",
+        "count": 1,
+        "size_kb": 20.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWT-6.jpg",
+        "count": 1,
+        "size_kb": 18
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWT-7.jpg",
+        "count": 1,
+        "size_kb": 18
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWT-8.jpg",
+        "count": 1,
+        "size_kb": 21.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWT-9.jpg",
+        "count": 1,
+        "size_kb": 27.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-CWT-Cover.jpg",
+        "count": 1,
+        "size_kb": 27
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-D-1.jpg",
+        "count": 1,
+        "size_kb": 22.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-D-2.jpg",
+        "count": 1,
+        "size_kb": 21.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-D-3.jpg",
+        "count": 1,
+        "size_kb": 38.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-D-4.jpg",
+        "count": 1,
+        "size_kb": 34.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-D-5.jpg",
+        "count": 1,
+        "size_kb": 36.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-D-6.jpg",
+        "count": 1,
+        "size_kb": 34.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-D-7.jpg",
+        "count": 1,
+        "size_kb": 30.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-D-8.jpg",
+        "count": 1,
+        "size_kb": 30.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-D-9.jpg",
+        "count": 1,
+        "size_kb": 32.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-D-Cover.jpg",
+        "count": 1,
+        "size_kb": 21.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-EATOM-1.jpg",
+        "count": 1,
+        "size_kb": 10.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-EATOM-10.jpg",
+        "count": 1,
+        "size_kb": 11.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-EATOM-11.jpg",
+        "count": 1,
+        "size_kb": 8.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-EATOM-12.jpg",
+        "count": 1,
+        "size_kb": 9.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-EATOM-13.jpg",
+        "count": 1,
+        "size_kb": 31.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-EATOM-2.jpg",
+        "count": 1,
+        "size_kb": 11.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-EATOM-3.jpg",
+        "count": 1,
+        "size_kb": 10.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-EATOM-4.jpg",
+        "count": 1,
+        "size_kb": 10.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-EATOM-5.jpg",
+        "count": 1,
+        "size_kb": 8.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-EATOM-6.jpg",
+        "count": 1,
+        "size_kb": 13
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-EATOM-7.jpg",
+        "count": 1,
+        "size_kb": 11.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-EATOM-8.jpg",
+        "count": 1,
+        "size_kb": 11.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-EATOM-9.jpg",
+        "count": 1,
+        "size_kb": 9.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-EATOM-Cover.jpg",
+        "count": 1,
+        "size_kb": 11.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FA-1.jpg",
+        "count": 1,
+        "size_kb": 34.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FA-10.jpg",
+        "count": 1,
+        "size_kb": 38
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FA-11.jpg",
+        "count": 1,
+        "size_kb": 33.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FA-12.jpg",
+        "count": 1,
+        "size_kb": 33.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FA-13.jpg",
+        "count": 1,
+        "size_kb": 31.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FA-2.jpg",
+        "count": 1,
+        "size_kb": 28.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FA-3.jpg",
+        "count": 1,
+        "size_kb": 28.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FA-4.jpg",
+        "count": 1,
+        "size_kb": 33.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FA-5.jpg",
+        "count": 1,
+        "size_kb": 26.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FA-6.jpg",
+        "count": 1,
+        "size_kb": 28.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FA-7.jpg",
+        "count": 1,
+        "size_kb": 28.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FA-8.jpg",
+        "count": 1,
+        "size_kb": 24.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FA-9.jpg",
+        "count": 1,
+        "size_kb": 31.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FA-Cover.jpg",
+        "count": 1,
+        "size_kb": 33.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-1.jpg",
+        "count": 1,
+        "size_kb": 14
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-10.jpg",
+        "count": 1,
+        "size_kb": 13.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-11.jpg",
+        "count": 1,
+        "size_kb": 20
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-12.jpg",
+        "count": 1,
+        "size_kb": 22.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-13.jpg",
+        "count": 1,
+        "size_kb": 23.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-14.jpg",
+        "count": 1,
+        "size_kb": 24.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-15.jpg",
+        "count": 1,
+        "size_kb": 20.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-16.jpg",
+        "count": 1,
+        "size_kb": 21.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-17.jpg",
+        "count": 1,
+        "size_kb": 23.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-18.jpg",
+        "count": 1,
+        "size_kb": 26
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-19.jpg",
+        "count": 1,
+        "size_kb": 29.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-2.jpg",
+        "count": 1,
+        "size_kb": 38.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-3.jpg",
+        "count": 1,
+        "size_kb": 19.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-4.jpg",
+        "count": 1,
+        "size_kb": 19
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-5.jpg",
+        "count": 1,
+        "size_kb": 19.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-6.jpg",
+        "count": 1,
+        "size_kb": 18.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-7.jpg",
+        "count": 1,
+        "size_kb": 27.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-8.jpg",
+        "count": 1,
+        "size_kb": 21.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-9.jpg",
+        "count": 1,
+        "size_kb": 23
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FATGS-Cover.jpg",
+        "count": 1,
+        "size_kb": 22.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FB-1.jpg",
+        "count": 1,
+        "size_kb": 27.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FB-10.jpg",
+        "count": 1,
+        "size_kb": 31.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FB-11.jpg",
+        "count": 1,
+        "size_kb": 34.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FB-12.jpg",
+        "count": 1,
+        "size_kb": 24.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FB-13.jpg",
+        "count": 1,
+        "size_kb": 33.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FB-2.jpg",
+        "count": 1,
+        "size_kb": 26.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FB-3.jpg",
+        "count": 1,
+        "size_kb": 33.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FB-4.jpg",
+        "count": 1,
+        "size_kb": 34.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FB-5.jpg",
+        "count": 1,
+        "size_kb": 27.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FB-6.jpg",
+        "count": 1,
+        "size_kb": 29.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FB-7.jpg",
+        "count": 1,
+        "size_kb": 37.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FB-8.jpg",
+        "count": 1,
+        "size_kb": 36.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FB-9.jpg",
+        "count": 1,
+        "size_kb": 34.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FB-Cover.jpg",
+        "count": 1,
+        "size_kb": 33.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FEEL-1.jpg",
+        "count": 1,
+        "size_kb": 15.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FEEL-2.jpg",
+        "count": 1,
+        "size_kb": 44.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FEEL-3.jpg",
+        "count": 1,
+        "size_kb": 20.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FEEL-4.jpg",
+        "count": 1,
+        "size_kb": 20
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FEEL-5.jpg",
+        "count": 1,
+        "size_kb": 22.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FEEL-6.jpg",
+        "count": 1,
+        "size_kb": 44.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FEEL-Cover.jpg",
+        "count": 1,
+        "size_kb": 20.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FLA-1.jpg",
+        "count": 1,
+        "size_kb": 34.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FLA-2.jpg",
+        "count": 1,
+        "size_kb": 29.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FLA-3.jpg",
+        "count": 1,
+        "size_kb": 32.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FLA-4.jpg",
+        "count": 1,
+        "size_kb": 27
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FLA-5.jpg",
+        "count": 1,
+        "size_kb": 32.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FLA-6.jpg",
+        "count": 1,
+        "size_kb": 30.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FLA-7.jpg",
+        "count": 1,
+        "size_kb": 28.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FLA-8.jpg",
+        "count": 1,
+        "size_kb": 29.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FLA-9.jpg",
+        "count": 1,
+        "size_kb": 31.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FLA-Cover.jpg",
+        "count": 1,
+        "size_kb": 29.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-1.jpg",
+        "count": 1,
+        "size_kb": 12.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-10.jpg",
+        "count": 1,
+        "size_kb": 19
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-11.jpg",
+        "count": 1,
+        "size_kb": 22.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-12.jpg",
+        "count": 1,
+        "size_kb": 15.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-13.jpg",
+        "count": 1,
+        "size_kb": 29.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-14.jpg",
+        "count": 1,
+        "size_kb": 21.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-15.jpg",
+        "count": 1,
+        "size_kb": 28.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-16.jpg",
+        "count": 1,
+        "size_kb": 29.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-17.jpg",
+        "count": 1,
+        "size_kb": 36.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-2.jpg",
+        "count": 1,
+        "size_kb": 30
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-3.jpg",
+        "count": 1,
+        "size_kb": 30.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-4.jpg",
+        "count": 1,
+        "size_kb": 13.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-5.jpg",
+        "count": 1,
+        "size_kb": 17.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-6.jpg",
+        "count": 1,
+        "size_kb": 19
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-7.jpg",
+        "count": 1,
+        "size_kb": 20.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-8.jpg",
+        "count": 1,
+        "size_kb": 14.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-9.jpg",
+        "count": 1,
+        "size_kb": 20.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FRIENDS-Cover.jpg",
+        "count": 1,
+        "size_kb": 30
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FSAD-1.jpg",
+        "count": 1,
+        "size_kb": 8.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FSAD-2.jpg",
+        "count": 1,
+        "size_kb": 8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FSAD-3.jpg",
+        "count": 1,
+        "size_kb": 10.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FSAD-4.jpg",
+        "count": 1,
+        "size_kb": 7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FSAD-5.jpg",
+        "count": 1,
+        "size_kb": 9.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FSAD-6.jpg",
+        "count": 1,
+        "size_kb": 7.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FSAD-7.jpg",
+        "count": 1,
+        "size_kb": 9.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FSAD-8.jpg",
+        "count": 1,
+        "size_kb": 6.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FSAD-9.jpg",
+        "count": 1,
+        "size_kb": 31.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-FSAD-Cover.jpg",
+        "count": 1,
+        "size_kb": 7.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-1.jpg",
+        "count": 1,
+        "size_kb": 30.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-10.jpg",
+        "count": 1,
+        "size_kb": 34
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-11.jpg",
+        "count": 1,
+        "size_kb": 23.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-12.jpg",
+        "count": 1,
+        "size_kb": 25.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-13.jpg",
+        "count": 1,
+        "size_kb": 17.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-14.jpg",
+        "count": 1,
+        "size_kb": 33.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-15.jpg",
+        "count": 1,
+        "size_kb": 22.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-17.jpg",
+        "count": 1,
+        "size_kb": 30.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-2.jpg",
+        "count": 1,
+        "size_kb": 28.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-3.jpg",
+        "count": 1,
+        "size_kb": 32.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-4.jpg",
+        "count": 1,
+        "size_kb": 21.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-5.jpg",
+        "count": 1,
+        "size_kb": 28.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-6.jpg",
+        "count": 1,
+        "size_kb": 23.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-7.jpg",
+        "count": 1,
+        "size_kb": 22
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-8.jpg",
+        "count": 1,
+        "size_kb": 24
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-9.jpg",
+        "count": 1,
+        "size_kb": 27.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HAT-Cover.jpg",
+        "count": 1,
+        "size_kb": 32.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HM-1.jpg",
+        "count": 1,
+        "size_kb": 16
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HM-2.jpg",
+        "count": 1,
+        "size_kb": 17.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HM-3.jpg",
+        "count": 1,
+        "size_kb": 19.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HM-4.jpg",
+        "count": 1,
+        "size_kb": 29.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HM-5.jpg",
+        "count": 1,
+        "size_kb": 22.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HM-6.jpg",
+        "count": 1,
+        "size_kb": 22
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HM-7.jpg",
+        "count": 1,
+        "size_kb": 27.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HM-8.jpg",
+        "count": 1,
+        "size_kb": 13.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HM-9.jpg",
+        "count": 1,
+        "size_kb": 39.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HM-Cover.jpg",
+        "count": 1,
+        "size_kb": 20.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HODB-1.jpg",
+        "count": 1,
+        "size_kb": 48.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HODB-10.jpg",
+        "count": 1,
+        "size_kb": 40
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HODB-11.jpg",
+        "count": 1,
+        "size_kb": 36.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HODB-12.jpg",
+        "count": 1,
+        "size_kb": 47.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HODB-13.jpg",
+        "count": 1,
+        "size_kb": 29.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HODB-2.jpg",
+        "count": 1,
+        "size_kb": 47.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HODB-3.jpg",
+        "count": 1,
+        "size_kb": 48.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HODB-4.jpg",
+        "count": 1,
+        "size_kb": 42
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HODB-5.jpg",
+        "count": 1,
+        "size_kb": 40.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HODB-6.jpg",
+        "count": 1,
+        "size_kb": 42.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HODB-7.jpg",
+        "count": 1,
+        "size_kb": 42.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HODB-8.jpg",
+        "count": 1,
+        "size_kb": 39.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HODB-9.jpg",
+        "count": 1,
+        "size_kb": 43.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HODB-Cover.jpg",
+        "count": 1,
+        "size_kb": 47.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HTTGIS-1.jpg",
+        "count": 1,
+        "size_kb": 39
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HTTGIS-10.jpg",
+        "count": 1,
+        "size_kb": 22.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HTTGIS-11.jpg",
+        "count": 1,
+        "size_kb": 28.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HTTGIS-12.jpg",
+        "count": 1,
+        "size_kb": 30.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HTTGIS-13.jpg",
+        "count": 1,
+        "size_kb": 35.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HTTGIS-2.jpg",
+        "count": 1,
+        "size_kb": 32.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HTTGIS-3.jpg",
+        "count": 1,
+        "size_kb": 32.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HTTGIS-4.jpg",
+        "count": 1,
+        "size_kb": 27.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HTTGIS-5.jpg",
+        "count": 1,
+        "size_kb": 34.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HTTGIS-6.jpg",
+        "count": 1,
+        "size_kb": 32.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HTTGIS-7.jpg",
+        "count": 1,
+        "size_kb": 35.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HTTGIS-8.jpg",
+        "count": 1,
+        "size_kb": 29.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HTTGIS-9.jpg",
+        "count": 1,
+        "size_kb": 23.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-HTTGIS-Cover.jpg",
+        "count": 1,
+        "size_kb": 32.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ILF-1.jpg",
+        "count": 1,
+        "size_kb": 25.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ILF-2.jpg",
+        "count": 1,
+        "size_kb": 25.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ILF-3.jpg",
+        "count": 1,
+        "size_kb": 18.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ILF-4.jpg",
+        "count": 1,
+        "size_kb": 26.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ILF-5.jpg",
+        "count": 1,
+        "size_kb": 27.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ILF-6.jpg",
+        "count": 1,
+        "size_kb": 21.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ILF-7.jpg",
+        "count": 1,
+        "size_kb": 31.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ILF-9.jpg",
+        "count": 1,
+        "size_kb": 37
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ILF-Cover.jpg",
+        "count": 1,
+        "size_kb": 31.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ITALM-1.jpg",
+        "count": 1,
+        "size_kb": 15
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ITALM-10.jpg",
+        "count": 1,
+        "size_kb": 13.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ITALM-11.jpg",
+        "count": 1,
+        "size_kb": 12.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ITALM-12.jpg",
+        "count": 1,
+        "size_kb": 8.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ITALM-13.jpg",
+        "count": 1,
+        "size_kb": 18.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ITALM-14.jpg",
+        "count": 1,
+        "size_kb": 14.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ITALM-15.jpg",
+        "count": 1,
+        "size_kb": 33.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ITALM-2.jpg",
+        "count": 1,
+        "size_kb": 12.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ITALM-3.jpg",
+        "count": 1,
+        "size_kb": 14.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ITALM-4.jpg",
+        "count": 1,
+        "size_kb": 13.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ITALM-5.jpg",
+        "count": 1,
+        "size_kb": 18.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ITALM-6.jpg",
+        "count": 1,
+        "size_kb": 12.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ITALM-7.jpg",
+        "count": 1,
+        "size_kb": 16.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ITALM-8.jpg",
+        "count": 1,
+        "size_kb": 10.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ITALM-9.jpg",
+        "count": 1,
+        "size_kb": 21.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-ITALM-Cover.jpg",
+        "count": 1,
+        "size_kb": 12.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-1.jpg",
+        "count": 1,
+        "size_kb": 14.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-10.jpg",
+        "count": 1,
+        "size_kb": 9.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-11.jpg",
+        "count": 1,
+        "size_kb": 10.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-12.jpg",
+        "count": 1,
+        "size_kb": 10.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-13.jpg",
+        "count": 1,
+        "size_kb": 11.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-14.jpg",
+        "count": 1,
+        "size_kb": 9.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-15.jpg",
+        "count": 1,
+        "size_kb": 11
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-16.jpg",
+        "count": 1,
+        "size_kb": 13.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-17.jpg",
+        "count": 1,
+        "size_kb": 10.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-18.jpg",
+        "count": 1,
+        "size_kb": 11.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-19.jpg",
+        "count": 1,
+        "size_kb": 10.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-2.jpg",
+        "count": 1,
+        "size_kb": 15.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-21.jpg",
+        "count": 1,
+        "size_kb": 31
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-3.jpg",
+        "count": 1,
+        "size_kb": 10.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-4.jpg",
+        "count": 1,
+        "size_kb": 12.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-5.jpg",
+        "count": 1,
+        "size_kb": 9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-6.jpg",
+        "count": 1,
+        "size_kb": 10.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-7.jpg",
+        "count": 1,
+        "size_kb": 11.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-8.jpg",
+        "count": 1,
+        "size_kb": 7.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-9.jpg",
+        "count": 1,
+        "size_kb": 11.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-KAHN-Cover.jpg",
+        "count": 1,
+        "size_kb": 13.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LATA-1.jpg",
+        "count": 1,
+        "size_kb": 31.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LATA-2.jpg",
+        "count": 1,
+        "size_kb": 31.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LATA-3.jpg",
+        "count": 1,
+        "size_kb": 10.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LATA-4.jpg",
+        "count": 1,
+        "size_kb": 12.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LATA-5.jpg",
+        "count": 1,
+        "size_kb": 12.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LATA-6.jpg",
+        "count": 1,
+        "size_kb": 10.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LATA-7.jpg",
+        "count": 1,
+        "size_kb": 12.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LATA-8.jpg",
+        "count": 1,
+        "size_kb": 9.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LATA-9.jpg",
+        "count": 1,
+        "size_kb": 38.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LATA-Cover.jpg",
+        "count": 1,
+        "size_kb": 24.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LD-1.jpg",
+        "count": 1,
+        "size_kb": 19.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LD-10.jpg",
+        "count": 1,
+        "size_kb": 18.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LD-11.jpg",
+        "count": 1,
+        "size_kb": 11
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LD-12.jpg",
+        "count": 1,
+        "size_kb": 14.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LD-13.jpg",
+        "count": 1,
+        "size_kb": 11.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LD-14.jpg",
+        "count": 1,
+        "size_kb": 21.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LD-15.jpg",
+        "count": 1,
+        "size_kb": 32.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LD-2.jpg",
+        "count": 1,
+        "size_kb": 20.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LD-3.jpg",
+        "count": 1,
+        "size_kb": 13.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LD-4.jpg",
+        "count": 1,
+        "size_kb": 14.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LD-5.jpg",
+        "count": 1,
+        "size_kb": 15.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LD-6.jpg",
+        "count": 1,
+        "size_kb": 9.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LD-7.jpg",
+        "count": 1,
+        "size_kb": 16.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LD-8.jpg",
+        "count": 1,
+        "size_kb": 16.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LD-9.jpg",
+        "count": 1,
+        "size_kb": 10.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LD-Cover.jpg",
+        "count": 1,
+        "size_kb": 18
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-1.jpg",
+        "count": 1,
+        "size_kb": 27.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-10.jpg",
+        "count": 1,
+        "size_kb": 23.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-11.jpg",
+        "count": 1,
+        "size_kb": 23.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-12.jpg",
+        "count": 1,
+        "size_kb": 20.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-13.jpg",
+        "count": 1,
+        "size_kb": 23.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-14.jpg",
+        "count": 1,
+        "size_kb": 30.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-15.jpg",
+        "count": 1,
+        "size_kb": 33.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-16.jpg",
+        "count": 1,
+        "size_kb": 23.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-17.jpg",
+        "count": 1,
+        "size_kb": 31.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-2.jpg",
+        "count": 1,
+        "size_kb": 36.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-3.jpg",
+        "count": 1,
+        "size_kb": 23.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-4.jpg",
+        "count": 1,
+        "size_kb": 25.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-5.jpg",
+        "count": 1,
+        "size_kb": 29.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-6.jpg",
+        "count": 1,
+        "size_kb": 29.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-7.jpg",
+        "count": 1,
+        "size_kb": 34.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-8.jpg",
+        "count": 1,
+        "size_kb": 24
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-9.jpg",
+        "count": 1,
+        "size_kb": 22.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LJLTT-Cover.jpg",
+        "count": 1,
+        "size_kb": 23.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-1.jpg",
+        "count": 1,
+        "size_kb": 18.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-10.jpg",
+        "count": 1,
+        "size_kb": 15.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-11.jpg",
+        "count": 1,
+        "size_kb": 14.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-12.jpg",
+        "count": 1,
+        "size_kb": 14
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-13.jpg",
+        "count": 1,
+        "size_kb": 15
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-14.jpg",
+        "count": 1,
+        "size_kb": 15.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-15.jpg",
+        "count": 1,
+        "size_kb": 14.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-16.jpg",
+        "count": 1,
+        "size_kb": 13.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-17.jpg",
+        "count": 1,
+        "size_kb": 33.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-2.jpg",
+        "count": 1,
+        "size_kb": 16.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-3.jpg",
+        "count": 1,
+        "size_kb": 16
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-4.jpg",
+        "count": 1,
+        "size_kb": 13.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-5.jpg",
+        "count": 1,
+        "size_kb": 17.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-6.jpg",
+        "count": 1,
+        "size_kb": 17.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-7.jpg",
+        "count": 1,
+        "size_kb": 16.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-8.jpg",
+        "count": 1,
+        "size_kb": 13.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-9.jpg",
+        "count": 1,
+        "size_kb": 18.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-LTMB-Cover.jpg",
+        "count": 1,
+        "size_kb": 26.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-1.jpg",
+        "count": 1,
+        "size_kb": 25.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-10.jpg",
+        "count": 1,
+        "size_kb": 29.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-11.jpg",
+        "count": 1,
+        "size_kb": 23.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-12.jpg",
+        "count": 1,
+        "size_kb": 31
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-13.jpg",
+        "count": 1,
+        "size_kb": 28
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-14.jpg",
+        "count": 1,
+        "size_kb": 18.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-15.jpg",
+        "count": 1,
+        "size_kb": 25.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-16.jpg",
+        "count": 1,
+        "size_kb": 33
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-17.jpg",
+        "count": 1,
+        "size_kb": 33.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-2.jpg",
+        "count": 1,
+        "size_kb": 21.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-3.jpg",
+        "count": 1,
+        "size_kb": 34.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-4.jpg",
+        "count": 1,
+        "size_kb": 30.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-5.jpg",
+        "count": 1,
+        "size_kb": 25.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-6.jpg",
+        "count": 1,
+        "size_kb": 32.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-7.jpg",
+        "count": 1,
+        "size_kb": 27.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-8.jpg",
+        "count": 1,
+        "size_kb": 25.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-9.jpg",
+        "count": 1,
+        "size_kb": 29
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MGL-Cover.jpg",
+        "count": 1,
+        "size_kb": 27.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MRR-1.jpg",
+        "count": 1,
+        "size_kb": 9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MRR-10.jpg",
+        "count": 1,
+        "size_kb": 6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MRR-11.jpg",
+        "count": 1,
+        "size_kb": 8.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MRR-12.jpg",
+        "count": 1,
+        "size_kb": 11
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MRR-13.jpg",
+        "count": 1,
+        "size_kb": 29.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MRR-2.jpg",
+        "count": 1,
+        "size_kb": 9.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MRR-3.jpg",
+        "count": 1,
+        "size_kb": 9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MRR-4.jpg",
+        "count": 1,
+        "size_kb": 9.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MRR-5.jpg",
+        "count": 1,
+        "size_kb": 7.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MRR-6.jpg",
+        "count": 1,
+        "size_kb": 10.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MRR-7.jpg",
+        "count": 1,
+        "size_kb": 12.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MRR-8.jpg",
+        "count": 1,
+        "size_kb": 8.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MRR-9.jpg",
+        "count": 1,
+        "size_kb": 7.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MRR-Cover.jpg",
+        "count": 1,
+        "size_kb": 12.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MSC-1.jpg",
+        "count": 1,
+        "size_kb": 15.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MSC-2.jpg",
+        "count": 1,
+        "size_kb": 16.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MSC-3.jpg",
+        "count": 1,
+        "size_kb": 16.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MSC-4.jpg",
+        "count": 1,
+        "size_kb": 19.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MSC-5.jpg",
+        "count": 1,
+        "size_kb": 18.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MSC-6.jpg",
+        "count": 1,
+        "size_kb": 17.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MSC-7.jpg",
+        "count": 1,
+        "size_kb": 15
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MSC-8.jpg",
+        "count": 1,
+        "size_kb": 16
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MSC-9.jpg",
+        "count": 1,
+        "size_kb": 46.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-MSC-Cover.jpg",
+        "count": 1,
+        "size_kb": 16
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-POC-1.jpg",
+        "count": 1,
+        "size_kb": 23
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-POC-10.jpg",
+        "count": 1,
+        "size_kb": 27.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-POC-11.jpg",
+        "count": 1,
+        "size_kb": 24.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-POC-12.jpg",
+        "count": 1,
+        "size_kb": 26.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-POC-13.jpg",
+        "count": 1,
+        "size_kb": 33.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-POC-2.jpg",
+        "count": 1,
+        "size_kb": 22.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-POC-3.jpg",
+        "count": 1,
+        "size_kb": 23
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-POC-4.jpg",
+        "count": 1,
+        "size_kb": 23.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-POC-5.jpg",
+        "count": 1,
+        "size_kb": 30.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-POC-6.jpg",
+        "count": 1,
+        "size_kb": 28
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-POC-7.jpg",
+        "count": 1,
+        "size_kb": 25.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-POC-8.jpg",
+        "count": 1,
+        "size_kb": 25.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-POC-9.jpg",
+        "count": 1,
+        "size_kb": 26.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-POC-Cover.jpg",
+        "count": 1,
+        "size_kb": 26.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-PT-1.jpg",
+        "count": 1,
+        "size_kb": 32.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-PT-2.jpg",
+        "count": 1,
+        "size_kb": 24
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-PT-3.jpg",
+        "count": 1,
+        "size_kb": 27.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-PT-4.jpg",
+        "count": 1,
+        "size_kb": 34.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-PT-5.jpg",
+        "count": 1,
+        "size_kb": 31.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-PT-6.jpg",
+        "count": 1,
+        "size_kb": 31.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-PT-7.jpg",
+        "count": 1,
+        "size_kb": 21.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-PT-8.jpg",
+        "count": 1,
+        "size_kb": 33.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-PT-9.jpg",
+        "count": 1,
+        "size_kb": 29.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-PT-Cover.jpg",
+        "count": 1,
+        "size_kb": 34.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SFTSOS-1.jpg",
+        "count": 1,
+        "size_kb": 7.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SFTSOS-10.jpg",
+        "count": 1,
+        "size_kb": 6.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SFTSOS-11.jpg",
+        "count": 1,
+        "size_kb": 7.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SFTSOS-12.jpg",
+        "count": 1,
+        "size_kb": 11.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SFTSOS-13.jpg",
+        "count": 1,
+        "size_kb": 38.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SFTSOS-2.jpg",
+        "count": 1,
+        "size_kb": 5.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SFTSOS-3.jpg",
+        "count": 1,
+        "size_kb": 6.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SFTSOS-4.jpg",
+        "count": 1,
+        "size_kb": 7.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SFTSOS-5.jpg",
+        "count": 1,
+        "size_kb": 6.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SFTSOS-6.jpg",
+        "count": 1,
+        "size_kb": 5.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SFTSOS-7.jpg",
+        "count": 1,
+        "size_kb": 7.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SFTSOS-8.jpg",
+        "count": 1,
+        "size_kb": 10.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SFTSOS-9.jpg",
+        "count": 1,
+        "size_kb": 6.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SFTSOS-Cover.jpg",
+        "count": 1,
+        "size_kb": 7.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-1.jpg",
+        "count": 1,
+        "size_kb": 8.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-10.jpg",
+        "count": 1,
+        "size_kb": 7.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-11.jpg",
+        "count": 1,
+        "size_kb": 7.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-12.jpg",
+        "count": 1,
+        "size_kb": 7.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-13.jpg",
+        "count": 1,
+        "size_kb": 9.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-14.jpg",
+        "count": 1,
+        "size_kb": 7.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-15.jpg",
+        "count": 1,
+        "size_kb": 8.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-16.jpg",
+        "count": 1,
+        "size_kb": 11.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-17.jpg",
+        "count": 1,
+        "size_kb": 31.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-2.jpg",
+        "count": 1,
+        "size_kb": 9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-3.jpg",
+        "count": 1,
+        "size_kb": 7.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-4.jpg",
+        "count": 1,
+        "size_kb": 7.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-5.jpg",
+        "count": 1,
+        "size_kb": 6.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-6.jpg",
+        "count": 1,
+        "size_kb": 8.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-7.jpg",
+        "count": 1,
+        "size_kb": 8.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-8.jpg",
+        "count": 1,
+        "size_kb": 7.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-9.jpg",
+        "count": 1,
+        "size_kb": 7.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SIF-Cover.jpg",
+        "count": 1,
+        "size_kb": 14.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SMAW-1.jpg",
+        "count": 1,
+        "size_kb": 19.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SMAW-10.jpg",
+        "count": 1,
+        "size_kb": 32.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SMAW-11.jpg",
+        "count": 1,
+        "size_kb": 24.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SMAW-12.jpg",
+        "count": 1,
+        "size_kb": 20
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SMAW-13.jpg",
+        "count": 1,
+        "size_kb": 33.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SMAW-2.jpg",
+        "count": 1,
+        "size_kb": 17.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SMAW-3.jpg",
+        "count": 1,
+        "size_kb": 16.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SMAW-4.jpg",
+        "count": 1,
+        "size_kb": 20.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SMAW-5.jpg",
+        "count": 1,
+        "size_kb": 22.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SMAW-6.jpg",
+        "count": 1,
+        "size_kb": 26
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SMAW-7.jpg",
+        "count": 1,
+        "size_kb": 19.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SMAW-8.jpg",
+        "count": 1,
+        "size_kb": 23.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SMAW-9.jpg",
+        "count": 1,
+        "size_kb": 29.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SMAW-Cover.jpg",
+        "count": 1,
+        "size_kb": 24.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSMILE-1.jpg",
+        "count": 1,
+        "size_kb": 4.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSMILE-10.jpg",
+        "count": 1,
+        "size_kb": 7.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSMILE-11.jpg",
+        "count": 1,
+        "size_kb": 7.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSMILE-12.jpg",
+        "count": 1,
+        "size_kb": 7.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSMILE-13.jpg",
+        "count": 1,
+        "size_kb": 3.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSMILE-14.jpg",
+        "count": 1,
+        "size_kb": 33.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSMILE-2.jpg",
+        "count": 1,
+        "size_kb": 5.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSMILE-3.jpg",
+        "count": 1,
+        "size_kb": 4.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSMILE-4.jpg",
+        "count": 1,
+        "size_kb": 4.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSMILE-5.jpg",
+        "count": 1,
+        "size_kb": 6.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSMILE-6.jpg",
+        "count": 1,
+        "size_kb": 5.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSMILE-7.jpg",
+        "count": 1,
+        "size_kb": 5.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSMILE-9.jpg",
+        "count": 1,
+        "size_kb": 5.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSMILE-Cover.jpg",
+        "count": 1,
+        "size_kb": 8.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-1.jpg",
+        "count": 1,
+        "size_kb": 14.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-10.jpg",
+        "count": 1,
+        "size_kb": 13.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-11.jpg",
+        "count": 1,
+        "size_kb": 14.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-12.jpg",
+        "count": 1,
+        "size_kb": 13.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-13.jpg",
+        "count": 1,
+        "size_kb": 7.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-14.jpg",
+        "count": 1,
+        "size_kb": 8.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-15.jpg",
+        "count": 1,
+        "size_kb": 10.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-16.jpg",
+        "count": 1,
+        "size_kb": 10.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-17.jpg",
+        "count": 1,
+        "size_kb": 10.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-18.jpg",
+        "count": 1,
+        "size_kb": 15.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-19.jpg",
+        "count": 1,
+        "size_kb": 28.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-2.jpg",
+        "count": 1,
+        "size_kb": 8.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-3.jpg",
+        "count": 1,
+        "size_kb": 11.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-4.jpg",
+        "count": 1,
+        "size_kb": 11.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-5.jpg",
+        "count": 1,
+        "size_kb": 12.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-6.jpg",
+        "count": 1,
+        "size_kb": 6.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-7.jpg",
+        "count": 1,
+        "size_kb": 8.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-8.jpg",
+        "count": 1,
+        "size_kb": 7.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-9.jpg",
+        "count": 1,
+        "size_kb": 13.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-SSONG-Cover.jpg",
+        "count": 1,
+        "size_kb": 12.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-STT-1.jpg",
+        "count": 1,
+        "size_kb": 15.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-STT-10.jpg",
+        "count": 1,
+        "size_kb": 13.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-STT-11.jpg",
+        "count": 1,
+        "size_kb": 16.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-STT-12.jpg",
+        "count": 1,
+        "size_kb": 21.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-STT-13.jpg",
+        "count": 1,
+        "size_kb": 37.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-STT-2.jpg",
+        "count": 1,
+        "size_kb": 14
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-STT-3.jpg",
+        "count": 1,
+        "size_kb": 17.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-STT-4.jpg",
+        "count": 1,
+        "size_kb": 17.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-STT-5.jpg",
+        "count": 1,
+        "size_kb": 18.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-STT-6.jpg",
+        "count": 1,
+        "size_kb": 16.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-STT-7.jpg",
+        "count": 1,
+        "size_kb": 23.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-STT-8.jpg",
+        "count": 1,
+        "size_kb": 12
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-STT-9.jpg",
+        "count": 1,
+        "size_kb": 18.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-STT-Cover.jpg",
+        "count": 1,
+        "size_kb": 16.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TDTSWA-1.jpg",
+        "count": 1,
+        "size_kb": 23.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TDTSWA-10.jpg",
+        "count": 1,
+        "size_kb": 22.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TDTSWA-11.jpg",
+        "count": 1,
+        "size_kb": 38.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TDTSWA-12.jpg",
+        "count": 1,
+        "size_kb": 39.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TDTSWA-13.jpg",
+        "count": 1,
+        "size_kb": 38.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TDTSWA-2.jpg",
+        "count": 1,
+        "size_kb": 17.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TDTSWA-3.jpg",
+        "count": 1,
+        "size_kb": 42.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TDTSWA-4.jpg",
+        "count": 1,
+        "size_kb": 29.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TDTSWA-5.jpg",
+        "count": 1,
+        "size_kb": 38.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TDTSWA-6.jpg",
+        "count": 1,
+        "size_kb": 40.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TDTSWA-7.jpg",
+        "count": 1,
+        "size_kb": 19.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TDTSWA-8.jpg",
+        "count": 1,
+        "size_kb": 22.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TDTSWA-9.jpg",
+        "count": 1,
+        "size_kb": 39.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TDTSWA-Cover.jpg",
+        "count": 1,
+        "size_kb": 39.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-1.jpg",
+        "count": 1,
+        "size_kb": 10.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-10.jpg",
+        "count": 1,
+        "size_kb": 15.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-11.jpg",
+        "count": 1,
+        "size_kb": 8.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-12.jpg",
+        "count": 1,
+        "size_kb": 10
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-13.jpg",
+        "count": 1,
+        "size_kb": 11.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-14.jpg",
+        "count": 1,
+        "size_kb": 14.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-15.jpg",
+        "count": 1,
+        "size_kb": 19.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-16.jpg",
+        "count": 1,
+        "size_kb": 39.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-3.jpg",
+        "count": 1,
+        "size_kb": 8.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-4.jpg",
+        "count": 1,
+        "size_kb": 7.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-5.jpg",
+        "count": 1,
+        "size_kb": 11.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-6.jpg",
+        "count": 1,
+        "size_kb": 10.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-7.jpg",
+        "count": 1,
+        "size_kb": 7.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-8.jpg",
+        "count": 1,
+        "size_kb": 13.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-9.jpg",
+        "count": 1,
+        "size_kb": 9.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TFHH-Cover.jpg",
+        "count": 1,
+        "size_kb": 11.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-1.jpg",
+        "count": 1,
+        "size_kb": 10.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-10.jpg",
+        "count": 1,
+        "size_kb": 7.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-11.jpg",
+        "count": 1,
+        "size_kb": 5.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-12.jpg",
+        "count": 1,
+        "size_kb": 5.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-13.jpg",
+        "count": 1,
+        "size_kb": 6.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-14.jpg",
+        "count": 1,
+        "size_kb": 5.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-15.jpg",
+        "count": 1,
+        "size_kb": 9.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-16.jpg",
+        "count": 1,
+        "size_kb": 35.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-2.jpg",
+        "count": 1,
+        "size_kb": 7.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-3.jpg",
+        "count": 1,
+        "size_kb": 10
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-4.jpg",
+        "count": 1,
+        "size_kb": 7.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-5.jpg",
+        "count": 1,
+        "size_kb": 5.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-6.jpg",
+        "count": 1,
+        "size_kb": 7.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-7.jpg",
+        "count": 1,
+        "size_kb": 6.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-8.jpg",
+        "count": 1,
+        "size_kb": 10
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-9.jpg",
+        "count": 1,
+        "size_kb": 9.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-TST-Cover.jpg",
+        "count": 1,
+        "size_kb": 15.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-1.jpg",
+        "count": 1,
+        "size_kb": 22
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-10.jpg",
+        "count": 1,
+        "size_kb": 27.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-11.jpg",
+        "count": 1,
+        "size_kb": 34.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-12.jpg",
+        "count": 1,
+        "size_kb": 25.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-13.jpg",
+        "count": 1,
+        "size_kb": 33.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-14.jpg",
+        "count": 1,
+        "size_kb": 37.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-15.jpg",
+        "count": 1,
+        "size_kb": 33.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-16.jpg",
+        "count": 1,
+        "size_kb": 32.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-17.jpg",
+        "count": 1,
+        "size_kb": 27.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-18.jpg",
+        "count": 1,
+        "size_kb": 28.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-19.jpg",
+        "count": 1,
+        "size_kb": 32.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-2.jpg",
+        "count": 1,
+        "size_kb": 39.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-20.jpg",
+        "count": 1,
+        "size_kb": 36.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-3.jpg",
+        "count": 1,
+        "size_kb": 26.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-4.jpg",
+        "count": 1,
+        "size_kb": 28.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-5.jpg",
+        "count": 1,
+        "size_kb": 28.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-6.jpg",
+        "count": 1,
+        "size_kb": 26.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-7.jpg",
+        "count": 1,
+        "size_kb": 24.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-8.jpg",
+        "count": 1,
+        "size_kb": 26.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-9.jpg",
+        "count": 1,
+        "size_kb": 32
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-VG-Cover.jpg",
+        "count": 1,
+        "size_kb": 28.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-1.jpg",
+        "count": 1,
+        "size_kb": 35.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-10.jpg",
+        "count": 1,
+        "size_kb": 41.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-11.jpg",
+        "count": 1,
+        "size_kb": 27.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-12.jpg",
+        "count": 1,
+        "size_kb": 29.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-13.jpg",
+        "count": 1,
+        "size_kb": 40.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-14.jpg",
+        "count": 1,
+        "size_kb": 30.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-15.jpg",
+        "count": 1,
+        "size_kb": 27.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-16.jpg",
+        "count": 1,
+        "size_kb": 35.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-17.jpg",
+        "count": 1,
+        "size_kb": 32.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-2.jpg",
+        "count": 1,
+        "size_kb": 40.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-3.jpg",
+        "count": 1,
+        "size_kb": 55.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-4.jpg",
+        "count": 1,
+        "size_kb": 43.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-5.jpg",
+        "count": 1,
+        "size_kb": 41.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-6.jpg",
+        "count": 1,
+        "size_kb": 42.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-7.jpg",
+        "count": 1,
+        "size_kb": 30.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-8.jpg",
+        "count": 1,
+        "size_kb": 43.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-9.jpg",
+        "count": 1,
+        "size_kb": 33.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WCCTT-Cover.jpg",
+        "count": 1,
+        "size_kb": 59.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-1.jpg",
+        "count": 1,
+        "size_kb": 16.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-10.jpg",
+        "count": 1,
+        "size_kb": 19.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-11.jpg",
+        "count": 1,
+        "size_kb": 22.9
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-12.jpg",
+        "count": 1,
+        "size_kb": 23.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-13.jpg",
+        "count": 1,
+        "size_kb": 22
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-14.jpg",
+        "count": 1,
+        "size_kb": 22.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-15.jpg",
+        "count": 1,
+        "size_kb": 25.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-16.jpg",
+        "count": 1,
+        "size_kb": 17.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-17.jpg",
+        "count": 1,
+        "size_kb": 33.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-2.jpg",
+        "count": 1,
+        "size_kb": 14.7
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-3.jpg",
+        "count": 1,
+        "size_kb": 18
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-4.jpg",
+        "count": 1,
+        "size_kb": 21.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-5.jpg",
+        "count": 1,
+        "size_kb": 21.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-6.jpg",
+        "count": 1,
+        "size_kb": 22.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-7.jpg",
+        "count": 1,
+        "size_kb": 19
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-8.jpg",
+        "count": 1,
+        "size_kb": 21.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-9.jpg",
+        "count": 1,
+        "size_kb": 16.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIL-Cover.jpg",
+        "count": 1,
+        "size_kb": 16.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMB-1.jpg",
+        "count": 1,
+        "size_kb": 36.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMB-2.jpg",
+        "count": 1,
+        "size_kb": 33
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMB-3.jpg",
+        "count": 1,
+        "size_kb": 28.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMB-4.jpg",
+        "count": 1,
+        "size_kb": 33.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMB-5.jpg",
+        "count": 1,
+        "size_kb": 31.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMB-6.jpg",
+        "count": 1,
+        "size_kb": 31.6
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMB-7.jpg",
+        "count": 1,
+        "size_kb": 33.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMB-8.jpg",
+        "count": 1,
+        "size_kb": 34.2
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMB-9.jpg",
+        "count": 1,
+        "size_kb": 32.5
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMB-Cover.jpg",
+        "count": 1,
+        "size_kb": 25.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMC-1.jpg",
+        "count": 1,
+        "size_kb": 30.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMC-2.jpg",
+        "count": 1,
+        "size_kb": 18.8
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMC-3.jpg",
+        "count": 1,
+        "size_kb": 23.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMC-4.jpg",
+        "count": 1,
+        "size_kb": 24.4
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMC-5.jpg",
+        "count": 1,
+        "size_kb": 25.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMC-6.jpg",
+        "count": 1,
+        "size_kb": 19.3
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMC-7.jpg",
+        "count": 1,
+        "size_kb": 22
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMC-8.jpg",
+        "count": 1,
+        "size_kb": 23.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMC-9.jpg",
+        "count": 1,
+        "size_kb": 38.1
+      },
+      {
+        "path": "EFMStorybooks/EFM-SB-WIMC-Cover.jpg",
+        "count": 1,
+        "size_kb": 30.3
+      }
+    ]
+  },
+  "flows_by_type": {
+    "data": [
+      {
+        "type": "data_list",
+        "subtype": null,
+        "total": 75
+      },
+      {
+        "type": "data_list",
+        "subtype": "app_config_language_list",
+        "total": 1
+      },
+      {
+        "type": "data_list",
+        "subtype": "lifecycle_actions",
+        "total": 1
+      },
+      {
+        "type": "generator",
+        "subtype": null,
+        "total": 1
+      },
+      {
+        "type": "global",
+        "subtype": null,
+        "total": 2
+      },
+      {
+        "type": "template",
+        "subtype": null,
+        "total": 31
+      },
+      {
+        "type": "template",
+        "subtype": "generated",
+        "total": 58
+      },
+      {
+        "type": "tour",
+        "subtype": null,
+        "total": 6
+      }
+    ]
+  }
+}

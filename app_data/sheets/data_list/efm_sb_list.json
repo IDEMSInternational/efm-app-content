@@ -6,6 +6,10 @@
   "rows": [
     {
       "id": "efm_sb_A_Very_Tall_Man",
+      "title_es_es": "Un Hombre Muy Alto",
+      "title_fr_fr": "Un homme très grand",
+      "title_kw_ar": "رجل طويل جداً",
+      "title_cn_zh": "一个很高的男人",
       "pages": "data.A_Very_Tall_Man_storybook",
       "cover": "EFMStorybooks/EFM-SB-AVTM-Cover.jpg",
       "author": "Cornelius Wambi Gulere",
@@ -15,6 +19,12 @@
       "title": "A Very Tall Man",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -31,14 +41,22 @@
         "title": {
           "eng": "A Very Tall Man"
         },
+        "title_us_en": {
+          "eng": "A Very Tall Man"
+        },
         "math_themes_words": {
           "eng": "This story looks at counting to 5, descriptions, and comparisons. Practice describing words: too, very, short, tall, long, low, high, big, small; color names; and comparison words: shorter, taller, longer, lower, higher, bigger, smaller"
         }
       },
+      "title_us_en": "A Very Tall Man",
       "math_themes_words": "This story looks at counting to 5, descriptions, and comparisons. Practice describing words: too, very, short, tall, long, low, high, big, small; color names; and comparison words: shorter, taller, longer, lower, higher, bigger, smaller"
     },
     {
       "id": "efm_sb_Akadelis_Lucky_Day",
+      "title_es_es": "El Día de Suerte de Akadeli",
+      "title_fr_fr": "Le jour de chance d’Akadeli",
+      "title_kw_ar": "يوم أكاديلي المحظوظ",
+      "title_cn_zh": "阿卡黛丽的幸运日",
       "pages": "data.Akadelis_Lucky_Day_storybook",
       "cover": "EFMStorybooks/EFM-SB-ALD-Cover.jpg",
       "author": "Ursula Nafula",
@@ -48,6 +66,12 @@
       "title": "Akadeli's Lucky Day",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -64,14 +88,22 @@
         "title": {
           "eng": "Akadeli's Lucky Day"
         },
+        "title_us_en": {
+          "eng": "Akadeli's Lucky Day"
+        },
         "math_themes_words": {
           "eng": "This story has  counting to 12, colors, and shapes. Practice words: one, two, to twelve, estimate, take away, color names, shortest, tallest, similar, and different."
         }
       },
+      "title_us_en": "Akadeli's Lucky Day",
       "math_themes_words": "This story has  counting to 12, colors, and shapes. Practice words: one, two, to twelve, estimate, take away, color names, shortest, tallest, similar, and different."
     },
     {
       "id": "efm_sb_Can_We_Count_Our_Cats",
+      "title_es_es": "¿Podemos contar nuestros gatos?",
+      "title_fr_fr": "Pouvons-nous compter nos chats ?",
+      "title_kw_ar": "هل يمكننا عدّ قططنا؟",
+      "title_cn_zh": "我们能数一数我们的猫吗？",
       "pages": "data.Can_We_Count_Our_Cats_storybook",
       "cover": "EFMStorybooks/EFM-SB-CWCOC-Cover.jpg",
       "author": "Bubaali Primary School",
@@ -81,6 +113,12 @@
       "title": "Can We Count Our Cats?",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -97,14 +135,22 @@
         "title": {
           "eng": "Can We Count Our Cats?"
         },
+        "title_us_en": {
+          "eng": "Can We Count Our Cats?"
+        },
         "math_themes_words": {
           "eng": "This story looks at counting from 0 to 9, colors, and color patterns. Practice counting words, color words, words like: too many, biggest number, smallest number, one more, and one less."
         }
       },
+      "title_us_en": "Can We Count Our Cats?",
       "math_themes_words": "This story looks at counting from 0 to 9, colors, and color patterns. Practice counting words, color words, words like: too many, biggest number, smallest number, one more, and one less."
     },
     {
       "id": "efm_sb_Cat_And_Dog_And_The_Ball",
+      "title_es_es": "Gato y Perro y la Pelota",
+      "title_fr_fr": "Chat et Chien et la balle",
+      "title_kw_ar": "القط والكلب والكرة",
+      "title_cn_zh": "猫，狗 和球",
       "pages": "data.Cat_And_Dog_And_The_Ball_storybook",
       "cover": "EFMStorybooks/EFM-SB-CADATB-Cover.jpg",
       "author": "Elke and René Leisink",
@@ -114,6 +160,12 @@
       "title": "Cat and Dog and the Ball",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -130,14 +182,22 @@
         "title": {
           "eng": "Cat and Dog and the Ball"
         },
+        "title_us_en": {
+          "eng": "Cat and Dog and the Ball"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 6, colors, and descriptions. Practice counting words, color names, and words: high, too, similar, different, smallest, biggest, short, tall, biggest, smallest, fewer, and more."
         }
       },
+      "title_us_en": "Cat and Dog and the Ball",
       "math_themes_words": "This story has counting to 6, colors, and descriptions. Practice counting words, color names, and words: high, too, similar, different, smallest, biggest, short, tall, biggest, smallest, fewer, and more."
     },
     {
       "id": "efm_sb_Cat_And_Dog_And_The_But",
+      "title_es_es": "Gato y Perro y la Mariposa",
+      "title_fr_fr": "Chat et Chien et le papillon",
+      "title_kw_ar": "القط والكلب والفراشة",
+      "title_cn_zh": "猫和狗 和蝴蝶",
       "pages": "data.Cat_And_Dog_And_The_But_storybook",
       "cover": "EFMStorybooks/EFM-SB-CADATBu-Cover.jpg",
       "author": "Elke and René Leisink",
@@ -147,6 +207,12 @@
       "title": "Cat and Dog and the Butterfly",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -163,14 +229,22 @@
         "title": {
           "eng": "Cat and Dog and the Butterfly"
         },
+        "title_us_en": {
+          "eng": "Cat and Dog and the Butterfly"
+        },
         "math_themes_words": {
           "eng": "This story has speed descriptions, colors, and counting to 6. Practice counting words, color words, and these words: very, too, fast, slow, faster, slower, fastest, slowest, most, and least."
         }
       },
+      "title_us_en": "Cat and Dog and the Butterfly",
       "math_themes_words": "This story has speed descriptions, colors, and counting to 6. Practice counting words, color words, and these words: very, too, fast, slow, faster, slower, fastest, slowest, most, and least."
     },
     {
       "id": "efm_sb_Cat_And_Dog_And_The_Egg",
+      "title_es_es": "Gato y Perro y el Huevo",
+      "title_fr_fr": "Chat et Chien et l’œuf",
+      "title_kw_ar": "القط والكلب والبيضة",
+      "title_cn_zh": "猫和狗 和蛋",
       "pages": "data.Cat_And_Dog_And_The_Egg_storybook",
       "cover": "EFMStorybooks/EFM-SB-CADATE-Cover.jpg",
       "author": "Elke and René Leisink",
@@ -180,6 +254,12 @@
       "title": "Cat and Dog and the Egg",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -196,14 +276,22 @@
         "title": {
           "eng": "Cat and Dog and the Egg"
         },
+        "title_us_en": {
+          "eng": "Cat and Dog and the Egg"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 5, comparing, colors, and shapes. Practice words: round, above, below, similar, round, kite, different, bigger, and longer."
         }
       },
+      "title_us_en": "Cat and Dog and the Egg",
       "math_themes_words": "This story has counting to 5, comparing, colors, and shapes. Practice words: round, above, below, similar, round, kite, different, bigger, and longer."
     },
     {
       "id": "efm_sb_Cat_And_Dog_Dog_Is_Cold",
+      "title_es_es": "Gato y Perro: Perro tiene Frío",
+      "title_fr_fr": "Chat et Chien : Chien a froid",
+      "title_kw_ar": "القط والكلب: الكلب يشعر بالبرد",
+      "title_cn_zh": "猫和狗: 狗很冷",
       "pages": "data.Cat_And_Dog_Dog_Is_Cold_storybook",
       "cover": "EFMStorybooks/EFM-SB-CADDIC-Cover.jpg",
       "author": "Elke and René Leisink",
@@ -213,6 +301,12 @@
       "title": "Cat and Dog: Dog Is Cold",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -229,14 +323,22 @@
         "title": {
           "eng": "Cat and Dog: Dog Is Cold"
         },
+        "title_us_en": {
+          "eng": "Cat and Dog: Dog Is Cold"
+        },
         "math_themes_words": {
           "eng": "This story talks about extremes of describing words, and counting to 6 with one more or one less. Words to practice are: too, cold, warm, hot, light, dark, day, night, clean, dirty, small, big, short, long, wet, dry, thin, thick, low, high, new, and old."
         }
       },
+      "title_us_en": "Cat and Dog: Dog Is Cold",
       "math_themes_words": "This story talks about extremes of describing words, and counting to 6 with one more or one less. Words to practice are: too, cold, warm, hot, light, dark, day, night, clean, dirty, small, big, short, long, wet, dry, thin, thick, low, high, new, and old."
     },
     {
       "id": "efm_sb_Clever_Cat",
+      "title_es_es": "La Gata Astuta",
+      "title_fr_fr": "Le chat malin",
+      "title_kw_ar": "القطة الذكية",
+      "title_cn_zh": "聪明的猫",
       "pages": "data.Clever_Cat_storybook",
       "cover": "EFMStorybooks/EFM-SB-CC-Cover.jpg",
       "author": "Ursula Nafula",
@@ -246,6 +348,12 @@
       "title": "Clever Cat",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -262,14 +370,22 @@
         "title": {
           "eng": "Clever Cat"
         },
+        "title_us_en": {
+          "eng": "Clever Cat"
+        },
         "math_themes_words": {
           "eng": "This story has geometry ideas and colors. Practice words: square, rectangle, circle, concentric, open, closed, least, little, small, big, and color names."
         }
       },
+      "title_us_en": "Clever Cat",
       "math_themes_words": "This story has geometry ideas and colors. Practice words: square, rectangle, circle, concentric, open, closed, least, little, small, big, and color names."
     },
     {
       "id": "efm_sb_Colors_Of_A_Rainbow",
+      "title_es_es": "Los Colores de un Arcoíris",
+      "title_fr_fr": "Les couleurs de l’arc-en-ciel",
+      "title_kw_ar": "ألوان قوس قزح",
+      "title_cn_zh": "彩虹的颜色",
       "pages": "data.Colors_Of_A_Rainbow_storybook",
       "cover": "EFMStorybooks/EFM-SB-COAR-Cover.jpg",
       "author": "Caren Echesa",
@@ -279,6 +395,12 @@
       "title": "Colors of a Rainbow",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -295,14 +417,22 @@
         "title": {
           "eng": "Colors of a Rainbow"
         },
+        "title_us_en": {
+          "eng": "Colors of a Rainbow"
+        },
         "math_themes_words": {
           "eng": "This story talks about the numbers to seven, the ordinals to seventh, and colors. Practice the words: one, two, three, to seven; the ordinals first, second, third, to seventh; and the many names of colors."
         }
       },
+      "title_us_en": "Colors of a Rainbow",
       "math_themes_words": "This story talks about the numbers to seven, the ordinals to seventh, and colors. Practice the words: one, two, three, to seven; the ordinals first, second, third, to seventh; and the many names of colors."
     },
     {
       "id": "efm_sb_Counting_Animals",
+      "title_es_es": "Contando Animales",
+      "title_fr_fr": "Compter les animaux",
+      "title_kw_ar": "عدّ الحيوانات",
+      "title_cn_zh": "数动物",
       "pages": "data.Counting_Animals_storybook",
       "cover": "EFMStorybooks/EFM-SB-CA-Cover.jpg",
       "author": "Clare Verbeek",
@@ -312,6 +442,12 @@
       "title": "Counting Animals",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -328,14 +464,22 @@
         "title": {
           "eng": "Counting Animals"
         },
+        "title_us_en": {
+          "eng": "Counting Animals"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 9 and number and size comparisons. Practice words: one, two, to nine, big, small, most, least, one more, and one less."
         }
       },
+      "title_us_en": "Counting Animals",
       "math_themes_words": "This story has counting to 9 and number and size comparisons. Practice words: one, two, to nine, big, small, most, least, one more, and one less."
     },
     {
       "id": "efm_sb_Creature_With_Two",
+      "title_es_es": "La Criatura con Dos",
+      "title_fr_fr": "La créature avec deux",
+      "title_kw_ar": "مخلوق ذو اثنين",
+      "title_cn_zh": "有两个的生物",
       "pages": "data.Creature_With_Two_storybook",
       "cover": "EFMStorybooks/EFM-SB-CWT-Cover.jpg",
       "author": "Mlungisi Madlala",
@@ -345,6 +489,12 @@
       "title": "Creature with Two",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -361,14 +511,22 @@
         "title": {
           "eng": "Creature with Two"
         },
+        "title_us_en": {
+          "eng": "Creature with Two"
+        },
         "math_themes_words": {
           "eng": "This story has counting to seven and shapes. Practice words: small numbers, especially one and two; and comparing words such as more, equal, same, and less. Also, talk about squares, circles, solids, stripes, bigger, and smaller."
         }
       },
+      "title_us_en": "Creature with Two",
       "math_themes_words": "This story has counting to seven and shapes. Practice words: small numbers, especially one and two; and comparing words such as more, equal, same, and less. Also, talk about squares, circles, solids, stripes, bigger, and smaller."
     },
     {
       "id": "efm_sb_Drum",
+      "title_es_es": "El Tambor",
+      "title_fr_fr": "Le tambour",
+      "title_kw_ar": "الطبل",
+      "title_cn_zh": "鼓",
       "pages": "data.Drum_storybook",
       "cover": "EFMStorybooks/EFM-SB-D-Cover.jpg",
       "author": "Owino Ogot",
@@ -378,6 +536,12 @@
       "title": "Drum",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -394,14 +558,22 @@
         "title": {
           "eng": "Drum"
         },
+        "title_us_en": {
+          "eng": "Drum"
+        },
         "math_themes_words": {
           "eng": "This story has patterns, sizes, and shapes. Practice words: size, big, little, medium, small, same, shape, and pattern."
         }
       },
+      "title_us_en": "Drum",
       "math_themes_words": "This story has patterns, sizes, and shapes. Practice words: size, big, little, medium, small, same, shape, and pattern."
     },
     {
       "id": "efm_sb_Fana_Loves_Animals",
+      "title_es_es": "Fana Ama a Los Animales",
+      "title_fr_fr": "Fana aime les animaux",
+      "title_kw_ar": "فانا تحب الحيوانات",
+      "title_cn_zh": "法娜喜欢动物",
       "pages": "data.Fana_Loves_Animals_storybook",
       "cover": "EFMStorybooks/EFM-SB-FLA-Cover.jpg",
       "author": "African Storybook",
@@ -411,6 +583,12 @@
       "title": "Fana Loves Animals",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -427,14 +605,22 @@
         "title": {
           "eng": "Fana Loves Animals"
         },
+        "title_us_en": {
+          "eng": "Fana Loves Animals"
+        },
         "math_themes_words": {
           "eng": "This story has quantities to ten, comparing, and colors. Practice words: counting to ten, most, more, less, bigger, smaller, shortest, tallest, color names, solid, striped, and checkerboard."
         }
       },
+      "title_us_en": "Fana Loves Animals",
       "math_themes_words": "This story has quantities to ten, comparing, and colors. Practice words: counting to ten, most, more, less, bigger, smaller, shortest, tallest, color names, solid, striped, and checkerboard."
     },
     {
       "id": "efm_sb_Feelings",
+      "title_es_es": "Los sentimientos",
+      "title_fr_fr": "Les sentiments",
+      "title_kw_ar": "المشاعر",
+      "title_cn_zh": "感情",
       "pages": "data.Feelings_storybook",
       "cover": "EFMStorybooks/EFM-SB-FEEL-Cover.jpg",
       "author": "Clare Verbeek",
@@ -444,6 +630,12 @@
       "title": "Feelings",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -460,14 +652,22 @@
         "title": {
           "eng": "Feelings"
         },
+        "title_us_en": {
+          "eng": "Feelings"
+        },
         "math_themes_words": {
           "eng": "This story has quantities up to ten. Practice words: how many, one more, most, and least."
         }
       },
+      "title_us_en": "Feelings",
       "math_themes_words": "This story has quantities up to ten. Practice words: how many, one more, most, and least."
     },
     {
       "id": "efm_sb_Flower_Blind",
+      "title_es_es": "Sin Poder Ver Las Flores",
+      "title_fr_fr": "La fleur des miracles",
+      "title_kw_ar": "الزهرة العمياء",
+      "title_cn_zh": "看不见的花",
       "pages": "data.Flower_Blind_storybook",
       "cover": "EFMStorybooks/EFM-SB-FB-Cover.jpg",
       "author": "Nathaniel Bivan",
@@ -477,6 +677,12 @@
       "title": "Flower Blind",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -493,14 +699,22 @@
         "title": {
           "eng": "Flower Blind"
         },
+        "title_us_en": {
+          "eng": "Flower Blind"
+        },
         "math_themes_words": {
           "eng": "This story has quantities to 10, comparing quantities, and shapes. Practice words: how many, most, least, one more, how many more, difference, rectangle, square, circle, and round."
         }
       },
+      "title_us_en": "Flower Blind",
       "math_themes_words": "This story has quantities to 10, comparing quantities, and shapes. Practice words: how many, most, least, one more, how many more, difference, rectangle, square, circle, and round."
     },
     {
       "id": "efm_sb_Friends",
+      "title_es_es": "Amigos",
+      "title_fr_fr": "Les amis",
+      "title_kw_ar": "أصدقاء",
+      "title_cn_zh": "朋友",
       "pages": "data.Friends_storybook",
       "cover": "EFMStorybooks/EFM-SB-FRIENDS-Cover.jpg",
       "author": "Hlengiwe Zondi",
@@ -510,6 +724,12 @@
       "title": "Friends",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -526,14 +746,22 @@
         "title": {
           "eng": "Friends"
         },
+        "title_us_en": {
+          "eng": "Friends"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 6, colors, and shapes. Practice words: how many, numbers to six, one more, two more, one less, two less, color names, stripes, solids, pentagon, hexagon, round, same, and different."
         }
       },
+      "title_us_en": "Friends",
       "math_themes_words": "This story has counting to 6, colors, and shapes. Practice words: how many, numbers to six, one more, two more, one less, two less, color names, stripes, solids, pentagon, hexagon, round, same, and different."
     },
     {
       "id": "efm_sb_How_The_Toad_Got_Its_Skin",
+      "title_es_es": "Cómo Obtuvo la Sapa su Piel",
+      "title_fr_fr": "Comment le crapaud a-t-il eu sa peau ?",
+      "title_kw_ar": "كيف حصل الضفدع على جلده",
+      "title_cn_zh": "癞蛤蟆换皮肤",
       "pages": "data.How_The_Toad_Got_Skin_storybook",
       "cover": "EFMStorybooks/EFM-SB-HTTGIS-Cover.jpg",
       "author": "Jane Taylor",
@@ -543,6 +771,12 @@
       "title": "How the Toad Got its Skin",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -559,14 +793,22 @@
         "title": {
           "eng": "How the Toad Got its Skin"
         },
+        "title_us_en": {
+          "eng": "How the Toad Got its Skin"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 16, shapes, and colors. Practice words: counting by 2's or 4's, more, less, one more, color names, circle, center, and concentric."
         }
       },
+      "title_us_en": "How the Toad Got its Skin",
       "math_themes_words": "This story has counting to 16, shapes, and colors. Practice words: counting by 2's or 4's, more, less, one more, color names, circle, center, and concentric."
     },
     {
       "id": "efm_sb_Look_At_The_Animals",
+      "title_es_es": "Mira los Animales",
+      "title_fr_fr": "Regarde les animaux",
+      "title_kw_ar": "انظر إلى الحيوانات",
+      "title_cn_zh": "看动物",
       "pages": "data.Look_At_The_Animals_storybook",
       "cover": "EFMStorybooks/EFM-SB-LATA-Cover.jpg",
       "author": "Jenny Katz",
@@ -576,6 +818,12 @@
       "title": "Look at the Animals",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -592,14 +840,22 @@
         "title": {
           "eng": "Look at the Animals"
         },
+        "title_us_en": {
+          "eng": "Look at the Animals"
+        },
         "math_themes_words": {
           "eng": "This story has  small quantities up to 8. Practice words: numbers to 8, how many, one more, small, and large."
         }
       },
+      "title_us_en": "Look at the Animals",
       "math_themes_words": "This story has  small quantities up to 8. Practice words: numbers to 8, how many, one more, small, and large."
     },
     {
       "id": "efm_sb_My_School_Clothes",
+      "title_es_es": "Mi Ropa Para la Escuela",
+      "title_fr_fr": "Mes vêtements d’école",
+      "title_kw_ar": "ملابسي المدرسية",
+      "title_cn_zh": "我的校服",
       "pages": "data.My_School_Clothes_storybook",
       "cover": "EFMStorybooks/EFM-SB-MSC-Cover.jpg",
       "author": "African Storybook",
@@ -609,6 +865,12 @@
       "title": "My School Clothes",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -625,14 +887,22 @@
         "title": {
           "eng": "My School Clothes"
         },
+        "title_us_en": {
+          "eng": "My School Clothes"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 5, shapes, and colors. Practice words: numbers to 5, color names, too, too big, too small, just right, matching colors, and rectangle."
         }
       },
+      "title_us_en": "My School Clothes",
       "math_themes_words": "This story has counting to 5, shapes, and colors. Practice words: numbers to 5, color names, too, too big, too small, just right, matching colors, and rectangle."
     },
     {
       "id": "efm_sb_Palm_Tree",
+      "title_es_es": "La Palmera",
+      "title_fr_fr": "Le palmier",
+      "title_kw_ar": "شجرة النخيل",
+      "title_cn_zh": "棕榈树",
       "pages": "data.Palm_Tree_storybook",
       "cover": "EFMStorybooks/EFM-SB-PT-Cover.jpg",
       "author": "Simon Ipoo",
@@ -642,6 +912,12 @@
       "title": "Palm Tree",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -658,14 +934,22 @@
         "title": {
           "eng": "Palm Tree"
         },
+        "title_us_en": {
+          "eng": "Palm Tree"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 12, comparing, and shapes. Practice words: numbers to 12, how many, estimate, counting by 2's, more, less, difference, round shape, box shape, loop, and pattern."
         }
       },
+      "title_us_en": "Palm Tree",
       "math_themes_words": "This story has counting to 12, comparing, and shapes. Practice words: numbers to 12, how many, estimate, counting by 2's, more, less, difference, round shape, box shape, loop, and pattern."
     },
     {
       "id": "efm_sb_Pendo_Our_Cow",
+      "title_es_es": "Pendo, Nuestra Vaca",
+      "title_fr_fr": "Notre vache Pendo",
+      "title_kw_ar": "بيندو، بقرتنا",
+      "title_cn_zh": "彭多, 我们的牛",
       "pages": "data.Pendo_Our_Cow_storybook",
       "cover": "EFMStorybooks/EFM-SB-POC-Cover.jpg",
       "author": "Ruth Odondi",
@@ -675,6 +959,12 @@
       "title": "Pendo, Our Cow",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -691,14 +981,22 @@
         "title": {
           "eng": "Pendo, Our Cow"
         },
+        "title_us_en": {
+          "eng": "Pendo, Our Cow"
+        },
         "math_themes_words": {
           "eng": "This story has quantities up to six and comparing. Practice words: numbers to six, more, most, less, least, and rectangle."
         }
       },
+      "title_us_en": "Pendo, Our Cow",
       "math_themes_words": "This story has quantities up to six and comparing. Practice words: numbers to six, more, most, less, least, and rectangle."
     },
     {
       "id": "efm_sb_The_Day_The_Sun_Went_Away",
+      "title_es_es": "El Día que el Sol Se Fue",
+      "title_fr_fr": "Le jour où le Soleil s’en est allé",
+      "title_kw_ar": "يوم غابت الشمس",
+      "title_cn_zh": "太阳离开的那一天",
       "pages": "data.The_Day_The_Sun_Went_storybook",
       "cover": "EFMStorybooks/EFM-SB-TDTSWA-Cover.jpg",
       "author": "Khothatso Ranoosi",
@@ -708,6 +1006,12 @@
       "title": "The Day the Sun Went Away",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -724,14 +1028,22 @@
         "title": {
           "eng": "The Day the Sun Went Away"
         },
+        "title_us_en": {
+          "eng": "The Day the Sun Went Away"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 7, comparing, and shapes. Practice words: numbers to 7, how many, same, less, more, one more, one less, too, too many, round, sphere, ball, cylinder, warm, warmer, cool, and cooler."
         }
       },
+      "title_us_en": "The Day the Sun Went Away",
       "math_themes_words": "This story has counting to 7, comparing, and shapes. Practice words: numbers to 7, how many, same, less, more, one more, one less, too, too many, round, sphere, ball, cylinder, warm, warmer, cool, and cooler."
     },
     {
       "id": "efm_sb_Visiting_Grandmother",
+      "title_es_es": "Visitando a la Abuela",
+      "title_fr_fr": "Rendre visite à Grand-mère",
+      "title_kw_ar": "زيارة الجدة",
+      "title_cn_zh": "看望奶奶",
       "pages": "data.Visiting_Grandmother_storybook",
       "cover": "EFMStorybooks/EFM-SB-VG-Cover.jpg",
       "author": "African Storybook",
@@ -741,6 +1053,12 @@
       "title": "Visiting Grandmother",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -757,14 +1075,22 @@
         "title": {
           "eng": "Visiting Grandmother"
         },
+        "title_us_en": {
+          "eng": "Visiting Grandmother"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 10 and shapes. Practice words: numbers up to 10, one more, two more, three more, counting by 2's, equal, rectangle, circle, concentric, straight, and curved."
         }
       },
+      "title_us_en": "Visiting Grandmother",
       "math_themes_words": "This story has counting to 10 and shapes. Practice words: numbers up to 10, one more, two more, three more, counting by 2's, equal, rectangle, circle, concentric, straight, and curved."
     },
     {
       "id": "efm_sb_Where_Is_Lulu",
+      "title_es_es": "¿Dónde está Lulú?",
+      "title_fr_fr": "Où est Lulu ?",
+      "title_kw_ar": "أين هي لولو؟",
+      "title_cn_zh": "Lulu 在哪里？",
       "pages": "data.Where_Is_Lulu_storybook",
       "cover": "EFMStorybooks/EFM-SB-WIL-Cover.jpg",
       "author": "Mohale Mashigo",
@@ -774,6 +1100,12 @@
       "title": "Where Is Lulu?",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -790,14 +1122,22 @@
         "title": {
           "eng": "Where Is Lulu?"
         },
+        "title_us_en": {
+          "eng": "Where Is Lulu?"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 10, comparing sizes, and geometry. Practice words: numbers to 10, one more, one less, less, more, small, big, too, too big, smallest, largest, triangle, rectangle, pentagon, cylinder, same, on, under, and on top of."
         }
       },
+      "title_us_en": "Where Is Lulu?",
       "math_themes_words": "This story has counting to 10, comparing sizes, and geometry. Practice words: numbers to 10, one more, one less, less, more, small, big, too, too big, smallest, largest, triangle, rectangle, pentagon, cylinder, same, on, under, and on top of."
     },
     {
       "id": "efm_sb_Where_Is_My_Bat",
+      "title_es_es": "¿Dónde Está Mi Bate?",
+      "title_fr_fr": "Où est ma chauve-souris ?",
+      "title_kw_ar": "أين هو مضربي؟",
+      "title_cn_zh": "我的球拍在哪里？",
       "pages": "data.Where_Is_My_Bat_storybook",
       "cover": "EFMStorybooks/EFM-SB-WIMB-Cover.jpg",
       "author": "Madhav Chavan",
@@ -807,6 +1147,12 @@
       "title": "Where Is My Bat?",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -823,14 +1169,22 @@
         "title": {
           "eng": "Where Is My Bat?"
         },
+        "title_us_en": {
+          "eng": "Where Is My Bat?"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more, one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line."
         }
       },
+      "title_us_en": "Where Is My Bat?",
       "math_themes_words": "This story has counting to 7, relationship words, and shapes. Practice words: how many, numbers to 7, one more, one less, behind, inside, on, high, too high, under, rectangle, box, and vertical line."
     },
     {
       "id": "efm_sb_Where_Is_My_Cat",
+      "title_es_es": "¿Dónde Está Mi Gato?",
+      "title_fr_fr": "Où est mon chat ?",
+      "title_kw_ar": "أين هي قطتي؟",
+      "title_cn_zh": "我的猫在哪里？",
       "pages": "data.Where_Is_My_Cat_storybook",
       "cover": "EFMStorybooks/EFM-SB-WIMC-Cover.jpg",
       "author": "Clare  Verbeek",
@@ -840,6 +1194,12 @@
       "title": "Where Is My Cat?",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -856,14 +1216,22 @@
         "title": {
           "eng": "Where Is My Cat?"
         },
+        "title_us_en": {
+          "eng": "Where Is My Cat?"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 5, relationship words, and colors. Practice words: numbers to 5, under, on top of, over, behind, next to, inside, outside, color names, straight, and curved."
         }
       },
+      "title_us_en": "Where Is My Cat?",
       "math_themes_words": "This story has counting to 5, relationship words, and colors. Practice words: numbers to 5, under, on top of, over, behind, next to, inside, outside, color names, straight, and curved."
     },
     {
       "id": "efm_sb_A_Dancers_Tale",
+      "title_es_es": "La Historia de una Bailarina",
+      "title_fr_fr": "Le conte d'un danseur",
+      "title_kw_ar": "قصة الراقصة: فيليس سبيرا",
+      "title_cn_zh": "一位舞者的故事",
       "pages": "data.A_Dancers_Tale_storybook",
       "cover": "EFMStorybooks/EFM-SB-ADT-Cover.jpg",
       "author": "Samantha Cutler",
@@ -873,6 +1241,12 @@
       "title": "A Dancer's Tale",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -889,14 +1263,22 @@
         "title": {
           "eng": "A Dancer's Tale"
         },
+        "title_us_en": {
+          "eng": "A Dancer's Tale"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 12, comparing, and shapes. Practice words: numbers to 12, smallest, shortest, longest, more, less, circle, arc, triangle, rectangle, right angle, straight lines, diagonal, shapes made with lines, Y shape."
         }
       },
+      "title_us_en": "A Dancer's Tale",
       "math_themes_words": "This story has counting to 12, comparing, and shapes. Practice words: numbers to 12, smallest, shortest, longest, more, less, circle, arc, triangle, rectangle, right angle, straight lines, diagonal, shapes made with lines, Y shape."
     },
     {
       "id": "efm_sb_A_Fish_And_A_Gift",
+      "title_es_es": "Un Pez y un Regalo",
+      "title_fr_fr": "Un poisson et un cadeau",
+      "title_kw_ar": "سمكة وهدية",
+      "title_cn_zh": "鱼和礼物",
       "pages": "data.A_Fish_And_A_Gift_storybook",
       "cover": "EFMStorybooks/EFM-SB-AFAAG-Cover.jpg",
       "author": "Liesl Jobson",
@@ -906,6 +1288,12 @@
       "title": "A Fish and a Gift",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -922,14 +1310,22 @@
         "title": {
           "eng": "A Fish and a Gift"
         },
+        "title_us_en": {
+          "eng": "A Fish and a Gift"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 8, descriptions and comparisons, and shapes. Practice words: numbers to 8, earlier, later, dark, faster, down, backwards, longest, more, little, different, triangle, rectangle, line, side, straight, horizon, and horizontal."
         }
       },
+      "title_us_en": "A Fish and a Gift",
       "math_themes_words": "This story has counting to 8, descriptions and comparisons, and shapes. Practice words: numbers to 8, earlier, later, dark, faster, down, backwards, longest, more, little, different, triangle, rectangle, line, side, straight, horizon, and horizontal."
     },
     {
       "id": "efm_sb_Aku_The_Sun_Maker",
+      "title_es_es": "Aku La Creadora del Sol",
+      "title_fr_fr": "Aku fabricant du soleil",
+      "title_kw_ar": "آكو صانعة الشمس",
+      "title_cn_zh": "阿库与太阳",
       "pages": "data.Aku_The_Sun_Maker_storybook",
       "cover": "EFMStorybooks/EFM-SB-ATSM-Cover.jpg",
       "author": "AIsha Nelson",
@@ -939,6 +1335,12 @@
       "title": "Aku the Sun Maker",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -955,14 +1357,22 @@
         "title": {
           "eng": "Aku the Sun Maker"
         },
+        "title_us_en": {
+          "eng": "Aku the Sun Maker"
+        },
         "math_themes_words": {
           "eng": "This story has colors, descriptions, and shapes. Practice words: white, red, yellow, orange, brown, rainbow colors, same, matching, different, difference, long, longer, short, very, curved, straight, round, triangle, and rectangle."
         }
       },
+      "title_us_en": "Aku the Sun Maker",
       "math_themes_words": "This story has colors, descriptions, and shapes. Practice words: white, red, yellow, orange, brown, rainbow colors, same, matching, different, difference, long, longer, short, very, curved, straight, round, triangle, and rectangle."
     },
     {
       "id": "efm_sb_Amazing_Daisy",
+      "title_es_es": "La Increíble Daisy",
+      "title_fr_fr": "Incroyable Daisy",
+      "title_kw_ar": "ديزي الرائعة",
+      "title_cn_zh": "奇妙黛西",
       "pages": "data.Amazing_Daisy_storybook",
       "cover": "EFMStorybooks/EFM-SB-AD-Cover.jpg",
       "author": "Nozizwe Herero",
@@ -972,6 +1382,12 @@
       "title": "Amazing Daisy",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -988,14 +1404,22 @@
         "title": {
           "eng": "Amazing Daisy"
         },
+        "title_us_en": {
+          "eng": "Amazing Daisy"
+        },
         "math_themes_words": {
           "eng": "This story has geometry and shape ideas. Practice words: circle, rectangle, sides, corner, vertical line, horizontal line, big, small, low, and high"
         }
       },
+      "title_us_en": "Amazing Daisy",
       "math_themes_words": "This story has geometry and shape ideas. Practice words: circle, rectangle, sides, corner, vertical line, horizontal line, big, small, low, and high"
     },
     {
       "id": "efm_sb_Cassava_And_Palm",
+      "title_es_es": "Yuca y Palmera",
+      "title_fr_fr": "Manioc et Palme",
+      "title_kw_ar": "الكاسافا و النخلة",
+      "title_cn_zh": "木薯和棕榈",
       "pages": "data.Cassava_And_Palm_storybook",
       "cover": "EFMStorybooks/EFM-SB-CAP-Cover.jpg",
       "author": "Divine Apedo",
@@ -1005,6 +1429,12 @@
       "title": "Cassava and Palm",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -1021,14 +1451,22 @@
         "title": {
           "eng": "Cassava and Palm"
         },
+        "title_us_en": {
+          "eng": "Cassava and Palm"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 20, descriptions, and shapes.  Practice words: very, extremely, more, difference, rectangle, square, round, cone, triangle, alike, different, dividing by 1, 2, and 1/2, vertical, horizontal, perpendicular, oldest, youngest, inside, and outside."
         }
       },
+      "title_us_en": "Cassava and Palm",
       "math_themes_words": "This story has counting to 20, descriptions, and shapes.  Practice words: very, extremely, more, difference, rectangle, square, round, cone, triangle, alike, different, dividing by 1, 2, and 1/2, vertical, horizontal, perpendicular, oldest, youngest, inside, and outside."
     },
     {
       "id": "efm_sb_Cat_And_Dog_Draw_And_Color",
+      "title_es_es": "Gato y Perro Dibuja y Colorea",
+      "title_fr_fr": "Chat et Chien : dessin et couleur",
+      "title_kw_ar": "القط والكلب يرسمان ويلونان",
+      "title_cn_zh": "猫和狗绘画与上色",
       "pages": "data.Cat_And_Dog_Draw_And_Color_storybook",
       "cover": "EFMStorybooks/EFM-SB-CADDAC-Cover.jpg",
       "author": "Elke and René Leisink",
@@ -1038,6 +1476,11 @@
       "title": "Cat and Dog Draw and Color",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true
@@ -1052,14 +1495,22 @@
         "title": {
           "eng": "Cat and Dog Draw and Color"
         },
+        "title_us_en": {
+          "eng": "Cat and Dog Draw and Color"
+        },
         "math_themes_words": {
           "eng": "This story has shapes, comparisons, and skip counting.  Practice words: rectangle, square, oval, circle, arc, triangle, line, straight, curved, mirror symmetry, similar, different, less, same, more, pair, difference, right, left, skip counting by 2's, 3's, and 5's."
         }
       },
+      "title_us_en": "Cat and Dog Draw and Color",
       "math_themes_words": "This story has shapes, comparisons, and skip counting.  Practice words: rectangle, square, oval, circle, arc, triangle, line, straight, curved, mirror symmetry, similar, different, less, same, more, pair, difference, right, left, skip counting by 2's, 3's, and 5's."
     },
     {
       "id": "efm_sb_Curious_Baby_Elephant",
+      "title_es_es": "La Elefantita Curiosa",
+      "title_fr_fr": "Curieux bébé éléphant",
+      "title_kw_ar": "الفيلة الصغيرة الفضولية",
+      "title_cn_zh": "好奇的小象",
       "pages": "data.Curious_Baby_Elephant_storybook",
       "cover": "EFMStorybooks/EFM-SB-CBE-Cover.jpg",
       "author": "Judith Baker",
@@ -1069,6 +1520,12 @@
       "title": "Curious Baby Elephant",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -1085,14 +1542,22 @@
         "title": {
           "eng": "Curious Baby Elephant"
         },
+        "title_us_en": {
+          "eng": "Curious Baby Elephant"
+        },
         "math_themes_words": {
           "eng": "This story has skip counting and number properties. Practice words: skip counting, counting by a number, even, odd, more, less, above, and below."
         }
       },
+      "title_us_en": "Curious Baby Elephant",
       "math_themes_words": "This story has skip counting and number properties. Practice words: skip counting, counting by a number, even, odd, more, less, above, and below."
     },
     {
       "id": "efm_sb_Fathers_Advice",
+      "title_es_es": "El Consejo del Padre",
+      "title_fr_fr": "Conseil du père",
+      "title_kw_ar": "نصيحة أب",
+      "title_cn_zh": "父亲的建议",
       "pages": "data.Fathers_Advice_storybook",
       "cover": "EFMStorybooks/EFM-SB-FA-Cover.jpg",
       "author": "Mohammed Kuyu",
@@ -1102,6 +1567,12 @@
       "title": "Father's Advice",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -1118,14 +1589,22 @@
         "title": {
           "eng": "Father's Advice"
         },
+        "title_us_en": {
+          "eng": "Father's Advice"
+        },
         "math_themes_words": {
           "eng": "This story has shapes and skip counting.  Practice words: round, cone, rectangle, long, vertical line, horizontal line, right angle, steep, zero, adding one, skip counting by 2's, 3's, 4's, and 6's."
         }
       },
+      "title_us_en": "Father's Advice",
       "math_themes_words": "This story has shapes and skip counting.  Practice words: round, cone, rectangle, long, vertical line, horizontal line, right angle, steep, zero, adding one, skip counting by 2's, 3's, 4's, and 6's."
     },
     {
       "id": "efm_sb_Fati_And_The_Green_Snake",
+      "title_es_es": "Fati y la Serpiente Verde",
+      "title_fr_fr": "Fati et le serpent vert",
+      "title_kw_ar": "فاتي والأفعى الخضراء",
+      "title_cn_zh": "法蒂和绿蛇",
       "pages": "data.Fati_And_The_Green_Snake_storybook",
       "cover": "EFMStorybooks/EFM-SB-FATGS-Cover.jpg",
       "author": "Osu Library Fund",
@@ -1135,6 +1614,12 @@
       "title": "Fati and the Green Snake",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -1151,14 +1636,22 @@
         "title": {
           "eng": "Fati and the Green Snake"
         },
+        "title_us_en": {
+          "eng": "Fati and the Green Snake"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 10 and comparing sizes. Practice words: numbers to 10, big, bigger, small, smaller, wide, wider, narrow, narrower, more, less, same, one more, and twice."
         }
       },
+      "title_us_en": "Fati and the Green Snake",
       "math_themes_words": "This story has counting to 10 and comparing sizes. Practice words: numbers to 10, big, bigger, small, smaller, wide, wider, narrow, narrower, more, less, same, one more, and twice."
     },
     {
       "id": "efm_sb_How_Many",
+      "title_es_es": "¿Cuántos?",
+      "title_fr_fr": "Combien ?",
+      "title_kw_ar": "كم العدد؟",
+      "title_cn_zh": "有多少？",
       "pages": "data.How_Many_storybook",
       "cover": "EFMStorybooks/EFM-SB-HM-Cover.jpg",
       "author": "Clare Verbeek",
@@ -1168,6 +1661,12 @@
       "title": "How Many?",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -1184,14 +1683,22 @@
         "title": {
           "eng": "How Many?"
         },
+        "title_us_en": {
+          "eng": "How Many?"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 14 and skip counting. Practice words: numbers to 14, skip counting, more, fewer, one more, three more, and double."
         }
       },
+      "title_us_en": "How Many?",
       "math_themes_words": "This story has counting to 14 and skip counting. Practice words: numbers to 14, skip counting, more, fewer, one more, three more, and double."
     },
     {
       "id": "efm_sb_I_Love_Forests",
+      "title_es_es": "Amo los Bosques",
+      "title_fr_fr": "J'adore les forêts !",
+      "title_kw_ar": "أحب الغابات",
+      "title_cn_zh": "我爱森林",
       "pages": "data.I_Love_Forests_storybook",
       "cover": "EFMStorybooks/EFM-SB-ILF-Cover.jpg",
       "author": "Gertrude Kobusinge",
@@ -1201,6 +1708,12 @@
       "title": "I Love Forests",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -1217,14 +1730,22 @@
         "title": {
           "eng": "I Love Forests"
         },
+        "title_us_en": {
+          "eng": "I Love Forests"
+        },
         "math_themes_words": {
           "eng": "This story has counting to ten and comparing quantities. Practice words: numbers to ten, counting by 2's, one more, one less, most, and least."
         }
       },
+      "title_us_en": "I Love Forests",
       "math_themes_words": "This story has counting to ten and comparing quantities. Practice words: numbers to ten, counting by 2's, one more, one less, most, and least."
     },
     {
       "id": "efm_sb_Is_There_Anyone_Like_Me",
+      "title_es_es": "¿Hay Alguien Como Yo?",
+      "title_fr_fr": "Y-a-t-il quelqu’un comme moi ?",
+      "title_kw_ar": "هل يوجد شخص مثلي؟",
+      "title_cn_zh": "到底有没有和我长一样的人？",
       "pages": "data.Is_There_Anyone_Like_Me_storybook",
       "cover": "EFMStorybooks/EFM-SB-ITALM-Cover.jpg",
       "author": "Fred Strydom",
@@ -1234,6 +1755,11 @@
       "title": "Is There Anyone Like Me?",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true
@@ -1248,14 +1774,22 @@
         "title": {
           "eng": "Is There Anyone Like Me?"
         },
+        "title_us_en": {
+          "eng": "Is There Anyone Like Me?"
+        },
         "math_themes_words": {
           "eng": "This story has counting to 8 and comparing. Practice words: one more, one less, take away, fact family, symmetry, mirror symmetry, similarity, difference, and same."
         }
       },
+      "title_us_en": "Is There Anyone Like Me?",
       "math_themes_words": "This story has counting to 8 and comparing. Practice words: one more, one less, take away, fact family, symmetry, mirror symmetry, similarity, difference, and same."
     },
     {
       "id": "efm_sb_Listen_To_My_Body",
+      "title_es_es": "Escuchando a Mi Cuerpo",
+      "title_fr_fr": "Ecouter mon corps",
+      "title_kw_ar": "استمع إلى جسدي",
+      "title_cn_zh": "倾听我的身体",
       "pages": "data.Listen_To_My_Body_storybook",
       "cover": "EFMStorybooks/EFM-SB-LTMB-Cover.jpg",
       "author": "Noni",
@@ -1265,6 +1799,12 @@
       "title": "Listen to My Body",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -1281,14 +1821,22 @@
         "title": {
           "eng": "Listen to My Body"
         },
+        "title_us_en": {
+          "eng": "Listen to My Body"
+        },
         "math_themes_words": {
           "eng": "This story has  counting to 10 and comparing. Practice words: more, less, difference, and counting by 2's."
         }
       },
+      "title_us_en": "Listen to My Body",
       "math_themes_words": "This story has  counting to 10 and comparing. Practice words: more, less, difference, and counting by 2's."
     },
     {
       "id": "efm_sb_Little_Jojos_Long_Tall_Tale",
+      "title_es_es": "El Cuento Largo y Fantástico del Pequeño Jojo",
+      "title_fr_fr": "Le grand récit du Petit Jojo",
+      "title_kw_ar": "قصة جوجو الصغيرة الطويلة",
+      "title_cn_zh": "小乔乔的长长的故事",
       "pages": "data.Little_Jojos_Tale_storybook",
       "cover": "EFMStorybooks/EFM-SB-LJLTT-Cover.jpg",
       "author": "Leo Daly",
@@ -1298,6 +1846,11 @@
       "title": "Little Jojo's Long Tall Tale",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true
@@ -1312,14 +1865,22 @@
         "title": {
           "eng": "Little Jojo's Long Tall Tale"
         },
+        "title_us_en": {
+          "eng": "Little Jojo's Long Tall Tale"
+        },
         "math_themes_words": {
           "eng": "This story has many shapes. Practice words: circle, round, short, polygon, side, triangle, quadrilateral, pentagon, hexagon, square, rectangle, diamond, rhombus, cone, pattern, concentric circles, colors, tall, tallest, far, farthest, long, half, pair, add, subtract, easy, hard, easier, harder, and problem solving."
         }
       },
+      "title_us_en": "Little Jojo's Long Tall Tale",
       "math_themes_words": "This story has many shapes. Practice words: circle, round, short, polygon, side, triangle, quadrilateral, pentagon, hexagon, square, rectangle, diamond, rhombus, cone, pattern, concentric circles, colors, tall, tallest, far, farthest, long, half, pair, add, subtract, easy, hard, easier, harder, and problem solving."
     },
     {
       "id": "efm_sb_Lory_Dory",
+      "title_es_es": "Lory Dory",
+      "title_fr_fr": "Lory Dory",
+      "title_kw_ar": "لوري دوري",
+      "title_cn_zh": "洛瑞多莉",
       "pages": "data.Lory_Dory_storybook",
       "cover": "EFMStorybooks/EFM-SB-LD-Cover.jpg",
       "author": "Brendon O'Neill",
@@ -1329,6 +1890,12 @@
       "title": "Lory Dory",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -1345,14 +1912,22 @@
         "title": {
           "eng": "Lory Dory"
         },
+        "title_us_en": {
+          "eng": "Lory Dory"
+        },
         "math_themes_words": {
           "eng": "This story has shapes and descriptions. Practice words: thin, pairs, line, parallel, horizontal, vertical, perpendicular, negative space, different, triangle, side, straight, sphere, circle, arc, red, blue, right, left, and skip count by 5's."
         }
       },
+      "title_us_en": "Lory Dory",
       "math_themes_words": "This story has shapes and descriptions. Practice words: thin, pairs, line, parallel, horizontal, vertical, perpendicular, negative space, different, triangle, side, straight, sphere, circle, arc, red, blue, right, left, and skip count by 5's."
     },
     {
       "id": "efm_sb_Maguru_Gives_Legs",
+      "title_es_es": "Maguru Regala Patas",
+      "title_fr_fr": "Maguru donne des pattes",
+      "title_kw_ar": "ماجورو يعطي أرجلاً",
+      "title_cn_zh": "马古鲁给予的腿",
       "pages": "data.Maguru_Gives_Legs_storybook",
       "cover": "EFMStorybooks/EFM-SB-MGL-Cover.jpg",
       "author": "Mutugi Kamundi",
@@ -1362,6 +1937,12 @@
       "title": "Maguru Gives Legs",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -1378,14 +1959,22 @@
         "title": {
           "eng": "Maguru Gives Legs"
         },
+        "title_us_en": {
+          "eng": "Maguru Gives Legs"
+        },
         "math_themes_words": {
           "eng": "This story has shapes and groupings. Practice words: long, round, cone, flat, rectangle, square, close, closer, estimate, skip counting by 2's and 4's, colors, more, less, object properties, grouping by property, fewer, first, last, after, before, faster, slower, none, and zero."
         }
       },
+      "title_us_en": "Maguru Gives Legs",
       "math_themes_words": "This story has shapes and groupings. Practice words: long, round, cone, flat, rectangle, square, close, closer, estimate, skip counting by 2's and 4's, colors, more, less, object properties, grouping by property, fewer, first, last, after, before, faster, slower, none, and zero."
     },
     {
       "id": "efm_sb_Sun_Moon_And_Water",
+      "title_es_es": "Sol, Luna y Agua",
+      "title_fr_fr": "Soleil, Lune, et Eau",
+      "title_kw_ar": "NoTranslation",
+      "title_cn_zh": "太阳，月亮，和水",
       "pages": "data.Sun_Moon_And_Water_storybook",
       "cover": "EFMStorybooks/EFM-SB-SMAW-Cover.jpg",
       "author": "Athieno Gertrude",
@@ -1395,6 +1984,11 @@
       "title": "Sun Moon and Water",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true
@@ -1409,14 +2003,22 @@
         "title": {
           "eng": "Sun Moon and Water"
         },
+        "title_us_en": {
+          "eng": "Sun Moon and Water"
+        },
         "math_themes_words": {
           "eng": "This story has many shapes. Practice words: rainbow, circle, arc, polygon, rectangle, pentagon, big, large, straight, curved, box, top, many, color names, rainbow, next, and too much."
         }
       },
+      "title_us_en": "Sun Moon and Water",
       "math_themes_words": "This story has many shapes. Practice words: rainbow, circle, arc, polygon, rectangle, pentagon, big, large, straight, curved, box, top, many, color names, rainbow, next, and too much."
     },
     {
       "id": "efm_sb_Tortoise_Finds_His_House",
+      "title_es_es": "Tortuga Encuentra su Casa",
+      "title_fr_fr": "Tortue trouve sa maison",
+      "title_kw_ar": "السلحفاة تجد منزلها",
+      "title_cn_zh": "乌龟找到了它的家",
       "pages": "data.Tortoise_Finds_His_House_storybook",
       "cover": "EFMStorybooks/EFM-SB-TFHH-Cover.jpg",
       "author": "Maya Fowler",
@@ -1426,6 +2028,12 @@
       "title": "Tortoise Finds his House",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -1442,14 +2050,22 @@
         "title": {
           "eng": "Tortoise Finds his House"
         },
+        "title_us_en": {
+          "eng": "Tortoise Finds his House"
+        },
         "math_themes_words": {
           "eng": "This story has descriptions and comparisons. Practice words: high, on, onto, average, speed, 5 times, pairs, odd, even, sharing, too, very, fast, long, distance, light, heavy, lower, higher, different, estimate, more, stronger, vertically, diagonally, parallel lines, and big."
         }
       },
+      "title_us_en": "Tortoise Finds his House",
       "math_themes_words": "This story has descriptions and comparisons. Practice words: high, on, onto, average, speed, 5 times, pairs, odd, even, sharing, too, very, fast, long, distance, light, heavy, lower, higher, different, estimate, more, stronger, vertically, diagonally, parallel lines, and big."
     },
     {
       "id": "efm_sb_Akais_Special_Mat",
+      "title_es_es": "La estera especial de Akai",
+      "title_fr_fr": "Le petit tapis d’Akai",
+      "title_kw_ar": "سجادة اكايا المميزة",
+      "title_cn_zh": "阿凯的神奇草席",
       "pages": "data.Akais_Special_Mat_storybook",
       "cover": "EFMStorybooks/EFM-SB-ASM-Cover.jpg",
       "author": "Ursula Nafula",
@@ -1459,6 +2075,12 @@
       "title": "Akai's Special Mat",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -1475,14 +2097,22 @@
         "title": {
           "eng": "Akai's Special Mat"
         },
+        "title_us_en": {
+          "eng": "Akai's Special Mat"
+        },
         "math_themes_words": {
           "eng": "This story has shapes, colors, and skip counting. Practice words: patterns, row, lighter, darker, rectangle, triangle, round, side, circle, concentric circles, shallow, faint, closer, farther, differences, color names, colors of the rainbow, pair, doubling, and skip counting by 2's, 3's, and 4's."
         }
       },
+      "title_us_en": "Akai's Special Mat",
       "math_themes_words": "This story has shapes, colors, and skip counting. Practice words: patterns, row, lighter, darker, rectangle, triangle, round, side, circle, concentric circles, shallow, faint, closer, farther, differences, color names, colors of the rainbow, pair, doubling, and skip counting by 2's, 3's, and 4's."
     },
     {
       "id": "efm_sb_Emeka_Old_Man",
+      "title_es_es": "Emeka y el anciano",
+      "title_fr_fr": "Emeka et le vieil homme",
+      "title_kw_ar": "ايمك و الرجل المسن",
+      "title_cn_zh": "埃梅卡与 老人",
       "pages": "data.Emeka_Old_Man_storybook",
       "cover": "EFMStorybooks/EFM-SB-EATOM-Cover.jpg",
       "author": "Nwanne Felix-Emeribe",
@@ -1492,6 +2122,12 @@
       "title": "Emeka and the Old Man",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kw_ar": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
@@ -1508,14 +2144,22 @@
         "title": {
           "eng": "Emeka and the Old Man"
         },
+        "title_us_en": {
+          "eng": "Emeka and the Old Man"
+        },
         "math_themes_words": {
           "eng": "This story has shapes and geometry.  Practice words: side, triangle, rectangle, pentagon, circle, oval, arc, big, flat, faint, faded, distance, far away, problem solving, horizontal lines, parallel lines, perspective, width, and dividing 8 evenly."
         }
       },
+      "title_us_en": "Emeka and the Old Man",
       "math_themes_words": "This story has shapes and geometry.  Practice words: side, triangle, rectangle, pentagon, circle, oval, arc, big, flat, faint, faded, distance, far away, problem solving, horizontal lines, parallel lines, perspective, width, and dividing 8 evenly."
     },
     {
       "id": "efm_sb_Father_Son_Donkey",
+      "title_es_es": "El padre, el hijo y el burro",
+      "title_fr_fr": "Le Père, le Fils et l’Âne",
+      "title_kw_ar": "الأب و الأبن و الحمار",
+      "title_cn_zh": "父亲，儿子和驴",
       "pages": "data.Father_Son_Donkey_storybook",
       "cover": "EFMStorybooks/EFM-SB-FSAD-Cover.jpg",
       "author": "Tagel Aboneh",
@@ -1525,6 +2169,11 @@
       "title": "Father, Son, and Donkey",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true
@@ -1539,14 +2188,22 @@
         "title": {
           "eng": "Father, Son, and Donkey"
         },
+        "title_us_en": {
+          "eng": "Father, Son, and Donkey"
+        },
         "math_themes_words": {
           "eng": "This story has shapes and geometry.  Practice words: distance, middle, rectangle, triangle, pale, twice, pairs, counting by 20's, 50's, and 100's."
         }
       },
+      "title_us_en": "Father, Son, and Donkey",
       "math_themes_words": "This story has shapes and geometry.  Practice words: distance, middle, rectangle, triangle, pale, twice, pairs, counting by 20's, 50's, and 100's."
     },
     {
       "id": "efm_sb_Horses_Of_Debre_Birhan",
+      "title_es_es": "Los Caballos de Debre Birhan",
+      "title_fr_fr": "Les chevaux de Debre Birhan",
+      "title_kw_ar": "حصان مدينه ديبري برهن",
+      "title_cn_zh": "德布雷比尔汉的马",
       "pages": "data.Horses_Of_Debre_Birhan_storybook",
       "cover": "EFMStorybooks/EFM-SB-HODB-Cover.jpg",
       "author": "Mezemir Girma",
@@ -1556,6 +2213,11 @@
       "title": "Horses of Debre Birhan",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true
@@ -1570,14 +2232,22 @@
         "title": {
           "eng": "Horses of Debre Birhan"
         },
+        "title_us_en": {
+          "eng": "Horses of Debre Birhan"
+        },
         "math_themes_words": {
           "eng": "This story has comparing words and counting in groups. Practice words: heavy, faster, enough, more than, too tight, very, old, skip counting by 2's and 4's, equal sharing, pair, pairing, odd, even, estimate, hundred, thousand, million, side, opposite side, round, and rectangle."
         }
       },
+      "title_us_en": "Horses of Debre Birhan",
       "math_themes_words": "This story has comparing words and counting in groups. Practice words: heavy, faster, enough, more than, too tight, very, old, skip counting by 2's and 4's, equal sharing, pair, pairing, odd, even, estimate, hundred, thousand, million, side, opposite side, round, and rectangle."
     },
     {
       "id": "efm_sb_Hyena_And_Tortoise",
+      "title_es_es": "La Hiena y la Tortuga",
+      "title_fr_fr": "La Hyène et la Tortue",
+      "title_kw_ar": "الضبع والسلحفاة",
+      "title_cn_zh": "土狼和乌龟",
       "pages": "data.Hyena_And_Tortoise_storybook",
       "cover": "EFMStorybooks/EFM-SB-HAT-Cover.jpg",
       "author": "African Storybook",
@@ -1587,6 +2257,11 @@
       "title": "Hyena and Tortoise",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true
@@ -1601,14 +2276,22 @@
         "title": {
           "eng": "Hyena and Tortoise"
         },
+        "title_us_en": {
+          "eng": "Hyena and Tortoise"
+        },
         "math_themes_words": {
           "eng": "This story has shapes and quantities. Practice words: round, cone, different shape, hexagon, regular hexagon, tile designs, squares, patterns, more, less, fewer, same, equal, number difference, estimate, stronger, weaker, faster, slower, slowly, and speed."
         }
       },
+      "title_us_en": "Hyena and Tortoise",
       "math_themes_words": "This story has shapes and quantities. Practice words: round, cone, different shape, hexagon, regular hexagon, tile designs, squares, patterns, more, less, fewer, same, equal, number difference, estimate, stronger, weaker, faster, slower, slowly, and speed."
     },
     {
       "id": "efm_sb_Keepers_Nursery",
+      "title_es_es": "Keeper y su refugio de animales",
+      "title_fr_fr": "Le gardien et sa pouponnière",
+      "title_kw_ar": "القائم على الرعاية و حضانته",
+      "title_cn_zh": "饲养员和他们的幼儿园",
       "pages": "data.Keepers_Nursery_storybook",
       "cover": "EFMStorybooks/EFM-SB-KAHN-Cover.jpg",
       "author": "Nina Orange",
@@ -1618,6 +2301,11 @@
       "title": "Keeper and his Nursery",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true
@@ -1632,14 +2320,22 @@
         "title": {
           "eng": "Keeper and his Nursery"
         },
+        "title_us_en": {
+          "eng": "Keeper and his Nursery"
+        },
         "math_themes_words": {
           "eng": "This story has shapes and descriptions. Practice words: triangle, rectangle, pentagon, hexagon, sides, diagonal, circle, oval, cylinder, ball, sphere, stripe, thin, small, big, flat, pairs, opposite, center, long, high, twice, measurement, and estimate."
         }
       },
+      "title_us_en": "Keeper and his Nursery",
       "math_themes_words": "This story has shapes and descriptions. Practice words: triangle, rectangle, pentagon, hexagon, sides, diagonal, circle, oval, cylinder, ball, sphere, stripe, thin, small, big, flat, pairs, opposite, center, long, high, twice, measurement, and estimate."
     },
     {
       "id": "efm_sb_Magical_Rainbow",
+      "title_es_es": "El río de arcoíris mágico",
+      "title_fr_fr": "La rivière arc-en-ciel",
+      "title_kw_ar": "نهر قوس القزح السحري",
+      "title_cn_zh": "神奇彩虹河",
       "pages": "data.Magical_Rainbow_storybook",
       "cover": "EFMStorybooks/EFM-SB-MRR-Cover.jpg",
       "author": "Mimi Werna",
@@ -1649,6 +2345,11 @@
       "title": "Magical Rainbow River",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true
@@ -1663,14 +2364,22 @@
         "title": {
           "eng": "Magical Rainbow River"
         },
+        "title_us_en": {
+          "eng": "Magical Rainbow River"
+        },
         "math_themes_words": {
           "eng": "This story has shapes and descriptions. Practice words: circle, arc, oval, lines, sides, straight, rectangle, curve, color names, rainbow colors, double, high, pairs, and skip counting by 2's."
         }
       },
+      "title_us_en": "Magical Rainbow River",
       "math_themes_words": "This story has shapes and descriptions. Practice words: circle, arc, oval, lines, sides, straight, rectangle, curve, color names, rainbow colors, double, high, pairs, and skip counting by 2's."
     },
     {
       "id": "efm_sb_Sakimas_Song",
+      "title_es_es": "La canción de Sakima",
+      "title_fr_fr": "La chanson de Sakima",
+      "title_kw_ar": "أغنية ساكيما",
+      "title_cn_zh": "萨基玛的歌",
       "pages": "data.Sakimas_Song_storybook",
       "cover": "EFMStorybooks/EFM-SB-SSONG-Cover.jpg",
       "author": "Ursula Nafula",
@@ -1680,6 +2389,11 @@
       "title": "Sakima's Song",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true
@@ -1694,14 +2408,22 @@
         "title": {
           "eng": "Sakima's Song"
         },
+        "title_us_en": {
+          "eng": "Sakima's Song"
+        },
         "math_themes_words": {
           "eng": "This story has shapes, descriptions, and perspective. Practice words: rectangle, sides, square, straight, curved, parallel lines, color names, rainbow colors, little, twice, tall, taller, short, shorter, far, farthest, farther, apart, large, thick, close, too close, small, too small, below, and estimate."
         }
       },
+      "title_us_en": "Sakima's Song",
       "math_themes_words": "This story has shapes, descriptions, and perspective. Practice words: rectangle, sides, square, straight, curved, parallel lines, color names, rainbow colors, little, twice, tall, taller, short, shorter, far, farthest, farther, apart, large, thick, close, too close, small, too small, below, and estimate."
     },
     {
       "id": "efm_sb_Searching_for_Spring",
+      "title_es_es": "En busca del espíritu de la primavera",
+      "title_fr_fr": "À la recherche de l’esprit du printemps",
+      "title_kw_ar": "البحث عن روح الربيع",
+      "title_cn_zh": "寻找春天的气息",
       "pages": "data.Searching_for_Spring_storybook",
       "cover": "EFMStorybooks/EFM-SB-SFTSOS-Cover.jpg",
       "author": "Mosa Mahlaba",
@@ -1711,6 +2433,11 @@
       "title": "Searching for the Spirit of Spring",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true
@@ -1725,14 +2452,22 @@
         "title": {
           "eng": "Searching for the Spirit of Spring"
         },
+        "title_us_en": {
+          "eng": "Searching for the Spirit of Spring"
+        },
         "math_themes_words": {
           "eng": "This story has shapes and descriptions. Practice words: circle, oval, arc, cone, rectangle, triangle, long, longest, far, far away, distance, big, bigger, pattern, color, bright, dull, muted, drab, giant, dark, too dark, and problem solving."
         }
       },
+      "title_us_en": "Searching for the Spirit of Spring",
       "math_themes_words": "This story has shapes and descriptions. Practice words: circle, oval, arc, cone, rectangle, triangle, long, longest, far, far away, distance, big, bigger, pattern, color, bright, dull, muted, drab, giant, dark, too dark, and problem solving."
     },
     {
       "id": "efm_sb_Share_It_Fair",
+      "title_es_es": "Compartir de manera justa",
+      "title_fr_fr": "À parts égales !",
+      "title_kw_ar": "القسمة العادلة!",
+      "title_cn_zh": "公平分配！",
       "pages": "data.Share_It_Fair_storybook",
       "cover": "EFMStorybooks/EFM-SB-SIF-Cover.jpg",
       "author": "Penelope Smith",
@@ -1742,6 +2477,11 @@
       "title": "Share it Fair!",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true
@@ -1756,14 +2496,22 @@
         "title": {
           "eng": "Share it Fair!"
         },
+        "title_us_en": {
+          "eng": "Share it Fair!"
+        },
         "math_themes_words": {
           "eng": "This story has shapes and dividing evenly. Practice words: rectangle, square, round, circle, arc, oval, ellipse, stripe, equal, dividing equally, point of view, perspective, half, third, fourth, quarter, problem solving, simpler versions of a problem, persistence, subtracting 1, 2, 3, estimate, and multiples of 3."
         }
       },
+      "title_us_en": "Share it Fair!",
       "math_themes_words": "This story has shapes and dividing evenly. Practice words: rectangle, square, round, circle, arc, oval, ellipse, stripe, equal, dividing equally, point of view, perspective, half, third, fourth, quarter, problem solving, simpler versions of a problem, persistence, subtracting 1, 2, 3, estimate, and multiples of 3."
     },
     {
       "id": "efm_sb_Singing_The_Truth",
+      "title_es_es": "Cantando la Verdad: La Historia de Miriam Makeba",
+      "title_fr_fr": "Chanter la vérité : l’histoire de Miriam Makeba",
+      "title_kw_ar": "غناء الحقيقة: قصة مريم مكبا",
+      "title_cn_zh": "唱出真相：米丽亚姆·马凯巴的故事",
       "pages": "data.Singing_The_Truth_storybook",
       "cover": "EFMStorybooks/EFM-SB-STT-Cover.jpg",
       "author": "Jade Mathieson",
@@ -1773,6 +2521,11 @@
       "title": "Singing the Truth: The Story of Miriam Makeba",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true
@@ -1787,14 +2540,22 @@
         "title": {
           "eng": "Singing the Truth: The Story of Miriam Makeba"
         },
+        "title_us_en": {
+          "eng": "Singing the Truth: The Story of Miriam Makeba"
+        },
         "math_themes_words": {
           "eng": "This story has lots of shapes. Practice words: shape, rectangle, straight, circle, arc, oval, arch, cone, ellipse, different, same, flat, outline, and stripe."
         }
       },
+      "title_us_en": "Singing the Truth: The Story of Miriam Makeba",
       "math_themes_words": "This story has lots of shapes. Practice words: shape, rectangle, straight, circle, arc, oval, arch, cone, ellipse, different, same, flat, outline, and stripe."
     },
     {
       "id": "efm_sb_Sizwes_Smile",
+      "title_es_es": "La sonrisa de Sizwe",
+      "title_fr_fr": "Le sourire de Sizwe",
+      "title_kw_ar": "ابتسامة سيويز",
+      "title_cn_zh": "希兹韦的笑",
       "pages": "data.Sizwes_Smile_storybook",
       "cover": "EFMStorybooks/EFM-SB-SSMILE-Cover.jpg",
       "author": "Vianne Venter",
@@ -1804,6 +2565,11 @@
       "title": "Sizwe's Smile",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true
@@ -1818,14 +2584,22 @@
         "title": {
           "eng": "Sizwe's Smile"
         },
+        "title_us_en": {
+          "eng": "Sizwe's Smile"
+        },
         "math_themes_words": {
           "eng": "This story has shapes and progressions. Practice words: muted, bright, rectangle, circle, arc, oval, ellipse, big, biggest, curve, vertical lines, parallel lines, stripe, twice, doubling, exponential growth, estimate, and counting by 2's and 4's."
         }
       },
+      "title_us_en": "Sizwe's Smile",
       "math_themes_words": "This story has shapes and progressions. Practice words: muted, bright, rectangle, circle, arc, oval, ellipse, big, biggest, curve, vertical lines, parallel lines, stripe, twice, doubling, exponential growth, estimate, and counting by 2's and 4's."
     },
     {
       "id": "efm_sb_The_Smell_Thief",
+      "title_es_es": "El panadero avaro",
+      "title_fr_fr": "La voleuse d’odeurs",
+      "title_kw_ar": "لص الروائح",
+      "title_cn_zh": "偷香味的贼",
       "pages": "data.The_Smell_Thief_storybook",
       "cover": "EFMStorybooks/EFM-SB-TST-Cover.jpg",
       "author": "Joanne Bloch (retold folktale)",
@@ -1835,6 +2609,11 @@
       "title": "The Smell Thief",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true
@@ -1849,14 +2628,22 @@
         "title": {
           "eng": "The Smell Thief"
         },
+        "title_us_en": {
+          "eng": "The Smell Thief"
+        },
         "math_themes_words": {
           "eng": "This story has skip counting and shapes. Practice words: counting by 1's, 2's, 3's, 4's, and 6's; multiplying, dividing, estimate, rectangle, and triangle."
         }
       },
+      "title_us_en": "The Smell Thief",
       "math_themes_words": "This story has skip counting and shapes. Practice words: counting by 1's, 2's, 3's, 4's, and 6's; multiplying, dividing, estimate, rectangle, and triangle."
     },
     {
       "id": "efm_sb_Who_Can_Count_To_Ten",
+      "title_es_es": "¿Quién puede contar hasta diez?",
+      "title_fr_fr": "Qui sait compter jusqu’à dix ?",
+      "title_kw_ar": "من يستطيع العد إلى عشرة؟",
+      "title_cn_zh": "谁能数到十？",
       "pages": "data.Who_Can_Count_To_Ten_storybook",
       "cover": "EFMStorybooks/EFM-SB-WCCTT-Cover.jpg",
       "author": "Athieno Gertrude",
@@ -1866,6 +2653,11 @@
       "title": "Who Can Count to Ten?",
       "_translations": {
         "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "title_us_en": {
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true
@@ -1880,10 +2672,14 @@
         "title": {
           "eng": "Who Can Count to Ten?"
         },
+        "title_us_en": {
+          "eng": "Who Can Count to Ten?"
+        },
         "math_themes_words": {
           "eng": "This story has counting, comparisons, and problem solving. Practice words: numbers to ten, skip counting, counting by 2's, 3's, 4's, 5's, and 10's, odd numbers, more, difference, add, combination, total, stripes, spots, big, biggest, fast, fastest, strong, strongest, large largest, high, higher, pattern, and problem solving."
         }
       },
+      "title_us_en": "Who Can Count to Ten?",
       "math_themes_words": "This story has counting, comparisons, and problem solving. Practice words: numbers to ten, skip counting, counting by 2's, 3's, 4's, 5's, and 10's, odd numbers, more, difference, add, combination, total, stripes, spots, big, biggest, fast, fastest, strong, strongest, large largest, high, higher, pattern, and problem solving."
     }
   ],

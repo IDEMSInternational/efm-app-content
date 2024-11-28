@@ -892,5 +892,10 @@
       "illustration": "EFMStorybooks/EFM-SB-FATGS-19.jpg"
     }
   ],
-  "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+  "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+  "_metadata": {
+    "page_no": {
+      "type": "number"
+    }
+  }
 }

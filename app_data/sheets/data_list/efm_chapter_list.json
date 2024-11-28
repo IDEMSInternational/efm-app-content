@@ -90,5 +90,10 @@
       }
     }
   ],
-  "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"
+  "_xlsxPath": "EFM_activity_high_level_sheets.xlsx",
+  "_metadata": {
+    "number": {
+      "type": "number"
+    }
+  }
 }

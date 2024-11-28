@@ -69,5 +69,10 @@
       ]
     }
   ],
-  "_xlsxPath": "EFM_app_launch.xlsx"
+  "_xlsxPath": "EFM_app_launch.xlsx",
+  "_metadata": {
+    "priority": {
+      "type": "number"
+    }
+  }
 }

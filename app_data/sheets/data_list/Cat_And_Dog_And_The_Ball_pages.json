@@ -603,5 +603,10 @@
       "illustration": "EFMStorybooks/EFM-SB-CADATB-14.jpg"
     }
   ],
-  "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+  "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+  "_metadata": {
+    "page_no": {
+      "type": "number"
+    }
+  }
 }

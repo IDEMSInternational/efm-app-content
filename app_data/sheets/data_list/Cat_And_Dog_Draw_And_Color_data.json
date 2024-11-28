@@ -736,5 +736,10 @@
       "illustration": "EFMStorybooks/EFM-SB-CADDAC-18.jpg"
     }
   ],
-  "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+  "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+  "_metadata": {
+    "page_no": {
+      "type": "number"
+    }
+  }
 }

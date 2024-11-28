@@ -745,5 +745,10 @@
       "illustration": "EFMStorybooks/EFM-SB-ASM-16.jpg"
     }
   ],
-  "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+  "_xlsxPath": "EFM_storybooks_advanced.xlsx",
+  "_metadata": {
+    "page_no": {
+      "type": "number"
+    }
+  }
 }

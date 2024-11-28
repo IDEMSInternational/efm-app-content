@@ -848,5 +848,10 @@
       "illustration": "EFMStorybooks/EFM-SB-CADDIC-19.jpg"
     }
   ],
-  "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+  "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+  "_metadata": {
+    "page_no": {
+      "type": "number"
+    }
+  }
 }

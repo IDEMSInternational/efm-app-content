@@ -1385,5 +1385,10 @@
       "block1_text": "**You have prepared the way:** Your work with skip counting, learning multiplication facts, and fact families will smooth the way for dividing both with and without remainders. All those skills should be well mastered and understood before starting in on general single-digit division.\n\n**No remainder:** Division problems where the divisor goes in evenly without a remainder are mostly done by your child recognizing the corresponding multiplication fact. For example, if they are asked to divide 36 by 4, then remembering that 4 times 9 is 36 will get them straight to the answer. However, if that method doesn't work for a given problem, then they should use the next method.\n\n**Guessing and skip counting:** Suppose your child is asked to divide 29 by 4. Your child will not find 29 among their multiplication facts involving 4, so they will want to find a result that is less than 29 that does work. Have your child guess at a multiple of 4 that is less than 29. They might guess 24, which is 4 times 6. They can then skip count forward until they bump into 29. In this case that will mean moving forward to 28, which is 4 times 7. Seeing that they have to stop there, they have their answer that 29 divided by 4 is 7 with a remainder of 1.\n\n**Checking the answer:** Checking their answers is a good habit for your child to develop. In this last example, we think we found that 29 divided by 4 is 7 with a remainder of 1. Check this by multiplying 4 times 7 to get 28, and then adding 1 to get 29. So it all checks out!"
     }
   ],
-  "_xlsxPath": "EFM_mls_high_level_sheets.xlsx"
+  "_xlsxPath": "EFM_mls_high_level_sheets.xlsx",
+  "_metadata": {
+    "chapter": {
+      "type": "number"
+    }
+  }
 }

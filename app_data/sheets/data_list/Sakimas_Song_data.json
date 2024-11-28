@@ -820,5 +820,10 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-19.jpg"
     }
   ],
-  "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+  "_xlsxPath": "EFM_storybooks_advanced.xlsx",
+  "_metadata": {
+    "page_no": {
+      "type": "number"
+    }
+  }
 }

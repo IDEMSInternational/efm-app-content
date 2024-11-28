@@ -598,5 +598,10 @@
       "illustration": "EFMStorybooks/EFM-SB-ADT-13.jpg"
     }
   ],
-  "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+  "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+  "_metadata": {
+    "page_no": {
+      "type": "number"
+    }
+  }
 }
