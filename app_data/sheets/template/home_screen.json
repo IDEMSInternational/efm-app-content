@@ -95,6 +95,44 @@
       "_nested_name": "dg_image"
     },
     {
+      "name": "okay_language",
+      "value": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "okay_language",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields._app_language": [
+          "value",
+          "value",
+          "value"
+        ]
+      }
+    },
+    {
       "name": "now",
       "value": "@calc(timestamp())",
       "_translations": {
@@ -881,6 +919,7 @@
     {
       "type": "display_group",
       "name": "dg_math_learning_steps",
+      "condition": "@local.okay_language",
       "rows": [
         {
           "type": "button",
@@ -1119,7 +1158,22 @@
           }
         }
       ],
-      "_nested_name": "dg_math_learning_steps"
+      "_nested_name": "dg_math_learning_steps",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.okay_language",
+            "matchedExpression": "@local.okay_language",
+            "type": "local",
+            "fieldName": "okay_language"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.okay_language": [
+          "condition"
+        ]
+      }
     },
     {
       "name": "click_history_field_name_3",
@@ -1215,6 +1269,7 @@
     {
       "type": "display_group",
       "name": "dg_playdates",
+      "condition": "@local.okay_language",
       "rows": [
         {
           "type": "button",
@@ -1453,7 +1508,22 @@
           }
         }
       ],
-      "_nested_name": "dg_playdates"
+      "_nested_name": "dg_playdates",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.okay_language",
+            "matchedExpression": "@local.okay_language",
+            "type": "local",
+            "fieldName": "okay_language"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.okay_language": [
+          "condition"
+        ]
+      }
     }
   ],
   "_xlsxPath": "EFM_high_level_sheets.xlsx"

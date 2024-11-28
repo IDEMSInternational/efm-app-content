@@ -5,349 +5,639 @@
       "flow_type": "data_list",
       "flow_name": "A_Dancers_Tale_data",
       "data_list_name": "A_Dancers_Tale_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "A_Fish_And_A_Gift_data": {
       "flow_type": "data_list",
       "flow_name": "A_Fish_And_A_Gift_data",
       "data_list_name": "A_Fish_And_A_Gift_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "A_Very_Tall_Man_pages": {
       "flow_type": "data_list",
       "flow_name": "A_Very_Tall_Man_pages",
       "data_list_name": "A_Very_Tall_Man_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Akadelis_Lucky_Day_pages": {
       "flow_type": "data_list",
       "flow_name": "Akadelis_Lucky_Day_pages",
       "data_list_name": "Akadelis_Lucky_Day_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Akais_Special_Mat_data": {
       "flow_type": "data_list",
       "flow_name": "Akais_Special_Mat_data",
       "data_list_name": "Akais_Special_Mat_storybook",
-      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Aku_The_Sun_Maker_data": {
       "flow_type": "data_list",
       "flow_name": "Aku_The_Sun_Maker_data",
       "data_list_name": "Aku_The_Sun_Maker_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Amazing_Daisy_data": {
       "flow_type": "data_list",
       "flow_name": "Amazing_Daisy_data",
       "data_list_name": "Amazing_Daisy_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Can_We_Count_Our_Cats_pages": {
       "flow_type": "data_list",
       "flow_name": "Can_We_Count_Our_Cats_pages",
       "data_list_name": "Can_We_Count_Our_Cats_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Cassava_And_Palm_data": {
       "flow_type": "data_list",
       "flow_name": "Cassava_And_Palm_data",
       "data_list_name": "Cassava_And_Palm_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Cat_And_Dog_And_The_Ball_pages": {
       "flow_type": "data_list",
       "flow_name": "Cat_And_Dog_And_The_Ball_pages",
       "data_list_name": "Cat_And_Dog_And_The_Ball_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Cat_And_Dog_And_The_But_pages": {
       "flow_type": "data_list",
       "flow_name": "Cat_And_Dog_And_The_But_pages",
       "data_list_name": "Cat_And_Dog_And_The_But_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Cat_And_Dog_And_The_Egg_pages": {
       "flow_type": "data_list",
       "flow_name": "Cat_And_Dog_And_The_Egg_pages",
       "data_list_name": "Cat_And_Dog_And_The_Egg_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Cat_And_Dog_Dog_Is_Cold_pages": {
       "flow_type": "data_list",
       "flow_name": "Cat_And_Dog_Dog_Is_Cold_pages",
       "data_list_name": "Cat_And_Dog_Dog_Is_Cold_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Cat_And_Dog_Draw_And_Color_data": {
       "flow_type": "data_list",
       "flow_name": "Cat_And_Dog_Draw_And_Color_data",
       "data_list_name": "Cat_And_Dog_Draw_And_Color_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Clever_Cat_pages": {
       "flow_type": "data_list",
       "flow_name": "Clever_Cat_pages",
       "data_list_name": "Clever_Cat_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Colors_Of_A_Rainbow_pages": {
       "flow_type": "data_list",
       "flow_name": "Colors_Of_A_Rainbow_pages",
       "data_list_name": "Colors_Of_A_Rainbow_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Counting_Animals_pages": {
       "flow_type": "data_list",
       "flow_name": "Counting_Animals_pages",
       "data_list_name": "Counting_Animals_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Creature_With_Two_pages": {
       "flow_type": "data_list",
       "flow_name": "Creature_With_Two_pages",
       "data_list_name": "Creature_With_Two_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Curious_Baby_Elephant_data": {
       "flow_type": "data_list",
       "flow_name": "Curious_Baby_Elephant_data",
       "data_list_name": "Curious_Baby_Elephant_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Drum_pages": {
       "flow_type": "data_list",
       "flow_name": "Drum_pages",
       "data_list_name": "Drum_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Emeka_Old_Man_data": {
       "flow_type": "data_list",
       "flow_name": "Emeka_Old_Man_data",
       "data_list_name": "Emeka_Old_Man_storybook",
-      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Fana_Loves_Animals_pages": {
       "flow_type": "data_list",
       "flow_name": "Fana_Loves_Animals_pages",
       "data_list_name": "Fana_Loves_Animals_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Father_Son_Donkey_data": {
       "flow_type": "data_list",
       "flow_name": "Father_Son_Donkey_data",
       "data_list_name": "Father_Son_Donkey_storybook",
-      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Fathers_Advice_data": {
       "flow_type": "data_list",
       "flow_name": "Fathers_Advice_data",
       "data_list_name": "Fathers_Advice_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Fati_And_The_Green_Snake_data": {
       "flow_type": "data_list",
       "flow_name": "Fati_And_The_Green_Snake_data",
       "data_list_name": "Fati_And_The_Green_Snake_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Feelings_pages": {
       "flow_type": "data_list",
       "flow_name": "Feelings_pages",
       "data_list_name": "Feelings_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Flower_Blind_pages": {
       "flow_type": "data_list",
       "flow_name": "Flower_Blind_pages",
       "data_list_name": "Flower_Blind_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Friends_pages": {
       "flow_type": "data_list",
       "flow_name": "Friends_pages",
       "data_list_name": "Friends_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Horses_Of_Debre_Birhan_data": {
       "flow_type": "data_list",
       "flow_name": "Horses_Of_Debre_Birhan_data",
       "data_list_name": "Horses_Of_Debre_Birhan_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "How_Many_data": {
       "flow_type": "data_list",
       "flow_name": "How_Many_data",
       "data_list_name": "How_Many_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "How_The_Toad_Got_Skin_pages": {
       "flow_type": "data_list",
       "flow_name": "How_The_Toad_Got_Skin_pages",
       "data_list_name": "How_The_Toad_Got_Skin_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Hyena_And_Tortoise_data": {
       "flow_type": "data_list",
       "flow_name": "Hyena_And_Tortoise_data",
       "data_list_name": "Hyena_And_Tortoise_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "I_Love_Forests_data": {
       "flow_type": "data_list",
       "flow_name": "I_Love_Forests_data",
       "data_list_name": "I_Love_Forests_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Is_There_Anyone_Like_Me_data": {
       "flow_type": "data_list",
       "flow_name": "Is_There_Anyone_Like_Me_data",
       "data_list_name": "Is_There_Anyone_Like_Me_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Keepers_Nursery_data": {
       "flow_type": "data_list",
       "flow_name": "Keepers_Nursery_data",
       "data_list_name": "Keepers_Nursery_storybook",
-      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Listen_To_My_Body_data": {
       "flow_type": "data_list",
       "flow_name": "Listen_To_My_Body_data",
       "data_list_name": "Listen_To_My_Body_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Little_Jojos_Tale_data": {
       "flow_type": "data_list",
       "flow_name": "Little_Jojos_Tale_data",
       "data_list_name": "Little_Jojos_Tale_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Look_At_The_Animals_pages": {
       "flow_type": "data_list",
       "flow_name": "Look_At_The_Animals_pages",
       "data_list_name": "Look_At_The_Animals_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Lory_Dory_data": {
       "flow_type": "data_list",
       "flow_name": "Lory_Dory_data",
       "data_list_name": "Lory_Dory_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Magical_Rainbow_data": {
       "flow_type": "data_list",
       "flow_name": "Magical_Rainbow_data",
       "data_list_name": "Magical_Rainbow_storybook",
-      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Maguru_Gives_Legs_data": {
       "flow_type": "data_list",
       "flow_name": "Maguru_Gives_Legs_data",
       "data_list_name": "Maguru_Gives_Legs_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "My_School_Clothes_pages": {
       "flow_type": "data_list",
       "flow_name": "My_School_Clothes_pages",
       "data_list_name": "My_School_Clothes_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Palm_Tree_pages": {
       "flow_type": "data_list",
       "flow_name": "Palm_Tree_pages",
       "data_list_name": "Palm_Tree_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Pendo_Our_Cow_pages": {
       "flow_type": "data_list",
       "flow_name": "Pendo_Our_Cow_pages",
       "data_list_name": "Pendo_Our_Cow_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Sakimas_Song_data": {
       "flow_type": "data_list",
       "flow_name": "Sakimas_Song_data",
       "data_list_name": "Sakimas_Song_storybook",
-      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Searching_for_Spring_data": {
       "flow_type": "data_list",
       "flow_name": "Searching_for_Spring_data",
       "data_list_name": "Searching_for_Spring_storybook",
-      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Share_It_Fair_data": {
       "flow_type": "data_list",
       "flow_name": "Share_It_Fair_data",
       "data_list_name": "Share_It_Fair_storybook",
-      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Singing_The_Truth_data": {
       "flow_type": "data_list",
       "flow_name": "Singing_The_Truth_data",
       "data_list_name": "Singing_The_Truth_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Sizwes_Smile_data": {
       "flow_type": "data_list",
       "flow_name": "Sizwes_Smile_data",
       "data_list_name": "Sizwes_Smile_storybook",
-      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Sun_Moon_And_Water_data": {
       "flow_type": "data_list",
       "flow_name": "Sun_Moon_And_Water_data",
       "data_list_name": "Sun_Moon_And_Water_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "The_Day_The_Sun_Went_pages": {
       "flow_type": "data_list",
       "flow_name": "The_Day_The_Sun_Went_pages",
       "data_list_name": "The_Day_The_Sun_Went_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "The_Smell_Thief_data": {
       "flow_type": "data_list",
       "flow_name": "The_Smell_Thief_data",
       "data_list_name": "The_Smell_Thief_storybook",
-      "_xlsxPath": "EFM_storybooks_advanced.xlsx"
+      "_xlsxPath": "EFM_storybooks_advanced.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Tortoise_Finds_His_House_data": {
       "flow_type": "data_list",
       "flow_name": "Tortoise_Finds_His_House_data",
       "data_list_name": "Tortoise_Finds_His_House_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Visiting_Grandmother_pages": {
       "flow_type": "data_list",
       "flow_name": "Visiting_Grandmother_pages",
       "data_list_name": "Visiting_Grandmother_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Where_Is_Lulu_pages": {
       "flow_type": "data_list",
       "flow_name": "Where_Is_Lulu_pages",
       "data_list_name": "Where_Is_Lulu_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Where_Is_My_Bat_pages": {
       "flow_type": "data_list",
       "flow_name": "Where_Is_My_Bat_pages",
       "data_list_name": "Where_Is_My_Bat_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Where_Is_My_Cat_pages": {
       "flow_type": "data_list",
       "flow_name": "Where_Is_My_Cat_pages",
       "data_list_name": "Where_Is_My_Cat_storybook",
-      "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+      "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "Who_Can_Count_To_Ten_data": {
       "flow_type": "data_list",
       "flow_name": "Who_Can_Count_To_Ten_data",
       "data_list_name": "Who_Can_Count_To_Ten_storybook",
-      "_xlsxPath": "EFM_storybooks_intermediate.xlsx"
+      "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
+      "_metadata": {
+        "page_no": {
+          "type": "number"
+        }
+      }
     },
     "language_data_list": {
       "flow_type": "data_list",
@@ -360,37 +650,82 @@
       "flow_type": "data_list",
       "flow_name": "efm_act_list_v_two",
       "data_list_name": "efm_act_v_two",
-      "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"
+      "_xlsxPath": "EFM_activity_high_level_sheets.xlsx",
+      "_metadata": {
+        "chapter": {
+          "type": "number"
+        },
+        "block2_illust_flex": {
+          "type": "number"
+        },
+        "block3_illust_flex": {
+          "type": "number"
+        },
+        "block1_illust_flex": {
+          "type": "number"
+        },
+        "block4_illust_flex": {
+          "type": "number"
+        },
+        "block6_illust_flex": {
+          "type": "number"
+        }
+      }
     },
     "efm_bonus_acts_content": {
       "flow_type": "data_list",
       "flow_name": "efm_bonus_acts_content",
       "data_list_name": "efm_bon_acts_content",
-      "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"
+      "_xlsxPath": "EFM_activity_high_level_sheets.xlsx",
+      "_metadata": {
+        "chapter": {
+          "type": "number"
+        }
+      }
     },
     "efm_chapter_list": {
       "flow_type": "data_list",
       "flow_name": "efm_chapter_list",
       "data_list_name": "efm_chapt",
-      "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"
+      "_xlsxPath": "EFM_activity_high_level_sheets.xlsx",
+      "_metadata": {
+        "number": {
+          "type": "number"
+        }
+      }
     },
     "efm_mls_list": {
       "flow_type": "data_list",
       "flow_name": "efm_mls_list",
       "data_list_name": "efm_mls",
-      "_xlsxPath": "EFM_mls_high_level_sheets.xlsx"
+      "_xlsxPath": "EFM_mls_high_level_sheets.xlsx",
+      "_metadata": {
+        "chapter": {
+          "type": "number"
+        }
+      }
     },
     "efm_number_list_one_to_six": {
       "flow_type": "data_list",
       "flow_name": "efm_number_list_one_to_six",
       "data_list_name": "efm_num_list_one_to_six",
-      "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"
+      "_xlsxPath": "EFM_activity_high_level_sheets.xlsx",
+      "_metadata": {
+        "number": {
+          "type": "number"
+        }
+      }
     },
     "efm_number_list_one_to_ten": {
       "flow_type": "data_list",
       "flow_name": "efm_number_list_one_to_ten",
       "data_list_name": "efm_num_list_one_to_ten",
-      "_xlsxPath": "EFM_activity_high_level_sheets.xlsx"
+      "_xlsxPath": "EFM_activity_high_level_sheets.xlsx",
+      "_metadata": {
+        "number": {
+          "type": "number"
+        }
+      }
     },
     "efm_pd_act_list_1": {
       "flow_type": "data_list",
@@ -426,7 +761,12 @@
       "flow_type": "data_list",
       "flow_name": "efm_pd_list",
       "data_list_name": "efm_pd",
-      "_xlsxPath": "EFM_pd_high_level_sheets.xlsx"
+      "_xlsxPath": "EFM_pd_high_level_sheets.xlsx",
+      "_metadata": {
+        "chapter": {
+          "type": "number"
+        }
+      }
     },
     "efm_pd_sb_list_1": {
       "flow_type": "data_list",
@@ -462,7 +802,12 @@
       "flow_type": "data_list",
       "flow_subtype": "lifecycle_actions",
       "flow_name": "launch_actions",
-      "_xlsxPath": "EFM_app_launch.xlsx"
+      "_xlsxPath": "EFM_app_launch.xlsx",
+      "_metadata": {
+        "priority": {
+          "type": "number"
+        }
+      }
     }
   },
   "data_pipe": {},
@@ -476,7 +821,299 @@
         "output_flow_type": "template",
         "output_flow_subtype": "generated"
       },
-      "_xlsxPath": "template_generators/storybook_generators.xlsx"
+      "_xlsxPath": "template_generators/storybook_generators.xlsx",
+      "_output_flows": [
+        {
+          "flow_name": "efm_sb_A_Very_Tall_Man",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Akadelis_Lucky_Day",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Can_We_Count_Our_Cats",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Cat_And_Dog_And_The_Ball",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Cat_And_Dog_And_The_But",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Cat_And_Dog_And_The_Egg",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Cat_And_Dog_Dog_Is_Cold",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Clever_Cat",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Colors_Of_A_Rainbow",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Counting_Animals",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Creature_With_Two",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Drum",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Fana_Loves_Animals",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Feelings",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Flower_Blind",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Friends",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_How_The_Toad_Got_Its_Skin",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Look_At_The_Animals",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_My_School_Clothes",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Palm_Tree",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Pendo_Our_Cow",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_The_Day_The_Sun_Went_Away",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Visiting_Grandmother",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Where_Is_Lulu",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Where_Is_My_Bat",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Where_Is_My_Cat",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_A_Dancers_Tale",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_A_Fish_And_A_Gift",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Aku_The_Sun_Maker",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Amazing_Daisy",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Cassava_And_Palm",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Cat_And_Dog_Draw_And_Color",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Curious_Baby_Elephant",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Fathers_Advice",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Fati_And_The_Green_Snake",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_How_Many",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_I_Love_Forests",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Is_There_Anyone_Like_Me",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Listen_To_My_Body",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Little_Jojos_Long_Tall_Tale",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Lory_Dory",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Maguru_Gives_Legs",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Sun_Moon_And_Water",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Tortoise_Finds_His_House",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Akais_Special_Mat",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Emeka_Old_Man",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Father_Son_Donkey",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Horses_Of_Debre_Birhan",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Hyena_And_Tortoise",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Keepers_Nursery",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Magical_Rainbow",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Sakimas_Song",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Searching_for_Spring",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Share_It_Fair",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Singing_The_Truth",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Sizwes_Smile",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_The_Smell_Thief",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        },
+        {
+          "flow_name": "efm_sb_Who_Can_Count_To_Ten",
+          "flow_subtype": "generated",
+          "flow_type": "template"
+        }
+      ]
     }
   },
   "global": {

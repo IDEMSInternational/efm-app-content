@@ -83,7 +83,7 @@
     },
     {
       "name": "next_activity",
-      "value": "@local.false",
+      "value": "@local.local_false",
       "_translations": {
         "value": {}
       },
@@ -92,22 +92,22 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.false",
-            "matchedExpression": "@local.false",
+            "fullExpression": "@local.local_false",
+            "matchedExpression": "@local.local_false",
             "type": "local",
-            "fieldName": "false"
+            "fieldName": "local_false"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.false": [
+        "@local.local_false": [
           "value"
         ]
       }
     },
     {
       "name": "prev_activity",
-      "value": "@local.false",
+      "value": "@local.local_false",
       "_translations": {
         "value": {}
       },
@@ -116,22 +116,22 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.false",
-            "matchedExpression": "@local.false",
+            "fullExpression": "@local.local_false",
+            "matchedExpression": "@local.local_false",
             "type": "local",
-            "fieldName": "false"
+            "fieldName": "local_false"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.false": [
+        "@local.local_false": [
           "value"
         ]
       }
     },
     {
       "name": "has_activity_been_seen",
-      "value": "@local.false",
+      "value": "@local.local_false",
       "_translations": {
         "value": {}
       },
@@ -140,22 +140,22 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.false",
-            "matchedExpression": "@local.false",
+            "fullExpression": "@local.local_false",
+            "matchedExpression": "@local.local_false",
             "type": "local",
-            "fieldName": "false"
+            "fieldName": "local_false"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.false": [
+        "@local.local_false": [
           "value"
         ]
       }
     },
     {
       "name": "do_ids_match",
-      "value": "@local.false",
+      "value": "@local.local_false",
       "_translations": {
         "value": {}
       },
@@ -164,15 +164,15 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@local.false",
-            "matchedExpression": "@local.false",
+            "fullExpression": "@local.local_false",
+            "matchedExpression": "@local.local_false",
             "type": "local",
-            "fieldName": "false"
+            "fieldName": "local_false"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.false": [
+        "@local.local_false": [
           "value"
         ]
       }

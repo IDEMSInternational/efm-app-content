@@ -243,6 +243,30 @@
       "_nested_name": "dg_options"
     },
     {
+      "name": "title_field_lang",
+      "value": "title_@fields._app_language",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "title_field_lang",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "title_@fields._app_language",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields._app_language": [
+          "value"
+        ]
+      }
+    },
+    {
       "name": "now",
       "value": "@calc(timestamp())",
       "_translations": {
@@ -301,6 +325,9 @@
           "type": "items",
           "name": "activity_buttons",
           "value": "@data.efm_storybooks",
+          "parameter_list": {
+            "sort": "title_@fields._app_language"
+          },
           "rows": [
             {
               "name": "book_id",
@@ -322,6 +349,54 @@
               },
               "_dynamicDependencies": {
                 "@item.id": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "book_title_in_table",
+              "value": "@item.@local.title_field_lang",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "dg_beginning_sb.activity_buttons.book_title_in_table",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.@local.title_field_lang",
+                    "matchedExpression": "@local.title_field_lang",
+                    "type": "local",
+                    "fieldName": "title_field_lang"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.title_field_lang": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "not_translated",
+              "value": "@local.book_title_in_table == \"NoTranslation\"",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "dg_beginning_sb.activity_buttons.not_translated",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.book_title_in_table == \"NoTranslation\"",
+                    "matchedExpression": "@local.book_title_in_table",
+                    "type": "local",
+                    "fieldName": "book_title_in_table"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.book_title_in_table": [
                   "value"
                 ]
               }
@@ -469,7 +544,7 @@
                   "_cleaned": "click | set_field:@local.click_history_field_name: @local.books_click_history"
                 }
               ],
-              "condition": "@item.book_level == \"beginner\"",
+              "condition": "@item.book_level == \"beginner\" && !@local.not_translated",
               "parameter_list": {
                 "style": "short",
                 "text_align": "center"
@@ -564,10 +639,16 @@
                 },
                 "condition": [
                   {
-                    "fullExpression": "@item.book_level == \"beginner\"",
+                    "fullExpression": "@item.book_level == \"beginner\" && !@local.not_translated",
                     "matchedExpression": "@item.book_level",
                     "type": "item",
                     "fieldName": "book_level"
+                  },
+                  {
+                    "fullExpression": "@item.book_level == \"beginner\" && !@local.not_translated",
+                    "matchedExpression": "!@local.not_translated",
+                    "type": "local",
+                    "fieldName": "not_translated"
                   }
                 ]
               },
@@ -592,6 +673,9 @@
                 ],
                 "@item.book_level": [
                   "condition"
+                ],
+                "!@local.not_translated": [
+                  "condition"
                 ]
               }
             }
@@ -605,11 +689,24 @@
                 "type": "data",
                 "fieldName": "efm_storybooks"
               }
-            ]
+            ],
+            "parameter_list": {
+              "sort": [
+                {
+                  "fullExpression": "title_@fields._app_language",
+                  "matchedExpression": "@fields._app_language",
+                  "type": "fields",
+                  "fieldName": "_app_language"
+                }
+              ]
+            }
           },
           "_dynamicDependencies": {
             "@data.efm_storybooks": [
               "value"
+            ],
+            "@fields._app_language": [
+              "parameter_list.sort"
             ]
           }
         }
@@ -655,6 +752,9 @@
           "type": "items",
           "name": "activity_buttons",
           "value": "@data.efm_storybooks",
+          "parameter_list": {
+            "sort": "title_@fields._app_language"
+          },
           "rows": [
             {
               "name": "book_id",
@@ -676,6 +776,54 @@
               },
               "_dynamicDependencies": {
                 "@item.id": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "book_title_in_table",
+              "value": "@item.@local.title_field_lang",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "dg_intermediate_sb.activity_buttons.book_title_in_table",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.@local.title_field_lang",
+                    "matchedExpression": "@local.title_field_lang",
+                    "type": "local",
+                    "fieldName": "title_field_lang"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.title_field_lang": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "not_translated",
+              "value": "@local.book_title_in_table == \"NoTranslation\"",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "dg_intermediate_sb.activity_buttons.not_translated",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.book_title_in_table == \"NoTranslation\"",
+                    "matchedExpression": "@local.book_title_in_table",
+                    "type": "local",
+                    "fieldName": "book_title_in_table"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.book_title_in_table": [
                   "value"
                 ]
               }
@@ -823,7 +971,7 @@
                   "_cleaned": "click | set_field:@local.click_history_field_name: @local.books_click_history"
                 }
               ],
-              "condition": "@item.book_level == \"intermediate\"",
+              "condition": "@item.book_level == \"intermediate\"  && !@local.not_translated",
               "parameter_list": {
                 "style": "short",
                 "text_align": "center"
@@ -918,10 +1066,16 @@
                 },
                 "condition": [
                   {
-                    "fullExpression": "@item.book_level == \"intermediate\"",
+                    "fullExpression": "@item.book_level == \"intermediate\"  && !@local.not_translated",
                     "matchedExpression": "@item.book_level",
                     "type": "item",
                     "fieldName": "book_level"
+                  },
+                  {
+                    "fullExpression": "@item.book_level == \"intermediate\"  && !@local.not_translated",
+                    "matchedExpression": "!@local.not_translated",
+                    "type": "local",
+                    "fieldName": "not_translated"
                   }
                 ]
               },
@@ -946,6 +1100,9 @@
                 ],
                 "@item.book_level": [
                   "condition"
+                ],
+                "!@local.not_translated": [
+                  "condition"
                 ]
               }
             }
@@ -959,11 +1116,24 @@
                 "type": "data",
                 "fieldName": "efm_storybooks"
               }
-            ]
+            ],
+            "parameter_list": {
+              "sort": [
+                {
+                  "fullExpression": "title_@fields._app_language",
+                  "matchedExpression": "@fields._app_language",
+                  "type": "fields",
+                  "fieldName": "_app_language"
+                }
+              ]
+            }
           },
           "_dynamicDependencies": {
             "@data.efm_storybooks": [
               "value"
+            ],
+            "@fields._app_language": [
+              "parameter_list.sort"
             ]
           }
         }
@@ -1009,6 +1179,9 @@
           "type": "items",
           "name": "activity_buttons",
           "value": "@data.efm_storybooks",
+          "parameter_list": {
+            "sort": "title_@fields._app_language"
+          },
           "rows": [
             {
               "name": "book_id",
@@ -1030,6 +1203,54 @@
               },
               "_dynamicDependencies": {
                 "@item.id": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "book_title_in_table",
+              "value": "@item.@local.title_field_lang",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "dg_advanced_sb.activity_buttons.book_title_in_table",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@item.@local.title_field_lang",
+                    "matchedExpression": "@local.title_field_lang",
+                    "type": "local",
+                    "fieldName": "title_field_lang"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.title_field_lang": [
+                  "value"
+                ]
+              }
+            },
+            {
+              "name": "not_translated",
+              "value": "@local.book_title_in_table == \"NoTranslation\"",
+              "_translations": {
+                "value": {}
+              },
+              "type": "set_variable",
+              "_nested_name": "dg_advanced_sb.activity_buttons.not_translated",
+              "_dynamicFields": {
+                "value": [
+                  {
+                    "fullExpression": "@local.book_title_in_table == \"NoTranslation\"",
+                    "matchedExpression": "@local.book_title_in_table",
+                    "type": "local",
+                    "fieldName": "book_title_in_table"
+                  }
+                ]
+              },
+              "_dynamicDependencies": {
+                "@local.book_title_in_table": [
                   "value"
                 ]
               }
@@ -1177,7 +1398,7 @@
                   "_cleaned": "click | set_field:@local.click_history_field_name: @local.books_click_history"
                 }
               ],
-              "condition": "@item.book_level == \"advanced\"",
+              "condition": "@item.book_level == \"advanced\" && !@local.not_translated",
               "parameter_list": {
                 "style": "short",
                 "text_align": "center"
@@ -1272,10 +1493,16 @@
                 },
                 "condition": [
                   {
-                    "fullExpression": "@item.book_level == \"advanced\"",
+                    "fullExpression": "@item.book_level == \"advanced\" && !@local.not_translated",
                     "matchedExpression": "@item.book_level",
                     "type": "item",
                     "fieldName": "book_level"
+                  },
+                  {
+                    "fullExpression": "@item.book_level == \"advanced\" && !@local.not_translated",
+                    "matchedExpression": "!@local.not_translated",
+                    "type": "local",
+                    "fieldName": "not_translated"
                   }
                 ]
               },
@@ -1300,6 +1527,9 @@
                 ],
                 "@item.book_level": [
                   "condition"
+                ],
+                "!@local.not_translated": [
+                  "condition"
                 ]
               }
             }
@@ -1313,11 +1543,24 @@
                 "type": "data",
                 "fieldName": "efm_storybooks"
               }
-            ]
+            ],
+            "parameter_list": {
+              "sort": [
+                {
+                  "fullExpression": "title_@fields._app_language",
+                  "matchedExpression": "@fields._app_language",
+                  "type": "fields",
+                  "fieldName": "_app_language"
+                }
+              ]
+            }
           },
           "_dynamicDependencies": {
             "@data.efm_storybooks": [
               "value"
+            ],
+            "@fields._app_language": [
+              "parameter_list.sort"
             ]
           }
         }

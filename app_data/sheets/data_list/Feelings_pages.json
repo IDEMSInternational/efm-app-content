@@ -255,5 +255,10 @@
       "illustration": "EFMStorybooks/EFM-SB-FEEL-6.jpg"
     }
   ],
-  "_xlsxPath": "EFM_storybooks_beginning.xlsx"
+  "_xlsxPath": "EFM_storybooks_beginning.xlsx",
+  "_metadata": {
+    "page_no": {
+      "type": "number"
+    }
+  }
 }
