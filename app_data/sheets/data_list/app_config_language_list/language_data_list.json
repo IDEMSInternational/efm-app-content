@@ -33,12 +33,30 @@
       "text": "Français"
     },
     {
-      "id": "kw_ar",
-      "country_code": "kw",
-      "country_label": "Kuwait",
+      "id": "br_pt",
+      "country_code": "br",
+      "country_label": "Brazil",
+      "language_code": "pt",
+      "language_label": "Português",
+      "name": "br_pt",
+      "text": "Português"
+    },
+    {
+      "id": "tr_tr",
+      "country_code": "tr",
+      "country_label": "Turkey",
+      "language_code": "tr",
+      "language_label": "Türkçe",
+      "name": "tr_tr",
+      "text": "Türkçe"
+    },
+    {
+      "id": "sa_ar",
+      "country_code": "sa",
+      "country_label": "Saudi Arabia",
       "language_code": "ar",
       "language_label": "العربية",
-      "name": "kw_ar",
+      "name": "sa_ar",
       "text": "العربية"
     },
     {

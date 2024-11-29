@@ -25,8 +25,31 @@
     },
     {
       "lifecycle_event": "app_start",
-      "id": "app_start_home_screen_tour",
+      "id": "app_start_language_select",
       "priority": 2,
+      "condition_list": [
+        "!@fields.language_selected"
+      ],
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "pop_up",
+          "args": [
+            "app_menu_language"
+          ],
+          "_raw": "pop_up: app_menu_language | fullscreen: true, showCloseButton: false",
+          "_cleaned": "click | pop_up: app_menu_language | fullscreen: true, showCloseButton: false",
+          "params": {
+            "fullscreen": true,
+            "showCloseButton": false
+          }
+        }
+      ]
+    },
+    {
+      "lifecycle_event": "app_start",
+      "id": "app_start_home_screen_tour",
+      "priority": 3,
       "condition_list": [
         "!@fields.home_screen_tour_started"
       ],
@@ -55,7 +78,7 @@
     {
       "lifecycle_event": "app_start",
       "id": "app_start_update_prompt",
-      "priority": 3,
+      "priority": 4,
       "action_list": [
         {
           "trigger": "click",
