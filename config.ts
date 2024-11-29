@@ -8,7 +8,7 @@ config.google_drive = {
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/efm-app-content.git",
-  content_tag_latest: "1.2.33",
+  content_tag_latest: "1.2.34",
 };
 
 config.android = {
@@ -30,7 +30,7 @@ config.app_data.output_path = "./app_data";
 
 // Override constants
 config.app_config.APP_LANGUAGES.default = "us_en";
-config.app_config.APP_LANGUAGES_META = { kw_ar: { rtl: true } };
+config.app_config.APP_LANGUAGES_META = { sa_ar: { rtl: true } };
 config.app_config.APP_HEADER_DEFAULTS.title = "Early Family Math";
 config.app_config.APP_SIDEMENU_DEFAULTS.title = "EFM";
 config.app_config.NOTIFICATION_DEFAULTS.text = "You have a new message from Early Family Math";

@@ -5,7 +5,7 @@
 | --- | --- |
 | accordion | 5 |
 | accordion_section | 10 |
-| button | 55 |
+| button | 56 |
 | debug_toggle | 1 |
 | display_group | 63 |
 | image | 13 |
@@ -35,6 +35,7 @@
 | emit: completed | 58 |
 | emit: force_reload | 7 |
 | emit: force_reprocess | 4 |
+| emit: force_restart | 1 |
 | emit: server_sync | 1 |
 | emit: set_language | 1 |
 | emit: uncompleted | 58 |
@@ -42,7 +43,7 @@
 | go_to | 30 |
 | go_to_url | 3 |
 | reset_app | 1 |
-| set_field | 45 |
+| set_field | 46 |
 | set_local | 5 |
 | start_tour | 10 |
 </details>

@@ -11,7 +11,7 @@
       },
       {
         "type": "button",
-        "count": 55
+        "count": 56
       },
       {
         "type": "debug_toggle",
@@ -106,6 +106,10 @@
         "count": 4
       },
       {
+        "type": "emit: force_restart",
+        "count": 1
+      },
+      {
         "type": "emit: server_sync",
         "count": 1
       },
@@ -135,7 +139,7 @@
       },
       {
         "type": "set_field",
-        "count": 45
+        "count": 46
       },
       {
         "type": "set_local",
