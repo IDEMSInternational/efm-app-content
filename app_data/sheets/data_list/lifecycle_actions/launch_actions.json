@@ -28,7 +28,7 @@
       "id": "app_start_language_select",
       "priority": 2,
       "condition_list": [
-        "!@fields.language_selected && @global.has_multiple_languages && @fields.user_mode"
+        "!@fields.language_selected"
       ],
       "action_list": [
         {
