@@ -124,6 +124,43 @@
           "parameter_list.answer_list"
         ]
       }
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "Restart",
+      "_translations": {
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
+      },
+      "action_list": [
+        {
+          "trigger": "click",
+          "action_id": "set_field",
+          "args": [
+            "language_selected",
+            true
+          ],
+          "_raw": "click | set_field: language_selected: TRUE",
+          "_cleaned": "click | set_field: language_selected: TRUE"
+        },
+        {
+          "trigger": "click",
+          "action_id": "emit",
+          "args": [
+            "force_restart"
+          ],
+          "_raw": "click | emit: force_restart",
+          "_cleaned": "click | emit: force_restart"
+        }
+      ],
+      "parameter_list": {
+        "style": "short",
+        "text_align": "center"
+      },
+      "_nested_name": "button_completed"
     }
   ],
   "_xlsxPath": "EFM_high_level_sheets.xlsx"
