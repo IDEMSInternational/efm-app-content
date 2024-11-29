@@ -810,6 +810,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "dg_intermediate_sb.activity_buttons.not_translated",
               "_dynamicFields": {
@@ -1237,6 +1238,7 @@
               "_translations": {
                 "value": {}
               },
+              "exclude_from_translation": true,
               "type": "set_variable",
               "_nested_name": "dg_advanced_sb.activity_buttons.not_translated",
               "_dynamicFields": {

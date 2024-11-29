@@ -16,7 +16,7 @@
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true
         }
       },
       "type": "set_variable",
@@ -30,7 +30,7 @@
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true
         }
       },
       "type": "set_variable",
@@ -44,7 +44,7 @@
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true
         }
       },
       "type": "set_variable",
@@ -58,7 +58,7 @@
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true
         }
       },
       "type": "set_variable",
@@ -72,7 +72,7 @@
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true
         }
       },
       "type": "set_variable",
@@ -86,7 +86,7 @@
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true
         }
       },
       "type": "set_variable",
@@ -100,7 +100,7 @@
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true
         }
       },
       "type": "set_variable",
@@ -114,7 +114,7 @@
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true
         }
       },
       "type": "set_variable",
@@ -128,7 +128,7 @@
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true
         }
       },
       "type": "set_variable",
@@ -148,7 +148,7 @@
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true
         }
       },
       "style_list": [

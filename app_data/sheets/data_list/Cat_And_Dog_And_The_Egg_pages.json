@@ -11,28 +11,36 @@
       "story_text": "This is Cat.\n\nThis is Dog.",
       "_translations": {
         "story_text": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_1": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_2": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_3": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         }
       },
       "_translatedFields": {
@@ -60,28 +68,36 @@
       "story_text": "Cat and Dog walk.\n\nThey walk in their village.",
       "_translations": {
         "story_text": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_1": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_2": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_3": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         }
       },
       "_translatedFields": {
@@ -109,28 +125,36 @@
       "story_text": "Then they see an egg.\n\nThe egg is in the grass.\n\nThe egg is alone in the grass.\n\nThe egg is all alone.",
       "_translations": {
         "story_text": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_1": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_2": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_3": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         }
       },
       "_translatedFields": {
@@ -158,28 +182,36 @@
       "story_text": "Cat and Dog walk to a bird.\n\nThey ask the bird, \"Is this your egg?\"",
       "_translations": {
         "story_text": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_1": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_2": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_3": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         }
       },
       "_translatedFields": {
@@ -207,28 +239,36 @@
       "story_text": "But the bird says, \"No, that is not my egg. Ask the owl. Maybe it is his egg.\"",
       "_translations": {
         "story_text": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_1": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_2": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_3": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         }
       },
       "_translatedFields": {
@@ -256,28 +296,36 @@
       "story_text": "Cat and Dog walk to the owl.\n\nThey ask the owl, \"Is this your egg?\"",
       "_translations": {
         "story_text": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_1": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_2": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_3": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         }
       },
       "_translatedFields": {
@@ -305,28 +353,36 @@
       "story_text": "But the owl says, \"No, that is not my egg. Ask the goose. Maybe it is her egg.\"",
       "_translations": {
         "story_text": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_1": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_2": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_3": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         }
       },
       "_translatedFields": {
@@ -354,28 +410,36 @@
       "story_text": "Cat and Dog walk to the goose.\n\nThey ask the goose, \"Is this your egg?\"",
       "_translations": {
         "story_text": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_1": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_2": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_3": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         }
       },
       "_translatedFields": {
@@ -403,28 +467,36 @@
       "story_text": "But the goose says, \"No, that is not my egg. Ask the two ducks. Maybe it is their egg.\"",
       "_translations": {
         "story_text": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_1": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_2": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_3": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         }
       },
       "_translatedFields": {
@@ -452,28 +524,36 @@
       "story_text": "Cat and Dog walk to the two ducks.\n\nThey ask the two ducks, \"Is this your egg?\"",
       "_translations": {
         "story_text": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_1": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_2": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_3": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         }
       },
       "_translatedFields": {
@@ -501,28 +581,36 @@
       "story_text": "But the two ducks say, \"No, that is not our egg.\"\n\nThen the egg breaks.",
       "_translations": {
         "story_text": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_1": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_2": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_3": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         }
       },
       "_translatedFields": {
@@ -550,28 +638,36 @@
       "story_text": "There is a lizard in the egg.\n\nA baby lizard.",
       "_translations": {
         "story_text": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_1": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_2": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_3": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         }
       },
       "_translatedFields": {
@@ -599,28 +695,36 @@
       "story_text": "The baby lizard says, \"Where is my mother? Where is my father? Where are my mother and father?\"\n\nCat and Dog bring the baby lizard to his mother and father.",
       "_translations": {
         "story_text": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_1": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_2": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_3": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         }
       },
       "_translatedFields": {
@@ -648,28 +752,36 @@
       "story_text": "Bye bye Cat.\n\nBye bye Dog.\n\nBye bye baby lizard.",
       "_translations": {
         "story_text": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_1": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_2": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         },
         "annotation_3": {
+          "br_pt": true,
           "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
-          "kw_ar": true
+          "sa_ar": true,
+          "tr_tr": true
         }
       },
       "_translatedFields": {
