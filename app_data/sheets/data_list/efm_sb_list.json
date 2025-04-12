@@ -6,6 +6,8 @@
   "rows": [
     {
       "id": "efm_sb_A_Very_Tall_Man",
+      "title_br_pt": "Um homem muito alto",
+      "title_tr_tr": "Çok Uzun Bir Adam",
       "title_es_es": "Un Hombre Muy Alto",
       "title_fr_fr": "Un homme très grand",
       "title_kw_ar": "رجل طويل جداً",
@@ -59,6 +61,8 @@
     },
     {
       "id": "efm_sb_Akadelis_Lucky_Day",
+      "title_br_pt": "Dia de sorte de Akadeli",
+      "title_tr_tr": "Akadeli'nin Şanslı Günü",
       "title_es_es": "El Día de Suerte de Akadeli",
       "title_fr_fr": "Le jour de chance d’Akadeli",
       "title_kw_ar": "يوم أكاديلي المحظوظ",
@@ -112,6 +116,8 @@
     },
     {
       "id": "efm_sb_Can_We_Count_Our_Cats",
+      "title_br_pt": "Vamos Contar Nossos Gatos?",
+      "title_tr_tr": "Kedilerimizi Sayabilir Miyiz?",
       "title_es_es": "¿Podemos contar nuestros gatos?",
       "title_fr_fr": "Pouvons-nous compter nos chats ?",
       "title_kw_ar": "هل يمكننا عدّ قططنا؟",
@@ -165,6 +171,8 @@
     },
     {
       "id": "efm_sb_Cat_And_Dog_And_The_Ball",
+      "title_br_pt": "O Gato, o Cão e a Bola",
+      "title_tr_tr": "Kedi ve Köpek ve Top",
       "title_es_es": "Gato y Perro y la Pelota",
       "title_fr_fr": "Chat et Chien et la balle",
       "title_kw_ar": "القط والكلب والكرة",
@@ -218,6 +226,8 @@
     },
     {
       "id": "efm_sb_Cat_And_Dog_And_The_But",
+      "title_br_pt": "O Gato, o Cão e a Borboleta",
+      "title_tr_tr": "Kedi ve Köpek ve Kelebek",
       "title_es_es": "Gato y Perro y la Mariposa",
       "title_fr_fr": "Chat et Chien et le papillon",
       "title_kw_ar": "القط والكلب والفراشة",
@@ -271,6 +281,8 @@
     },
     {
       "id": "efm_sb_Cat_And_Dog_And_The_Egg",
+      "title_br_pt": "O Gato, o Cão e o Ovo",
+      "title_tr_tr": "Kedi ve Köpek ve Yumurta",
       "title_es_es": "Gato y Perro y el Huevo",
       "title_fr_fr": "Chat et Chien et l’œuf",
       "title_kw_ar": "القط والكلب والبيضة",
@@ -324,6 +336,8 @@
     },
     {
       "id": "efm_sb_Cat_And_Dog_Dog_Is_Cold",
+      "title_br_pt": "Gato e Cão: O Cão está com frio",
+      "title_tr_tr": "Kedi ve Köpek: Köpek Üşüyor",
       "title_es_es": "Gato y Perro: Perro tiene Frío",
       "title_fr_fr": "Chat et Chien : Chien a froid",
       "title_kw_ar": "القط والكلب: الكلب يشعر بالبرد",
@@ -377,6 +391,8 @@
     },
     {
       "id": "efm_sb_Clever_Cat",
+      "title_br_pt": "Gata Esperta",
+      "title_tr_tr": "Akıllı Kedi",
       "title_es_es": "La Gata Astuta",
       "title_fr_fr": "Le chat malin",
       "title_kw_ar": "القطة الذكية",
@@ -430,6 +446,8 @@
     },
     {
       "id": "efm_sb_Colors_Of_A_Rainbow",
+      "title_br_pt": "Cores de um Arco-íris",
+      "title_tr_tr": "Bir Gökkuşağının Renkleri",
       "title_es_es": "Los Colores de un Arcoíris",
       "title_fr_fr": "Les couleurs de l’arc-en-ciel",
       "title_kw_ar": "ألوان قوس قزح",
@@ -483,6 +501,8 @@
     },
     {
       "id": "efm_sb_Counting_Animals",
+      "title_br_pt": "Contando Animais",
+      "title_tr_tr": "Hayvanları Sayalım",
       "title_es_es": "Contando Animales",
       "title_fr_fr": "Compter les animaux",
       "title_kw_ar": "عدّ الحيوانات",
@@ -536,6 +556,8 @@
     },
     {
       "id": "efm_sb_Creature_With_Two",
+      "title_br_pt": "Criatura com Dois",
+      "title_tr_tr": "İki’li Yaratık",
       "title_es_es": "La Criatura con Dos",
       "title_fr_fr": "La créature avec deux",
       "title_kw_ar": "مخلوق ذو اثنين",
@@ -589,6 +611,8 @@
     },
     {
       "id": "efm_sb_Drum",
+      "title_br_pt": "Tambor",
+      "title_tr_tr": "Davul",
       "title_es_es": "El Tambor",
       "title_fr_fr": "Le tambour",
       "title_kw_ar": "الطبل",
@@ -642,6 +666,8 @@
     },
     {
       "id": "efm_sb_Fana_Loves_Animals",
+      "title_br_pt": "Fana Ama Animais",
+      "title_tr_tr": "Fana Hayvanları Çok Seviyor",
       "title_es_es": "Fana Ama a Los Animales",
       "title_fr_fr": "Fana aime les animaux",
       "title_kw_ar": "فانا تحب الحيوانات",
@@ -695,6 +721,8 @@
     },
     {
       "id": "efm_sb_Feelings",
+      "title_br_pt": "Sentimentos",
+      "title_tr_tr": "Hisler",
       "title_es_es": "Los sentimientos",
       "title_fr_fr": "Les sentiments",
       "title_kw_ar": "المشاعر",
@@ -748,6 +776,8 @@
     },
     {
       "id": "efm_sb_Flower_Blind",
+      "title_br_pt": "A Cega das Flores",
+      "title_tr_tr": "Çiçek Körü",
       "title_es_es": "Sin Poder Ver Las Flores",
       "title_fr_fr": "La fleur des miracles",
       "title_kw_ar": "الزهرة العمياء",
@@ -801,6 +831,8 @@
     },
     {
       "id": "efm_sb_Friends",
+      "title_br_pt": "Amigos",
+      "title_tr_tr": "Arkadaşlar",
       "title_es_es": "Amigos",
       "title_fr_fr": "Les amis",
       "title_kw_ar": "أصدقاء",
@@ -854,6 +886,8 @@
     },
     {
       "id": "efm_sb_How_The_Toad_Got_Its_Skin",
+      "title_br_pt": "Como a Sapa Conseguiu sua pele",
+      "title_tr_tr": "Kara Kurbağası Derisini Nasıl Elde Etti?",
       "title_es_es": "Cómo Obtuvo la Sapa su Piel",
       "title_fr_fr": "Comment le crapaud a-t-il eu sa peau ?",
       "title_kw_ar": "كيف حصل الضفدع على جلده",
@@ -907,6 +941,8 @@
     },
     {
       "id": "efm_sb_Look_At_The_Animals",
+      "title_br_pt": "Olhe para os Animais",
+      "title_tr_tr": "Hayvanlara Bakın!",
       "title_es_es": "Mira los Animales",
       "title_fr_fr": "Regarde les animaux",
       "title_kw_ar": "انظر إلى الحيوانات",
@@ -960,6 +996,8 @@
     },
     {
       "id": "efm_sb_My_School_Clothes",
+      "title_br_pt": "Minhas roupas escolares",
+      "title_tr_tr": "Okul Kıyafetlerim",
       "title_es_es": "Mi Ropa Para la Escuela",
       "title_fr_fr": "Mes vêtements d’école",
       "title_kw_ar": "ملابسي المدرسية",
@@ -1013,6 +1051,8 @@
     },
     {
       "id": "efm_sb_Palm_Tree",
+      "title_br_pt": "Palmeira",
+      "title_tr_tr": "Palmiye Ağacı",
       "title_es_es": "La Palmera",
       "title_fr_fr": "Le palmier",
       "title_kw_ar": "شجرة النخيل",
@@ -1066,6 +1106,8 @@
     },
     {
       "id": "efm_sb_Pendo_Our_Cow",
+      "title_br_pt": "Pendo, Nossa Vaca",
+      "title_tr_tr": "Pendo, İneğimiz",
       "title_es_es": "Pendo, Nuestra Vaca",
       "title_fr_fr": "Notre vache Pendo",
       "title_kw_ar": "بيندو، بقرتنا",
@@ -1119,6 +1161,8 @@
     },
     {
       "id": "efm_sb_The_Day_The_Sun_Went_Away",
+      "title_br_pt": "O Dia Em Que O Sol Se Foi",
+      "title_tr_tr": "Güneşin Gittiği Gün",
       "title_es_es": "El Día que el Sol Se Fue",
       "title_fr_fr": "Le jour où le Soleil s’en est allé",
       "title_kw_ar": "يوم غابت الشمس",
@@ -1172,6 +1216,8 @@
     },
     {
       "id": "efm_sb_Visiting_Grandmother",
+      "title_br_pt": "Visitando A Vovó",
+      "title_tr_tr": "Büyükanneyi Ziyaret",
       "title_es_es": "Visitando a la Abuela",
       "title_fr_fr": "Rendre visite à Grand-mère",
       "title_kw_ar": "زيارة الجدة",
@@ -1225,6 +1271,8 @@
     },
     {
       "id": "efm_sb_Where_Is_Lulu",
+      "title_br_pt": "Onde está Lulu?",
+      "title_tr_tr": "Lulu Nerede?",
       "title_es_es": "¿Dónde está Lulú?",
       "title_fr_fr": "Où est Lulu ?",
       "title_kw_ar": "أين هي لولو؟",
@@ -1278,6 +1326,8 @@
     },
     {
       "id": "efm_sb_Where_Is_My_Bat",
+      "title_br_pt": "Onde está o meu taco?",
+      "title_tr_tr": "Raketim Nerede?",
       "title_es_es": "¿Dónde Está Mi Bate?",
       "title_fr_fr": "Où est ma chauve-souris ?",
       "title_kw_ar": "أين هو مضربي؟",
@@ -1331,6 +1381,8 @@
     },
     {
       "id": "efm_sb_Where_Is_My_Cat",
+      "title_br_pt": "Cadê o meu gatinho?",
+      "title_tr_tr": "Benim Kedim Nerede?",
       "title_es_es": "¿Dónde Está Mi Gato?",
       "title_fr_fr": "Où est mon chat ?",
       "title_kw_ar": "أين هي قطتي؟",
@@ -1384,6 +1436,7 @@
     },
     {
       "id": "efm_sb_A_Dancers_Tale",
+      "title_tr_tr": "Bir Dansçının Hikâyesi: Phyllis Spira",
       "title_es_es": "La Historia de una Bailarina",
       "title_fr_fr": "Le conte d'un danseur",
       "title_kw_ar": "قصة الراقصة: فيليس سبيرا",
@@ -1434,6 +1487,7 @@
     },
     {
       "id": "efm_sb_A_Fish_And_A_Gift",
+      "title_tr_tr": "Bir Balık ve Bir Hediye",
       "title_es_es": "Un Pez y un Regalo",
       "title_fr_fr": "Un poisson et un cadeau",
       "title_kw_ar": "سمكة وهدية",
@@ -1484,6 +1538,7 @@
     },
     {
       "id": "efm_sb_Aku_The_Sun_Maker",
+      "title_tr_tr": "Aku – Güneş Toplayıcı",
       "title_es_es": "Aku La Creadora del Sol",
       "title_fr_fr": "Aku fabricant du soleil",
       "title_kw_ar": "آكو صانعة الشمس",
@@ -1534,6 +1589,7 @@
     },
     {
       "id": "efm_sb_Amazing_Daisy",
+      "title_tr_tr": "Muhteşem Daisy",
       "title_es_es": "La Increíble Daisy",
       "title_fr_fr": "Incroyable Daisy",
       "title_kw_ar": "ديزي الرائعة",
@@ -1584,6 +1640,7 @@
     },
     {
       "id": "efm_sb_Cassava_And_Palm",
+      "title_tr_tr": "Manyok ve Palmiye",
       "title_es_es": "Yuca y Palmera",
       "title_fr_fr": "Manioc et Palme",
       "title_kw_ar": "الكاسافا و النخلة",
@@ -1634,6 +1691,7 @@
     },
     {
       "id": "efm_sb_Cat_And_Dog_Draw_And_Color",
+      "title_tr_tr": "Kedi ve Köpek Çiziyor ve Boyuyor",
       "title_es_es": "Gato y Perro Dibuja y Colorea",
       "title_fr_fr": "Chat et Chien : dessin et couleur",
       "title_kw_ar": "القط والكلب يرسمان ويلونان",
@@ -1684,6 +1742,7 @@
     },
     {
       "id": "efm_sb_Curious_Baby_Elephant",
+      "title_tr_tr": "Meraklı Yavru Fil",
       "title_es_es": "La Elefantita Curiosa",
       "title_fr_fr": "Curieux bébé éléphant",
       "title_kw_ar": "الفيلة الصغيرة الفضولية",
@@ -1734,6 +1793,7 @@
     },
     {
       "id": "efm_sb_Fathers_Advice",
+      "title_tr_tr": "Babanın Tavsiyesi",
       "title_es_es": "El Consejo del Padre",
       "title_fr_fr": "Conseil du père",
       "title_kw_ar": "نصيحة أب",
@@ -1784,6 +1844,7 @@
     },
     {
       "id": "efm_sb_Fati_And_The_Green_Snake",
+      "title_tr_tr": "Fati ve Yeşil Yılan",
       "title_es_es": "Fati y la Serpiente Verde",
       "title_fr_fr": "Fati et le serpent vert",
       "title_kw_ar": "فاتي والأفعى الخضراء",
@@ -1834,6 +1895,7 @@
     },
     {
       "id": "efm_sb_How_Many",
+      "title_tr_tr": "Kaç Tane?",
       "title_es_es": "¿Cuántos?",
       "title_fr_fr": "Combien ?",
       "title_kw_ar": "كم العدد؟",
@@ -1884,6 +1946,7 @@
     },
     {
       "id": "efm_sb_I_Love_Forests",
+      "title_tr_tr": "Ormanları Seviyorum",
       "title_es_es": "Amo los Bosques",
       "title_fr_fr": "J'adore les forêts !",
       "title_kw_ar": "أحب الغابات",
@@ -1934,6 +1997,7 @@
     },
     {
       "id": "efm_sb_Is_There_Anyone_Like_Me",
+      "title_tr_tr": "Benim Gibi Başka Biri Var mı?",
       "title_es_es": "¿Hay Alguien Como Yo?",
       "title_fr_fr": "Y-a-t-il quelqu’un comme moi ?",
       "title_kw_ar": "هل يوجد شخص مثلي؟",
@@ -1984,6 +2048,7 @@
     },
     {
       "id": "efm_sb_Listen_To_My_Body",
+      "title_tr_tr": "Vücudumu Dinleyin",
       "title_es_es": "Escuchando a Mi Cuerpo",
       "title_fr_fr": "Ecouter mon corps",
       "title_kw_ar": "استمع إلى جسدي",
@@ -2034,6 +2099,7 @@
     },
     {
       "id": "efm_sb_Little_Jojos_Long_Tall_Tale",
+      "title_tr_tr": "Küçük Jojo’nun Uzun Hikâyesi",
       "title_es_es": "El Cuento Largo y Fantástico del Pequeño Jojo",
       "title_fr_fr": "Le grand récit du Petit Jojo",
       "title_kw_ar": "قصة جوجو الصغيرة الطويلة",
@@ -2084,6 +2150,7 @@
     },
     {
       "id": "efm_sb_Lory_Dory",
+      "title_tr_tr": "Lory Dory",
       "title_es_es": "Lory Dory",
       "title_fr_fr": "Lory Dory",
       "title_kw_ar": "لوري دوري",
@@ -2134,6 +2201,7 @@
     },
     {
       "id": "efm_sb_Maguru_Gives_Legs",
+      "title_tr_tr": "Maguru Bacak Dağıtıyor!",
       "title_es_es": "Maguru Regala Patas",
       "title_fr_fr": "Maguru donne des pattes",
       "title_kw_ar": "ماجورو يعطي أرجلاً",
@@ -2184,6 +2252,7 @@
     },
     {
       "id": "efm_sb_Sun_Moon_And_Water",
+      "title_tr_tr": "Güneş, Ay ve Su",
       "title_es_es": "Sol, Luna y Agua",
       "title_fr_fr": "Soleil, Lune, et Eau",
       "title_kw_ar": "NoTranslation",
@@ -2231,6 +2300,7 @@
     },
     {
       "id": "efm_sb_Tortoise_Finds_His_House",
+      "title_tr_tr": "Kaplumbağa Evini Buluyor",
       "title_es_es": "Tortuga Encuentra su Casa",
       "title_fr_fr": "Tortue trouve sa maison",
       "title_kw_ar": "السلحفاة تجد منزلها",
@@ -2281,6 +2351,7 @@
     },
     {
       "id": "efm_sb_Akais_Special_Mat",
+      "title_tr_tr": "Akai’nin Özel Kilimi",
       "title_es_es": "La estera especial de Akai",
       "title_fr_fr": "Le petit tapis d’Akai",
       "title_kw_ar": "سجادة اكايا المميزة",
@@ -2328,6 +2399,7 @@
     },
     {
       "id": "efm_sb_Emeka_Old_Man",
+      "title_tr_tr": "Emeka ve Yaşlı Adam",
       "title_es_es": "Emeka y el anciano",
       "title_fr_fr": "Emeka et le vieil homme",
       "title_kw_ar": "ايمك و الرجل المسن",
@@ -2375,6 +2447,7 @@
     },
     {
       "id": "efm_sb_Father_Son_Donkey",
+      "title_tr_tr": "Baba, Oğlu ve Eşek",
       "title_es_es": "El padre, el hijo y el burro",
       "title_fr_fr": "Le Père, le Fils et l’Âne",
       "title_kw_ar": "الأب و الأبن و الحمار",
@@ -2422,6 +2495,7 @@
     },
     {
       "id": "efm_sb_Horses_Of_Debre_Birhan",
+      "title_tr_tr": "Debre Birhan’ın Atları",
       "title_es_es": "Los Caballos de Debre Birhan",
       "title_fr_fr": "Les chevaux de Debre Birhan",
       "title_kw_ar": "حصان مدينه ديبري برهن",
@@ -2472,6 +2546,7 @@
     },
     {
       "id": "efm_sb_Hyena_And_Tortoise",
+      "title_tr_tr": "Sırtlan ve Kaplumbağa",
       "title_es_es": "La Hiena y la Tortuga",
       "title_fr_fr": "La Hyène et la Tortue",
       "title_kw_ar": "الضبع والسلحفاة",
@@ -2522,6 +2597,7 @@
     },
     {
       "id": "efm_sb_Keepers_Nursery",
+      "title_tr_tr": "Hayvan Bakımevi ve Sahibi",
       "title_es_es": "Keeper y su refugio de animales",
       "title_fr_fr": "Le gardien et sa pouponnière",
       "title_kw_ar": "القائم على الرعاية و حضانته",
@@ -2569,6 +2645,7 @@
     },
     {
       "id": "efm_sb_Magical_Rainbow",
+      "title_tr_tr": "Sihirli Gökkuşağı Nehri",
       "title_es_es": "El río de arcoíris mágico",
       "title_fr_fr": "La rivière arc-en-ciel",
       "title_kw_ar": "نهر قوس القزح السحري",
@@ -2616,6 +2693,7 @@
     },
     {
       "id": "efm_sb_Sakimas_Song",
+      "title_tr_tr": "Sakima’nın Şarkısı",
       "title_es_es": "La canción de Sakima",
       "title_fr_fr": "La chanson de Sakima",
       "title_kw_ar": "أغنية ساكيما",
@@ -2663,6 +2741,7 @@
     },
     {
       "id": "efm_sb_Searching_for_Spring",
+      "title_tr_tr": "Bahar Ruhunu Aramak",
       "title_es_es": "En busca del espíritu de la primavera",
       "title_fr_fr": "À la recherche de l’esprit du printemps",
       "title_kw_ar": "البحث عن روح الربيع",
@@ -2710,6 +2789,7 @@
     },
     {
       "id": "efm_sb_Share_It_Fair",
+      "title_tr_tr": "Adil Paylaş!",
       "title_es_es": "Compartir de manera justa",
       "title_fr_fr": "À parts égales !",
       "title_kw_ar": "القسمة العادلة!",
@@ -2757,6 +2837,7 @@
     },
     {
       "id": "efm_sb_Singing_The_Truth",
+      "title_tr_tr": "Gerçeği Şarkıyla Söylemek: Miriam Makeba'nın Hikâyesi",
       "title_es_es": "Cantando la Verdad: La Historia de Miriam Makeba",
       "title_fr_fr": "Chanter la vérité : l’histoire de Miriam Makeba",
       "title_kw_ar": "غناء الحقيقة: قصة مريم مكبا",
@@ -2807,6 +2888,7 @@
     },
     {
       "id": "efm_sb_Sizwes_Smile",
+      "title_tr_tr": "Sizwe’nin Gülümsemesi",
       "title_es_es": "La sonrisa de Sizwe",
       "title_fr_fr": "Le sourire de Sizwe",
       "title_kw_ar": "ابتسامة سيويز",
@@ -2854,6 +2936,7 @@
     },
     {
       "id": "efm_sb_The_Smell_Thief",
+      "title_tr_tr": "Koku Hırsızı",
       "title_es_es": "El panadero avaro",
       "title_fr_fr": "La voleuse d’odeurs",
       "title_kw_ar": "لص الروائح",
@@ -2901,6 +2984,7 @@
     },
     {
       "id": "efm_sb_Who_Can_Count_To_Ten",
+      "title_tr_tr": "Kim 10’a Kadar Sayabilir?",
       "title_es_es": "¿Quién puede contar hasta diez?",
       "title_fr_fr": "Qui sait compter jusqu’à dix ?",
       "title_kw_ar": "من يستطيع العد إلى عشرة؟",

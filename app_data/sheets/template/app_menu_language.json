@@ -128,12 +128,9 @@
     {
       "type": "button",
       "name": "button_completed",
-      "value": "Restart",
+      "value": "Continue",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "action_list": [
         {
