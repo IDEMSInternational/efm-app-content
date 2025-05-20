@@ -95,14 +95,53 @@
       "_nested_name": "dg_image"
     },
     {
-      "name": "okay_language",
+      "name": "okay_learning_steps_language",
       "value": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
       "_translations": {
         "value": {}
       },
       "exclude_from_translation": true,
       "type": "set_variable",
-      "_nested_name": "okay_language",
+      "_nested_name": "okay_learning_steps_language",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields._app_language": [
+          "value",
+          "value",
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "okay_playdates_language",
+      "value": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "okay_playdates_language",
       "_dynamicFields": {
         "value": [
           {
@@ -920,7 +959,7 @@
     {
       "type": "display_group",
       "name": "dg_math_learning_steps",
-      "condition": "@local.okay_language",
+      "condition": "@local.okay_learning_steps_language",
       "rows": [
         {
           "type": "button",
@@ -1163,15 +1202,15 @@
       "_dynamicFields": {
         "condition": [
           {
-            "fullExpression": "@local.okay_language",
-            "matchedExpression": "@local.okay_language",
+            "fullExpression": "@local.okay_learning_steps_language",
+            "matchedExpression": "@local.okay_learning_steps_language",
             "type": "local",
-            "fieldName": "okay_language"
+            "fieldName": "okay_learning_steps_language"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.okay_language": [
+        "@local.okay_learning_steps_language": [
           "condition"
         ]
       }
@@ -1270,7 +1309,7 @@
     {
       "type": "display_group",
       "name": "dg_playdates",
-      "condition": "@local.okay_language",
+      "condition": "@local.okay_playdates_language",
       "rows": [
         {
           "type": "button",
@@ -1513,19 +1552,20 @@
       "_dynamicFields": {
         "condition": [
           {
-            "fullExpression": "@local.okay_language",
-            "matchedExpression": "@local.okay_language",
+            "fullExpression": "@local.okay_playdates_language",
+            "matchedExpression": "@local.okay_playdates_language",
             "type": "local",
-            "fieldName": "okay_language"
+            "fieldName": "okay_playdates_language"
           }
         ]
       },
       "_dynamicDependencies": {
-        "@local.okay_language": [
+        "@local.okay_playdates_language": [
           "condition"
         ]
       }
     }
   ],
-  "_xlsxPath": "EFM_high_level_sheets.xlsx"
+  "_xlsxPath": "EFM_high_level_sheets.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
 }

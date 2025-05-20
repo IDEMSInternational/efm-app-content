@@ -37,19 +37,74 @@
       "country_code": "sa",
       "country_label": "Saudi Arabia",
       "language_code": "ar",
-      "language_label": "العربية",
+      "language_label": "اللغة العربية",
       "name": "sa_ar",
-      "text": "العربية"
+      "text": "اللغة العربية"
     },
     {
       "id": "cn_zh",
       "country_code": "cn",
       "country_label": "China",
       "language_code": "zh",
-      "language_label": "中文",
+      "language_label": "简体中文",
       "name": "cn_zh",
-      "text": "中文"
+      "text": "简体中文"
+    },
+    {
+      "id": "tw_zh",
+      "country_code": "tw",
+      "country_label": "Taiwan",
+      "language_code": "zh",
+      "language_label": "繁體中文",
+      "name": "tw_zh",
+      "text": "繁體中文"
+    },
+    {
+      "id": "jp_ja",
+      "country_code": "jp",
+      "country_label": "Japan",
+      "language_code": "ja",
+      "language_label": "日本語",
+      "name": "jp_ja",
+      "text": "日本語"
+    },
+    {
+      "id": "kr_ko",
+      "country_code": "kr",
+      "country_label": "Korea",
+      "language_code": "ko",
+      "language_label": "한국어",
+      "name": "kr_ko",
+      "text": "한국어"
+    },
+    {
+      "id": "br_pt",
+      "country_code": "br",
+      "country_label": "Brazil",
+      "language_code": "pt",
+      "language_label": "Português",
+      "name": "br_pt",
+      "text": "Português"
+    },
+    {
+      "id": "ru_ru",
+      "country_code": "ru",
+      "country_label": "Russia",
+      "language_code": "ru",
+      "language_label": "Русский",
+      "name": "ru_ru",
+      "text": "Русский"
+    },
+    {
+      "id": "tr_tr",
+      "country_code": "tr",
+      "country_label": "Turkey",
+      "language_code": "tr",
+      "language_label": "Türkçe",
+      "name": "tr_tr",
+      "text": "Türkçe"
     }
   ],
-  "_xlsxPath": "EFM_high_level_sheets.xlsx"
+  "_xlsxPath": "EFM_high_level_sheets.xlsx",
+  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
 }
