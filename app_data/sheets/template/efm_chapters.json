@@ -661,67 +661,18 @@
           }
         },
         {
+          "type": "radio_group",
           "name": "listing_style",
           "value": "by_topic",
           "_translations": {
             "value": {}
           },
-          "type": "set_variable",
-          "_nested_name": "dg_view.listing_style"
-        },
-        {
-          "type": "radio_group",
-          "name": "radio_group",
-          "value": "@local.listing_style",
-          "_translations": {
-            "value": {}
-          },
-          "action_list": [
-            {
-              "trigger": "changed",
-              "action_id": "set_local",
-              "args": [
-                "listing_style",
-                "this.value"
-              ],
-              "_raw": "changed | set_local: listing_style: @local.radio_group",
-              "_cleaned": "changed | set_local: listing_style: @local.radio_group"
-            }
-          ],
           "parameter_list": {
             "answer_list": "@local.answer_list",
             "options_per_row": "2"
           },
-          "_nested_name": "dg_view.radio_group",
+          "_nested_name": "dg_view.listing_style",
           "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.listing_style",
-                "matchedExpression": "@local.listing_style",
-                "type": "local",
-                "fieldName": "listing_style"
-              }
-            ],
-            "action_list": {
-              "0": {
-                "_raw": [
-                  {
-                    "fullExpression": "changed | set_local: listing_style: @local.radio_group",
-                    "matchedExpression": "@local.radio_group",
-                    "type": "local",
-                    "fieldName": "radio_group"
-                  }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "changed | set_local: listing_style: @local.radio_group",
-                    "matchedExpression": "@local.radio_group",
-                    "type": "local",
-                    "fieldName": "radio_group"
-                  }
-                ]
-              }
-            },
             "parameter_list": {
               "answer_list": [
                 {
@@ -734,13 +685,6 @@
             }
           },
           "_dynamicDependencies": {
-            "@local.listing_style": [
-              "value"
-            ],
-            "@local.radio_group": [
-              "action_list.0._raw",
-              "action_list.0._cleaned"
-            ],
             "@local.answer_list": [
               "parameter_list.answer_list"
             ]
