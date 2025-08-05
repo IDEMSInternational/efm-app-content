@@ -33,13 +33,49 @@
       "text": "Français"
     },
     {
-      "id": "sa_ar",
-      "country_code": "sa",
-      "country_label": "Saudi Arabia",
-      "language_code": "ar",
-      "language_label": "اللغة العربية",
-      "name": "sa_ar",
-      "text": "اللغة العربية"
+      "id": "de_de",
+      "country_code": "de",
+      "country_label": "Germany",
+      "language_code": "de",
+      "language_label": "Deutsch",
+      "name": "de_de",
+      "text": "Deutsch"
+    },
+    {
+      "id": "br_pt",
+      "country_code": "br",
+      "country_label": "Brazil",
+      "language_code": "pt",
+      "language_label": "Português",
+      "name": "br_pt",
+      "text": "Português"
+    },
+    {
+      "id": "ru_ru",
+      "country_code": "ru",
+      "country_label": "Russia",
+      "language_code": "ru",
+      "language_label": "Русский",
+      "name": "ru_ru",
+      "text": "Русский"
+    },
+    {
+      "id": "tr_tr",
+      "country_code": "tr",
+      "country_label": "Turkey",
+      "language_code": "tr",
+      "language_label": "Türkçe",
+      "name": "tr_tr",
+      "text": "Türkçe"
+    },
+    {
+      "id": "gr_el",
+      "country_code": "gr",
+      "country_label": "Greece",
+      "language_code": "gr",
+      "language_label": "Ελληνικά",
+      "name": "gr_el",
+      "text": "Ελληνικά"
     },
     {
       "id": "cn_zh",
@@ -78,31 +114,13 @@
       "text": "한국어"
     },
     {
-      "id": "br_pt",
-      "country_code": "br",
-      "country_label": "Brazil",
-      "language_code": "pt",
-      "language_label": "Português",
-      "name": "br_pt",
-      "text": "Português"
-    },
-    {
-      "id": "ru_ru",
-      "country_code": "ru",
-      "country_label": "Russia",
-      "language_code": "ru",
-      "language_label": "Русский",
-      "name": "ru_ru",
-      "text": "Русский"
-    },
-    {
-      "id": "tr_tr",
-      "country_code": "tr",
-      "country_label": "Turkey",
-      "language_code": "tr",
-      "language_label": "Türkçe",
-      "name": "tr_tr",
-      "text": "Türkçe"
+      "id": "sa_ar",
+      "country_code": "sa",
+      "country_label": "Saudi Arabia",
+      "language_code": "ar",
+      "language_label": "اللغة العربية",
+      "name": "sa_ar",
+      "text": "اللغة العربية"
     }
   ],
   "_xlsxPath": "EFM_high_level_sheets.xlsx",

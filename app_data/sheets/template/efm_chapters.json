@@ -53,73 +53,73 @@
       "_nested_name": "dg_top_of_page"
     },
     {
+      "name": "description_1",
+      "value": "Introductions",
+      "_translations": {
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "description_1"
+    },
+    {
+      "name": "description_2",
+      "value": "Games",
+      "_translations": {
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "description_2"
+    },
+    {
+      "name": "description_3",
+      "value": "Puzzles",
+      "_translations": {
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "description_3"
+    },
+    {
+      "name": "description_4",
+      "value": "Activities",
+      "_translations": {
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "description_4"
+    },
+    {
+      "name": "description_5",
+      "value": "Investigations",
+      "_translations": {
+        "value": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "description_5"
+    },
+    {
       "type": "display_group",
       "name": "dg_types",
       "parameter_list": {
         "style": "column"
       },
       "rows": [
-        {
-          "name": "description_1",
-          "value": "Introductions",
-          "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
-          },
-          "type": "set_variable",
-          "_nested_name": "dg_types.description_1"
-        },
-        {
-          "name": "description_2",
-          "value": "Games",
-          "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
-          },
-          "type": "set_variable",
-          "_nested_name": "dg_types.description_2"
-        },
-        {
-          "name": "description_3",
-          "value": "Puzzles",
-          "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
-          },
-          "type": "set_variable",
-          "_nested_name": "dg_types.description_3"
-        },
-        {
-          "name": "description_4",
-          "value": "Activities",
-          "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
-          },
-          "type": "set_variable",
-          "_nested_name": "dg_types.description_4"
-        },
-        {
-          "name": "description_5",
-          "value": "Investigations",
-          "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true,
-              "fr_fr": true
-            }
-          },
-          "type": "set_variable",
-          "_nested_name": "dg_types.description_5"
-        },
         {
           "type": "display_group",
           "rows": [
@@ -583,83 +583,107 @@
       "_nested_name": "dg_types"
     },
     {
+      "name": "radio_description_1",
+      "value": "Individually",
+      "_translations": {
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "radio_description_1"
+    },
+    {
+      "name": "radio_description_2",
+      "value": "By topic",
+      "_translations": {
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "radio_description_2"
+    },
+    {
+      "name": "answer_list",
+      "value": [
+        {
+          "name": "individually",
+          "text": "@local.radio_description_1"
+        },
+        {
+          "name": "by_topic",
+          "text": "@local.radio_description_2"
+        }
+      ],
+      "type": "set_variable",
+      "_nested_name": "answer_list",
+      "_dynamicFields": {
+        "value": {
+          "0": {
+            "text": [
+              {
+                "fullExpression": "@local.radio_description_1",
+                "matchedExpression": "@local.radio_description_1",
+                "type": "local",
+                "fieldName": "radio_description_1"
+              }
+            ]
+          },
+          "1": {
+            "text": [
+              {
+                "fullExpression": "@local.radio_description_2",
+                "matchedExpression": "@local.radio_description_2",
+                "type": "local",
+                "fieldName": "radio_description_2"
+              }
+            ]
+          }
+        }
+      },
+      "_dynamicDependencies": {
+        "@local.radio_description_1": [
+          "value.0.text"
+        ],
+        "@local.radio_description_2": [
+          "value.1.text"
+        ]
+      }
+    },
+    {
+      "name": "template_name",
+      "value": "efm_chapter_acts_@local.listing_style",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "template_name",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "efm_chapter_acts_@local.listing_style",
+            "matchedExpression": "@local.listing_style",
+            "type": "local",
+            "fieldName": "listing_style"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.listing_style": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "display_group",
       "name": "dg_view",
       "parameter_list": {
         "style": "column"
       },
       "rows": [
-        {
-          "name": "radio_description_1",
-          "value": "Individually",
-          "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
-          },
-          "type": "set_variable",
-          "_nested_name": "dg_view.radio_description_1"
-        },
-        {
-          "name": "radio_description_2",
-          "value": "By topic",
-          "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
-          },
-          "type": "set_variable",
-          "_nested_name": "dg_view.radio_description_2"
-        },
-        {
-          "name": "answer_list",
-          "value": [
-            {
-              "name": "individually",
-              "text": "@local.radio_description_1"
-            },
-            {
-              "name": "by_topic",
-              "text": "@local.radio_description_2"
-            }
-          ],
-          "type": "set_variable",
-          "_nested_name": "dg_view.answer_list",
-          "_dynamicFields": {
-            "value": {
-              "0": {
-                "text": [
-                  {
-                    "fullExpression": "@local.radio_description_1",
-                    "matchedExpression": "@local.radio_description_1",
-                    "type": "local",
-                    "fieldName": "radio_description_1"
-                  }
-                ]
-              },
-              "1": {
-                "text": [
-                  {
-                    "fullExpression": "@local.radio_description_2",
-                    "matchedExpression": "@local.radio_description_2",
-                    "type": "local",
-                    "fieldName": "radio_description_2"
-                  }
-                ]
-              }
-            }
-          },
-          "_dynamicDependencies": {
-            "@local.radio_description_1": [
-              "value.0.text"
-            ],
-            "@local.radio_description_2": [
-              "value.1.text"
-            ]
-          }
-        },
         {
           "type": "radio_group",
           "name": "listing_style",
@@ -687,30 +711,6 @@
           "_dynamicDependencies": {
             "@local.answer_list": [
               "parameter_list.answer_list"
-            ]
-          }
-        },
-        {
-          "name": "template_name",
-          "value": "efm_chapter_acts_@local.listing_style",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "dg_view.template_name",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "efm_chapter_acts_@local.listing_style",
-                "matchedExpression": "@local.listing_style",
-                "type": "local",
-                "fieldName": "listing_style"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.listing_style": [
-              "value"
             ]
           }
         }
@@ -1005,6 +1005,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": "!!(@fields.@local.click_history_field_name)",
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "bonusbutton_click_history",
@@ -1022,11 +1023,20 @@
             "type": "local",
             "fieldName": "now"
           }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!!(@fields.@local.click_history_field_name)",
+            "matchedExpression": "@local.click_history_field_name",
+            "type": "local",
+            "fieldName": "click_history_field_name"
+          }
         ]
       },
       "_dynamicDependencies": {
         "@local.click_history_field_name": [
-          "value"
+          "value",
+          "condition"
         ],
         "@local.now": [
           "value"
@@ -1039,6 +1049,7 @@
       "_translations": {
         "value": {}
       },
+      "condition": "!(@fields.@local.click_history_field_name)",
       "exclude_from_translation": true,
       "type": "set_variable",
       "_nested_name": "bonusbutton_click_history",
@@ -1050,11 +1061,22 @@
             "type": "local",
             "fieldName": "now"
           }
+        ],
+        "condition": [
+          {
+            "fullExpression": "!(@fields.@local.click_history_field_name)",
+            "matchedExpression": "@local.click_history_field_name",
+            "type": "local",
+            "fieldName": "click_history_field_name"
+          }
         ]
       },
       "_dynamicDependencies": {
         "@local.now": [
           "value"
+        ],
+        "@local.click_history_field_name": [
+          "condition"
         ]
       }
     },
