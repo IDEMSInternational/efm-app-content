@@ -16,7 +16,7 @@
 | round_button | 6 |
 | select_text | 1 |
 | set_field | 11 |
-| set_variable | 423 |
+| set_variable | 422 |
 | simple_checkbox | 4 |
 | template | 64 |
 | text | 83 |
@@ -44,7 +44,7 @@
 | go_to_url | 3 |
 | reset_app | 1 |
 | set_field | 46 |
-| set_local | 5 |
+| set_local | 4 |
 | start_tour | 10 |
 </details>
 

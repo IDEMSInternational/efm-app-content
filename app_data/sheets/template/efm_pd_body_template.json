@@ -292,6 +292,31 @@
       "_nested_name": "book_click_history"
     },
     {
+      "name": "paragraph_space",
+      "value": "@local.remove_paragraph_space",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "paragraph_space",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@local.remove_paragraph_space",
+            "matchedExpression": "@local.remove_paragraph_space",
+            "type": "local",
+            "fieldName": "remove_paragraph_space"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.remove_paragraph_space": [
+          "value"
+        ]
+      }
+    },
+    {
       "type": "display_group",
       "name": "intro_text",
       "condition": "@@local.block_type == \"all_text\"",
@@ -300,31 +325,6 @@
       ],
       "exclude_from_translation": true,
       "rows": [
-        {
-          "name": "paragraph_space",
-          "value": "@local.remove_paragraph_space",
-          "_translations": {
-            "value": {}
-          },
-          "exclude_from_translation": true,
-          "type": "set_variable",
-          "_nested_name": "intro_text.paragraph_space",
-          "_dynamicFields": {
-            "value": [
-              {
-                "fullExpression": "@local.remove_paragraph_space",
-                "matchedExpression": "@local.remove_paragraph_space",
-                "type": "local",
-                "fieldName": "remove_paragraph_space"
-              }
-            ]
-          },
-          "_dynamicDependencies": {
-            "@local.remove_paragraph_space": [
-              "value"
-            ]
-          }
-        },
         {
           "type": "text",
           "name": "display_text",
@@ -482,6 +482,30 @@
       }
     },
     {
+      "name": "accordion_label_1",
+      "value": "Activity list",
+      "_translations": {
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "accordion_label_1"
+    },
+    {
+      "name": "accordion_label_2",
+      "value": "Storybook list",
+      "_translations": {
+        "value": {
+          "cn_zh": true,
+          "es_es": true
+        }
+      },
+      "type": "set_variable",
+      "_nested_name": "accordion_label_2"
+    },
+    {
       "type": "display_group",
       "name": "sb_and_act_accordions",
       "condition": "@local.dont_do_sbs_and_acts_lists == \"false\"",
@@ -489,30 +513,6 @@
         "style": "column"
       },
       "rows": [
-        {
-          "name": "accordion_label_1",
-          "value": "Activity list",
-          "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
-          },
-          "type": "set_variable",
-          "_nested_name": "sb_and_act_accordions.accordion_label_1"
-        },
-        {
-          "name": "accordion_label_2",
-          "value": "Storybook list",
-          "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
-          },
-          "type": "set_variable",
-          "_nested_name": "sb_and_act_accordions.accordion_label_2"
-        },
         {
           "type": "accordion",
           "name": "acoordion",

@@ -53,21 +53,21 @@
       "_nested_name": "dg_top_of_page"
     },
     {
+      "name": "template_name",
+      "value": "efm_chapter_mls_individually",
+      "_translations": {
+        "value": {}
+      },
+      "type": "set_variable",
+      "_nested_name": "template_name"
+    },
+    {
       "type": "display_group",
       "name": "dg_mls_stages",
       "parameter_list": {
         "style": "column"
       },
       "rows": [
-        {
-          "name": "template_name",
-          "value": "efm_chapter_mls_individually",
-          "_translations": {
-            "value": {}
-          },
-          "type": "set_variable",
-          "_nested_name": "dg_mls_stages.template_name"
-        },
         {
           "type": "items",
           "name": "chapter_buttons",
