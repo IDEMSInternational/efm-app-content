@@ -1,0 +1,34 @@
+##################################################################################
+#         Calls workflow from code repo
+##################################################################################
+name: Upload source strings
+
+on:
+  workflow_dispatch:
+    inputs:
+      pr-title:
+        description: Title for PR
+        type: string
+        default: Translation sync from actions
+      pr-body:
+        description: Description for PR
+        type: string
+        default: Automated Translation PR creation from actions
+
+jobs:
+  call_get_vars:
+    uses: ./.github/workflows/get-vars.yml  
+
+  call_reusable_workflow:
+    needs: call_get_vars
+    uses: IDEMSInternational/open-app-builder-actions/.github/workflows/translations_up_efm.yml@efm_translations
+    with:
+      pr-title: ${{ inputs.pr-title }}
+      pr-body: ${{ inputs.pr-body }}
+      APP_CODE_BRANCH: ${{ vars.APP_CODE_BRANCH }}
+      DEPLOYMENT_NAME: ${{ needs.call_get_vars.outputs.DEPLOYMENT_NAME }}
+      PARENT_DEPLOYMENT_NAME: ${{ needs.call_get_vars.outputs.PARENT_DEPLOYMENT_NAME }}
+      PARENT_DEPLOYMENT_REPO: ${{ needs.call_get_vars.outputs.PARENT_DEPLOYMENT_REPO }}
+      PARENT_DEPLOYMENT_BRANCH: ${{ needs.call_get_vars.outputs.PARENT_DEPLOYMENT_BRANCH }}
+    secrets:
+      PAT: ${{ secrets.PAT }}  

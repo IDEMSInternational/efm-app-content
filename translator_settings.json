@@ -1,0 +1,11 @@
+{
+    "CoreFiles": "../open-app-builder/.idems_app/deployments/early_family_math/app_data/sheets",
+    "ComposeResult": "app/1_compose_result",
+    "CoreGroups": [["data_list", ["campaign_rows", "campaign_schedule", "legal_terms","generated"]],["global", ["legal_terms"]],["template", ["legal_terms"]],["tour", [""]]],
+    "SplitGroups": [["main","early_family_math"], ["legal_terms","early_family_math"]],
+    "ExtractResult": "app/2_extract_result",
+    "ReadyForTranslation": "app/3_ready_for_translators",
+    "PostTranslation": ["../efm-content/translations"],
+    "PostTranslationJSONs": "app/4_result_from_translators",
+    "FinalDictionaries": "app/5_completed_dictionaries"
+}
