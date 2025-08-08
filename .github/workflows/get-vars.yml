@@ -1,0 +1,79 @@
+name: Get Variables
+
+on:
+  workflow_call:
+    outputs:
+      APP_ID:
+        description: "Application ID"
+        value: ${{ jobs.get_vars.outputs.APP_ID }}
+      LFS_USED:
+        description: "LFS usage flag"
+        value: ${{ jobs.get_vars.outputs.LFS_USED }}
+      DEPLOYMENT_NAME:
+        description: "Deployment Name"
+        value: ${{ jobs.get_vars.outputs.DEPLOYMENT_NAME }}
+      PARENT_DEPLOYMENT_NAME:
+        description: "Parent Deployment Name"
+        value: ${{ jobs.get_vars.outputs.PARENT_DEPLOYMENT_NAME }}
+      PARENT_DEPLOYMENT_REPO:
+        description: "Parent Deployment Repository"
+        value: ${{ jobs.get_vars.outputs.PARENT_DEPLOYMENT_REPO }}
+      PARENT_DEPLOYMENT_BRANCH:
+        description: "Parent Deployment Branch"
+        value: ${{ jobs.get_vars.outputs.PARENT_DEPLOYMENT_BRANCH }}
+      ENCRYPTED:
+        description: "Encryption flag"
+        value: ${{ jobs.get_vars.outputs.ENCRYPTED }}
+      FIREBASE_HOSTING_TARGET:
+        description: "Firebase hosting target"
+        value: ${{ jobs.get_vars.outputs.FIREBASE_HOSTING_TARGET }}
+      FIREBASE_PROJECT_ID:
+        description: "Firebase project id"
+        value: ${{ jobs.get_vars.outputs.FIREBASE_PROJECT_ID }}
+      FIREBASE_HOSTING_CHANNEL:
+        description: "Firebase hosting channel"
+        value: ${{ jobs.get_vars.outputs.FIREBASE_HOSTING_CHANNEL }}
+      FIREBASE_HOSTING_RELEASE_TARGET:
+        description: "Firebase hosting release target"
+        value: ${{ jobs.get_vars.outputs.FIREBASE_HOSTING_RELEASE_TARGET }}
+
+jobs:
+  get_vars:
+    runs-on: ubuntu-latest
+    outputs:
+      APP_ID: ${{ steps.export_vars.outputs.APP_ID }}
+      LFS_USED: ${{ steps.export_vars.outputs.LFS_USED }}
+      DEPLOYMENT_NAME: ${{ steps.export_vars.outputs.DEPLOYMENT_NAME }}
+      PARENT_DEPLOYMENT_NAME: ${{ steps.export_vars.outputs.PARENT_DEPLOYMENT_NAME }}
+      PARENT_DEPLOYMENT_REPO: ${{ steps.export_vars.outputs.PARENT_DEPLOYMENT_REPO }}
+      PARENT_DEPLOYMENT_BRANCH: ${{ steps.export_vars.outputs.PARENT_DEPLOYMENT_BRANCH }}
+      ENCRYPTED: ${{ steps.export_vars.outputs.ENCRYPTED }}
+      FIREBASE_HOSTING_TARGET: ${{ steps.export_vars.outputs.FIREBASE_HOSTING_TARGET }}
+      FIREBASE_PROJECT_ID: ${{ steps.export_vars.outputs.FIREBASE_PROJECT_ID }}
+      FIREBASE_HOSTING_CHANNEL: ${{ steps.export_vars.outputs.FIREBASE_HOSTING_CHANNEL }}
+      FIREBASE_HOSTING_RELEASE_TARGET: ${{ steps.export_vars.outputs.FIREBASE_HOSTING_CHANNEL }} 
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Code branch used
+        run: |
+          echo "App Code Branch: ${{ vars.APP_CODE_BRANCH }}"
+
+      - name: Load .env File and Pass Variables
+        id: export_vars
+        run: |
+          set -o allexport
+          source actions.env
+          set +o allexport
+          echo "APP_ID=$APP_ID" >> $GITHUB_OUTPUT          
+          echo "DEPLOYMENT_NAME=$DEPLOYMENT_NAME" >> $GITHUB_OUTPUT
+          echo "PARENT_DEPLOYMENT_NAME=$PARENT_DEPLOYMENT_NAME" >> $GITHUB_OUTPUT
+          echo "PARENT_DEPLOYMENT_REPO=$PARENT_DEPLOYMENT_REPO" >> $GITHUB_OUTPUT
+          echo "PARENT_DEPLOYMENT_BRANCH=$PARENT_DEPLOYMENT_BRANCH" >> $GITHUB_OUTPUT
+          echo "ENCRYPTED=$ENCRYPTED" >> $GITHUB_OUTPUT
+          echo "LFS_USED=$LFS_USED" >> $GITHUB_OUTPUT
+          echo "FIREBASE_HOSTING_TARGET=$FIREBASE_HOSTING_TARGET" >> $GITHUB_OUTPUT
+          echo "FIREBASE_PROJECT_ID=$FIREBASE_PROJECT_ID" >> $GITHUB_OUTPUT
+          echo "FIREBASE_HOSTING_CHANNEL=$FIREBASE_HOSTING_CHANNEL" >> $GITHUB_OUTPUT
+          echo "FIREBASE_HOSTING_RELEASE_TARGET=$FIREBASE_HOSTING_RELEASE_TARGET" >> $GITHUB_OUTPUT
