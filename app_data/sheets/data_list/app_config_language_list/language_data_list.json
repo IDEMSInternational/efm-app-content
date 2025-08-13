@@ -33,15 +33,6 @@
       "text": "Français"
     },
     {
-      "id": "de_de",
-      "country_code": "de",
-      "country_label": "Germany",
-      "language_code": "de",
-      "language_label": "Deutsch",
-      "name": "de_de",
-      "text": "Deutsch"
-    },
-    {
       "id": "br_pt",
       "country_code": "br",
       "country_label": "Brazil",
