@@ -96,7 +96,7 @@
     },
     {
       "name": "okay_learning_steps_language",
-      "value": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
+      "value": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\"",
       "_translations": {
         "value": {}
       },
@@ -106,19 +106,37 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\"",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
           },
           {
-            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\"",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
           },
           {
-            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\"",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
@@ -129,13 +147,16 @@
         "@fields._app_language": [
           "value",
           "value",
+          "value",
+          "value",
+          "value",
           "value"
         ]
       }
     },
     {
       "name": "okay_playdates_language",
-      "value": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
+      "value": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\"",
       "_translations": {
         "value": {}
       },
@@ -145,19 +166,37 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\"",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
           },
           {
-            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\"",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
           },
           {
-            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\"",
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\"",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
@@ -166,6 +205,9 @@
       },
       "_dynamicDependencies": {
         "@fields._app_language": [
+          "value",
+          "value",
+          "value",
           "value",
           "value",
           "value"
