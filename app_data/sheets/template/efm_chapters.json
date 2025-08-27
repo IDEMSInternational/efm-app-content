@@ -1191,11 +1191,14 @@
     {
       "type": "display_group",
       "name": "fake_group",
+      "style_list": [
+        "margin-top: 40px"
+      ],
       "rows": [
         {
           "type": "text",
-          "name": "spacer1",
-          "_nested_name": "fake_group.spacer1"
+          "name": "spacer",
+          "_nested_name": "fake_group.spacer"
         }
       ],
       "_nested_name": "fake_group"

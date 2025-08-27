@@ -426,6 +426,21 @@
           "value"
         ]
       }
+    },
+    {
+      "type": "display_group",
+      "name": "fake_group",
+      "style_list": [
+        "margin-top: 40px"
+      ],
+      "rows": [
+        {
+          "type": "text",
+          "name": "spacer",
+          "_nested_name": "fake_group.spacer"
+        }
+      ],
+      "_nested_name": "fake_group"
     }
   ],
   "_xlsxPath": "EFM_activity_high_level_sheets.xlsx",
