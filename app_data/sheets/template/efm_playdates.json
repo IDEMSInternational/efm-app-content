@@ -257,6 +257,9 @@
     {
       "type": "display_group",
       "name": "fake_group",
+      "style_list": [
+        "margin-top: 40px"
+      ],
       "rows": [
         {
           "type": "text",
