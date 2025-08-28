@@ -9,7 +9,24 @@ on:
       - "main"
 
 jobs:
-  web_preview:
-    uses: IDEMSInternational/open-app-builder/.github/workflows/reusable-deploy-web-preview.yml@master
-    secrets: inherit
+  call_get_vars:
+    uses: ./.github/workflows/get-vars.yml  
 
+  call_reusable_workflow:
+    needs: call_get_vars
+    uses: IDEMSInternational/open-app-builder-actions/.github/workflows/deploy-web-preview.yml@main
+    with:
+      APP_CODE_BRANCH: ${{ vars.APP_CODE_BRANCH }}
+      FIREBASE_HOSTING_TARGET: ${{ needs.call_get_vars.outputs.FIREBASE_HOSTING_TARGET }}
+      FIREBASE_PROJECT_ID: ${{ needs.call_get_vars.outputs.FIREBASE_PROJECT_ID }}
+      FIREBASE_HOSTING_CHANNEL: ${{ needs.call_get_vars.outputs.FIREBASE_HOSTING_CHANNEL }}
+      LFS_USED: ${{ needs.call_get_vars.outputs.LFS_USED == 'true' }}
+      DEPLOYMENT_NAME: ${{ needs.call_get_vars.outputs.DEPLOYMENT_NAME }}
+      PARENT_DEPLOYMENT_NAME: ${{ needs.call_get_vars.outputs.PARENT_DEPLOYMENT_NAME }}
+      PARENT_DEPLOYMENT_REPO: ${{ needs.call_get_vars.outputs.PARENT_DEPLOYMENT_REPO }}
+      PARENT_DEPLOYMENT_BRANCH: ${{ needs.call_get_vars.outputs.PARENT_DEPLOYMENT_BRANCH }}
+      ENCRYPTED: ${{ needs.call_get_vars.outputs.ENCRYPTED == 'true' }} 
+    secrets:
+      DEPLOYMENT_PRIVATE_KEY: ${{ secrets.DEPLOYMENT_PRIVATE_KEY }}  
+      FIREBASE_SERVICE_ACCOUNT: ${{ secrets.FIREBASE_SERVICE_ACCOUNT }}  
+      

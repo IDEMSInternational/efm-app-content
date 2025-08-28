@@ -36,6 +36,9 @@ on:
       FIREBASE_HOSTING_RELEASE_TARGET:
         description: "Firebase hosting release target"
         value: ${{ jobs.get_vars.outputs.FIREBASE_HOSTING_RELEASE_TARGET }}
+      TRANSLATION_REPO:
+        description: "Translation repository"
+        value: ${{ jobs.get_vars.outputs.TRANSLATION_REPO }}
 
 jobs:
   get_vars:
@@ -51,7 +54,8 @@ jobs:
       FIREBASE_HOSTING_TARGET: ${{ steps.export_vars.outputs.FIREBASE_HOSTING_TARGET }}
       FIREBASE_PROJECT_ID: ${{ steps.export_vars.outputs.FIREBASE_PROJECT_ID }}
       FIREBASE_HOSTING_CHANNEL: ${{ steps.export_vars.outputs.FIREBASE_HOSTING_CHANNEL }}
-      FIREBASE_HOSTING_RELEASE_TARGET: ${{ steps.export_vars.outputs.FIREBASE_HOSTING_CHANNEL }} 
+      FIREBASE_HOSTING_RELEASE_TARGET: ${{ steps.export_vars.outputs.FIREBASE_HOSTING_RELEASE_TARGET }}
+      TRANSLATION_REPO: ${{ steps.export_vars.outputs.TRANSLATION_REPO }}
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -77,3 +81,4 @@ jobs:
           echo "FIREBASE_PROJECT_ID=$FIREBASE_PROJECT_ID" >> $GITHUB_OUTPUT
           echo "FIREBASE_HOSTING_CHANNEL=$FIREBASE_HOSTING_CHANNEL" >> $GITHUB_OUTPUT
           echo "FIREBASE_HOSTING_RELEASE_TARGET=$FIREBASE_HOSTING_RELEASE_TARGET" >> $GITHUB_OUTPUT
+          echo "TRANSLATION_REPO=$TRANSLATION_REPO" >> $GITHUB_OUTPUT

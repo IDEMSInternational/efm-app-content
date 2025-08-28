@@ -21,7 +21,7 @@ jobs:
 
   call_reusable_workflow:
     needs: call_get_vars
-    uses: IDEMSInternational/open-app-builder-actions/.github/workflows/translations_down_efm.yml@efm_translations
+    uses: IDEMSInternational/open-app-builder-actions/.github/workflows/translations_down.yml@main
     with:
       pr-title: ${{ inputs.pr-title }}
       pr-body: ${{ inputs.pr-body }}
@@ -32,6 +32,7 @@ jobs:
       PARENT_DEPLOYMENT_REPO: ${{ needs.call_get_vars.outputs.PARENT_DEPLOYMENT_REPO }}
       PARENT_DEPLOYMENT_BRANCH: ${{ needs.call_get_vars.outputs.PARENT_DEPLOYMENT_BRANCH }}
       ENCRYPTED: ${{ needs.call_get_vars.outputs.ENCRYPTED == 'true' }} 
+      TRANSLATION_REPO: ${{ needs.call_get_vars.outputs.TRANSLATION_REPO }}
     secrets: 
       DEPLOYMENT_PRIVATE_KEY: ${{ secrets.DEPLOYMENT_PRIVATE_KEY }}  
       GDRIVE_CREDENTIALS: ${{ secrets.GDRIVE_CREDENTIALS }}  
