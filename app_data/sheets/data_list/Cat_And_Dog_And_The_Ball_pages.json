@@ -10,35 +10,43 @@
       "illustration": "EFMStorybooks/EFM-SB-CADATB-1.jpg",
       "story_text": "This is Cat.\n\nThis is Dog.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
+        "story_text": {},
         "annotation_1": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         }
@@ -70,32 +78,52 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_1": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         }
@@ -127,32 +155,52 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_1": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         }
@@ -184,32 +232,52 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_1": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         }
@@ -241,32 +309,52 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_1": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         }
@@ -298,32 +386,52 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_1": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         }
@@ -355,32 +463,52 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_1": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         }
@@ -412,35 +540,43 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_1": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -469,32 +605,28 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
+        "annotation_1": {},
+        "annotation_2": {},
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         }
@@ -526,35 +658,31 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
+        "annotation_1": {},
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -580,35 +708,18 @@
       "illustration": "EFMStorybooks/EFM-SB-CADATB-11.jpg",
       "story_text": "Cat and Dog and Elephant play with the ball.\n\nCat throws the ball to Dog. Dog catches the ball.\n\nDog throws the ball to Elephant. Elephant catches the ball.\n\nElephant throws the ball to Cat. Cat catches the ball.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
-          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         }
@@ -640,32 +751,25 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
-          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
+        "annotation_1": {},
+        "annotation_2": {},
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
+          "de_de": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         }

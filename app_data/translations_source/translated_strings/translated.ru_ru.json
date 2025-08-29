@@ -1,0 +1,254 @@
+[
+  {
+    "SourceText": "Count together the whiskers, ears, legs, eyes, and tails.",
+    "text": "Посчитайте вместе усы, уши, ноги, глаза и хвосты.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Which counts are the same, which are different, which are the largest, and which are the smallest?",
+    "text": "Какие числы которые ты посчитал одинаковые, какие разные, какое самое большое, и какое самое маленькое?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Which animal is red and which one is yellow?",
+    "text": "Какое животное красное, а какое жёлтое?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog live in a house.\n\nA house with a door.\n\nA house with a roof.",
+    "text": "Кошка и собака живут в доме.\n\nУ дома есть дверь.\n\nУ дома есть крыша.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog live in a round house. Is your house round?",
+    "text": "Кошка и собака живут в круглом доме. А твой дом круглый?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Point to any other round things in the picture.",
+    "text": "Покажи другие круглые предметы на картинке.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many rooms does their house seem to have?",
+    "text": "Сколько комнат ты думаешь в их доме?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog have a ball.\n\nThe ball is red and blue and yellow.",
+    "text": "У кошки и собаки есть мяч.\n\nМяч красный, синий и зелёный.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Count together the number of colors on the ball.",
+    "text": "Посчитайте вместе количество цветов на мяче.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Which color on the ball is not a color for Cat or Dog?",
+    "text": "Какой цвет на мяче нет цвет который на кошке или собаке?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Is there anything where you are that is striped like this ball?",
+    "text": "Если там, где ты сейчас находишься, что-нибудь полосатое, как этот мяч?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog play with the ball.\n\nCat throws the ball to Dog.\n\nDog catches the ball.\n\nDog throws the ball to Cat.\n\nCat catches the ball.",
+    "text": "Кошка и собака играют с мячом.\n\nКошка бросает мяч собаки.\n\nСобака ловит мяч.\n\nСобака бросает мяч кошке.\n\nКошка ловит мяч.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many times did they throw the ball?",
+    "text": "Сколько раз они бросали мяч?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you like playing with balls? Do you throw them, catch them, or kick them?",
+    "text": "А ты любишь играть с мячами? Ты его бросаешь, ловишь или пинаешь ногами?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Can real cats and dogs play catch with a ball? How can they play with balls?",
+    "text": "А настоящие кошки и собаки могут ли играть с мячом? А как они могут играть с мячом?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Then Cat throws the ball very high.\n\nOh! Oh!",
+    "text": "Потом кошка бросает мяч очень высоко.\n\nОй! Oй!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The ball is higher than Dog. How much higher than Dog did Cat throw it?",
+    "text": "Мяч выше собаки. На сколько выше собаки кошка бросила мяч?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Did Cat mean to do that? How can you tell from Cat's face?",
+    "text": "Кошка хотела это сделать? Как ты можешь узнать смотря на лицо кошки?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Does the ball sometimes not go where you want it when you play catch?",
+    "text": "Когда ты играешь с мячом он тоже попадает туда куда ты не хотел?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The ball is on the roof.\n\nThe ball is on the roof of the house.",
+    "text": "Мяч на крыше.\n\nМяч на крыше дома.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The roof is slanted. Does the ball look like it would roll off the roof?",
+    "text": "Крыша наклонная. Мяч выглядит так, будто он скатится с крыши?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Where are Cat and Dog?",
+    "text": "Где кошка и собака?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How is the shape of the ball and the house similar and how are they different?",
+    "text": "Чем похожи и чем отличается форма мяча и дома?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog can see the ball.\n\nCat and Dog cannot get to the ball.\n\nHow will they get the ball down?",
+    "text": "Кошка и собака видят мяч.\n\nКошка и собака не могут добраться до мяча.\n\nКак они смогут опустить мяч на землю?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The ball is too high for Cat and Dog to reach. How will they solve this problem?",
+    "text": "Мяч слишком высоко чтобы кошка или собака его достали. Как они могут решить эту проблему?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What can you do to get something that is too high? Would you ask for help?",
+    "text": "Что ты можешь сделать чтобы добраться до чего-то что очень высоко? Ты бы позвал помощь.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Does the ball look bigger than it did when they were throwing it?",
+    "text": "Мяч сейчас выглядит больше чем когда они его кидали?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog are sad.\n\nThey want to find something tall to reach the ball.\n\nThen Elephant comes by.",
+    "text": "Кошка и собака грустная.\n\nОни хотят найти что-то высокое чтобы добраться до мяча.\n\nПотом приходит слон.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog are crying. Is their crying helping them solve their problem?",
+    "text": "Кошка и собака плачут. Плакать поможет им решить ихнюю проблему?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Count together the big animals, birds, and trees in the picture.",
+    "text": "Посчитайте вместе больших животных, птиц и деревья которые на картинке.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Elephant is big.\n\nElephant can see the ball.\n\nElephant can get to the ball.\n\nElephant gets the ball from the roof.\n\nElephant takes the ball from the roof of the house.",
+    "text": "Слон высокий.\n\nСлон видит мяч.\n\nСлон может добраться до мяча.\n\nСлон достаёт мяч с крыши.\n\nСлон достаёт мяч с крыши дома.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What other animals stand on two legs?",
+    "text": "Какие другие животные стоят на двух ногах?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Elephant gives the ball to Cat and Dog.\n\nCat and Dog smile. Elephant smiles.\n\nCat and Dog and Elephant smile.",
+    "text": "Слон отдаёт мяч кошке и собаке.\n\nКошка и собака улыбаются. Слон улыбается.\n\nКошка и собака и слон улыбаются.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Which of these animals is the biggest and which is the smallest?",
+    "text": "Какой из этих животных самый большой и самый маленький?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "They are good at taking turns. Are you good at taking turns?",
+    "text": "Они умеют очень хорошо играть по очереди. А ты тоже хорошо ждёшь свою очередь?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Bye bye Cat.\n\nBye bye Dog.\n\nBye bye Elephant.",
+    "text": "Пока кошка.\n\nПока собака.\n\nПока слон.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "With fewer balls than animals, the animals must be good at sharing.",
+    "text": "Поскольку мячей меньше, чем животных, животные умеют делиться и играть по очереди.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If you only have one word (\"Moo\"), you have to say it in different ways to have it mean different things. What do you think the cow wants?",
+    "text": "Если у тебя есть только одно слово («Mу»), Тебе нужно его сказать по-разному, чтобы давать разные значения. Что ты думаешь хочет корова?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The goat says, \"Meh, meh.\"",
+    "text": "Козёл говорит, «Мeee, мeee.»",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many horns does a goat have? Name some other animals that have two hard things growing on their head.",
+    "text": "Сколько Рогов у козы? Назови другие животные, у которых на голове растут две твёрдые штуки.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The horse says, \"Neigh.\"",
+    "text": "Лошадь говорит, «И-го-го.»",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Count together the horse's legs. Can you think of a farm animal that has only two legs?",
+    "text": "Посчитай вместе ноги лошади. Ты можешь придумать сельскохозяйственное животное, у которого только две ноги?",
+    "type": "data_list",
+    "note": ""
+  }
+]

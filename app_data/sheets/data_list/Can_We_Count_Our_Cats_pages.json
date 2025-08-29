@@ -10,38 +10,10 @@
       "illustration": "EFMStorybooks/EFM-SB-CWCOC-1.jpg",
       "story_text": "How many cats? \n\n 0 Zero cats.\n\nNo cats here!",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -67,38 +39,10 @@
       "illustration": "EFMStorybooks/EFM-SB-CWCOC-2.jpg",
       "story_text": "How many cats? \n\n 1 One cat.\n\n A black cat is eating red meat.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -124,38 +68,10 @@
       "illustration": "EFMStorybooks/EFM-SB-CWCOC-3.jpg",
       "story_text": "How many cats? \n\n 2 Two cats. \n\n A white cat and a grey cat are sleeping.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -181,38 +97,10 @@
       "illustration": "EFMStorybooks/EFM-SB-CWCOC-4.jpg",
       "story_text": "How many cats? \n\n3 Three cats. \n\nThree cats are playing in the kitchen.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -238,38 +126,10 @@
       "illustration": "EFMStorybooks/EFM-SB-CWCOC-5.jpg",
       "story_text": "How many cats? \n\n4 Four cats. \n\nFour cats are Paul's friends.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -295,38 +155,10 @@
       "illustration": "EFMStorybooks/EFM-SB-CWCOC-6.jpg",
       "story_text": "How many cats? \n\n5 Five cats. \n\nFive cats chase the dog.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -352,38 +184,10 @@
       "illustration": "EFMStorybooks/EFM-SB-CWCOC-7.jpg",
       "story_text": "How many cats?\n\n6 Six cats.\n\nSix cats waiting for the dog.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -409,38 +213,10 @@
       "illustration": "EFMStorybooks/EFM-SB-CWCOC-8.jpg",
       "story_text": "How many cats? \n\n7 Seven cats. \n\nSeven cats playing in the compound.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -466,38 +242,10 @@
       "illustration": "EFMStorybooks/EFM-SB-CWCOC-9.jpg",
       "story_text": "How many cats? \n\n8 Eight cats. \n\nEight cats and one dog!",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -523,38 +271,10 @@
       "illustration": "EFMStorybooks/EFM-SB-CWCOC-10.jpg",
       "story_text": "A kitten is stuck in a tree! \n\n\"I will rescue you!\" says Paul.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -580,38 +300,10 @@
       "illustration": "EFMStorybooks/EFM-SB-CWCOC-11.jpg",
       "story_text": "Mama, can we keep him?\" \n\nHow many cats? \n\n9 Nine cats. \n\n\"That is too many cats!\" says Mama.\u0001",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {

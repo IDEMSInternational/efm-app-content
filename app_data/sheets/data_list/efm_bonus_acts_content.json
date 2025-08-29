@@ -10,35 +10,12 @@
       "chapter": 1,
       "activity_title": "One of These is Not Like the Others",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -75,36 +52,12 @@
       "block3_illust": "EFMBM90IslandHoppingConsecutiveEven Harder.svg",
       "activity_title": "Island Hopping – Counting",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {},
+        "block4_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -143,65 +96,18 @@
       "block6_illust": "EFMBM95SnowflakeFoldingSequence.svg",
       "activity_title": "Cutting Symmetric Shapes",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block5_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block5_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block6_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block6_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {},
+        "block4_title": {},
+        "block4_text": {},
+        "block5_title": {},
+        "block5_text": {},
+        "block6_title": {},
+        "block6_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -259,41 +165,13 @@
       "chapter": 2,
       "activity_title": "Nim With One and Two",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -344,45 +222,14 @@
       "block7_illust": "EFMBM135CirclesofDots.svg",
       "activity_title": "Connect The Dots",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block7_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block7_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block4_title": {},
+        "block4_text": {},
+        "block7_title": {},
+        "block7_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -425,46 +272,14 @@
       "block2_illust": "EFMBM135cFinishedShapeSodukuExamples.svg",
       "activity_title": "Shape Sudoku",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {},
+        "block3_title": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -509,56 +324,16 @@
       "block4_illust": "EFMBM150aJigsawSudoku6by6ExamplesSolved.svg",
       "activity_title": "Number Sudoku With Jigsaws",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {},
+        "block3_title": {},
+        "block3_text": {},
+        "block4_title": {},
+        "block4_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -610,31 +385,11 @@
       "block2_illust": "EFM150GreaterThanSudoku6by6.svg",
       "activity_title": "Greater Than Sudoku",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -664,45 +419,14 @@
       "chapter": 2,
       "activity_title": "Make Me a Liar",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {},
+        "block3_title": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -745,51 +469,15 @@
       "block1_illust": "EFM160FifteenPuzzle3by3.svg",
       "activity_title": "15-Sliding Puzzle",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_title": {},
+        "block3_text": {},
+        "block4_title": {},
+        "block4_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -840,46 +528,14 @@
       "block5_illust": "EFMBM180ComplexShapeSums3.svg",
       "activity_title": "Shape Sums",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block5_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {},
+        "block4_text": {},
+        "block5_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -921,36 +577,12 @@
       "chapter": 3,
       "activity_title": "Nim – Doubling the Limit",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -984,36 +616,12 @@
       "chapter": 3,
       "activity_title": "Counting Evens and Odds",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -1053,31 +661,11 @@
       "block6_illust": "EFMBM220SumGroups10.svg",
       "activity_title": "Sum Groups",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -1107,36 +695,12 @@
       "chapter": 3,
       "activity_title": "Zoo Rescue",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -1170,35 +734,12 @@
       "chapter": 3,
       "activity_title": "Common Sums",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -1234,56 +775,16 @@
       "block4_illust": "EFMBM240SumdokuDiffdoku.svg",
       "activity_title": "Sudoku Variations",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block5_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {},
+        "block3_text": {},
+        "block4_title": {},
+        "block4_text": {},
+        "block5_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -1333,55 +834,16 @@
       "chapter": 3,
       "activity_title": "How Many Ways?",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {},
+        "block3_title": {},
+        "block3_text": {},
+        "block4_title": {},
+        "block4_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -1431,36 +893,12 @@
       "chapter": 3,
       "activity_title": "Card Deck Ordering",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -1496,46 +934,14 @@
       "block2_illust_max_width": "400px",
       "activity_title": "Difference Pyramid",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {},
+        "block3_title": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -1581,31 +987,11 @@
       "block2_illust_max_width": "400px",
       "activity_title": "Enclosed Sums",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -1637,31 +1023,11 @@
       "block1_illust_max_width": "300px",
       "activity_title": "Island Hopping – Compensation",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -1700,46 +1066,14 @@
       "block6_illust": "EFMBM310SumTriangles1.svg",
       "activity_title": "DiffTriangles and SumTriangles",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block5_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block5_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {},
+        "block5_title": {},
+        "block5_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -1783,26 +1117,10 @@
       "block2_illust": "EFMBM330IslandHoppingConsecutivetoSkipping.svg",
       "activity_title": "Island Hopping – Skip Counting",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_text": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -1832,26 +1150,10 @@
       "block2_illust_max_width": "300px",
       "activity_title": "Fix It",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_text": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -1880,26 +1182,10 @@
       "block2_illust": "EFMBM350IslandHoppingBy1sand10swithCircles.svg",
       "activity_title": "Island Hopping by Ones and Tens",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_text": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -1941,86 +1227,22 @@
       "block10_illust_max_width": "160px",
       "activity_title": "Solitaire Shape Puzzles",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block5_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block6_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block7_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block8_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block9_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block10_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {},
+        "block3_title": {},
+        "block3_text": {},
+        "block4_title": {},
+        "block4_text": {},
+        "block5_text": {},
+        "block6_text": {},
+        "block7_text": {},
+        "block8_text": {},
+        "block9_text": {},
+        "block10_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -2096,41 +1318,13 @@
       "block1_illust_max_width": "400px",
       "activity_title": "Sum Square",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_title": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -2169,31 +1363,11 @@
       "block1_illust": "EFMBM390AdditionPyramid2.svg",
       "activity_title": "Addition Pyramid",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -2223,45 +1397,14 @@
       "chapter": 4,
       "activity_title": "Investigations",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {},
+        "block3_title": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -2303,36 +1446,12 @@
       "chapter": 5,
       "activity_title": "Nim With Factors",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -2368,35 +1487,12 @@
       "block1_illust_max_width": "400px",
       "activity_title": "Sieve of Eratosthenes",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -2440,65 +1536,18 @@
       "block7_illust_max_width": "300px",
       "activity_title": "Levers and Mobiles",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block5_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block5_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block6_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block7_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {},
+        "block4_title": {},
+        "block4_text": {},
+        "block5_title": {},
+        "block5_text": {},
+        "block6_text": {},
+        "block7_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -2560,46 +1609,14 @@
       "block3_illust_max_width": "400px",
       "activity_title": "Divide Up the Box",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {},
+        "block3_text": {},
+        "block4_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -2644,41 +1661,13 @@
       "block3_illust": "EFMBM520LetterSubstitution3.svg",
       "activity_title": "Letter Substitution Puzzles",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -2720,50 +1709,15 @@
       "block3_illust_max_width": "200px",
       "activity_title": "Bouncing Billiard Ball",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {},
+        "block3_title": {},
+        "block3_text": {},
+        "block4_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -2813,60 +1767,17 @@
       "block4_illust_max_width": "160px",
       "activity_title": "Playing With Shapes",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block5_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {},
+        "block3_title": {},
+        "block3_text": {},
+        "block4_title": {},
+        "block4_text": {},
+        "block5_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -2924,45 +1835,14 @@
       "block3_illust_max_width": "400px",
       "activity_title": "Product Game",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_title": {},
+        "block3_text": {},
+        "block4_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -3004,53 +1884,16 @@
       "chapter": 5,
       "activity_title": "Limited Calculators",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block3_title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block4_title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block4_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {},
+        "block3_title": {},
+        "block3_text": {},
+        "block4_title": {},
+        "block4_text": {}
       },
       "_translatedFields": {
         "activity_title": {
@@ -3100,36 +1943,12 @@
       "chapter": 5,
       "activity_title": "Double or Nothing",
       "_translations": {
-        "activity_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "activity_type": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_title": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true
-        }
+        "activity_title": {},
+        "activity_type": {},
+        "block1_title": {},
+        "block1_text": {},
+        "block2_title": {},
+        "block2_text": {}
       },
       "_translatedFields": {
         "activity_title": {

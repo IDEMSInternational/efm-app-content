@@ -8,7 +8,7 @@ config.google_drive = {
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/efm-app-content.git",
-  content_tag_latest: "1.2.41",
+  content_tag_latest: "1.2.42",
 };
 
 config.android = {

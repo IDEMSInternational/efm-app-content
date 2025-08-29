@@ -1,0 +1,224 @@
+[
+  {
+    "SourceText": "Count together the whiskers, ears, legs, eyes, and tails.",
+    "text": "Zähle die Schnurrhaare, Ohren, Beine, Augen und Wedel zusammen.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Which counts are the same, which are different, which are the largest, and which are the smallest?",
+    "text": "Welche Summen sind gleich, welche verschieden, welche machen die meisten aus und welche die wenigsten?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Which animal is red and which one is yellow?",
+    "text": "Welches Tier ist rot und welches gelb?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog live in a house.\n\nA house with a door.\n\nA house with a roof.",
+    "text": "Kater und Hund leben in einem Haus.\n\nEin Haus mit einer Tür.\n\nEin Haus mit einem Dach.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog live in a round house. Is your house round?",
+    "text": "Kater und Hund leben in einem runden Haus. Ist dein Haus rund?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Point to any other round things in the picture.",
+    "text": "Zeige auf alle möglichen roten Dinge auf dem Bild.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many rooms does their house seem to have?",
+    "text": "Wieviele Räume scheint ihr Haus zu haben?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog have a ball.\n\nThe ball is red and blue and yellow.",
+    "text": "Kater und Hund haben einen Ball.\n\nDer Ball ist rot, blau und grün.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Count together the number of colors on the ball.",
+    "text": "Zähle die Anzahl Farben auf dem Ball zusammen.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Which color on the ball is not a color for Cat or Dog?",
+    "text": "Welche Farbe auf dem Ball ist nicht eine Farbe für Kater und Hund?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Is there anything where you are that is striped like this ball?",
+    "text": "Gibt es wo du wohnst irgend etwas das gestreift ist wie dieser Ball?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog play with the ball.\n\nCat throws the ball to Dog.\n\nDog catches the ball.\n\nDog throws the ball to Cat.\n\nCat catches the ball.",
+    "text": "Kater und Hund spielen mit dem Ball.\n\nKater wirft den Ball zu Hund.\n\nHund fängt den Ball.\n\nHund wirft den Ball zu Kater.\n\nKater fängt den Ball.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many times did they throw the ball?",
+    "text": "Wie oft warfen sie den Ball?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you like playing with balls? Do you throw them, catch them, or kick them?",
+    "text": "Spielst du gerne mit Bällen? Wirfst, fängst oder trittst du sie?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Can real cats and dogs play catch with a ball? How can they play with balls?",
+    "text": "Können richtige Kater und Hunde Fangen spielen mit einem Ball? Wie können sie mit Bällen spielen?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Then Cat throws the ball very high.\n\nOh! Oh!",
+    "text": "Der Kater wirft den Ball sehr hoch.\n\nUi! Ui!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The ball is higher than Dog. How much higher than Dog did Cat throw it?",
+    "text": "Der Ball ist höher als der Hund. Um wieviel höher als der Hund hat die Kater ihn geworfen?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Did Cat mean to do that? How can you tell from Cat's face?",
+    "text": "War das die Absicht des Katers? Wie könntest du es von seinem Gesicht ablesen?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Does the ball sometimes not go where you want it when you play catch?",
+    "text": "Geht der Ball manchmal nicht dorthin wo du willst, wenn du Fangen spielst?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The ball is on the roof.\n\nThe ball is on the roof of the house.",
+    "text": "Der Ball ist auf dem Dach.\n\nDer Ball ist auf dem Dach des Hauses.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The roof is slanted. Does the ball look like it would roll off the roof?",
+    "text": "Das Dach ist abgeschrägt. Sieht der Ball aus, als würde er vom Dach wegrollen?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Where are Cat and Dog?",
+    "text": "Wo sind Kater und Hund?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How is the shape of the ball and the house similar and how are they different?",
+    "text": "Wie sind der Umriss des Balls und des Hauses einander ähnlich und wie voneinander verschieden?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog can see the ball.\n\nCat and Dog cannot get to the ball.\n\nHow will they get the ball down?",
+    "text": "Kater und Hund können den Ball sehen.\n\nKater und Hund können nicht zum Ball kommen.\n\nWie werden sie den Ball da runterbekommen?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The ball is too high for Cat and Dog to reach. How will they solve this problem?",
+    "text": "Der Ball ist für Kater und Hund zu hoch um ihn zu ergreifen Wie werden sie dieses Problem lösen?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What can you do to get something that is too high? Would you ask for help?",
+    "text": "Was könntest du tun, um etwas zu ergreifen das zu hoch oben ist? Würdest du jemanden um Hilfe bitten?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Does the ball look bigger than it did when they were throwing it?",
+    "text": "Sieht der Ball nun grösser aus, als da sie ihn geworfen haben?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog are sad.\n\nThey want to find something tall to reach the ball.\n\nThen Elephant comes by.",
+    "text": "Kater und Hund sind traurig.\n\nSie wollen etwas langes finden um den Ball zu erreichen.\n\nDann kommt der Elefant vorbei.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog are crying. Is their crying helping them solve their problem?",
+    "text": "Kater und Hund weinen. Hilft ihr Weinen ihnen, ihr Problem zu lösen?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Count together the big animals, birds, and trees in the picture.",
+    "text": "Zähle die grossen Tiere, Vögel und Bäume im Bild zusammen.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Elephant is big.\n\nElephant can see the ball.\n\nElephant can get to the ball.\n\nElephant gets the ball from the roof.\n\nElephant takes the ball from the roof of the house.",
+    "text": "Der Elefant ist gross.\n\nDer Elefant kann den Ball sehen.\n\nDer Elefant kann bis zum Ball kommen.\n\nDer Elefant nimmt den Ball vom Dach.\n\nDer Elefant nimmt den Ball weg vom Dach des Hauses.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What other animals stand on two legs?",
+    "text": "Welche anderen Tiere stehen auf zwei Beinen?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Elephant gives the ball to Cat and Dog.\n\nCat and Dog smile. Elephant smiles.\n\nCat and Dog and Elephant smile.",
+    "text": "Der Elefant gibt den Ball Kater und Hund.\n\nKater und Hund lächeln. Der Elefant lächelt.\n\nDer Kater, der Hund und der Elefant lächeln.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Which of these animals is the biggest and which is the smallest?",
+    "text": "Welches dieser Tiere ist das grösste und welches das kleinste?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "They are good at taking turns. Are you good at taking turns?",
+    "text": "Sie sind gut darin, einander auszuwechseln. Bist du gut darin, dich mit jemandem abzuwechseln?",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Bye bye Cat.\n\nBye bye Dog.\n\nBye bye Elephant.",
+    "text": "Tschüss Kater.\n\nTschüss Hund.\n\nTschüss Elefant.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "With fewer balls than animals, the animals must be good at sharing.",
+    "text": "Mit weniger Bällen als Tieren müssen die Tiere gut darin sein, zu teilen.",
+    "type": "data_list",
+    "note": ""
+  }
+]

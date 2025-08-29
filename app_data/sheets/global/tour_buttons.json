@@ -8,10 +8,7 @@
       "name": "next",
       "value": "Next",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       }
     },
     {
@@ -19,10 +16,7 @@
       "name": "previous",
       "value": "Previous",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       }
     },
     {
@@ -30,10 +24,7 @@
       "name": "done",
       "value": "Done",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       }
     }
   ],

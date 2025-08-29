@@ -485,10 +485,7 @@
       "name": "accordion_label_1",
       "value": "Activity list",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "accordion_label_1"
@@ -497,10 +494,7 @@
       "name": "accordion_label_2",
       "value": "Storybook list",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "accordion_label_2"
@@ -1253,10 +1247,7 @@
       "name": "mls_info",
       "value": "**Math Learning Step**",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "condition": "@local.mls_id",
       "parameter_list": {
@@ -1516,10 +1507,7 @@
       "name": "storybook_info",
       "value": "**Storybook**",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "condition": "@local.sb_id",
       "parameter_list": {
@@ -2086,10 +2074,7 @@
       "name": "activity_info",
       "value": "**Activities**",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "condition": "@local.act_one_id",
       "parameter_list": {

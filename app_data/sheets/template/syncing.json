@@ -8,10 +8,7 @@
       "name": "title",
       "value": "Syncing",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "_nested_name": "title"
     },
@@ -75,10 +72,7 @@
       "name": "syncing",
       "value": "Syncing...",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "syncing"
@@ -94,10 +88,7 @@
       "name": "copy",
       "value": "Copy",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "copy"
@@ -106,10 +97,7 @@
       "name": "copied",
       "value": "Copied!",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "copied"
@@ -215,10 +203,7 @@
       "name": "last_sync_text",
       "value": "Last sync at: @local.sync_latest",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "condition": "@local.sync_latest",
       "_nested_name": "last_sync_text",
@@ -252,10 +237,7 @@
       "name": "not_synced_text",
       "value": "This device has never been synced.",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "condition": "!@local.sync_latest",
       "_nested_name": "not_synced_text",
@@ -280,10 +262,7 @@
       "name": "sync_button",
       "value": "Sync now",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "action_list": [
         {

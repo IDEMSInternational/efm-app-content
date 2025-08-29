@@ -10,38 +10,10 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-1.jpg",
       "story_text": "A rainbow has seven colors.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -67,38 +39,10 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-2.jpg",
       "story_text": "The first color is red.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -124,38 +68,10 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-3.jpg",
       "story_text": "Kewyu is wearing a red shirt.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -181,38 +97,10 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-4.jpg",
       "story_text": "The second color is orange.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -238,38 +126,10 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-5.jpg",
       "story_text": "This is an orange. What else can you see that is the color orange?",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -295,38 +155,10 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-6.jpg",
       "story_text": "The third color is yellow.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -352,38 +184,10 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-7.jpg",
       "story_text": "The yolk of an egg is yellow. What else can you see that is the color yellow?",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -409,38 +213,10 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-8.jpg",
       "story_text": "The fourth color is green.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -466,38 +242,10 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-9.jpg",
       "story_text": "Our banana garden is green.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -523,38 +271,10 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-10.jpg",
       "story_text": "The fifth color is blue.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -580,38 +300,10 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-11.jpg",
       "story_text": "The sky is blue.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -637,38 +329,10 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-12.jpg",
       "story_text": "The sixth color is indigo.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -694,38 +358,10 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-13.jpg",
       "story_text": "These berries are the color indigo.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -751,38 +387,10 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-14.jpg",
       "story_text": "The seventh color is violet.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -808,38 +416,10 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-15.jpg",
       "story_text": "My dress is violet. Violet is my favorite color! What is your favorite color?",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -865,38 +445,10 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-16.jpg",
       "story_text": "Do you know the seven colors of the rainbow?",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {

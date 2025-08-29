@@ -10,38 +10,10 @@
       "illustration": "EFMStorybooks/EFM-SB-LATA-1.jpg",
       "story_text": "Look at the animals.",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -67,38 +39,19 @@
       "illustration": "EFMStorybooks/EFM-SB-LATA-2.jpg",
       "story_text": "The cow says, \"Moo.\"",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
+        "story_text": {},
+        "annotation_1": {},
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -127,33 +80,22 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "sa_ar": true,
           "tr_tr": true
         },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
+        "annotation_1": {},
+        "annotation_2": {},
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "tr_tr": true
         }
       },
@@ -184,35 +126,23 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "tr_tr": true
         },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
+        "annotation_1": {},
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
           "tr_tr": true
         },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -238,38 +168,10 @@
       "illustration": "EFMStorybooks/EFM-SB-LATA-5.jpg",
       "story_text": "The pig says, \"Grunt.\"",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -295,38 +197,10 @@
       "illustration": "EFMStorybooks/EFM-SB-LATA-6.jpg",
       "story_text": "The chicken says, \"Cluck.\"",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -352,38 +226,10 @@
       "illustration": "EFMStorybooks/EFM-SB-LATA-7.jpg",
       "story_text": "The dog says, \"Woof.\"",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {
@@ -409,38 +255,10 @@
       "illustration": "EFMStorybooks/EFM-SB-LATA-8.jpg",
       "story_text": "The farmer says, \"Shhh!\"",
       "_translations": {
-        "story_text": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_1": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_2": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        },
-        "annotation_3": {
-          "br_pt": true,
-          "cn_zh": true,
-          "es_es": true,
-          "fr_fr": true,
-          "sa_ar": true,
-          "tr_tr": true
-        }
+        "story_text": {},
+        "annotation_1": {},
+        "annotation_2": {},
+        "annotation_3": {}
       },
       "_translatedFields": {
         "story_text": {

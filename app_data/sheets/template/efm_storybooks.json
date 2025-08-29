@@ -12,10 +12,7 @@
           "name": "spacer",
           "value": "Storybooks",
           "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
+            "value": {}
           },
           "style_list": [
             "flex:1"
@@ -56,10 +53,7 @@
       "name": "description_begin",
       "value": "Beginning",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "description_begin"
@@ -68,10 +62,7 @@
       "name": "description_intermed",
       "value": "Intermediate",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "description_intermed"
@@ -80,10 +71,7 @@
       "name": "description_advance",
       "value": "Advanced",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "description_advance"
@@ -314,10 +302,7 @@
           "name": "begin_sb_text",
           "value": "**Beginning Storybooks**",
           "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
+            "value": {}
           },
           "_nested_name": "dg_beginning_sb.begin_sb_text"
         },
@@ -741,10 +726,7 @@
           "name": "intermed_sb_text",
           "value": "**Intermediate Storybooks**",
           "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
+            "value": {}
           },
           "_nested_name": "dg_intermediate_sb.intermed_sb_text"
         },
@@ -1169,10 +1151,7 @@
           "name": "advanced_sb_text",
           "value": "**Advanced Storybooks**",
           "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
+            "value": {}
           },
           "_nested_name": "dg_advanced_sb.advanced_sb_text"
         },

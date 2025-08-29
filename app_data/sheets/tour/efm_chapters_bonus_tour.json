@@ -7,14 +7,8 @@
       "type": "step",
       "title": "Bonus Material",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "message_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "message_text": {}
       },
       "message_text": "Some of the activities have additional material with examples and further explanations. You can look at them here or at the end of the corresponding activity page.",
       "template_component_name": "dg_button_bonus",
