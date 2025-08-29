@@ -2,7 +2,7 @@
     "CoreFiles": "../open-app-builder/.idems_app/deployments/early_family_math/app_data/sheets",
     "ComposeResult": "app/1_compose_result",
     "CoreGroups": [["data_list"],["template"],["tour", [""]],
-    "SplitGroups": [["efm_content"]],
+    "SplitGroups": ["efm_content"],
     "ExtractResult": "app/2_extract_result",
     "ReadyForTranslation": "app/3_ready_for_translators",
     "PostTranslation": ["../translation_repo/translations"],
