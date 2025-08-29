@@ -368,10 +368,7 @@
       "name": "description_0",
       "value": "Story text",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "description_0"
@@ -380,10 +377,7 @@
       "name": "description_1",
       "value": "First reading",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "description_1"
@@ -392,10 +386,7 @@
       "name": "description_2",
       "value": "Second reading",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "description_2"
@@ -404,10 +395,7 @@
       "name": "description_3",
       "value": "Third reading",
       "_translations": {
-        "value": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "value": {}
       },
       "type": "set_variable",
       "_nested_name": "description_3"

@@ -1,0 +1,254 @@
+[
+  {
+    "SourceText": "Count together the whiskers, ears, legs, eyes, and tails.",
+    "text": "一緒に、ひげ、耳、足、目、しっぽを数えよう。",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Which counts are the same, which are different, which are the largest, and which are the smallest?",
+    "text": "どれが同じ数で、どれが違う数で、どれが一番大きくて、どれが一番小さいかな？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Which animal is red and which one is yellow?",
+    "text": "どっちの動物が赤色かな、どっちが黄色かな？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog live in a house.\n\nA house with a door.\n\nA house with a roof.",
+    "text": "ネコとイヌは家に住んでいるよ\n\n家にはドアがあるよ。\n\n屋根もあるよ。",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog live in a round house. Is your house round?",
+    "text": "ネコとイヌは丸い家に住んでいる。 君の家は丸いかな？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Point to any other round things in the picture.",
+    "text": "絵の中にある、他の丸いものを指さそう。",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many rooms does their house seem to have?",
+    "text": "家にはいくつの部屋があると思う？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog have a ball.\n\nThe ball is red and blue and yellow.",
+    "text": "ネコとイヌはボールを持っているよ。\n\n赤色、青色、緑色のボールだよ。",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Count together the number of colors on the ball.",
+    "text": "ボールの色の数を一緒に数えよう。",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Which color on the ball is not a color for Cat or Dog?",
+    "text": "ネコやイヌの色ではないボールの色はどれかな？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Is there anything where you are that is striped like this ball?",
+    "text": "君がいる場所に、このボールのような縞模様のものはあるかな？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog play with the ball.\n\nCat throws the ball to Dog.\n\nDog catches the ball.\n\nDog throws the ball to Cat.\n\nCat catches the ball.",
+    "text": "ネコとイヌはボールで遊んでいるよ。\n\nネコはイヌにボールを投げる。\n\nイヌがボールを捕る。\n\nイヌがネコにボールを投げる。\n\nネコがボールを捕る。",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many times did they throw the ball?",
+    "text": "彼らは何回ボールを投げたかな？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Do you like playing with balls? Do you throw them, catch them, or kick them?",
+    "text": "君はボール遊びが好きかな？ 投げたり、捕ったり、蹴ったりする？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Can real cats and dogs play catch with a ball? How can they play with balls?",
+    "text": "本物のネコとイヌはキャッチボールができるかな？ どうやってボールで遊べるのかな？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Then Cat throws the ball very high.\n\nOh! Oh!",
+    "text": "そしてネコはとても高いボールを投げた。\n\nおや！おや！",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The ball is higher than Dog. How much higher than Dog did Cat throw it?",
+    "text": "ボールはイヌより高い。 ネコはイヌよりどのくらい高く投げたのかな？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Did Cat mean to do that? How can you tell from Cat's face?",
+    "text": "ネコはそんなつもりで投げたの？ ネコの顔を見れば分かるかな？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Does the ball sometimes not go where you want it when you play catch?",
+    "text": "キャッチボールをするとき、ボールが思い通りにいかないことがある？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The ball is on the roof.\n\nThe ball is on the roof of the house.",
+    "text": "ボールは屋根の上にある。\n\n家の屋根の上にある。",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The roof is slanted. Does the ball look like it would roll off the roof?",
+    "text": "屋根が斜めになっている。 ボールが屋根から転がり落ちるように見える？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Where are Cat and Dog?",
+    "text": "ネコとイヌはどこにいるの？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How is the shape of the ball and the house similar and how are they different?",
+    "text": "ボールの形と家の形はどのように似ていて、どのように違うかな？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog can see the ball.\n\nCat and Dog cannot get to the ball.\n\nHow will they get the ball down?",
+    "text": "ネコとイヌにはボールが見える。\n\nネコとイヌはボールに近づけない。\n\nどうやったらボールを下に落とせるかな？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The ball is too high for Cat and Dog to reach. How will they solve this problem?",
+    "text": "ネコとイヌにはボールが高すぎて届かない。 どうやってこの問題を解決するのだろう？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What can you do to get something that is too high? Would you ask for help?",
+    "text": "高すぎるものを手に入れるにはどうしたらいい？ 君なら助けを求める？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Does the ball look bigger than it did when they were throwing it?",
+    "text": "ボールは、投げていた時よりも大きく見えるかな？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog are sad.\n\nThey want to find something tall to reach the ball.\n\nThen Elephant comes by.",
+    "text": "ネコとイヌは悲しんでいる。\n\n彼らはボールに届く高さのあるものを見つけたがっている。\n\nそこにゾウがやってきた。",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Cat and Dog are crying. Is their crying helping them solve their problem?",
+    "text": "ネコとイヌが泣いているよ。泣くことで問題を解決できるかな？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Count together the big animals, birds, and trees in the picture.",
+    "text": "絵の中の大きな動物、鳥、木を一緒に数えよう。",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Elephant is big.\n\nElephant can see the ball.\n\nElephant can get to the ball.\n\nElephant gets the ball from the roof.\n\nElephant takes the ball from the roof of the house.",
+    "text": "ゾウは大きい。\n\nゾウにはボールが見える。\n\nゾウはボールに近づける。\n\nゾウは屋根からボールを取る。\n\n家の屋根からボールを取る。",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What other animals stand on two legs?",
+    "text": "他に2本足で立つ動物は何かな？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Elephant gives the ball to Cat and Dog.\n\nCat and Dog smile. Elephant smiles.\n\nCat and Dog and Elephant smile.",
+    "text": "ゾウがネコとイヌにボールを渡した。\n\nネコとイヌは笑顔になった。ゾウも笑顔になった。\n\nネコとイヌとゾウはみんなニコニコしている。",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Which of these animals is the biggest and which is the smallest?",
+    "text": "どの動物が一番大きくて、どの動物が一番小さいか？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "They are good at taking turns. Are you good at taking turns?",
+    "text": "彼らは交代が上手だね。 君は交代が得意？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Bye bye Cat.\n\nBye bye Dog.\n\nBye bye Elephant.",
+    "text": "ばいばい、ネコ。\n\nばいばい、イヌ。\n\nばいばい、ゾウ。",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "With fewer balls than animals, the animals must be good at sharing.",
+    "text": "ボールの数は動物より少ないので、動物たちは一緒に使うのが上手に違いない。",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If you only have one word (\"Moo\"), you have to say it in different ways to have it mean different things. What do you think the cow wants?",
+    "text": "(\"モー \")という単語が1つしかない場合、いろいろな言い方をしないと、いろいろな意味になりません。牛は何を欲しがっていると思いますか？",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The goat says, \"Meh, meh.\"",
+    "text": "ヤギが「メッ、メッ」と鳴きます。",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "How many horns does a goat have? Name some other animals that have two hard things growing on their head.",
+    "text": "ヤギの角は何本ある？頭に2本の硬いものが生えている他の動物の名前を言って下さい。",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The horse says, \"Neigh.\"",
+    "text": "馬が「ニー」と鳴きます。",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Count together the horse's legs. Can you think of a farm animal that has only two legs?",
+    "text": "馬の足を数えて下さい。足が2本しかない動物はいますか？",
+    "type": "data_list",
+    "note": ""
+  }
+]

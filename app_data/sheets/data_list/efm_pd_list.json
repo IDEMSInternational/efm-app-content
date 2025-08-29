@@ -17,14 +17,8 @@
       "block1_type": "all_text",
       "title": "Stage 1 Overview",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -46,22 +40,10 @@
       "block1_type": "all_text",
       "title": "Playdate 1-1",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -91,22 +73,10 @@
       "block1_type": "all_text",
       "title": "Playdate 1-2",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -136,22 +106,10 @@
       "block1_type": "all_text",
       "title": "Playdate 1-3",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -181,22 +139,10 @@
       "block1_type": "all_text",
       "title": "Playdate 1-4",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -226,22 +172,10 @@
       "block1_type": "all_text",
       "title": "Playdate 1-5",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -271,22 +205,10 @@
       "block1_type": "all_text",
       "title": "Playdate 1-6",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -316,22 +238,10 @@
       "block1_type": "all_text",
       "title": "Playdate 1-7",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -361,22 +271,10 @@
       "block1_type": "all_text",
       "title": "Playdate 1-8",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -406,22 +304,10 @@
       "block1_type": "all_text",
       "title": "Playdate 1-9",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -451,22 +337,10 @@
       "block1_type": "all_text",
       "title": "Playdate 1-10",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -499,14 +373,8 @@
       "block1_type": "all_text",
       "title": "Stage 2 Overview",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -528,22 +396,10 @@
       "block1_type": "all_text",
       "title": "Playdate 2-1",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -575,22 +431,10 @@
       "block1_type": "all_text",
       "title": "Playdate 2-2",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -620,22 +464,10 @@
       "block1_type": "all_text",
       "title": "Playdate 2-3",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -665,22 +497,10 @@
       "block1_type": "all_text",
       "title": "Playdate 2-4",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -710,22 +530,10 @@
       "block1_type": "all_text",
       "title": "Playdate 2-5",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -755,22 +563,10 @@
       "block1_type": "all_text",
       "title": "Playdate 2-6",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -800,22 +596,10 @@
       "block1_type": "all_text",
       "title": "Playdate 2-7",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -845,22 +629,10 @@
       "block1_type": "all_text",
       "title": "Playdate 2-8",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -890,22 +662,10 @@
       "block1_type": "all_text",
       "title": "Playdate 2-9",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -935,22 +695,10 @@
       "block1_type": "all_text",
       "title": "Playdate 2-10",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -983,14 +731,8 @@
       "block1_type": "all_text",
       "title": "Stage 3 Overview",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1012,22 +754,10 @@
       "block1_type": "all_text",
       "title": "Playdate 3-1",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1057,22 +787,10 @@
       "block1_type": "all_text",
       "title": "Playdate 3-2",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1102,22 +820,10 @@
       "block1_type": "all_text",
       "title": "Playdate 3-3",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1147,22 +853,10 @@
       "block1_type": "all_text",
       "title": "Playdate 3-4",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1192,22 +886,10 @@
       "block1_type": "all_text",
       "title": "Playdate 3-5",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1237,22 +919,10 @@
       "block1_type": "all_text",
       "title": "Playdate 3-6",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1282,22 +952,10 @@
       "block1_type": "all_text",
       "title": "Playdate 3-7",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1327,22 +985,10 @@
       "block1_type": "all_text",
       "title": "Playdate 3-8",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1372,22 +1018,10 @@
       "block1_type": "all_text",
       "title": "Playdate 3-9",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1417,22 +1051,10 @@
       "block1_type": "all_text",
       "title": "Playdate 3-10",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1465,14 +1087,8 @@
       "block1_type": "all_text",
       "title": "Stage 4 Overview",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1494,22 +1110,10 @@
       "block1_type": "all_text",
       "title": "Playdate 4-1",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1539,22 +1143,10 @@
       "block1_type": "all_text",
       "title": "Playdate 4-2",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1584,22 +1176,10 @@
       "block1_type": "all_text",
       "title": "Playdate 4-3",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1629,22 +1209,10 @@
       "block1_type": "all_text",
       "title": "Playdate 4-4",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1674,22 +1242,10 @@
       "block1_type": "all_text",
       "title": "Playdate 4-5",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1719,22 +1275,10 @@
       "block1_type": "all_text",
       "title": "Playdate 4-6",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1764,22 +1308,10 @@
       "block1_type": "all_text",
       "title": "Playdate 4-7",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1809,22 +1341,10 @@
       "block1_type": "all_text",
       "title": "Playdate 4-8",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1854,22 +1374,10 @@
       "block1_type": "all_text",
       "title": "Playdate 4-9",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1899,22 +1407,10 @@
       "block1_type": "all_text",
       "title": "Playdate 4-10",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block2_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block2_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1944,14 +1440,8 @@
       "block1_type": "all_text",
       "title": "Stage 5 Overview",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -1972,18 +1462,9 @@
       "block1_type": "all_text",
       "title": "Playdate 5-1",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -2008,18 +1489,9 @@
       "block1_type": "all_text",
       "title": "Playdate 5-2",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -2044,18 +1516,9 @@
       "block1_type": "all_text",
       "title": "Playdate 5-3",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -2080,18 +1543,9 @@
       "block1_type": "all_text",
       "title": "Playdate 5-4",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -2116,18 +1570,9 @@
       "block1_type": "all_text",
       "title": "Playdate 5-5",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -2152,18 +1597,9 @@
       "block1_type": "all_text",
       "title": "Playdate 5-6",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -2188,18 +1624,9 @@
       "block1_type": "all_text",
       "title": "Playdate 5-7",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -2224,18 +1651,9 @@
       "block1_type": "all_text",
       "title": "Playdate 5-8",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -2260,18 +1678,9 @@
       "block1_type": "all_text",
       "title": "Playdate 5-9",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {
@@ -2296,18 +1705,9 @@
       "block1_type": "all_text",
       "title": "Playdate 5-10",
       "_translations": {
-        "title": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block1_text": {
-          "cn_zh": true,
-          "es_es": true
-        },
-        "block3_text": {
-          "cn_zh": true,
-          "es_es": true
-        }
+        "title": {},
+        "block1_text": {},
+        "block3_text": {}
       },
       "_translatedFields": {
         "title": {

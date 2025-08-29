@@ -35,10 +35,7 @@
           "name": "spacer",
           "value": "Welcome!",
           "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
+            "value": {}
           },
           "style_list": [
             "flex:1"
@@ -339,10 +336,7 @@
           "name": "button_storybooks",
           "value": "Storybooks",
           "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -462,10 +456,7 @@
           "name": "button_storybooks",
           "value": "Storybooks",
           "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -673,10 +664,7 @@
           "name": "button_activities",
           "value": "Activities",
           "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -796,10 +784,7 @@
           "name": "button_activities",
           "value": "Activities",
           "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -1008,10 +993,7 @@
           "name": "math_learning_steps",
           "value": "Math Learning Steps",
           "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -1131,10 +1113,7 @@
           "name": "math_learning_steps",
           "value": "Math Learning Steps",
           "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -1358,10 +1337,7 @@
           "name": "button_playdates",
           "value": "Playdates",
           "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
+            "value": {}
           },
           "action_list": [
             {
@@ -1481,10 +1457,7 @@
           "name": "button_playdates",
           "value": "Playdates",
           "_translations": {
-            "value": {
-              "cn_zh": true,
-              "es_es": true
-            }
+            "value": {}
           },
           "action_list": [
             {
