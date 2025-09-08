@@ -9,7 +9,14 @@
       "number": 1,
       "title": "Stage 1 — I Can Hear You!",
       "_translations": {
-        "title": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kr_ko": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -22,7 +29,14 @@
       "number": 2,
       "title": "Stage 2 — I Can Count to 5!",
       "_translations": {
-        "title": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kr_ko": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -35,7 +49,14 @@
       "number": 3,
       "title": "Stage 3 — I Can Count to 10!",
       "_translations": {
-        "title": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kr_ko": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -48,7 +69,14 @@
       "number": 4,
       "title": "Stage 4 — I Can Count to 20!",
       "_translations": {
-        "title": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kr_ko": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -61,7 +89,14 @@
       "number": 5,
       "title": "Stage 5 — I Can Count to 100!",
       "_translations": {
-        "title": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kr_ko": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {

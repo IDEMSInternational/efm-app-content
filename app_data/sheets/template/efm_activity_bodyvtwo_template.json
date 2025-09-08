@@ -83,7 +83,16 @@
       "name": "bonus_button_text",
       "value": "Read Bonus Material",
       "_translations": {
-        "value": {}
+        "value": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "type": "set_variable",
       "_nested_name": "bonus_button_text"

@@ -10,10 +10,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-1.jpg",
       "story_text": "This is the story of Keeper and his nursery of orphaned animals.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -39,10 +79,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-2.jpg",
       "story_text": "August was a busy month for Keeper and his helpers at the nursery.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -68,10 +148,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-3.jpg",
       "story_text": "One-year-old Mkite arrived first. She came in an old green truck.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -97,10 +217,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-4.jpg",
       "story_text": "Keeper and his helpers were very sorry for Mkite. She was so thin and sad.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -126,10 +286,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-5.jpg",
       "story_text": "But soon, Mkite got stronger. She began to play with the other animals at the nursery.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -155,10 +355,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-6.jpg",
       "story_text": "On another day in August, a helicopter landed at the nursery.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -184,10 +424,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-7.jpg",
       "story_text": "Keeper and his helpers rushed outside. In the helicopter was a small elephant covered with a blanket.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -213,10 +493,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-8.jpg",
       "story_text": "It was Ndiwa. He was five days old. Keeper fed Ndiwa with a bottle.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -242,10 +562,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-9.jpg",
       "story_text": "The third orphan that month was Malea. She arrived at the nursery on a red tractor. She was six months old.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -271,10 +631,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-10.jpg",
       "story_text": "Malea the rhinoceros soon became close friends with Enkare, a baby buffalo. They went everywhere together.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -300,10 +700,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-11.jpg",
       "story_text": "One night, everybody was woken up by the arrival of Ambia.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -329,10 +769,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-12.jpg",
       "story_text": "Ambia was five months old. She was weak after her long journey.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -358,10 +838,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-13.jpg",
       "story_text": "Because of her long neck, Keeper held the bottle high to feed Ambia.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -387,10 +907,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-14.jpg",
       "story_text": "Tiny twins Abei and Moit arrived in the middle of August. These antelopes were only a few hours old. They were very sick.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -416,10 +976,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-15.jpg",
       "story_text": "Everyone was sad when Abei died a week after he arrived at the nursery. But Keeper and his helpers saved Moit.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -445,10 +1045,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-16.jpg",
       "story_text": "The last orphans to arrive in August were Kopi, Kepi, and Keji. These cubs were two weeks old. They were very hungry when they arrived.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -474,10 +1114,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-17.jpg",
       "story_text": "Keeper and his helpers love all of the animals, even the naughty ones.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -503,10 +1183,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-18.jpg",
       "story_text": "The naughtiest baby was Lobolia. Lobolia liked to hide Keeper's glasses.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -532,10 +1252,50 @@
       "illustration": "EFMStorybooks/EFM-SB-KAHN-19.jpg",
       "story_text": "The people at the nursery work hard to look after the baby animals. They hope that one day the orphans can look after themselves. Then they can return to the wild.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -560,7 +1320,17 @@
       "page_no": 20,
       "story_text": "How old and how many? Read the story again and then answer these questions.\n\n1. How many animals arrived at the nursery in the month of August?\n\n2. Who arrived first that month? How old was this animal?\n\n3. Who arrived last? How old were those animals?\n\n4. Who were the youngest animals to arrive in August? How old were they?\n\n5. Who was the oldest to arrive in August?\n\nReviewing a story after you read it can help you remember it much better!",
       "_translations": {
-        "story_text": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {

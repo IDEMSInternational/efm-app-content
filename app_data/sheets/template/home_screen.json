@@ -35,7 +35,16 @@
           "name": "spacer",
           "value": "Welcome!",
           "_translations": {
-            "value": {}
+            "value": {
+              "br_pt": true,
+              "cn_zh": true,
+              "es_es": true,
+              "fr_fr": true,
+              "kr_ko": true,
+              "ru_ru": true,
+              "sa_ar": true,
+              "tr_tr": true
+            }
           },
           "style_list": [
             "flex:1"
@@ -336,7 +345,16 @@
           "name": "button_storybooks",
           "value": "Storybooks",
           "_translations": {
-            "value": {}
+            "value": {
+              "br_pt": true,
+              "cn_zh": true,
+              "es_es": true,
+              "fr_fr": true,
+              "kr_ko": true,
+              "ru_ru": true,
+              "sa_ar": true,
+              "tr_tr": true
+            }
           },
           "action_list": [
             {
@@ -456,7 +474,16 @@
           "name": "button_storybooks",
           "value": "Storybooks",
           "_translations": {
-            "value": {}
+            "value": {
+              "br_pt": true,
+              "cn_zh": true,
+              "es_es": true,
+              "fr_fr": true,
+              "kr_ko": true,
+              "ru_ru": true,
+              "sa_ar": true,
+              "tr_tr": true
+            }
           },
           "action_list": [
             {
@@ -664,7 +691,16 @@
           "name": "button_activities",
           "value": "Activities",
           "_translations": {
-            "value": {}
+            "value": {
+              "br_pt": true,
+              "cn_zh": true,
+              "es_es": true,
+              "fr_fr": true,
+              "kr_ko": true,
+              "ru_ru": true,
+              "sa_ar": true,
+              "tr_tr": true
+            }
           },
           "action_list": [
             {
@@ -784,7 +820,16 @@
           "name": "button_activities",
           "value": "Activities",
           "_translations": {
-            "value": {}
+            "value": {
+              "br_pt": true,
+              "cn_zh": true,
+              "es_es": true,
+              "fr_fr": true,
+              "kr_ko": true,
+              "ru_ru": true,
+              "sa_ar": true,
+              "tr_tr": true
+            }
           },
           "action_list": [
             {
@@ -993,7 +1038,16 @@
           "name": "math_learning_steps",
           "value": "Math Learning Steps",
           "_translations": {
-            "value": {}
+            "value": {
+              "br_pt": true,
+              "cn_zh": true,
+              "es_es": true,
+              "fr_fr": true,
+              "kr_ko": true,
+              "ru_ru": true,
+              "sa_ar": true,
+              "tr_tr": true
+            }
           },
           "action_list": [
             {
@@ -1113,7 +1167,16 @@
           "name": "math_learning_steps",
           "value": "Math Learning Steps",
           "_translations": {
-            "value": {}
+            "value": {
+              "br_pt": true,
+              "cn_zh": true,
+              "es_es": true,
+              "fr_fr": true,
+              "kr_ko": true,
+              "ru_ru": true,
+              "sa_ar": true,
+              "tr_tr": true
+            }
           },
           "action_list": [
             {
@@ -1337,7 +1400,16 @@
           "name": "button_playdates",
           "value": "Playdates",
           "_translations": {
-            "value": {}
+            "value": {
+              "br_pt": true,
+              "cn_zh": true,
+              "es_es": true,
+              "fr_fr": true,
+              "kr_ko": true,
+              "ru_ru": true,
+              "sa_ar": true,
+              "tr_tr": true
+            }
           },
           "action_list": [
             {
@@ -1457,7 +1529,16 @@
           "name": "button_playdates",
           "value": "Playdates",
           "_translations": {
-            "value": {}
+            "value": {
+              "br_pt": true,
+              "cn_zh": true,
+              "es_es": true,
+              "fr_fr": true,
+              "kr_ko": true,
+              "ru_ru": true,
+              "sa_ar": true,
+              "tr_tr": true
+            }
           },
           "action_list": [
             {

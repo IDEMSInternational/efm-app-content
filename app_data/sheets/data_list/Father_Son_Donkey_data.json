@@ -10,10 +10,50 @@
       "illustration": "EFMStorybooks/EFM-SB-FSAD-1.jpg",
       "story_text": "A father, his son, and their donkey started a long journey.\n\nOn the way, some people asked them why they didn't ride the donkey.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -39,10 +79,50 @@
       "illustration": "EFMStorybooks/EFM-SB-FSAD-2.jpg",
       "story_text": "The father invited his son to ride the donkey while he walked.\n\nThey continued like this for a while.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -68,10 +148,50 @@
       "illustration": "EFMStorybooks/EFM-SB-FSAD-3.jpg",
       "story_text": "Then, other people they met remarked, \"Look at this rude boy riding a donkey while his father is walking!\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -97,10 +217,50 @@
       "illustration": "EFMStorybooks/EFM-SB-FSAD-4.jpg",
       "story_text": "As a result, the son jumped down and his father rode the donkey.\n\nThey continued their journey.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -126,10 +286,50 @@
       "illustration": "EFMStorybooks/EFM-SB-FSAD-5.jpg",
       "story_text": "After some time, other people said, \"Look at this rude father riding a donkey while his son is walking!\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -155,10 +355,50 @@
       "illustration": "EFMStorybooks/EFM-SB-FSAD-6.jpg",
       "story_text": "So the father and son decided to ride the donkey together.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -184,10 +424,50 @@
       "illustration": "EFMStorybooks/EFM-SB-FSAD-7.jpg",
       "story_text": "But a few minutes later, some people remarked, \"Look at these rude people! They are going to kill the donkey.\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -213,10 +493,50 @@
       "illustration": "EFMStorybooks/EFM-SB-FSAD-8.jpg",
       "story_text": "Finally, father and son understood that they could not escape from people's remarks.\n\nThey decided to use their minds to do the right thing.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
