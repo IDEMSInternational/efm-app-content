@@ -8,7 +8,16 @@
       "name": "title",
       "value": "Activities – Bonus Material",
       "_translations": {
-        "value": {}
+        "value": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_nested_name": "title"
     },

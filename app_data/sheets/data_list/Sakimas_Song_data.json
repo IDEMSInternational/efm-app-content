@@ -10,10 +10,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-1.jpg",
       "story_text": "Sakima lived with his parents and his four-year-old sister.\n\nThey lived on a rich man's land.\n\nTheir grass-thatched hut was at the end of a row of trees.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -39,10 +79,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-2.jpg",
       "story_text": "When Sakima was three years old, he fell sick and lost his sight.\n\nSakima was a talented boy.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -68,10 +148,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-3.jpg",
       "story_text": "Sakima did many things that other six-year-old children did not do.\n\nFor example, he could sit with older members of the village and discuss matters.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -97,10 +217,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-4.jpg",
       "story_text": "Sakima's parents worked at the rich man's house.\n\nThey left home early in the morning and returned late in the evening.\n\nSakima was left with his little sister.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -126,10 +286,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-5.jpg",
       "story_text": "Sakima loved to sing songs.\n\nOne day his mother asked him, \"Where do you learn these songs from, Sakima?\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -155,10 +355,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-6.jpg",
       "story_text": "Sakima answered, \"I just know them, mother. I hear them in my mind and then I sing.\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -184,10 +424,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-7.jpg",
       "story_text": "Sakima liked to sing for his little sister, especially, if she felt hungry.\n\nHis sister would listen to him singing his favorite song. She would sway to the soothing tune.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -213,10 +493,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-8.jpg",
       "story_text": "\"Can you sing it again and again, Sakima?\" his sister would beg him.\n\nSakima would accept and sing it over and over again.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -242,10 +562,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-9.jpg",
       "story_text": "One evening when his parents returned home, they were very quiet.\n\nSakima knew that there was something wrong.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -271,10 +631,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-10.jpg",
       "story_text": "\"What is wrong, mother, father?\" Sakima asked.\n\nSakima learned that the rich man's son was missing.\n\nThe man was very sad and lonely.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -300,10 +700,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-11.jpg",
       "story_text": "\"I can sing for him. He might be happy again,\" Sakima told his parents.\n\nBut his parents dismissed him. \"He is very rich. You are only a blind boy. Do you think your song will help him?\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -329,10 +769,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-12.jpg",
       "story_text": "However, Sakima did not give up. His little sister supported him.\n\nShe said, \"Sakima's songs soothe me when I am hungry. They will soothe the rich man too.\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -358,10 +838,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-13.jpg",
       "story_text": "The following day, Sakima asked his little sister to lead him to the rich man's house.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -387,10 +907,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-14.jpg",
       "story_text": "He stood below a window and began to sing his favorite song.\n\nSlowly, the head of the rich man began to show through the window.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -416,10 +976,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-15.jpg",
       "story_text": "The workers stopped what they were doing. They listened to Sakima's beautiful song.\n\nBut one man said, \"Nobody has been able to console the boss. Does this blind boy think he will console him?\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -445,10 +1045,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-16.jpg",
       "story_text": "Sakima finished singing his song and turned to leave.\n\nBut the rich man rushed out and said, \"Please sing the song again.\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -474,10 +1114,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-17.jpg",
       "story_text": "At that very moment, two men came carrying someone on a stretcher.\n\nThey had found the rich man's son beaten up and left on the side of the road.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -503,10 +1183,50 @@
       "illustration": "EFMStorybooks/EFM-SB-SSONG-18.jpg",
       "story_text": "The rich man was so happy to see his son again.\n\nHe rewarded Sakima for consoling him.\n\nHe took his son and Sakima to the hospital to check if Sakima could see again.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {

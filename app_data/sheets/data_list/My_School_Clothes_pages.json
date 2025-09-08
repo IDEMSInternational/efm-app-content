@@ -10,10 +10,54 @@
       "illustration": "EFMStorybooks/EFM-SB-MSC-1.jpg",
       "story_text": "My sister's dress is too big for me!",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -39,10 +83,54 @@
       "illustration": "EFMStorybooks/EFM-SB-MSC-2.jpg",
       "story_text": "My brother's jersey is also too big for me.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -68,10 +156,54 @@
       "illustration": "EFMStorybooks/EFM-SB-MSC-3.jpg",
       "story_text": "My bag is big.\n\nBut not too big!",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -97,10 +229,54 @@
       "illustration": "EFMStorybooks/EFM-SB-MSC-4.jpg",
       "story_text": "This old belt is too small for me.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -126,10 +302,54 @@
       "illustration": "EFMStorybooks/EFM-SB-MSC-5.jpg",
       "story_text": "This is my doll's hat.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -155,10 +375,54 @@
       "illustration": "EFMStorybooks/EFM-SB-MSC-6.jpg",
       "story_text": "My socks are the right size.\n\nBut the wrong color!",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -184,10 +448,54 @@
       "illustration": "EFMStorybooks/EFM-SB-MSC-7.jpg",
       "story_text": "These are my new shoes.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -213,10 +521,54 @@
       "illustration": "EFMStorybooks/EFM-SB-MSC-8.jpg",
       "story_text": "They fit me very well.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {

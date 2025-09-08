@@ -10,8 +10,16 @@
       "block1_type": "all_text",
       "title": "1.0 Stage 1 Introduction",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -29,8 +37,18 @@
       "block1_type": "all_text",
       "title": "1.1 Math Talk – Early and Often",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -48,8 +66,18 @@
       "block1_type": "all_text",
       "title": "1.2 Math Talk – At Home",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -67,8 +95,18 @@
       "block1_type": "all_text",
       "title": "1.3 Math Talk – Out and About",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -86,8 +124,18 @@
       "block1_type": "all_text",
       "title": "1.4 Math Talk – Describe, Compare",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -105,8 +153,18 @@
       "block1_type": "all_text",
       "title": "1.5 Math Talk – Counting",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -124,8 +182,18 @@
       "block1_type": "all_text",
       "title": "1.6 Math Talk – Point, Describe, Ask",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -151,10 +219,30 @@
       "block5_type": "all_text",
       "title": "1.7 Object Properties",
       "_translations": {
-        "title": {},
-        "block1_text": {},
-        "block3_text": {},
-        "block5_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block3_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block5_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -180,8 +268,18 @@
       "block1_type": "all_text",
       "title": "1.8 Same and Different",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -203,9 +301,24 @@
       "block3_type": "all_text",
       "title": "1.9 Patterns",
       "_translations": {
-        "title": {},
-        "block1_text": {},
-        "block3_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block3_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -227,8 +340,18 @@
       "block1_type": "all_text",
       "title": "1.10 Basic Shapes I",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -246,8 +369,16 @@
       "block1_type": "all_text",
       "title": "2.0 Stage 2 Introduction",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -265,8 +396,18 @@
       "block1_type": "all_text",
       "title": "2.1 Counting Up From 1 and 0",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -284,8 +425,18 @@
       "block1_type": "all_text",
       "title": "2.2 Counting Down to 1 and 0",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -303,8 +454,18 @@
       "block1_type": "all_text",
       "title": "2.3 Comparing Small Quantities",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -322,8 +483,18 @@
       "block1_type": "all_text",
       "title": "2.4 Counting On",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -341,8 +512,18 @@
       "block1_type": "all_text",
       "title": "2.5 Basic Shapes II",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -360,8 +541,18 @@
       "block1_type": "all_text",
       "title": "2.6 One More and One Less",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -379,8 +570,18 @@
       "block1_type": "all_text",
       "title": "2.7 Finger Add and Subtract to 5",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -406,10 +607,30 @@
       "block5_type": "all_text",
       "title": "2.8 Finger Add and Subtract to 10",
       "_translations": {
-        "title": {},
-        "block1_text": {},
-        "block3_text": {},
-        "block5_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block3_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block5_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -435,8 +656,18 @@
       "block1_type": "all_text",
       "title": "2.9 Skip Counting by 2's",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -458,9 +689,24 @@
       "block3_type": "all_text",
       "title": "2.10 Counting Groups",
       "_translations": {
-        "title": {},
-        "block1_text": {},
-        "block3_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block3_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -482,8 +728,16 @@
       "block1_type": "all_text",
       "title": "3.0 Stage 3 Introduction",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -501,8 +755,18 @@
       "block1_type": "all_text",
       "title": "3.1 Mental Adding by Counting On",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -520,8 +784,18 @@
       "block1_type": "all_text",
       "title": "3.2 Mental Subtracting – Take Away",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -539,8 +813,18 @@
       "block1_type": "all_text",
       "title": "3.3 Mental Subtracting – Difference",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -562,9 +846,24 @@
       "block3_type": "all_text",
       "title": "3.4 Number Bonds",
       "_translations": {
-        "title": {},
-        "block1_text": {},
-        "block3_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block3_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -586,8 +885,18 @@
       "block1_type": "all_text",
       "title": "3.5 Place Value",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -609,9 +918,24 @@
       "block3_type": "all_text",
       "title": "3.6 Fact Families",
       "_translations": {
-        "title": {},
-        "block1_text": {},
-        "block3_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block3_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -633,8 +957,18 @@
       "block1_type": "all_text",
       "title": "3.7 Adding Twins and Near Twins",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -652,8 +986,18 @@
       "block1_type": "all_text",
       "title": "3.8 Multiply and Divide by 2",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -671,8 +1015,18 @@
       "block1_type": "all_text",
       "title": "3.9 Skip Counting by 2's II",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -690,8 +1044,18 @@
       "block1_type": "all_text",
       "title": "3.10 Strategy Games",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -709,8 +1073,16 @@
       "block1_type": "all_text",
       "title": "4.0 Stage 4 Introduction",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -728,8 +1100,18 @@
       "block1_type": "all_text",
       "title": "4.1 Counting to 100",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -747,8 +1129,18 @@
       "block1_type": "all_text",
       "title": "4.2 Two-Digit Place Value",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -766,8 +1158,18 @@
       "block1_type": "all_text",
       "title": "4.3 Finger Addition The Easy Way",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -785,8 +1187,18 @@
       "block1_type": "all_text",
       "title": "4.4 Finger Subtraction The Easy Way",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -804,8 +1216,18 @@
       "block1_type": "all_text",
       "title": "4.5 Compensation for Add and Subtract",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -823,8 +1245,18 @@
       "block1_type": "all_text",
       "title": "4.6 10 as a Midway Point",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -842,8 +1274,18 @@
       "block1_type": "all_text",
       "title": "4.7 Skip Counting by 2's, 5's, and 10's",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -861,8 +1303,18 @@
       "block1_type": "all_text",
       "title": "4.8 Beginning Multiplying",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -884,9 +1336,24 @@
       "block3_type": "all_text",
       "title": "4.9 Multiplying 1-5 by 1-5",
       "_translations": {
-        "title": {},
-        "block1_text": {},
-        "block3_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block3_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -908,8 +1375,18 @@
       "block1_type": "all_text",
       "title": "4.10 Strategy Games II",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -927,8 +1404,16 @@
       "block1_type": "all_text",
       "title": "5.0 Stage 5 Introduction",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -946,8 +1431,18 @@
       "block1_type": "all_text",
       "title": "5.1 3-Digit Place Value",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -965,8 +1460,18 @@
       "block1_type": "all_text",
       "title": "5.2 Double-Digit Add and Subtract",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -984,8 +1489,18 @@
       "block1_type": "all_text",
       "title": "5.3 Skip Counting by 2's to 10's",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1003,8 +1518,18 @@
       "block1_type": "all_text",
       "title": "5.4 Multiplying by 2, 4, 8, 5, and 10",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1022,8 +1547,18 @@
       "block1_type": "all_text",
       "title": "5.5 Multiplying by 3, 4, 6, 9, and 11",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1041,8 +1576,18 @@
       "block1_type": "all_text",
       "title": "5.6 Single-Digit Multiplication",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1060,8 +1605,18 @@
       "block1_type": "all_text",
       "title": "5.7 Divisors, Factors, and Multiples",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1083,9 +1638,24 @@
       "block3_type": "all_text",
       "title": "5.8 Primes, Composites, and Powers",
       "_translations": {
-        "title": {},
-        "block1_text": {},
-        "block3_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block3_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1107,8 +1677,18 @@
       "block1_type": "all_text",
       "title": "5.9 Fact Families II",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {
@@ -1126,8 +1706,18 @@
       "block1_type": "all_text",
       "title": "5.10 Single-Digit Division",
       "_translations": {
-        "title": {},
-        "block1_text": {}
+        "title": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        },
+        "block1_text": {
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "title": {

@@ -10,10 +10,54 @@
       "illustration": "EFMStorybooks/EFM-SB-TFHH-1.jpg",
       "story_text": "One day Tortoise was walking through the countryside. He was looking for something. He gazed into the distance and squinted at the grass. Then he walked past Snail.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -38,10 +82,54 @@
       "page_no": 2,
       "story_text": "\"Are you looking for something?\" Snail asked. \"Yes, Snail, I'm looking for my house. Have you seen it, by any chance?\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -67,10 +155,54 @@
       "illustration": "EFMStorybooks/EFM-SB-TFHH-3.jpg",
       "story_text": "Snail said, \"No, I haven't, but I'll help you look!\" She climbed onto Tortoise's shell.\n\nTortoise walked on with Snail on his back. They looked and looked, but there was no sign of a house. The sun was high in the sky.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -96,10 +228,54 @@
       "illustration": "EFMStorybooks/EFM-SB-TFHH-4.jpg",
       "story_text": "A little later they passed Sparrow.\n\n\"Are you looking for something?\" asked Sparrow. \"Yes, Sparrow, I'm looking for my house. Have you seen it, by any chance?\" Sparrow said, \"No, I haven't, but I'll help you look!\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -125,10 +301,54 @@
       "illustration": "EFMStorybooks/EFM-SB-TFHH-5.jpg",
       "story_text": "He flapped his wings and he whizzed away. \"But you’re going too fast for me,\" complained Tortoise. Sparrow came back. \"Alright, then I’ll hop on too.\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -154,10 +374,54 @@
       "illustration": "EFMStorybooks/EFM-SB-TFHH-6.jpg",
       "story_text": "Tortoise carried on, with Snail and Sparrow perched on his shell. They looked and looked, but there was no sign of a house. The sun had inched lower in the sky.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -183,10 +447,54 @@
       "illustration": "EFMStorybooks/EFM-SB-TFHH-7.jpg",
       "story_text": "A little later they passed Ladybird. \"Are you looking for something?\" asked Ladybird. \"Yes, Ladybird, I'm looking for my house. Have you seen it, by any chance?\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -212,10 +520,54 @@
       "illustration": "EFMStorybooks/EFM-SB-TFHH-8.jpg",
       "story_text": "Ladybird said, \"No, I haven't, but I'll help you look!\" She hopped onto Tortoise's back and on he went, with Snail and Sparrow and Ladybird on his back.\n\nThey looked and looked, but there was no sign of a house. A breeze started to blow.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -241,10 +593,54 @@
       "illustration": "EFMStorybooks/EFM-SB-TFHH-9.jpg",
       "story_text": "A little later they passed Mouse. He was making a garland of daisies. \"Are you looking for something?\" asked Mouse. \"Yes, Mouse, I'm looking for my house. Have you seen it, by any chance?\"",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -270,10 +666,54 @@
       "illustration": "EFMStorybooks/EFM-SB-TFHH-10.jpg",
       "story_text": "Mouse said: \"No, I haven't, but I'll help you look!\" She hopped onto Tortoise's back. \"Wait, I can't leave my flowers behind.\" Tortoise waited. Mouse stretched and stretched and scooped up her daisies.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -299,10 +739,54 @@
       "illustration": "EFMStorybooks/EFM-SB-TFHH-11.jpg",
       "story_text": "Tortoise walked on, with Snail and Sparrow and Ladybird and Mouse on his back. They looked and looked, but there was no sign of a house. The wind swept leaves off the ground and swirled them around Tortoise's feet. He was tired. \"You lot are heavy,\" he sighed.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -328,10 +812,54 @@
       "illustration": "EFMStorybooks/EFM-SB-TFHH-12.jpg",
       "story_text": "The wind got stronger. The sky turned dark. \"Oh, where is my house?\" asked Tortoise. Thunder roared in the hills. Lightning flashed in the distance. Drip-drip came the rain.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -357,10 +885,54 @@
       "illustration": "EFMStorybooks/EFM-SB-TFHH-13.jpg",
       "story_text": "The wind swirled and whipped. It blew Snail and Sparrow and Ladybird and Mouse right off Tortoise's back.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -386,10 +958,54 @@
       "illustration": "EFMStorybooks/EFM-SB-TFHH-14.jpg",
       "story_text": "And then came the hail, tip-tip-tip. Tortoise got such a fright he shrank into his shell. It was warm and cozy in there. \"Oh, here is my house!\" smiled Tortoise.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
@@ -415,10 +1031,54 @@
       "illustration": "EFMStorybooks/EFM-SB-TFHH-15.jpg",
       "story_text": "Oh, here is Tortoise's house! said Snail and Sparrow and Ladybird and Mouse.",
       "_translations": {
-        "story_text": {},
-        "annotation_1": {},
-        "annotation_2": {},
-        "annotation_3": {}
+        "story_text": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_1": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_2": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        },
+        "annotation_3": {
+          "br_pt": true,
+          "cn_zh": true,
+          "es_es": true,
+          "fr_fr": true,
+          "gr_el": true,
+          "jp_ja": true,
+          "kr_ko": true,
+          "ru_ru": true,
+          "sa_ar": true,
+          "tr_tr": true
+        }
       },
       "_translatedFields": {
         "story_text": {
