@@ -4431,6 +4431,7 @@
   "Intermediate": "Intermedio",
   "Advanced": "Avanzado",
   "**Beginning Storybooks**": "**Libros de Historias Principiante**",
+  "@local.book_title_in_table == \"NoTranslation\"": "@local.book_title_in_table == \"NoTranslation\"",
   "**Intermediate Storybooks**": "**Libros de cuentos nivel intermedio**",
   "**Advanced Storybooks**": "**Libros de cuentos nivel avanzado**",
   "Read Bonus Material": "Leer Material Adicional",

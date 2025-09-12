@@ -408,7 +408,10 @@
               "name": "not_translated",
               "value": "@local.book_title_in_table == \"NoTranslation\"",
               "_translations": {
-                "value": {}
+                "value": {
+                  "es_es": true,
+                  "fr_fr": true
+                }
               },
               "exclude_from_translation": true,
               "type": "set_variable",
@@ -826,7 +829,10 @@
               "name": "not_translated",
               "value": "@local.book_title_in_table == \"NoTranslation\"",
               "_translations": {
-                "value": {}
+                "value": {
+                  "es_es": true,
+                  "fr_fr": true
+                }
               },
               "exclude_from_translation": true,
               "type": "set_variable",
@@ -1244,7 +1250,10 @@
               "name": "not_translated",
               "value": "@local.book_title_in_table == \"NoTranslation\"",
               "_translations": {
-                "value": {}
+                "value": {
+                  "es_es": true,
+                  "fr_fr": true
+                }
               },
               "exclude_from_translation": true,
               "type": "set_variable",

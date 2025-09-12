@@ -136,7 +136,9 @@
       "name": "button_completed",
       "value": "Continue",
       "_translations": {
-        "value": {}
+        "value": {
+          "fr_fr": true
+        }
       },
       "action_list": [
         {
