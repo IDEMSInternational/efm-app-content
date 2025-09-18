@@ -360,6 +360,9 @@
           "type": "items",
           "name": "activity_buttons",
           "value": "@data.efm_storybooks",
+          "parameter_list": {
+            "sort": "title_@fields._app_language"
+          },
           "rows": [
             {
               "name": "book_id",
@@ -725,11 +728,24 @@
                 "type": "data",
                 "fieldName": "efm_storybooks"
               }
-            ]
+            ],
+            "parameter_list": {
+              "sort": [
+                {
+                  "fullExpression": "title_@fields._app_language",
+                  "matchedExpression": "@fields._app_language",
+                  "type": "fields",
+                  "fieldName": "_app_language"
+                }
+              ]
+            }
           },
           "_dynamicDependencies": {
             "@data.efm_storybooks": [
               "value"
+            ],
+            "@fields._app_language": [
+              "parameter_list.sort"
             ]
           }
         }
@@ -782,6 +798,9 @@
           "type": "items",
           "name": "activity_buttons",
           "value": "@data.efm_storybooks",
+          "parameter_list": {
+            "sort": "title_@fields._app_language"
+          },
           "rows": [
             {
               "name": "book_id",
@@ -1147,11 +1166,24 @@
                 "type": "data",
                 "fieldName": "efm_storybooks"
               }
-            ]
+            ],
+            "parameter_list": {
+              "sort": [
+                {
+                  "fullExpression": "title_@fields._app_language",
+                  "matchedExpression": "@fields._app_language",
+                  "type": "fields",
+                  "fieldName": "_app_language"
+                }
+              ]
+            }
           },
           "_dynamicDependencies": {
             "@data.efm_storybooks": [
               "value"
+            ],
+            "@fields._app_language": [
+              "parameter_list.sort"
             ]
           }
         }
@@ -1204,6 +1236,9 @@
           "type": "items",
           "name": "activity_buttons",
           "value": "@data.efm_storybooks",
+          "parameter_list": {
+            "sort": "title_@fields._app_language"
+          },
           "rows": [
             {
               "name": "book_id",
@@ -1569,11 +1604,24 @@
                 "type": "data",
                 "fieldName": "efm_storybooks"
               }
-            ]
+            ],
+            "parameter_list": {
+              "sort": [
+                {
+                  "fullExpression": "title_@fields._app_language",
+                  "matchedExpression": "@fields._app_language",
+                  "type": "fields",
+                  "fieldName": "_app_language"
+                }
+              ]
+            }
           },
           "_dynamicDependencies": {
             "@data.efm_storybooks": [
               "value"
+            ],
+            "@fields._app_language": [
+              "parameter_list.sort"
             ]
           }
         }
