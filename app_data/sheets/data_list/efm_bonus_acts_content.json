@@ -17,9 +17,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "activity_type": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -27,6 +29,7 @@
           "tr_tr": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -40,7 +43,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block2_title": {
           "br_pt": true,
@@ -49,7 +53,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block2_text": {
           "br_pt": true,
@@ -58,7 +63,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "_translatedFields": {
@@ -103,7 +109,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "activity_type": {
           "br_pt": true,
@@ -112,7 +119,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_text": {
           "br_pt": true,
@@ -121,7 +129,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block2_text": {
           "br_pt": true,
@@ -130,7 +139,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block3_text": {
           "br_pt": true,
@@ -139,7 +149,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block4_text": {
           "br_pt": true,
@@ -148,7 +159,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "_translatedFields": {
@@ -195,9 +207,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "activity_type": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -205,6 +219,7 @@
           "tr_tr": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -218,7 +233,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block2_title": {
           "br_pt": true,
@@ -227,7 +243,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block2_text": {
           "br_pt": true,
@@ -236,7 +253,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block4_title": {
           "br_pt": true,
@@ -245,7 +263,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block4_text": {
           "br_pt": true,
@@ -254,7 +273,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block5_title": {
           "br_pt": true,
@@ -263,7 +283,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block5_text": {
           "br_pt": true,
@@ -272,7 +293,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block6_title": {
           "br_pt": true,
@@ -281,7 +303,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block6_text": {
           "br_pt": true,
@@ -290,7 +313,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "_translatedFields": {
@@ -356,7 +380,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "activity_type": {
           "br_pt": true,
@@ -365,7 +390,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
           "br_pt": true,
@@ -374,7 +400,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_text": {
           "br_pt": true,
@@ -383,7 +410,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block2_title": {
           "br_pt": true,
@@ -392,7 +420,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block2_text": {
           "br_pt": true,
@@ -401,7 +430,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block3_text": {
           "br_pt": true,
@@ -410,7 +440,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "_translatedFields": {
@@ -469,9 +500,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "activity_type": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -485,7 +518,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_text": {
           "br_pt": true,
@@ -494,7 +528,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block4_title": {
           "br_pt": true,
@@ -503,7 +538,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block4_text": {
           "br_pt": true,
@@ -512,7 +548,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block7_title": {
           "br_pt": true,
@@ -521,7 +558,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block7_text": {
           "br_pt": true,
@@ -530,7 +568,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "_translatedFields": {
@@ -581,7 +620,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "activity_type": {
           "br_pt": true,
@@ -590,9 +630,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -606,7 +648,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block2_title": {
           "br_pt": true,
@@ -615,7 +658,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block2_text": {
           "br_pt": true,
@@ -624,7 +668,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block3_title": {
           "br_pt": true,
@@ -633,7 +678,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block3_text": {
           "br_pt": true,
@@ -642,7 +688,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "_translatedFields": {
@@ -695,7 +742,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "activity_type": {
           "br_pt": true,
@@ -704,9 +752,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -720,7 +770,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block2_title": {
           "br_pt": true,
@@ -729,7 +780,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block2_text": {
           "br_pt": true,
@@ -738,7 +790,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block3_title": {
           "br_pt": true,
@@ -747,7 +800,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block3_text": {
           "br_pt": true,
@@ -756,7 +810,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block4_title": {
           "br_pt": true,
@@ -765,7 +820,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block4_text": {
           "br_pt": true,
@@ -774,7 +830,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "_translatedFields": {
@@ -834,7 +891,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "activity_type": {
           "br_pt": true,
@@ -843,9 +901,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -859,7 +919,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block2_text": {
           "br_pt": true,
@@ -868,7 +929,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "_translatedFields": {
@@ -906,9 +968,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "activity_type": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -916,6 +980,7 @@
           "tr_tr": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -929,7 +994,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block2_title": {
           "br_pt": true,
@@ -938,7 +1004,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block2_text": {
           "br_pt": true,
@@ -947,7 +1014,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block3_title": {
           "br_pt": true,
@@ -956,7 +1024,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block3_text": {
           "br_pt": true,
@@ -965,7 +1034,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "_translatedFields": {
@@ -1016,7 +1086,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "activity_type": {
           "br_pt": true,
@@ -1025,7 +1096,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
           "br_pt": true,
@@ -1034,7 +1106,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_text": {
           "br_pt": true,
@@ -1043,7 +1116,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block2_text": {
           "br_pt": true,
@@ -1052,7 +1126,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block3_title": {
           "br_pt": true,
@@ -1061,7 +1136,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block3_text": {
           "br_pt": true,
@@ -1070,7 +1146,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block4_title": {
           "br_pt": true,
@@ -1079,7 +1156,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block4_text": {
           "br_pt": true,
@@ -1088,7 +1166,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "_translatedFields": {
@@ -1141,6 +1220,7 @@
       "activity_title": "Shape Sums",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1154,9 +1234,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1164,6 +1246,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1171,6 +1254,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1178,6 +1262,7 @@
           "tr_tr": true
         },
         "block3_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1185,6 +1270,7 @@
           "tr_tr": true
         },
         "block4_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1192,6 +1278,7 @@
           "tr_tr": true
         },
         "block5_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1240,6 +1327,7 @@
       "activity_title": "Nim – Doubling the Limit",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1253,9 +1341,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1263,6 +1353,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1270,6 +1361,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1277,6 +1369,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1317,6 +1410,7 @@
       "activity_title": "Counting Evens and Odds",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1330,9 +1424,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1340,6 +1436,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1347,6 +1444,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1354,6 +1452,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1400,6 +1499,7 @@
       "activity_title": "Sum Groups",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1413,9 +1513,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1423,6 +1525,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1430,6 +1533,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1466,6 +1570,7 @@
       "activity_title": "Zoo Rescue",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1479,9 +1584,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1489,6 +1596,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1496,6 +1604,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1503,6 +1612,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1543,6 +1653,7 @@
       "activity_title": "Common Sums",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1550,6 +1661,7 @@
           "tr_tr": true
         },
         "activity_type": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1557,6 +1669,7 @@
           "tr_tr": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1564,6 +1677,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1571,6 +1685,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1578,6 +1693,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1620,6 +1736,7 @@
       "activity_title": "Sudoku Variations",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1633,9 +1750,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1643,6 +1762,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1650,6 +1770,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1657,6 +1778,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1664,6 +1786,7 @@
           "tr_tr": true
         },
         "block3_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1671,6 +1794,7 @@
           "tr_tr": true
         },
         "block4_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1678,6 +1802,7 @@
           "tr_tr": true
         },
         "block4_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1685,6 +1810,7 @@
           "tr_tr": true
         },
         "block5_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1741,6 +1867,7 @@
       "activity_title": "How Many Ways?",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1748,6 +1875,7 @@
           "tr_tr": true
         },
         "activity_type": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1755,6 +1883,7 @@
           "tr_tr": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1762,6 +1891,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1769,6 +1899,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1776,6 +1907,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1783,6 +1915,7 @@
           "tr_tr": true
         },
         "block3_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1790,6 +1923,7 @@
           "tr_tr": true
         },
         "block3_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1797,6 +1931,7 @@
           "tr_tr": true
         },
         "block4_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1804,6 +1939,7 @@
           "tr_tr": true
         },
         "block4_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1860,6 +1996,7 @@
       "activity_title": "Card Deck Ordering",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1873,9 +2010,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1883,6 +2022,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1890,6 +2030,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1897,6 +2038,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1939,6 +2081,7 @@
       "activity_title": "Difference Pyramid",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1952,9 +2095,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1962,6 +2107,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1969,6 +2115,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1976,6 +2123,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1983,6 +2131,7 @@
           "tr_tr": true
         },
         "block3_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -1990,6 +2139,7 @@
           "tr_tr": true
         },
         "block3_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2042,6 +2192,7 @@
       "activity_title": "Enclosed Sums",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2055,7 +2206,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
           "br_pt": true,
@@ -2064,9 +2216,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2074,6 +2228,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2112,6 +2267,7 @@
       "activity_title": "Island Hopping – Compensation",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2125,7 +2281,8 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
           "br_pt": true,
@@ -2134,9 +2291,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2144,6 +2303,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2189,6 +2349,7 @@
       "activity_title": "DiffTriangles and SumTriangles",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2202,9 +2363,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2212,6 +2375,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2219,6 +2383,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2226,6 +2391,7 @@
           "tr_tr": true
         },
         "block3_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2233,6 +2399,7 @@
           "tr_tr": true
         },
         "block5_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2240,6 +2407,7 @@
           "tr_tr": true
         },
         "block5_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2290,6 +2458,7 @@
       "activity_title": "Island Hopping – Skip Counting",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2303,9 +2472,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2313,6 +2484,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2349,6 +2521,7 @@
       "activity_title": "Fix It",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2362,9 +2535,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2372,6 +2547,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2407,6 +2583,7 @@
       "activity_title": "Island Hopping by Ones and Tens",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2420,9 +2597,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2430,6 +2609,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2478,6 +2658,7 @@
       "activity_title": "Solitaire Shape Puzzles",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2491,9 +2672,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2501,6 +2684,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2508,6 +2692,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2515,6 +2700,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2522,6 +2708,7 @@
           "tr_tr": true
         },
         "block3_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2529,6 +2716,7 @@
           "tr_tr": true
         },
         "block3_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2536,6 +2724,7 @@
           "tr_tr": true
         },
         "block4_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2543,6 +2732,7 @@
           "tr_tr": true
         },
         "block4_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2550,6 +2740,7 @@
           "tr_tr": true
         },
         "block5_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2557,6 +2748,7 @@
           "tr_tr": true
         },
         "block6_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2564,6 +2756,7 @@
           "tr_tr": true
         },
         "block7_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2571,6 +2764,7 @@
           "tr_tr": true
         },
         "block8_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2578,6 +2772,7 @@
           "tr_tr": true
         },
         "block9_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2585,6 +2780,7 @@
           "tr_tr": true
         },
         "block10_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2667,6 +2863,7 @@
       "activity_title": "Sum Square",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2680,9 +2877,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2690,6 +2889,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2697,6 +2897,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2704,6 +2905,7 @@
           "tr_tr": true
         },
         "block3_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2711,6 +2913,7 @@
           "tr_tr": true
         },
         "block3_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2756,6 +2959,7 @@
       "activity_title": "Addition Pyramid",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2769,9 +2973,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2779,6 +2985,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2786,6 +2993,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2829,9 +3037,11 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "activity_type": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2839,6 +3049,7 @@
           "tr_tr": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2846,6 +3057,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2853,6 +3065,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2860,6 +3073,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2867,6 +3081,7 @@
           "tr_tr": true
         },
         "block3_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2874,6 +3089,7 @@
           "tr_tr": true
         },
         "block3_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2922,6 +3138,7 @@
       "activity_title": "Nim With Factors",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2935,9 +3152,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2945,6 +3164,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2952,6 +3172,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -2959,6 +3180,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3001,6 +3223,7 @@
       "activity_title": "Sieve of Eratosthenes",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3008,6 +3231,7 @@
           "tr_tr": true
         },
         "activity_type": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3015,6 +3239,7 @@
           "tr_tr": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3022,6 +3247,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3029,6 +3255,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3036,6 +3263,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3086,6 +3314,7 @@
       "activity_title": "Levers and Mobiles",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3093,6 +3322,7 @@
           "tr_tr": true
         },
         "activity_type": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3100,6 +3330,7 @@
           "tr_tr": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3107,6 +3338,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3114,6 +3346,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3121,6 +3354,7 @@
           "tr_tr": true
         },
         "block3_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3128,6 +3362,7 @@
           "tr_tr": true
         },
         "block4_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3135,6 +3370,7 @@
           "tr_tr": true
         },
         "block4_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3142,6 +3378,7 @@
           "tr_tr": true
         },
         "block5_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3149,6 +3386,7 @@
           "tr_tr": true
         },
         "block5_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3156,6 +3394,7 @@
           "tr_tr": true
         },
         "block6_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3163,6 +3402,7 @@
           "tr_tr": true
         },
         "block7_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3231,6 +3471,7 @@
       "activity_title": "Divide Up the Box",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3244,9 +3485,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3254,6 +3497,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3261,6 +3505,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3268,6 +3513,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3275,6 +3521,7 @@
           "tr_tr": true
         },
         "block3_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3282,6 +3529,7 @@
           "tr_tr": true
         },
         "block4_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3333,6 +3581,7 @@
       "activity_title": "Letter Substitution Puzzles",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3346,9 +3595,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3356,6 +3607,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3363,6 +3615,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3370,6 +3623,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3377,6 +3631,7 @@
           "tr_tr": true
         },
         "block3_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3425,6 +3680,7 @@
       "activity_title": "Bouncing Billiard Ball",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3432,6 +3688,7 @@
           "tr_tr": true
         },
         "activity_type": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3439,6 +3696,7 @@
           "tr_tr": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3446,6 +3704,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3453,6 +3712,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3460,6 +3720,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3467,6 +3728,7 @@
           "tr_tr": true
         },
         "block3_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3474,6 +3736,7 @@
           "tr_tr": true
         },
         "block3_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3481,6 +3744,7 @@
           "tr_tr": true
         },
         "block4_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3537,6 +3801,7 @@
       "activity_title": "Playing With Shapes",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3544,6 +3809,7 @@
           "tr_tr": true
         },
         "activity_type": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3551,6 +3817,7 @@
           "tr_tr": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3558,6 +3825,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3565,6 +3833,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3572,6 +3841,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3579,6 +3849,7 @@
           "tr_tr": true
         },
         "block3_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3586,6 +3857,7 @@
           "tr_tr": true
         },
         "block3_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3593,6 +3865,7 @@
           "tr_tr": true
         },
         "block4_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3600,6 +3873,7 @@
           "tr_tr": true
         },
         "block4_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3607,6 +3881,7 @@
           "tr_tr": true
         },
         "block5_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3671,6 +3946,7 @@
       "activity_title": "Product Game",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3684,9 +3960,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3694,6 +3972,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3701,6 +3980,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3714,9 +3994,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block3_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3724,6 +4006,7 @@
           "tr_tr": true
         },
         "block4_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3772,6 +4055,7 @@
       "activity_title": "Limited Calculators",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3785,9 +4069,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3795,6 +4081,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3808,9 +4095,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3824,9 +4113,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block3_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3840,9 +4131,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block4_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3899,6 +4192,7 @@
       "activity_title": "Double or Nothing",
       "_translations": {
         "activity_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3912,9 +4206,11 @@
           "fr_fr": true,
           "kr_ko": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "block1_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3922,6 +4218,7 @@
           "tr_tr": true
         },
         "block1_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3929,6 +4226,7 @@
           "tr_tr": true
         },
         "block2_title": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,
@@ -3936,6 +4234,7 @@
           "tr_tr": true
         },
         "block2_text": {
+          "cn_zh": true,
           "es_es": true,
           "fr_fr": true,
           "kr_ko": true,

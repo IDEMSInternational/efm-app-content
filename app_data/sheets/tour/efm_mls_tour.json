@@ -16,7 +16,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "message_text": {
           "br_pt": true,
@@ -27,7 +28,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "message_text": "Each Stage of learning is divided into ten basic learning steps. Each step describes what your child is learning, how you can help with that learning, and how the steps are connected with each other.",
@@ -47,7 +49,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "message_text": {
           "br_pt": true,
@@ -58,7 +61,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "message_text": "If you ever want to see this introduction again, just click on the question mark.",

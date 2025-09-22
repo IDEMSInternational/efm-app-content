@@ -31,5 +31,8 @@
   },
   "tr_tr": {
     "filename": "tr_tr/strings.json"
+  },
+  "tw_zh": {
+    "filename": "tw_zh/strings.json"
   }
 }

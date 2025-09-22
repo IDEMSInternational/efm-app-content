@@ -16,7 +16,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "message_text": {
           "br_pt": true,
@@ -27,7 +28,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "message_text": "Each of the Stages has about a dozen sections of fun games, puzzles, activities, and investigations for your family to enjoy together.",
@@ -46,7 +48,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "message_text": {
           "br_pt": true,
@@ -57,7 +60,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "message_text": "Each Stage name describes the main requirement for your child to start that Stage. For example, if your child can count to ten, and knows what those numbers mean, then start with Stage 3. The materials in the Stages are designed in a learning progression so that later sections build on the earlier ones.",
@@ -77,7 +81,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "template_component_name": "dg_types",
@@ -96,7 +101,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "template_component_name": "dg_view",
@@ -115,7 +121,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "message_text": {
           "br_pt": true,
@@ -126,7 +133,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "message_text": "If you ever want to see this introduction again, just click on the question mark.",
