@@ -16,7 +16,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "message_text": {
           "br_pt": true,
@@ -27,7 +28,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "message_text": "Reading with your child is a wonderful experience! These storybooks are for an adult to read to a child. Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience.",
@@ -46,7 +48,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "template_component_name": "dg_options",
@@ -65,7 +68,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "message_text": {
           "br_pt": true,
@@ -76,7 +80,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "message_text": "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. As your child begins to understand and say words, mix in simple questions.",
@@ -96,7 +101,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "message_text": {
           "br_pt": true,
@@ -107,7 +113,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "message_text": "These storybooks are somewhat longer, have slightly more complex story lines, and involve more sophisticated ideas. Your child is now able to talk and reason about more things in the world.",
@@ -127,7 +134,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "message_text": {
           "br_pt": true,
@@ -138,7 +146,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "message_text": "The story lines are getting ever more detailed and complex. The math involves larger numbers and more advanced concepts. The description of objects is getting more detailed and involved.",
@@ -158,7 +167,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         },
         "message_text": {
           "br_pt": true,
@@ -169,7 +179,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "message_text": "If you ever want to see this introduction again, just click on the question mark.",

@@ -493,7 +493,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "type": "set_variable",
@@ -511,7 +512,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "type": "set_variable",
@@ -1273,7 +1275,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "condition": "@local.mls_id",
@@ -1542,7 +1545,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "condition": "@local.sb_id",
@@ -2118,7 +2122,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "condition": "@local.act_one_id",

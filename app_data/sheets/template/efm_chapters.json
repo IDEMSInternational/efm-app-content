@@ -21,7 +21,8 @@
               "kr_ko": true,
               "ru_ru": true,
               "sa_ar": true,
-              "tr_tr": true
+              "tr_tr": true,
+              "tw_zh": true
             }
           },
           "style_list": [
@@ -71,7 +72,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "type": "set_variable",
@@ -89,7 +91,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "type": "set_variable",
@@ -107,7 +110,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "type": "set_variable",
@@ -126,7 +130,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "type": "set_variable",
@@ -144,7 +149,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "type": "set_variable",
@@ -631,7 +637,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "type": "set_variable",
@@ -649,7 +656,8 @@
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
-          "tr_tr": true
+          "tr_tr": true,
+          "tw_zh": true
         }
       },
       "type": "set_variable",
@@ -807,7 +815,8 @@
               "kr_ko": true,
               "ru_ru": true,
               "sa_ar": true,
-              "tr_tr": true
+              "tr_tr": true,
+              "tw_zh": true
             }
           },
           "_nested_name": "dg_chapters.chapter_select"
@@ -990,7 +999,8 @@
               "kr_ko": true,
               "ru_ru": true,
               "sa_ar": true,
-              "tr_tr": true
+              "tr_tr": true,
+              "tw_zh": true
             }
           },
           "style_list": [
@@ -1179,7 +1189,8 @@
               "kr_ko": true,
               "ru_ru": true,
               "sa_ar": true,
-              "tr_tr": true
+              "tr_tr": true,
+              "tw_zh": true
             }
           },
           "action_list": [
