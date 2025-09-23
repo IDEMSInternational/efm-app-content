@@ -24,20 +24,21 @@
       "text": "Español"
     },
     {
-      "id": "br_pt",
+      "id": "fr_fr",
       "country_code": "fr",
       "country_label": "France",
       "language_code": "fr",
       "language_label": "Français",
-      "name": "br_pt",
+      "name": "fr_fr",
       "text": "Français"
     },
     {
+      "id": "br_pt",
       "country_code": "br",
       "country_label": "Brazil",
       "language_code": "pt",
       "language_label": "Português",
-      "name": "@row.id",
+      "name": "br_pt",
       "text": "Português"
     },
     {
