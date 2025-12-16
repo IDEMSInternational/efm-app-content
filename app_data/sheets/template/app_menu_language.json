@@ -61,8 +61,7 @@
             "set_language",
             "this.value"
           ],
-          "_raw": "changed | emit: set_language:@local.language_select",
-          "_cleaned": "changed | emit: set_language:@local.language_select"
+          "_raw": "changed | emit: set_language:@local.language_select"
         },
         {
           "trigger": "changed",
@@ -70,8 +69,7 @@
           "args": [
             "force_reload"
           ],
-          "_raw": "changed | emit: force_reload",
-          "_cleaned": "changed | emit: force_reload"
+          "_raw": "changed | emit: force_reload"
         }
       ],
       "parameter_list": {
@@ -97,14 +95,6 @@
                 "type": "local",
                 "fieldName": "language_select"
               }
-            ],
-            "_cleaned": [
-              {
-                "fullExpression": "changed | emit: set_language:@local.language_select",
-                "matchedExpression": "@local.language_select",
-                "type": "local",
-                "fieldName": "language_select"
-              }
             ]
           }
         },
@@ -124,8 +114,7 @@
           "value"
         ],
         "@local.language_select": [
-          "action_list.0._raw",
-          "action_list.0._cleaned"
+          "action_list.0._raw"
         ],
         "@local.language_select_options": [
           "parameter_list.answer_list"
@@ -149,8 +138,7 @@
             "language_selected",
             true
           ],
-          "_raw": "click | set_field: language_selected: TRUE",
-          "_cleaned": "click | set_field: language_selected: TRUE"
+          "_raw": "click | set_field: language_selected: TRUE"
         },
         {
           "trigger": "click",
@@ -158,8 +146,7 @@
           "args": [
             "force_restart"
           ],
-          "_raw": "click | emit: force_restart",
-          "_cleaned": "click | emit: force_restart"
+          "_raw": "click | emit: force_restart"
         }
       ],
       "parameter_list": {
@@ -169,6 +156,9 @@
       "_nested_name": "button_completed"
     }
   ],
-  "_xlsxPath": "EFM_high_level_sheets.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_high_level_sheets.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1eRPEXlpxqJC13R_DUMhwvUYgThgMpPXP6z2uIVw4ZgY"
+  }
 }

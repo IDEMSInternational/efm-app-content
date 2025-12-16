@@ -46,13 +46,15 @@
           "args": [
             "complete"
           ],
-          "_raw": "click | app_update: complete",
-          "_cleaned": "click | app_update: complete"
+          "_raw": "click | app_update: complete"
         }
       ],
       "_nested_name": "button"
     }
   ],
-  "_xlsxPath": "app_update.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "app_update.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/11oq8rIgr_lir76p-1zD7BsUZTj7jKe94bymlcaW1qqk"
+  }
 }

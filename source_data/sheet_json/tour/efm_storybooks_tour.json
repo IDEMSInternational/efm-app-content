@@ -1,0 +1,47 @@
+{
+  "flow_type": "tour",
+  "flow_name": "efm_storybooks_tour",
+  "status": "released",
+  "rows": [
+    {
+      "type": "step",
+      "title": "Storybooks",
+      "message_text": "Reading with your child is a wonderful experience! These storybooks are for an adult to read to a child. Adding math comments and questions to your reading helps your child grow mathematically, and creates strong associations of math with this happy, cozy experience.",
+      "route": "template/efm_storybooks"
+    },
+    {
+      "type": "step",
+      "message_text": "Please select the kinds of stories you would like to choose from.",
+      "template_component_name": "dg_options",
+      "route": "template/efm_storybooks"
+    },
+    {
+      "type": "step",
+      "title": "Beginning Storybooks",
+      "message_text": "Talk with your child before they can talk or even understand the words. Point at, name, and describe things you see, such as shapes, colors, comparisons, and quantities. As your child begins to understand words, ask about a thing and have your child point at it. As your child begins to understand and say words, mix in simple questions.",
+      "template_component_name": "dg_box_beginner",
+      "route": "template/efm_storybooks"
+    },
+    {
+      "type": "step",
+      "title": "Intermediate Storybooks",
+      "message_text": "These storybooks are somewhat longer, have slightly more complex story lines, and involve more sophisticated ideas. Your child is now able to talk and reason about more things in the world.",
+      "template_component_name": "dg_box_intermediate",
+      "route": "template/efm_storybooks"
+    },
+    {
+      "type": "step",
+      "title": "Advanced Storybooks",
+      "message_text": "The story lines are getting ever more detailed and complex. The math involves larger numbers and more advanced concepts. The description of objects is getting more detailed and involved.",
+      "template_component_name": "dg_box_advanced",
+      "route": "template/efm_storybooks"
+    },
+    {
+      "type": "step",
+      "title": "Help",
+      "message_text": "If you ever want to see this introduction again, just click on the question mark.",
+      "template_component_name": "dg_help",
+      "route": "template/efm_storybooks"
+    }
+  ]
+}

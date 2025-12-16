@@ -520,6 +520,9 @@
       "_nested_name": "page_end"
     }
   ],
-  "_xlsxPath": "EFM_storybooks_high_level_sheets.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_storybooks_high_level_sheets.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1SCyRMVnO02mHiz3ljOtaXl_sed8Qwh8zMN3S5k60Cak"
+  }
 }

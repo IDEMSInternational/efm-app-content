@@ -87,8 +87,7 @@
           "args": [
             "open"
           ],
-          "_raw": "click | feedback:open",
-          "_cleaned": "click | feedback:open"
+          "_raw": "click | feedback:open"
         },
         {
           "trigger": "click",
@@ -96,8 +95,7 @@
           "args": [
             "force_reprocess"
           ],
-          "_raw": "click | emit: force_reprocess",
-          "_cleaned": "click | emit: force_reprocess"
+          "_raw": "click | emit: force_reprocess"
         }
       ],
       "condition": "!@fields._feedback_sidebar_open",
@@ -133,8 +131,7 @@
           "args": [
             "close"
           ],
-          "_raw": "click | feedback:close",
-          "_cleaned": "click | feedback:close"
+          "_raw": "click | feedback:close"
         },
         {
           "trigger": "click",
@@ -142,8 +139,7 @@
           "args": [
             "force_reprocess"
           ],
-          "_raw": "click | emit: force_reprocess",
-          "_cleaned": "click | emit: force_reprocess"
+          "_raw": "click | emit: force_reprocess"
         }
       ],
       "condition": "@fields._feedback_sidebar_open",
@@ -180,8 +176,7 @@
             "template",
             "feature_feedback_default"
           ],
-          "_raw": "click | feedback:template:feature_feedback_default",
-          "_cleaned": "click | feedback:template:feature_feedback_default"
+          "_raw": "click | feedback:template:feature_feedback_default"
         }
       ],
       "exclude_from_translation": true,
@@ -202,8 +197,7 @@
             "send",
             "test feedback"
           ],
-          "_raw": "click | feedback:send:test feedback",
-          "_cleaned": "click | feedback:send:test feedback"
+          "_raw": "click | feedback:send:test feedback"
         }
       ],
       "exclude_from_translation": true,
@@ -223,8 +217,7 @@
           "args": [
             "enable"
           ],
-          "_raw": "click | feedback:enable",
-          "_cleaned": "click | feedback:enable"
+          "_raw": "click | feedback:enable"
         }
       ],
       "exclude_from_translation": true,
@@ -244,8 +237,7 @@
           "args": [
             "disable"
           ],
-          "_raw": "click | feedback:disable",
-          "_cleaned": "click | feedback:disable"
+          "_raw": "click | feedback:disable"
         }
       ],
       "exclude_from_translation": true,
@@ -266,8 +258,7 @@
             "submit",
             "test feedback"
           ],
-          "_raw": "click | feedback:submit:test feedback",
-          "_cleaned": "click | feedback:submit:test feedback"
+          "_raw": "click | feedback:submit:test feedback"
         }
       ],
       "exclude_from_translation": true,
@@ -275,6 +266,9 @@
       "_nested_name": "button_12"
     }
   ],
-  "_xlsxPath": "feedback.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "feedback.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1bebmDmz74A7N9cEpo8GZgjbMV5wj6S3itV-JOUAsrQg"
+  }
 }

@@ -1242,8 +1242,11 @@
       "illustration": "EFMStorybooks/EFM-SB-COAR-17.jpg"
     }
   ],
-  "_xlsxPath": "EFM_storybooks_beginning.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_storybooks_beginning.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1GqIMMchiZP6JmC6D0GQam5P9bEqfLIlnJvRiu-VY-_Y"
+  },
   "_metadata": {
     "page_no": {
       "type": "number"

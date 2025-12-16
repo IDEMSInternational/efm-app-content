@@ -1,0 +1,196 @@
+{
+  "flow_type": "template",
+  "flow_name": "efm_story_template",
+  "status": "released",
+  "rows": [
+    {
+      "name": "page_divider",
+      "value": "EFMStorybooks/EFM-SB-0-PageDivider.svg"
+    },
+    {
+      "name": "book_entry",
+      "value": "@@fields.current_book"
+    },
+    {
+      "name": "book_cover",
+      "value": "@local.book_entry.cover"
+    },
+    {
+      "name": "book_title",
+      "value": "@local.book_entry.title"
+    },
+    {
+      "name": "book_author",
+      "value": "@local.book_entry.author"
+    },
+    {
+      "name": "book_illustrator",
+      "value": "@local.book_entry.illustrator"
+    },
+    {
+      "name": "book_pages",
+      "value": "@local.book_entry.pages"
+    },
+    {
+      "type": "image",
+      "name": "cover_1",
+      "value": "@local.book_cover"
+    },
+    {
+      "type": "text",
+      "name": "title_1",
+      "value": "@local.book_title",
+      "parameter_list": "style: large emphasised"
+    },
+    {
+      "type": "text",
+      "name": "author_1",
+      "value": "@local.book_author",
+      "condition": "@local.book_author",
+      "style_list": "margin-top: -10px;"
+    },
+    {
+      "type": "text",
+      "name": "illustrator_1",
+      "value": "@local.book_illustrator",
+      "condition": "@local.book_illustrator",
+      "style_list": "margin-top: -10px;"
+    },
+    {
+      "type": "image",
+      "name": "page_end",
+      "value": "@local.page_divider",
+      "style_list": "margin-top: -1px;"
+    },
+    {
+      "type": "begin_template",
+      "name": "intro",
+      "value": "efm_sb_intro"
+    },
+    {
+      "name": "sb_level",
+      "value": "@local.book_entry.intro_level"
+    },
+    {
+      "name": "intro_math",
+      "value": "@local.book_entry.math_themes_words"
+    },
+    {
+      "type": "end_template"
+    },
+    {
+      "name": "description_0",
+      "value": "Story text"
+    },
+    {
+      "name": "description_1",
+      "value": "First reading"
+    },
+    {
+      "name": "description_2",
+      "value": "Second reading"
+    },
+    {
+      "name": "description_3",
+      "value": "Third reading"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "checkboxes"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "column1",
+      "parameter_list": "style: column"
+    },
+    {
+      "type": "simple_checkbox",
+      "name": "checkbox_text",
+      "value": true,
+      "parameter_list": "label_text: @local.description_0; align:left"
+    },
+    {
+      "type": "simple_checkbox",
+      "name": "checkbox_reading1",
+      "value": true,
+      "parameter_list": "label_text: @local.description_1; align:left"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "column2",
+      "parameter_list": "style: column"
+    },
+    {
+      "type": "simple_checkbox",
+      "name": "checkbox_reading2",
+      "value": true,
+      "parameter_list": "label_text: @local.description_2; align:left"
+    },
+    {
+      "type": "simple_checkbox",
+      "name": "checkbox_reading3",
+      "value": true,
+      "parameter_list": "label_text: @local.description_3; align:left"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_items",
+      "name": "pages",
+      "value": "@@local.book_pages"
+    },
+    {
+      "type": "image",
+      "name": "image_@item.page_no",
+      "value": "@item.illustration",
+      "condition": "@item.illustration"
+    },
+    {
+      "type": "text",
+      "name": "story_@item.page_no",
+      "value": "@item.story_text",
+      "condition": "@item.story_text && @local.checkbox_text",
+      "parameter_list": "style: large emphasised"
+    },
+    {
+      "type": "text",
+      "name": "anno1_@item.page_no",
+      "value": "1. @item.annotation_1",
+      "condition": "@item.annotation_1 && @local.checkbox_reading1",
+      "style_list": "margin-top: -10px;\ncolor: red;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "anno2_@item.page_no",
+      "value": "2. @item.annotation_2",
+      "condition": "@item.annotation_2 && @local.checkbox_reading2",
+      "style_list": "margin-top: -10px;\ncolor: blue;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "anno3_@item.page_no",
+      "value": "3. @item.annotation_3",
+      "condition": "@item.annotation_3 && @local.checkbox_reading3",
+      "style_list": "margin-top: -10px;\ncolor: green;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "image",
+      "name": "page_end_@item.page_no",
+      "value": "@local.page_divider",
+      "style_list": "margin-top: -7px;"
+    },
+    {
+      "type": "end_items"
+    }
+  ]
+}

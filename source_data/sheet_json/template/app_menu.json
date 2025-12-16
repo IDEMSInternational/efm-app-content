@@ -1,0 +1,41 @@
+{
+  "flow_type": "template",
+  "flow_name": "app_menu",
+  "status": "released",
+  "rows": [
+    {
+      "type": "debug_toggle",
+      "name": "debug_toggle_bar"
+    },
+    {
+      "type": "button",
+      "name": "button_privacy",
+      "value": "Language",
+      "action_list": "click | go_to: app_menu_language"
+    },
+    {
+      "type": "button",
+      "name": "button_privacy",
+      "value": "Privacy policy",
+      "action_list": "click | go_to: app_menu_privacy_policy"
+    },
+    {
+      "type": "button",
+      "name": "button_template",
+      "value": "Template list",
+      "action_list": "click | go_to:/template"
+    },
+    {
+      "type": "button",
+      "name": "button_tour",
+      "value": "Tour list",
+      "action_list": "click | go_to:/tour"
+    },
+    {
+      "type": "button",
+      "name": "button_reset",
+      "value": "Reset app",
+      "action_list": "click | reset_app"
+    }
+  ]
+}

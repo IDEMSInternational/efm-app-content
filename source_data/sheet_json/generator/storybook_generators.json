@@ -1,0 +1,30 @@
+{
+  "flow_type": "generator",
+  "flow_name": "storybook_generators",
+  "status": "released",
+  "parameter_list": {
+    "input_data_list": "efm_sb_list",
+    "output_flow_name": "@gen.id",
+    "output_flow_type": "template"
+  },
+  "rows": [
+    {
+      "name": "current_book",
+      "value": "data.efm_storybooks.@gen.id"
+    },
+    {
+      "type": "begin_template",
+      "name": "efm_story_template",
+      "value": "efm_story_template",
+      "action_list": "completed | emit: completed; uncompleted | emit: uncompleted"
+    },
+    {
+      "name": "book_entry",
+      "value": "@@local.current_book",
+      "comments": "data.efm_storybooks.efm_sb_Akadelis_Lucky_Day"
+    },
+    {
+      "type": "end_template"
+    }
+  ]
+}

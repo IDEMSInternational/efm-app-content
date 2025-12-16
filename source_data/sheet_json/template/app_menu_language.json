@@ -1,0 +1,29 @@
+{
+  "flow_type": "template",
+  "flow_name": "app_menu_language",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "value": "Language"
+    },
+    {
+      "name": "language_select_options",
+      "value": "@data.language"
+    },
+    {
+      "type": "radio_button_grid",
+      "name": "language_select",
+      "value": "@fields._app_language",
+      "action_list": "changed | emit: set_language:@local.language_select;\nchanged | emit: force_reload;\n",
+      "parameter_list": "answer_list: @local.language_select_options;\nitem_width: 140px;\n"
+    },
+    {
+      "type": "button",
+      "name": "button_completed",
+      "value": "Continue",
+      "action_list": "click | set_field: language_selected: TRUE;\nclick | emit: force_restart; ",
+      "parameter_list": "style: short; \ntext_align: center"
+    }
+  ]
+}

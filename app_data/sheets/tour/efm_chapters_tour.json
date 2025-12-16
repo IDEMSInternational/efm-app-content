@@ -142,6 +142,9 @@
       "route": "template/efm_chapters"
     }
   ],
-  "_xlsxPath": "EFM_tours.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_tours.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1YxjE0yLclk6ATJMNDusrPk-Gn3zr_q9DiYtFIBlvTSM"
+  }
 }

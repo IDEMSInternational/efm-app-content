@@ -1,0 +1,44 @@
+{
+  "flow_type": "template",
+  "flow_name": "feature_feedback_default",
+  "status": "released",
+  "comments": "Default general feedback form",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title_1",
+      "value": "Feedback",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text_area",
+      "name": "feedback",
+      "exclude_from_translation": true,
+      "parameter_list": "placeholder: Write feedback here"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_buttons",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "button",
+      "name": "button_cancel",
+      "value": "Cancel",
+      "action_list": "click | feedback:cancel",
+      "exclude_from_translation": true,
+      "comments": "Cancel will automatically close"
+    },
+    {
+      "type": "button",
+      "name": "button_submit",
+      "value": "Submit",
+      "action_list": "click | feedback:submit:@local.feedback;",
+      "exclude_from_translation": true,
+      "comments": "Submit will record the feedback input to the database and close the popup"
+    },
+    {
+      "type": "end_display_group"
+    }
+  ]
+}

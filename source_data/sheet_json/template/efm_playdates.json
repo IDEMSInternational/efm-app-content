@@ -1,0 +1,77 @@
+{
+  "flow_type": "template",
+  "flow_name": "efm_playdates",
+  "status": "released",
+  "rows": [
+    {
+      "type": "begin_display_group",
+      "name": "dg_top_of_page"
+    },
+    {
+      "type": "title",
+      "name": "spacer",
+      "value": "Playdates",
+      "style_list": "flex:1"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_help"
+    },
+    {
+      "type": "round_button",
+      "name": "help_button",
+      "action_list": "click | start_tour: efm_playdates_tour",
+      "parameter_list": "icon_src: help; style:navigation"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_playdate_stages",
+      "parameter_list": "style:column"
+    },
+    {
+      "name": "template_name",
+      "value": "efm_chapter_pd_individually"
+    },
+    {
+      "type": "begin_items",
+      "name": "chapter_buttons",
+      "value": "@data.efm_chapt"
+    },
+    {
+      "type": "button",
+      "name": "button_@item.title",
+      "value": "@item.title",
+      "action_list": "click | set_field:current_chapter: data.efm_chapt.@item.id;\nclick | go_to: @local.template_name",
+      "parameter_list": "style: short; \ntext_align: center"
+    },
+    {
+      "type": "end_items"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "name": "now",
+      "value": "@calc(timestamp())",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "name": "fake_group",
+      "style_list": "margin-top: 40px;"
+    },
+    {
+      "type": "text",
+      "name": "spacer1"
+    },
+    {
+      "type": "end_display_group"
+    }
+  ]
+}

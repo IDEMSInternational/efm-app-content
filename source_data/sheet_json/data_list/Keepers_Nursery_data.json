@@ -1,0 +1,189 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "Keepers_Nursery_data",
+  "status": "released",
+  "data_list_name": "Keepers_Nursery_storybook",
+  "rows": [
+    {
+      "id": "page_1",
+      "page_no": 1,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-1.jpg",
+      "story_text::eng": "This is the story of Keeper and his nursery of orphaned animals.",
+      "annotation_1::eng": "An orphan is a young animal who has no adult animals to care for it. What problems might an orphan animal have in the wild?",
+      "annotation_2::eng": "Rectangles are four-sided shapes like this page. Notice how each of the gates and doors is a rectangle with a diagonal crosspiece. Adding a diagonal piece creates two triangles, and triangles are stiffer and stronger than rectangles.",
+      "annotation_3::eng": "Can you find some triangles and rectangles where you are?"
+    },
+    {
+      "id": "page_2",
+      "page_no": 2,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-2.jpg",
+      "story_text::eng": "August was a busy month for Keeper and his helpers at the nursery.",
+      "annotation_1::eng": "Many baby animals need milk the way baby people do. What kind of milk do you think they are putting in the bottles?",
+      "annotation_2::eng": "We have triangles and rectangles as before, and now we have lots of circles. The bottles are round shapes that are called cylinders.",
+      "annotation_3::eng": "There are many different jobs in a place that keeps lots of animals. See if you can figure out what each person's job is in this picture."
+    },
+    {
+      "id": "page_3",
+      "page_no": 3,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-3.jpg",
+      "story_text::eng": "One-year-old Mkite arrived first. She came in an old green truck.",
+      "annotation_1::eng": "This is a baby elephant with no adult elephants to take care of it. Make up a story about how this elephant came to be by itself.",
+      "annotation_2::eng": "How do you think the baby elephant is feeling, and how can you tell? Our eyes and body position can reveal a lot about our feelings.",
+      "annotation_3::eng": "Why are there black and yellow stripes on the ramp going down from the truck?"
+    },
+    {
+      "id": "page_4",
+      "page_no": 4,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-4.jpg",
+      "story_text::eng": "Keeper and his helpers were very sorry for Mkite. She was so thin and sad.",
+      "annotation_1::eng": "How do you think these people feel about animals who are in trouble? Do you think they believe in their work?",
+      "annotation_2::eng": "Have you ever seen a wild animal who was hurt or not doing well? If so, how did it make you feel? It's very natural to want to help others in trouble.",
+      "annotation_3::eng": "Sometimes when a person is sad, they stop eating normally. And sometimes, it can work the other way too -- if a person is not eating properly, that can affect their emotional health. All parts of an animal's life need to be in balance."
+    },
+    {
+      "id": "page_5",
+      "page_no": 5,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-5.jpg",
+      "story_text::eng": "But soon, Mkite got stronger. She began to play with the other animals at the nursery.",
+      "annotation_1::eng": "In zoos and in the wild, these animals are usually separated. Isn't it fun to see the different kinds of animals playing together!",
+      "annotation_2::eng": "Look at the different shapes on this page. There are rectangles in the windows and the ball is in the shape of a sphere.",
+      "annotation_3::eng": "If you look very closely, the ball has pentagons (5-sided figures) and hexagons (6-sided figures) on it. "
+    },
+    {
+      "id": "page_6",
+      "page_no": 6,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-6.jpg",
+      "story_text::eng": "On another day in August, a helicopter landed at the nursery.",
+      "annotation_1::eng": "This view high up in the sky is something you don't get to see very often. Notice how the roofs all look like rectangles from up here. What does that tell you about the shape of the rooms underneath the roofs?",
+      "annotation_2::eng": "There is a circle around the top of the helicopter. There is actually nothing circular there. What is causing it to look like there is a circle there?",
+      "annotation_3::eng": "There is a second small circle at the far end of the helicopter. Because we are seeing it from the side, that circle looks like a very thin oval."
+    },
+    {
+      "id": "page_7",
+      "page_no": 7,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-7.jpg",
+      "story_text::eng": "Keeper and his helpers rushed outside. In the helicopter was a small elephant covered with a blanket.",
+      "annotation_1::eng": "A helicopter would only be used for a small animal who needed very fast attention. Take a guess at what kind of problem this elephant has.",
+      "annotation_2::eng": "Look at the cart that they are going to load the animal on. Why does it need four wheels? Which sorts of things are usually put on this cart?",
+      "annotation_3::eng": "There are shapes all around us, and they are fun to wonder about. Look at the clouds. These clouds all have flat bottoms and fluffy tops. Why do you suppose a lot of clouds are like this?"
+    },
+    {
+      "id": "page_8",
+      "page_no": 8,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-8.jpg",
+      "story_text::eng": "It was Ndiwa. He was five days old. Keeper fed Ndiwa with a bottle.",
+      "annotation_1::eng": "The health of animals who are just a few days old is very fragile. That's one reason there was such a rush to get care for Ndiwa.",
+      "annotation_2::eng": "Ndiwa is being fed milk from a milk bottle, much as a human baby would be fed. Have you ever fed a baby or a baby animal from a milk bottle?",
+      "annotation_3::eng": "Milk bottles are in the shape of cylinders. They are round and their sides go straight up and down. Do you see any cylinders around you? They are not so common, so you may not see any."
+    },
+    {
+      "id": "page_9",
+      "page_no": 9,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-9.jpg",
+      "story_text::eng": "The third orphan that month was Malea. She arrived at the nursery on a red tractor. She was six months old.",
+      "annotation_1::eng": "This orphan is a lot older than Ndiwa. It must be pretty large to be in a trailer pulled by a tractor. What kind of animal do you think it is?",
+      "annotation_2::eng": "Look at the two pairs of wheels on the tractor. The rear pair of wheels is much larger than the front pair. Why do you suppose that is?",
+      "annotation_3::eng": "What advantage would having a very large pair of wheels give you?"
+    },
+    {
+      "id": "page_10",
+      "page_no": 10,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-10.jpg",
+      "story_text::eng": "Malea the rhinoceros soon became close friends with Enkare, a baby buffalo. They went everywhere together.",
+      "annotation_1::eng": "One of the fun things about this nursery is that the different kinds of baby animals get to play together. Do you think they are having fun?",
+      "annotation_2::eng": "Have you ever wondered what pattern four-legged animals use their feet in? Next time you get a chance, take a careful look and see if you can figure it out. (They move their left side first, back foot first, and then repeat on their right side.)",
+      "annotation_3::eng": "All these animals have body parts that come in pairs on opposite sides of their body, or singleton parts down the center of their body. Can you think of any animals that have more than one of a body part that doesn't come in pairs?"
+    },
+    {
+      "id": "page_11",
+      "page_no": 11,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-11.jpg",
+      "story_text::eng": "One night, everybody was woken up by the arrival of Ambia.",
+      "annotation_1::eng": "Look at how much that poor baby giraffe had to bend its neck to fit into that cage.  Why do you suppose they didn't put the giraffe in a bigger cage?",
+      "annotation_2::eng": "Have you ever squeezed into a small box or other space to play? Was it scary or cozy to be in such a small space?",
+      "annotation_3::eng": "Look at all those stars! How many can you count? Have you been in a really dark place outside where you could see more stars than you can count?"
+    },
+    {
+      "id": "page_12",
+      "page_no": 12,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-12.jpg",
+      "story_text::eng": "Ambia was five months old. She was weak after her long journey.",
+      "annotation_1::eng": "Ambia looks weak and sad. These poor baby animals are away from their homes to get care to help save their lives. It is hard for a baby animal to be by itself in a strange place.",
+      "annotation_2::eng": "Have you ever gone on a trip away from home for a long time? Did you feel sad, or were you excited to be in a new place on an adventure?",
+      "annotation_3::eng": "An estimate is a best guess when it is difficult to count something. What is your estimate for how many dark spots Ambia has?"
+    },
+    {
+      "id": "page_13",
+      "page_no": 13,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-13.jpg",
+      "story_text::eng": "Because of her long neck, Keeper held the bottle high to feed Ambia.",
+      "annotation_1::eng": "Keeper does everything to make the animals comfortable. Taking stress out of the animals' lives is an important part of helping them to get healthy.",
+      "annotation_2::eng": "About how high up is Keeper? He is higher than the height of one person. Is he higher than twice the height of a person? Sometimes it is useful to measure the size of one thing in terms of the size of something else you know.",
+      "annotation_3::eng": "Do the same thing with this tree. How many person-heights tall is this tree? People did this sort of thing a long time ago when creating lengths they could talk about with others. For example, they would measure some things by the length of a foot or the length of a stride."
+    },
+    {
+      "id": "page_14",
+      "page_no": 14,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-14.jpg",
+      "story_text::eng": "Tiny twins Abei and Moit arrived in the middle of August. These antelopes were only a few hours old. They were very sick.",
+      "annotation_1::eng": "How do you think they got these baby antelopes to the nursery so quickly? Do you think they were watching the birth?",
+      "annotation_2::eng": "Have you ever seen a newborn animal or person? They seem so helpless and wide eyed. They are seeing their world for the very first time and they are amazed!",
+      "annotation_3::eng": "It's important to keep newborns warm. That's why these pictures of newborn animals show blankets on the animals. You'll see the same thing for newborn human babies."
+    },
+    {
+      "id": "page_15",
+      "page_no": 15,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-15.jpg",
+      "story_text::eng": "Everyone was sad when Abei died a week after he arrived at the nursery. But Keeper and his helpers saved Moit.",
+      "annotation_1::eng": "Sometimes, people do their best and still things do not turn out well. Think of a time when you did your best and things did not go well.",
+      "annotation_2::eng": "It can be discouraging to try hard and not have things turn out well. When you have had failures, did it discourage you, or did it make you want to work even harder to make sure things turned out better the next time?",
+      "annotation_3::eng": "When things go poorly, it is important to understand why that happened. If there were things that happened that you could not have foreseen or controlled, then that's just bad luck. If there were things you could have done better, it's a good idea to learn those lessons so you'll do better next time."
+    },
+    {
+      "id": "page_16",
+      "page_no": 16,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-16.jpg",
+      "story_text::eng": "The last orphans to arrive in August were Kopi, Kepi, and Keji. These cubs were two weeks old. They were very hungry when they arrived.",
+      "annotation_1::eng": "These three cubs look like they are going to have a lot of fun with each other. How do Keeper and his helpers feel about these cubs? How can you tell?",
+      "annotation_2::eng": "Estimate how many spots these cubs have all together. Now, try counting the spots, perhaps 2 at a time, and see how close your estimate is.",
+      "annotation_3::eng": "Make a game of estimating by challenging each other to look quickly at something and have each of you make an estimate. Then, look back, count the actual number of things, and see whose estimate was closest. With practice, you'll get much better at this!"
+    },
+    {
+      "id": "page_17",
+      "page_no": 17,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-17.jpg",
+      "story_text::eng": "Keeper and his helpers love all of the animals, even the naughty ones.",
+      "annotation_1::eng": "Even when these baby animals cause trouble, Keeper and his helpers have a good time playing with them. Are there some animals you enjoy playing with?",
+      "annotation_2::eng": "Do you like to play around in the water when you wash off? Young animals are not all that different than young people.",
+      "annotation_3::eng": "The elephant barely fits in that bath tub. What do you think they will do when the elephant outgrows this tub?"
+    },
+    {
+      "id": "page_18",
+      "page_no": 18,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-18.jpg",
+      "story_text::eng": "The naughtiest baby was Lobolia. Lobolia liked to hide Keeper's glasses.",
+      "annotation_1::eng": "Do you think Keeper can see without his glasses? If he can't see, he's going to have a very hard time finding his glasses. He doesn't wear his glasses on any of the pages, so he must not need them very much.",
+      "annotation_2::eng": "Do you remember seeing Lobolia on the previous page? Keeper had his glasses in his shirt pocket during the bath. Do you think Lobolia stole them from him?",
+      "annotation_3::eng": "It would be very easy for Lobolia to escape from the nursery. Those fences would certainly not keep Lobolia in. Why do you think Lobolia stays around?"
+    },
+    {
+      "id": "page_19",
+      "page_no": 19,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-19.jpg",
+      "story_text::eng": "The people at the nursery work hard to look after the baby animals. They hope that one day the orphans can look after themselves. Then they can return to the wild.",
+      "annotation_1::eng": "They may care about each animal, but wild animals should always go back to the wild if they can handle it. It must be sad, but fulfilling, to see their animals become healthy adults who can thrive in the wild.",
+      "annotation_2::eng": "Some animals have permanent injuries or problems that make it impossible for them to go back into the wild. Can you think of why that would be?",
+      "annotation_3::eng": "Think about being one of these animals that has been in the nursery ever since it was a baby. Do you think the animal is excited to go into the wild, or do you think it is fearful about being on its own?"
+    },
+    {
+      "id": "page_20",
+      "page_no": 20,
+      "story_text::eng": "How old and how many? Read the story again and then answer these questions.\n\n1. How many animals arrived at the nursery in the month of August?\n\n2. Who arrived first that month? How old was this animal?\n\n3. Who arrived last? How old were those animals?\n\n4. Who were the youngest animals to arrive in August? How old were they?\n\n5. Who was the oldest to arrive in August?\n\nReviewing a story after you read it can help you remember it much better!"
+    },
+    {
+      "id": "page_21",
+      "page_no": 21,
+      "illustration": "EFMStorybooks/EFM-SB-KAHN-21.jpg"
+    }
+  ]
+}

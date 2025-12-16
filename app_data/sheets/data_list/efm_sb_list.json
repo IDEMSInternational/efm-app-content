@@ -6,6 +6,7 @@
   "rows": [
     {
       "id": "efm_sb_A_Very_Tall_Man",
+      "title_de_de": "Ein sehr großer Mann",
       "title_br_pt": "Um Homem Muito Alto",
       "title_tr_tr": "Çok Uzun Bir Adam",
       "title_gr_el": "Ένας πολύ ψηλός άνδρας",
@@ -85,6 +86,7 @@
     },
     {
       "id": "efm_sb_Akadelis_Lucky_Day",
+      "title_de_de": "Akadelis Glückstag",
       "title_br_pt": "Dia de Sorte de Akadeli",
       "title_tr_tr": "Akadeli'nin Şanslı Günü",
       "title_gr_el": "Η τυχερή μέρα της Ακαντέλι",
@@ -164,6 +166,7 @@
     },
     {
       "id": "efm_sb_Can_We_Count_Our_Cats",
+      "title_de_de": "Können wir unsere Katzen zählen?",
       "title_br_pt": "Vamos Contar Nossos Gatos?",
       "title_tr_tr": "Kedilerimizi Sayabilir Miyiz?",
       "title_gr_el": "Μπορούμε να μετρήσουμε τις γάτες μας;",
@@ -243,6 +246,7 @@
     },
     {
       "id": "efm_sb_Cat_And_Dog_And_The_Ball",
+      "title_de_de": "Der Kater, der Hund und der Ball",
       "title_br_pt": "O Gato, o Cão e a Bola",
       "title_tr_tr": "Kedi ve Köpek ve Top",
       "title_gr_el": "Η Γάτα και ο Σκύλος και η Μπάλαl",
@@ -322,6 +326,7 @@
     },
     {
       "id": "efm_sb_Cat_And_Dog_And_The_But",
+      "title_de_de": "Der Kater, der Hund und der Schmetterling",
       "title_br_pt": "O Gato, o Cão e a Borboleta",
       "title_tr_tr": "Kedi ve Köpek ve Kelebek",
       "title_gr_el": "Η Γάτα και ο Σκύλος και η Πεταλούδα",
@@ -401,6 +406,7 @@
     },
     {
       "id": "efm_sb_Cat_And_Dog_And_The_Egg",
+      "title_de_de": "Der Kater, der Hund und das Ei",
       "title_br_pt": "O Gato, o Cão e o Ovo",
       "title_tr_tr": "Kedi ve Köpek ve Yumurta",
       "title_gr_el": "Η Γάτα και ο Σκύλος και το Αυγό",
@@ -480,6 +486,7 @@
     },
     {
       "id": "efm_sb_Cat_And_Dog_Dog_Is_Cold",
+      "title_de_de": "Kater und Hund: Dem Hund ist kalt",
       "title_br_pt": "Gato e Cão: O Cão está com Frio",
       "title_tr_tr": "Kedi ve Köpek: Köpek Üşüyor",
       "title_gr_el": "Η Γάτα και ο Σκύλος: Ο Σκύλος κρυώνει",
@@ -559,6 +566,7 @@
     },
     {
       "id": "efm_sb_Clever_Cat",
+      "title_de_de": "Clevere Katze",
       "title_br_pt": "Gata Esperta",
       "title_tr_tr": "Akıllı Kedi",
       "title_gr_el": "Η έξυπνη Γάταt",
@@ -635,6 +643,7 @@
     },
     {
       "id": "efm_sb_Colors_Of_A_Rainbow",
+      "title_de_de": "Die Farben eines Regenbogens",
       "title_br_pt": "Cores de um Arco-íris",
       "title_tr_tr": "Bir Gökkuşağının Renkleri",
       "title_gr_el": "Χρώματα του Ουράνιου Τόξου",
@@ -711,6 +720,7 @@
     },
     {
       "id": "efm_sb_Counting_Animals",
+      "title_de_de": "Wir zählen Tiere",
       "title_br_pt": "Contando Animais",
       "title_tr_tr": "Hayvanları Sayalım",
       "title_gr_el": "Μετρώντας Ζώα",
@@ -787,6 +797,7 @@
     },
     {
       "id": "efm_sb_Creature_With_Two",
+      "title_de_de": "Kreatur mit Zwei",
       "title_br_pt": "Criatura com Dois",
       "title_tr_tr": "İki’li Yaratık",
       "title_gr_el": "Πλάσμα με Δύο",
@@ -863,6 +874,7 @@
     },
     {
       "id": "efm_sb_Drum",
+      "title_de_de": "Die Trommel",
       "title_br_pt": "Tambor",
       "title_tr_tr": "Davul",
       "title_gr_el": "Τύμπανο",
@@ -939,6 +951,7 @@
     },
     {
       "id": "efm_sb_Fana_Loves_Animals",
+      "title_de_de": "Fana liebt Tiere",
       "title_br_pt": "Fana Ama Animais",
       "title_tr_tr": "Fana Hayvanları Çok Seviyor",
       "title_gr_el": "Η Φάνα Αγαπάει τα Ζώα",
@@ -1015,6 +1028,7 @@
     },
     {
       "id": "efm_sb_Feelings",
+      "title_de_de": "Gefühle",
       "title_br_pt": "Sentimentos",
       "title_tr_tr": "Hisler",
       "title_gr_el": "Συναισθήματα",
@@ -1091,6 +1105,7 @@
     },
     {
       "id": "efm_sb_Flower_Blind",
+      "title_de_de": "Blumenblind",
       "title_br_pt": "A Cega das Flores",
       "title_tr_tr": "Çiçek Körü",
       "title_gr_el": "Τυφλό Λουλούδι",
@@ -1167,6 +1182,7 @@
     },
     {
       "id": "efm_sb_Friends",
+      "title_de_de": "Freunde",
       "title_br_pt": "Amigos",
       "title_tr_tr": "Arkadaşlar",
       "title_gr_el": "Φίλοι",
@@ -1243,6 +1259,7 @@
     },
     {
       "id": "efm_sb_How_The_Toad_Got_Its_Skin",
+      "title_de_de": "Wie die Kröte ihre Haut bekam",
       "title_br_pt": "Como a Sapa Conseguiu sua Pele",
       "title_tr_tr": "Kara Kurbağası Derisini Nasıl Elde Etti?",
       "title_gr_el": "Πώς ο Φρύνος Απέκτησε το Δέρμα του",
@@ -1319,6 +1336,7 @@
     },
     {
       "id": "efm_sb_Look_At_The_Animals",
+      "title_de_de": "Schau, die Tiere",
       "title_br_pt": "Olhe para os Animais",
       "title_tr_tr": "Hayvanlara Bakın!",
       "title_gr_el": "Δείτε τα Ζώα",
@@ -1395,6 +1413,7 @@
     },
     {
       "id": "efm_sb_My_School_Clothes",
+      "title_de_de": "Meine Schulkleidung",
       "title_br_pt": "Minhas Roupas Escolares",
       "title_tr_tr": "Okul Kıyafetlerim",
       "title_gr_el": "Τα Σχολικά Ρούχα μου",
@@ -1471,6 +1490,7 @@
     },
     {
       "id": "efm_sb_Palm_Tree",
+      "title_de_de": "Palme",
       "title_br_pt": "Palmeira",
       "title_tr_tr": "Palmiye Ağacı",
       "title_gr_el": "Φοινικόδεντρο",
@@ -1547,6 +1567,7 @@
     },
     {
       "id": "efm_sb_Pendo_Our_Cow",
+      "title_de_de": "Pendo, unsere Kuh",
       "title_br_pt": "Pendo, Nossa Vaca",
       "title_tr_tr": "Pendo, İneğimiz",
       "title_gr_el": "Πέντο, η Αγελάδα μας",
@@ -1623,6 +1644,7 @@
     },
     {
       "id": "efm_sb_The_Day_The_Sun_Went_Away",
+      "title_de_de": "Der Tag an dem die Sonne fortging",
       "title_br_pt": "O Dia Em Que O Sol Se Foi",
       "title_tr_tr": "Güneşin Gittiği Gün",
       "title_gr_el": "Η Μέρα που Έφυγε ο Ήλιος",
@@ -1699,6 +1721,7 @@
     },
     {
       "id": "efm_sb_Visiting_Grandmother",
+      "title_de_de": "Zu Besuch bei Großmutter",
       "title_br_pt": "Visitando A Vovó",
       "title_tr_tr": "Büyükanneyi Ziyaret",
       "title_gr_el": "Επίσκεψη στη Γιαγιά",
@@ -1775,6 +1798,7 @@
     },
     {
       "id": "efm_sb_Where_Is_Lulu",
+      "title_de_de": "Wo ist Lulu?",
       "title_br_pt": "Onde está Lulu?",
       "title_tr_tr": "Lulu Nerede?",
       "title_gr_el": "Πού Είναι η Λούλου;",
@@ -1851,6 +1875,7 @@
     },
     {
       "id": "efm_sb_Where_Is_My_Bat",
+      "title_de_de": "Wo ist mein Schläger?",
       "title_br_pt": "Onde está o meu taco?",
       "title_tr_tr": "Raketim Nerede?",
       "title_gr_el": "Πού Είναι η Ρακέτα μου;",
@@ -1927,6 +1952,7 @@
     },
     {
       "id": "efm_sb_Where_Is_My_Cat",
+      "title_de_de": "Wo ist meine Katze?",
       "title_br_pt": "Cadê O Meu Gato?",
       "title_tr_tr": "Benim Kedim Nerede?",
       "title_gr_el": "Πού Είναι η Γάτα μου;",
@@ -2003,6 +2029,7 @@
     },
     {
       "id": "efm_sb_A_Dancers_Tale",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Um Conto da Dançarina",
       "title_tr_tr": "Bir Dansçının Hikâyesi: Phyllis Spira",
       "title_gr_el": "Η Ιστορία μιας Χορεύτριας",
@@ -2079,6 +2106,7 @@
     },
     {
       "id": "efm_sb_A_Fish_And_A_Gift",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Um Peixe e um Presente",
       "title_tr_tr": "Bir Balık ve Bir Hediye",
       "title_gr_el": "Ένα Ψάρι και ένα Δώρο",
@@ -2155,6 +2183,7 @@
     },
     {
       "id": "efm_sb_Aku_The_Sun_Maker",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Aku, A Criadora do Sol",
       "title_tr_tr": "Aku – Güneş Toplayıcı",
       "title_gr_el": "Η Άκου που Έφερε τον Ήλιο",
@@ -2231,6 +2260,7 @@
     },
     {
       "id": "efm_sb_Amazing_Daisy",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "A Incrível Daisy",
       "title_tr_tr": "Muhteşem Daisy",
       "title_gr_el": "Η Εκπληκτική Μαργαρίτα",
@@ -2307,6 +2337,7 @@
     },
     {
       "id": "efm_sb_Cassava_And_Palm",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Mandioca e Palmeira",
       "title_tr_tr": "Manyok ve Palmiye",
       "title_gr_el": "Ο Κασάβα και ο Φοίνικας",
@@ -2383,6 +2414,7 @@
     },
     {
       "id": "efm_sb_Cat_And_Dog_Draw_And_Color",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Gato e Cachorro Desenho e Cor",
       "title_tr_tr": "Kedi ve Köpek Çiziyor ve Boyuyor",
       "title_gr_el": "Η Γάτα και ο Σκύλος Ζωγραφίζουν και Χρωματίζουν",
@@ -2459,6 +2491,7 @@
     },
     {
       "id": "efm_sb_Curious_Baby_Elephant",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "A Curiosa Bebê Elefante",
       "title_tr_tr": "Meraklı Yavru Fil",
       "title_gr_el": "Η περίεργη μικρή Ελεφαντίνα",
@@ -2535,6 +2568,7 @@
     },
     {
       "id": "efm_sb_Fathers_Advice",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Conselho de Pai",
       "title_tr_tr": "Babanın Tavsiyesi",
       "title_gr_el": "Η Συμβουλή του Πατέρα",
@@ -2611,6 +2645,7 @@
     },
     {
       "id": "efm_sb_Fati_And_The_Green_Snake",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Fati e a Cobra Verde",
       "title_tr_tr": "Fati ve Yeşil Yılan",
       "title_gr_el": "Η Φάτι και το Πράσινο Φίδι",
@@ -2687,6 +2722,7 @@
     },
     {
       "id": "efm_sb_How_Many",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Quanto?",
       "title_tr_tr": "Kaç Tane?",
       "title_gr_el": "Πόσα Είναι;",
@@ -2763,6 +2799,7 @@
     },
     {
       "id": "efm_sb_I_Love_Forests",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Eu Amo Florestas",
       "title_tr_tr": "Ormanları Seviyorum",
       "title_gr_el": "Αγαπώ τα Δάση",
@@ -2839,6 +2876,7 @@
     },
     {
       "id": "efm_sb_Is_There_Anyone_Like_Me",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Existe Alguém Como Eu?",
       "title_tr_tr": "Benim Gibi Başka Biri Var mı?",
       "title_gr_el": "Υπάρχει Κάποιος Ίδιος με Εμένα;",
@@ -2915,6 +2953,7 @@
     },
     {
       "id": "efm_sb_Listen_To_My_Body",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Ouça o Meu Corpo",
       "title_tr_tr": "Vücudumu Dinleyin",
       "title_gr_el": "Ακούω το Σώμα μου",
@@ -2991,6 +3030,7 @@
     },
     {
       "id": "efm_sb_Little_Jojos_Long_Tall_Tale",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "A Longa e Incrível História de Pequeno Jojo",
       "title_tr_tr": "Küçük Jojo’nun Uzun Hikâyesi",
       "title_gr_el": "Η Μεγάλη Ιστορία του Μικρού Τζότζο",
@@ -3067,6 +3107,7 @@
     },
     {
       "id": "efm_sb_Lory_Dory",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Lory Dory",
       "title_tr_tr": "Lory Dory",
       "title_gr_el": "Λόρυ Ντόρυ",
@@ -3143,6 +3184,7 @@
     },
     {
       "id": "efm_sb_Maguru_Gives_Legs",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Maguru Deu Pernas",
       "title_tr_tr": "Maguru Bacak Dağıtıyor!",
       "title_gr_el": "Ο Μαγκούρου δίνει πόδια",
@@ -3219,6 +3261,7 @@
     },
     {
       "id": "efm_sb_Sun_Moon_And_Water",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Sol, Lua e Água",
       "title_tr_tr": "Güneş, Ay ve Su",
       "title_gr_el": "Ο Ήλιος, Η Σελήνη και το Νερό",
@@ -3292,6 +3335,7 @@
     },
     {
       "id": "efm_sb_Tortoise_Finds_His_House",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Tartaruga Encontra Sua Casa",
       "title_tr_tr": "Kaplumbağa Evini Buluyor",
       "title_gr_el": "Η Χελώνα Βρίσκει το Σπίτι της",
@@ -3368,6 +3412,7 @@
     },
     {
       "id": "efm_sb_Akais_Special_Mat",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "A Manta Especial da Akai",
       "title_tr_tr": "Akai’nin Özel Kilimi",
       "title_gr_el": "Το Ξεχωριστό Χαλί της Ακάι",
@@ -3444,6 +3489,7 @@
     },
     {
       "id": "efm_sb_Emeka_Old_Man",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Emeka e o Velho Senhor",
       "title_tr_tr": "Emeka ve Yaşlı Adam",
       "title_gr_el": "Ο Εμέκα και ο Γέρος",
@@ -3520,6 +3566,7 @@
     },
     {
       "id": "efm_sb_Father_Son_Donkey",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Pai, Filho, e o Burro",
       "title_tr_tr": "Baba, Oğlu ve Eşek",
       "title_gr_el": "Ο Πατέρας, ο Γιος, και το Γαϊδουράκι",
@@ -3596,6 +3643,7 @@
     },
     {
       "id": "efm_sb_Horses_Of_Debre_Birhan",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Os Cavalos de Debre Birhan",
       "title_tr_tr": "Debre Birhan’ın Atları",
       "title_gr_el": "Τα Άλογα του Ντέμπρε Μπίρχαν",
@@ -3672,6 +3720,7 @@
     },
     {
       "id": "efm_sb_Hyena_And_Tortoise",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Hiena e Tartaruga",
       "title_tr_tr": "Sırtlan ve Kaplumbağa",
       "title_gr_el": "Η Ύαινα και η Χελώνα",
@@ -3748,6 +3797,7 @@
     },
     {
       "id": "efm_sb_Keepers_Nursery",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Cuidador e seu Berçário",
       "title_tr_tr": "Hayvan Bakımevi ve Sahibi",
       "title_gr_el": "Ο Κίπερ και το Βρεφοκομείο του",
@@ -3824,6 +3874,7 @@
     },
     {
       "id": "efm_sb_Magical_Rainbow",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "O Rio Mágico de Arco-íris",
       "title_tr_tr": "Sihirli Gökkuşağı Nehri",
       "title_gr_el": "Το Μαγικό Ποτάμι Ουράνιο Τόξο",
@@ -3900,6 +3951,7 @@
     },
     {
       "id": "efm_sb_Sakimas_Song",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Canção de Sakima",
       "title_tr_tr": "Sakima’nın Şarkısı",
       "title_gr_el": "Το Τραγούδι του Σακίμα",
@@ -3976,6 +4028,7 @@
     },
     {
       "id": "efm_sb_Searching_for_Spring",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Procurando o Espírito da Primavera",
       "title_tr_tr": "Bahar Ruhunu Aramak",
       "title_gr_el": "Ψάχνοντας το Πνεύμα της Άνοιξης",
@@ -4052,6 +4105,7 @@
     },
     {
       "id": "efm_sb_Share_It_Fair",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Compartilhe de Forma Justa!",
       "title_tr_tr": "Adil Paylaş!",
       "title_gr_el": "Μοιραστείτε Δίκαια!",
@@ -4128,6 +4182,7 @@
     },
     {
       "id": "efm_sb_Singing_The_Truth",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Cantando a Verdade: A História de Miriam Makeba",
       "title_tr_tr": "Gerçeği Şarkıyla Söylemek: Miriam Makeba'nın Hikâyesi",
       "title_gr_el": "Τραγουδώντας την Αλήθεια: Η Ιστορία της Μίριαμ Μακέμπα",
@@ -4204,6 +4259,7 @@
     },
     {
       "id": "efm_sb_Sizwes_Smile",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Sorriso de Sizwe",
       "title_tr_tr": "Sizwe’nin Gülümsemesi",
       "title_gr_el": "Το Χαμόγελο του Σίζουε",
@@ -4280,6 +4336,7 @@
     },
     {
       "id": "efm_sb_The_Smell_Thief",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "A Ladra de Cheiros",
       "title_tr_tr": "Koku Hırsızı",
       "title_gr_el": "Η Κλέφτρα των Μυρωδιών",
@@ -4356,6 +4413,7 @@
     },
     {
       "id": "efm_sb_Who_Can_Count_To_Ten",
+      "title_de_de": "NoTranslation",
       "title_br_pt": "Quem Consegue Contar Até dez?",
       "title_tr_tr": "Kim 10’a Kadar Sayabilir?",
       "title_gr_el": "Ποιος Μπορεί να Μετρήσει μέχρι το Δέκα;",
@@ -4431,6 +4489,9 @@
       "math_themes_words": "This story has counting, comparisons, and problem solving. Practice words: numbers to ten, skip counting, counting by 2's, 3's, 4's, 5's, and 10's, odd numbers, more, difference, add, combination, total, stripes, spots, big, biggest, fast, fastest, strong, strongest, large largest, high, higher, pattern, and problem solving."
     }
   ],
-  "_xlsxPath": "EFM_storybooks_high_level_sheets.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_storybooks_high_level_sheets.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1SCyRMVnO02mHiz3ljOtaXl_sed8Qwh8zMN3S5k60Cak"
+  }
 }

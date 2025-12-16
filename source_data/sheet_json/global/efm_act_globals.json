@@ -1,0 +1,21 @@
+{
+  "flow_type": "global",
+  "flow_name": "efm_act_globals",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "efm_parskip_fix",
+      "value": "margin-top: -15px;",
+      "exclude_from_translation": true,
+      "comment": "set to 0 if vertical spacing problem gets fixed."
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "efm_act_text_style",
+      "value": "margin-top: -15px;",
+      "exclude_from_translation": true,
+      "comment": "style used for all activity text"
+    }
+  ]
+}

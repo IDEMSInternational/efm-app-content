@@ -1,0 +1,319 @@
+{
+  "flow_type": "template",
+  "flow_name": "efm_chapters",
+  "status": "released",
+  "rows": [
+    {
+      "type": "begin_display_group",
+      "name": "dg_top_of_page"
+    },
+    {
+      "type": "title",
+      "name": "spacer",
+      "value": "Activities",
+      "style_list": "flex:1"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_help"
+    },
+    {
+      "type": "round_button",
+      "name": "help_button",
+      "action_list": "click | start_tour: efm_chapters_tour",
+      "parameter_list": "icon_src: help; style:navigation"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_fix_initialization_startup_bug"
+    },
+    {
+      "name": "dont_see_intro",
+      "value": "!@fields.see_activities_introduction"
+    },
+    {
+      "name": "dont_see_game",
+      "value": "!@fields.see_activities_game"
+    },
+    {
+      "name": "dont_see_puzzle",
+      "value": "!@fields.see_activities_puzzle"
+    },
+    {
+      "name": "dont_see_activity",
+      "value": "!@fields.see_activities_activity"
+    },
+    {
+      "name": "dont_see_investigation",
+      "value": "!@fields.see_activities_investigation"
+    },
+    {
+      "name": "reset_fields_needed",
+      "value": "@local.dont_see_intro && @local.dont_see_game && @local.dont_see_puzzle && @local.dont_see_activity && @local.dont_see_investigation"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_reset_fields_if_needed",
+      "condition": "@local.reset_fields_needed"
+    },
+    {
+      "type": "set_field",
+      "name": "see_activities_introduction",
+      "value": true
+    },
+    {
+      "type": "set_field",
+      "name": "see_activities_game",
+      "value": true
+    },
+    {
+      "type": "set_field",
+      "name": "see_activities_puzzle",
+      "value": true
+    },
+    {
+      "type": "set_field",
+      "name": "see_activities_activity",
+      "value": true
+    },
+    {
+      "type": "set_field",
+      "name": "see_activities_investigation",
+      "value": true
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_types",
+      "parameter_list": "style:column"
+    },
+    {
+      "name": "description_1",
+      "value": "Introductions"
+    },
+    {
+      "name": "description_2",
+      "value": "Games"
+    },
+    {
+      "name": "description_3",
+      "value": "Puzzles"
+    },
+    {
+      "name": "description_4",
+      "value": "Activities"
+    },
+    {
+      "name": "description_5",
+      "value": "Investigations"
+    },
+    {
+      "type": "begin_display_group"
+    },
+    {
+      "type": "toggle_bar",
+      "name": "checkbox_intros",
+      "value": "@fields.see_activities_introduction",
+      "action_list": "changed | set_field:see_activities_introduction: @local.checkbox_intros;",
+      "parameter_list": "true_text: @local.description_1;\nfalse_text: @local.description_1;\n"
+    },
+    {
+      "type": "toggle_bar",
+      "name": "checkbox_games",
+      "value": "@fields.see_activities_game",
+      "action_list": "changed | set_field:see_activities_game: @local.checkbox_games;",
+      "parameter_list": "true_text: @local.description_2;\nfalse_text: @local.description_2;\n"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group"
+    },
+    {
+      "type": "toggle_bar",
+      "name": "checkbox_puzzles",
+      "value": "@fields.see_activities_puzzle",
+      "action_list": "changed | set_field:see_activities_puzzle: @local.checkbox_puzzles;",
+      "parameter_list": "true_text: @local.description_3;\nfalse_text: @local.description_3;\n"
+    },
+    {
+      "type": "toggle_bar",
+      "name": "checkbox_activities",
+      "value": "@fields.see_activities_activity",
+      "action_list": "changed | set_field:see_activities_activity: @local.checkbox_activities;",
+      "parameter_list": "true_text: @local.description_4;\nfalse_text: @local.description_4;\n"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group"
+    },
+    {
+      "type": "toggle_bar",
+      "name": "checkbox_investigations",
+      "value": "@fields.see_activities_investigation",
+      "action_list": "changed | set_field:see_activities_investigation: @local.checkbox_investigations;",
+      "parameter_list": "true_text: @local.description_5;\nfalse_text: @local.description_5;\n"
+    },
+    {
+      "type": "text",
+      "name": "blank",
+      "style_list": "flex: 1"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_view",
+      "parameter_list": "style:column"
+    },
+    {
+      "name": "radio_description_1",
+      "value": "Individually"
+    },
+    {
+      "name": "radio_description_2",
+      "value": "By topic"
+    },
+    {
+      "name": "answer_list",
+      "value": "name:individually | text: @local.radio_description_1; name:by_topic | text: @local.radio_description_2 ;"
+    },
+    {
+      "type": "radio_group",
+      "name": "listing_style",
+      "value": "by_topic",
+      "parameter_list": "answer_list: @local.answer_list; options_per_row: 2"
+    },
+    {
+      "name": "template_name",
+      "value": "efm_chapter_acts_by_topic",
+      "comments": "Set a default value as listing_style might not be initialised"
+    },
+    {
+      "name": "template_name",
+      "value": "efm_chapter_acts_@local.listing_style",
+      "condition": "!!@local.listing_style"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_chapters",
+      "parameter_list": "style:column"
+    },
+    {
+      "type": "text",
+      "name": "chapter_select",
+      "value": "**Stages**"
+    },
+    {
+      "type": "begin_items",
+      "name": "chapter_buttons",
+      "value": "@data.efm_chapt"
+    },
+    {
+      "type": "button",
+      "name": "button_@item.title",
+      "value": "@item.title",
+      "action_list": "click | set_field:current_chapter: data.efm_chapt.@item.id;\nclick | go_to: @local.template_name",
+      "parameter_list": "style: short; \ntext_align: center"
+    },
+    {
+      "type": "end_items"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_row_bonus"
+    },
+    {
+      "type": "text",
+      "name": "act_text",
+      "value": "**Bonus Material**",
+      "style_list": "flex: 1"
+    },
+    {
+      "type": "round_button",
+      "name": "help_button",
+      "action_list": "click | start_tour: efm_chapters_bonus_tour",
+      "parameter_list": "icon_src: help; style:navigation"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "name": "now",
+      "value": "@calc(timestamp())",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "bonus_click_history",
+      "value": "_bonus_click_history",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "click_history_field_name",
+      "value": "@local.bonus_click_history",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "bonusbutton_click_history",
+      "value": "@fields.@local.click_history_field_name ;  @local.now",
+      "condition": "!!(@fields.@local.click_history_field_name)",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "bonusbutton_click_history",
+      "value": "@local.now",
+      "condition": "!(@fields.@local.click_history_field_name)",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_button_bonus"
+    },
+    {
+      "type": "button",
+      "name": "button_activities",
+      "value": "Bonus Material — Activities",
+      "action_list": "click | set_field: @local.click_history_field_name: @local.bonusbutton_click_history;\nclick | go_to: efm_bonus_chapters;",
+      "parameter_list": "style: short; \ntext_align: center"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "fake_group",
+      "style_list": "margin-top: 40px;"
+    },
+    {
+      "type": "text",
+      "name": "spacer"
+    },
+    {
+      "type": "end_display_group"
+    }
+  ]
+}

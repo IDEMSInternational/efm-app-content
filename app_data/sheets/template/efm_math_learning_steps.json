@@ -44,8 +44,7 @@
                   "args": [
                     "efm_mls_tour"
                   ],
-                  "_raw": "click | start_tour: efm_mls_tour",
-                  "_cleaned": "click | start_tour: efm_mls_tour"
+                  "_raw": "click | start_tour: efm_mls_tour"
                 }
               ],
               "parameter_list": {
@@ -96,8 +95,7 @@
                     "current_chapter",
                     "data.efm_chapt.@item.id"
                   ],
-                  "_raw": "click | set_field:current_chapter: data.efm_chapt.@item.id",
-                  "_cleaned": "click | set_field:current_chapter: data.efm_chapt.@item.id"
+                  "_raw": "click | set_field:current_chapter: data.efm_chapt.@item.id"
                 },
                 {
                   "trigger": "click",
@@ -105,8 +103,7 @@
                   "args": [
                     "@local.template_name"
                   ],
-                  "_raw": "click | go_to: @local.template_name",
-                  "_cleaned": "click | go_to: @local.template_name"
+                  "_raw": "click | go_to: @local.template_name"
                 }
               ],
               "parameter_list": {
@@ -150,14 +147,6 @@
                         "type": "item",
                         "fieldName": "id"
                       }
-                    ],
-                    "_cleaned": [
-                      {
-                        "fullExpression": "click | set_field:current_chapter: data.efm_chapt.@item.id",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
                     ]
                   },
                   "1": {
@@ -172,14 +161,6 @@
                       ]
                     },
                     "_raw": [
-                      {
-                        "fullExpression": "click | go_to: @local.template_name",
-                        "matchedExpression": "@local.template_name",
-                        "type": "local",
-                        "fieldName": "template_name"
-                      }
-                    ],
-                    "_cleaned": [
                       {
                         "fullExpression": "click | go_to: @local.template_name",
                         "matchedExpression": "@local.template_name",
@@ -206,13 +187,11 @@
                 ],
                 "@item.id": [
                   "action_list.0.args.1",
-                  "action_list.0._raw",
-                  "action_list.0._cleaned"
+                  "action_list.0._raw"
                 ],
                 "@local.template_name": [
                   "action_list.1.args.0",
-                  "action_list.1._raw",
-                  "action_list.1._cleaned"
+                  "action_list.1._raw"
                 ]
               }
             }
@@ -278,6 +257,9 @@
       "_nested_name": "fake_group"
     }
   ],
-  "_xlsxPath": "EFM_mls_high_level_sheets.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_mls_high_level_sheets.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1Nksd3ruQv0YyWlFpAgLch_dFvjuRfiy5lCbkCEywB2k"
+  }
 }

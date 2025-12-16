@@ -1,0 +1,35 @@
+{
+  "flow_type": "data_list",
+  "flow_subtype": "lifecycle_actions",
+  "flow_name": "launch_actions",
+  "status": "released",
+  "rows": [
+    {
+      "lifecycle_event": "app_start",
+      "id": "app_start_update_complete",
+      "priority": 1,
+      "condition_list": "@fields._app_update_downloaded",
+      "action_list": "app_update: complete"
+    },
+    {
+      "lifecycle_event": "app_start",
+      "id": "app_start_language_select",
+      "priority": 2,
+      "condition_list": "!@fields.language_selected",
+      "action_list": "pop_up: app_menu_language | fullscreen: true, showCloseButton: false"
+    },
+    {
+      "lifecycle_event": "app_start",
+      "id": "app_start_home_screen_tour",
+      "priority": 3,
+      "condition_list": "!@fields.home_screen_tour_started",
+      "action_list": "start_tour: home_screen_tour;\nset_field: home_screen_tour_started: true"
+    },
+    {
+      "lifecycle_event": "app_start",
+      "id": "app_start_update_prompt",
+      "priority": 4,
+      "action_list": "app_update: prompt"
+    }
+  ]
+}

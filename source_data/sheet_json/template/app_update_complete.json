@@ -1,0 +1,18 @@
+{
+  "flow_type": "template",
+  "flow_name": "app_update_complete",
+  "status": "released",
+  "rows": [
+    {
+      "type": "text",
+      "name": "text",
+      "value": "EFM App has downloaded an update. Please restart the app to finish installation."
+    },
+    {
+      "type": "button",
+      "name": "button",
+      "value": "Restart",
+      "action_list": "click | app_update: complete"
+    }
+  ]
+}

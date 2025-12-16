@@ -934,8 +934,11 @@
       "illustration": "EFMStorybooks/EFM-SB-AFAAG-13.jpg"
     }
   ],
-  "_xlsxPath": "EFM_storybooks_intermediate.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_storybooks_intermediate.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1M4PZRHWOLYL39AD9mLM-qsO4V8tiHj6uiV34rS8q-dc"
+  },
   "_metadata": {
     "page_no": {
       "type": "number"

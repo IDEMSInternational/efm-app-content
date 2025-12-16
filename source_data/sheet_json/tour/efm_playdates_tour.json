@@ -1,0 +1,21 @@
+{
+  "flow_type": "tour",
+  "flow_name": "efm_playdates_tour",
+  "status": "released",
+  "rows": [
+    {
+      "type": "step",
+      "title": "Playdates",
+      "message_text": "Each Stage has ten playdates for your family to enjoy with a group of other families. Each playdate has suggested storybooks and activities to enjoy together during the playdate. The playdates correspond to the ten math learning steps for each Stage. Links are provided to give direct and easy access to each of those resources.",
+      "template_component_name": "dg_playdate_stages",
+      "route": "template/efm_playdates"
+    },
+    {
+      "type": "step",
+      "title": "Help",
+      "message_text": "If you ever want to see this introduction again, just click on the question mark.",
+      "template_component_name": "dg_help",
+      "route": "template/efm_playdates"
+    }
+  ]
+}

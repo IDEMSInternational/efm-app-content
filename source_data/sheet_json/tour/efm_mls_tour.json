@@ -1,0 +1,21 @@
+{
+  "flow_type": "tour",
+  "flow_name": "efm_mls_tour",
+  "status": "released",
+  "rows": [
+    {
+      "type": "step",
+      "title": "Math Learning Steps",
+      "message_text": "Each Stage of learning is divided into ten basic learning steps. Each step describes what your child is learning, how you can help with that learning, and how the steps are connected with each other.",
+      "template_component_name": "dg_mls_stages",
+      "route": "template/efm_math_learning_steps"
+    },
+    {
+      "type": "step",
+      "title": "Help",
+      "message_text": "If you ever want to see this introduction again, just click on the question mark.",
+      "template_component_name": "dg_help",
+      "route": "template/efm_math_learning_steps"
+    }
+  ]
+}

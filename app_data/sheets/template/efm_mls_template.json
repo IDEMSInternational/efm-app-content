@@ -456,8 +456,7 @@
                 "current_mls",
                 "@local.prev_mls"
               ],
-              "_raw": "click | set_field:current_mls:@local.prev_mls",
-              "_cleaned": "click | set_field:current_mls:@local.prev_mls"
+              "_raw": "click | set_field:current_mls:@local.prev_mls"
             },
             {
               "trigger": "click",
@@ -465,8 +464,7 @@
               "args": [
                 "force_reload"
               ],
-              "_raw": "click | emit:force_reload",
-              "_cleaned": "click | emit:force_reload"
+              "_raw": "click | emit:force_reload"
             }
           ],
           "condition": "@local.prev_mls",
@@ -499,14 +497,6 @@
                     "type": "local",
                     "fieldName": "prev_mls"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field:current_mls:@local.prev_mls",
-                    "matchedExpression": "@local.prev_mls",
-                    "type": "local",
-                    "fieldName": "prev_mls"
-                  }
                 ]
               }
             },
@@ -523,7 +513,6 @@
             "@local.prev_mls": [
               "action_list.0.args.1",
               "action_list.0._raw",
-              "action_list.0._cleaned",
               "condition"
             ]
           }
@@ -598,8 +587,7 @@
                 "current_mls",
                 "@local.next_mls"
               ],
-              "_raw": "click | set_field:current_mls:@local.next_mls",
-              "_cleaned": "click | set_field:current_mls:@local.next_mls"
+              "_raw": "click | set_field:current_mls:@local.next_mls"
             },
             {
               "trigger": "click",
@@ -607,8 +595,7 @@
               "args": [
                 "force_reload"
               ],
-              "_raw": "click | emit:force_reload",
-              "_cleaned": "click | emit:force_reload"
+              "_raw": "click | emit:force_reload"
             }
           ],
           "condition": "@local.next_mls",
@@ -641,14 +628,6 @@
                     "type": "local",
                     "fieldName": "next_mls"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field:current_mls:@local.next_mls",
-                    "matchedExpression": "@local.next_mls",
-                    "type": "local",
-                    "fieldName": "next_mls"
-                  }
                 ]
               }
             },
@@ -665,7 +644,6 @@
             "@local.next_mls": [
               "action_list.0.args.1",
               "action_list.0._raw",
-              "action_list.0._cleaned",
               "condition"
             ]
           }
@@ -731,6 +709,9 @@
       "_nested_name": "activity_body_generator"
     }
   ],
-  "_xlsxPath": "EFM_mls_high_level_sheets.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_mls_high_level_sheets.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1Nksd3ruQv0YyWlFpAgLch_dFvjuRfiy5lCbkCEywB2k"
+  }
 }

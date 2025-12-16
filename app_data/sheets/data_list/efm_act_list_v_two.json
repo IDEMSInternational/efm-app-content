@@ -20426,8 +20426,11 @@
       "block5_text": "The 5 row in this second puzzle must have 1 and 5, the 21 row has 3 and 7, the 32 row has 4 and 8, and the top row has, by elimination, 2 and 6. The 7 column has 1 and 7, the 40 column has 5 and 8, the 18 column has 3 and 6, and the second column has 2 and 4. Put this together for the solution.\n\n**How to create:** Make these by filling in the numbers on the inside of the puzzle first, writing down the products, and then removing all the interior numbers."
     }
   ],
-  "_xlsxPath": "EFM_activity_high_level_sheets.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_activity_high_level_sheets.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1eqIvNft0eO9y6xH3OF2oVpnRPU5KUTN9M3At1FgqgOs"
+  },
   "_metadata": {
     "chapter": {
       "type": "number"

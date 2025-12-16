@@ -1,0 +1,119 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "language_data_list",
+  "data_list_name": "language",
+  "status": "released",
+  "flow_subtype": "app_config_language_list",
+  "rows": [
+    {
+      "id": "us_en",
+      "country_code": "us",
+      "country_label": "United States",
+      "language_code": "en",
+      "language_label": "English",
+      "name": "@row.id",
+      "text": "@row.language_label",
+      "comments": "Country code given by alpha-2\nhttps://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes"
+    },
+    {
+      "id": "es_es",
+      "country_code": "es",
+      "country_label": "Spain",
+      "language_code": "es",
+      "language_label": "Español",
+      "name": "@row.id",
+      "text": "@row.language_label",
+      "comments": "Language code given by shortest iso code\nhttps://en.wikipedia.org/wiki/List_of_ISO_639-1_codes"
+    },
+    {
+      "id": "fr_fr",
+      "country_code": "fr",
+      "country_label": "France",
+      "language_code": "fr",
+      "language_label": "Français",
+      "name": "@row.id",
+      "text": "@row.language_label"
+    },
+    {
+      "id": "br_pt",
+      "country_code": "br",
+      "country_label": "Brazil",
+      "language_code": "pt",
+      "language_label": "Português",
+      "name": "@row.id",
+      "text": "@row.language_label"
+    },
+    {
+      "id": "ru_ru",
+      "country_code": "ru",
+      "country_label": "Russia",
+      "language_code": "ru",
+      "language_label": "Русский",
+      "name": "@row.id",
+      "text": "@row.language_label"
+    },
+    {
+      "id": "tr_tr",
+      "country_code": "tr",
+      "country_label": "Turkey",
+      "language_code": "tr",
+      "language_label": "Türkçe",
+      "name": "@row.id",
+      "text": "@row.language_label"
+    },
+    {
+      "id": "gr_el",
+      "country_code": "gr",
+      "country_label": "Greece",
+      "language_code": "gr",
+      "language_label": "Ελληνικά",
+      "name": "@row.id",
+      "text": "@row.language_label"
+    },
+    {
+      "id": "cn_zh",
+      "country_code": "cn",
+      "country_label": "China",
+      "language_code": "zh",
+      "language_label": "简体中文",
+      "name": "@row.id",
+      "text": "@row.language_label"
+    },
+    {
+      "id": "tw_zh",
+      "country_code": "tw",
+      "country_label": "Taiwan",
+      "language_code": "zh",
+      "language_label": "繁體中文",
+      "name": "@row.id",
+      "text": "@row.language_label"
+    },
+    {
+      "id": "jp_ja",
+      "country_code": "jp",
+      "country_label": "Japan",
+      "language_code": "ja",
+      "language_label": "日本語",
+      "name": "@row.id",
+      "text": "@row.language_label"
+    },
+    {
+      "id": "kr_ko",
+      "country_code": "kr",
+      "country_label": "Korea",
+      "language_code": "ko",
+      "language_label": "한국어",
+      "name": "@row.id",
+      "text": "@row.language_label"
+    },
+    {
+      "id": "sa_ar",
+      "country_code": "sa",
+      "country_label": "Saudi Arabia",
+      "language_code": "ar",
+      "language_label": "اللغة العربية",
+      "name": "@row.id",
+      "text": "@row.language_label"
+    }
+  ]
+}
