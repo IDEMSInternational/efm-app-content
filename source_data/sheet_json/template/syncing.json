@@ -1,0 +1,81 @@
+{
+  "flow_type": "template",
+  "flow_name": "syncing",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Syncing"
+    },
+    {
+      "name": "user_id",
+      "value": "@calc(this.app_user_id)",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "sync_latest",
+      "value": "@fields._server_sync_latest",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "sync_status",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "syncing",
+      "value": "Syncing..."
+    },
+    {
+      "name": "sync_button_clicked",
+      "value": false,
+      "exclude_from_translation": true
+    },
+    {
+      "name": "copy",
+      "value": "Copy"
+    },
+    {
+      "name": "copied",
+      "value": "Copied!"
+    },
+    {
+      "type": "qr_code",
+      "value": "@local.user_id",
+      "condition": "@local.user_id"
+    },
+    {
+      "type": "select_text",
+      "name": "user_code",
+      "value": "@local.user_id",
+      "condition": "@local.user_id",
+      "parameter_list": "copy_text: @local.copy;\ncopied_text: @local.copied"
+    },
+    {
+      "type": "text",
+      "name": "last_sync_text",
+      "value": "Last sync at: @local.sync_latest",
+      "condition": "@local.sync_latest"
+    },
+    {
+      "type": "text",
+      "name": "not_synced_text",
+      "value": "This device has never been synced.",
+      "condition": "!@local.sync_latest"
+    },
+    {
+      "type": "button",
+      "name": "sync_button",
+      "value": "Sync now",
+      "action_list": "click | set_local: sync_status: @local.syncing;\nclick | set_local: sync_status: @local.syncing;\nclick | emit: force_reprocess;\nclick | emit: server_sync;\nclick | set_local: sync_status: ;\nclick | set_local: sync_button_clicked: true;\nclick | emit: force_reprocess;",
+      "condition": "!@local.sync_status"
+    },
+    {
+      "type": "button",
+      "name": "sync_button_disabled",
+      "value": "@local.syncing",
+      "condition": "@local.sync_status",
+      "parameter_list": "disabled:true"
+    }
+  ]
+}

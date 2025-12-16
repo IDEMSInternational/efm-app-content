@@ -1,0 +1,170 @@
+{
+  "flow_type": "template",
+  "flow_name": "efm_activity_v_two_template",
+  "status": "released",
+  "rows": [
+    {
+      "name": "efm_activity",
+      "value": "@@fields.current_activity"
+    },
+    {
+      "name": "activity_title",
+      "value": "@local.efm_activity.title"
+    },
+    {
+      "name": "activity_id",
+      "value": "@local.efm_activity.id"
+    },
+    {
+      "name": "local_false",
+      "value": false
+    },
+    {
+      "name": "next_activity",
+      "value": "@local.local_false"
+    },
+    {
+      "name": "prev_activity",
+      "value": "@local.local_false"
+    },
+    {
+      "name": "has_activity_been_seen",
+      "value": "@local.local_false"
+    },
+    {
+      "name": "do_ids_match",
+      "value": "@local.local_false"
+    },
+    {
+      "name": "chapter",
+      "value": "Stage"
+    },
+    {
+      "type": "text",
+      "name": "chapter_section",
+      "value": "@local.chapter @local.efm_activity.chapter – @local.efm_activity.page_title",
+      "parameter_list": "text_align: center;\nstyle: small",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_items",
+      "name": "find_next_and_prev",
+      "value": "@data.efm_act_v_two",
+      "comments": "Cycle through all activities to find the previous and next activities of an ok_type"
+    },
+    {
+      "name": "act_type",
+      "value": "fields.see_activities_@item.type",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "ok_type",
+      "value": "@@local.act_type",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "do_ids_match",
+      "value": "@item.id == @local.activity_id",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "has_activity_been_seen",
+      "value": "@local.has_activity_been_seen || @local.do_ids_match",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "prev_activity",
+      "value": "data.efm_act_v_two.@item.id",
+      "condition": "@local.ok_type && !@local.do_ids_match && !@local.has_activity_been_seen",
+      "comments": "The previous activity keeps being updated with ok_type activities until we have matching titles.",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "next_activity",
+      "value": "data.efm_act_v_two.@item.id",
+      "condition": "@local.ok_type && !@local.do_ids_match && @local.has_activity_been_seen && !@local.next_activity",
+      "comments": "The next_activity should be the very first activity of ok_type after we have matching titles.",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_items"
+    },
+    {
+      "type": "begin_display_group",
+      "style_list": "margin-top: -8px;"
+    },
+    {
+      "type": "button",
+      "name": "prev_button_1",
+      "value": "<",
+      "action_list": "click | set_field:current_activity:@local.prev_activity;\nclick | emit:force_reload",
+      "condition": "@local.prev_activity",
+      "parameter_list": "style: short;\ntext_align: center",
+      "style_list": "flex: 30",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "left_spacer",
+      "condition": "!@local.prev_activity",
+      "style_list": "flex: 30"
+    },
+    {
+      "type": "text",
+      "name": "title",
+      "value": "@local.activity_title",
+      "parameter_list": "text_align: center;\nstyle: large emphasised",
+      "style_list": "flex: 300"
+    },
+    {
+      "type": "button",
+      "name": "next_button_1",
+      "value": "\\>",
+      "action_list": "click | set_field:current_activity:@local.next_activity;\nclick | emit:force_reload",
+      "condition": "@local.next_activity",
+      "parameter_list": "style: short;\ntext_align: center",
+      "style_list": "flex: 30",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "right_spacer",
+      "condition": "!@local.next_activity",
+      "style_list": "flex: 30"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "text",
+      "name": "subtitle",
+      "value": "@local.efm_activity.type_name",
+      "parameter_list": "text_align: center;\nstyle: small",
+      "style_list": "margin-top: -10px;"
+    },
+    {
+      "type": "begin_template",
+      "name": "advice_accordion",
+      "value": "efm_activity_advice_template"
+    },
+    {
+      "name": "activity_advice_type",
+      "value": "@local.efm_activity.type"
+    },
+    {
+      "type": "end_template"
+    },
+    {
+      "type": "begin_template",
+      "name": "activity_body_generator",
+      "value": "efm_activity_bodyvtwo_template"
+    },
+    {
+      "name": "efm_activity_ptr",
+      "value": "@local.efm_activity"
+    },
+    {
+      "type": "end_template"
+    }
+  ]
+}

@@ -67,8 +67,7 @@
                   "args": [
                     "home_screen_tour"
                   ],
-                  "_raw": "click | start_tour: home_screen_tour",
-                  "_cleaned": "click | start_tour: home_screen_tour"
+                  "_raw": "click | start_tour: home_screen_tour"
                 }
               ],
               "parameter_list": {
@@ -104,7 +103,7 @@
     },
     {
       "name": "okay_learning_steps_language",
-      "value": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"tr_tr\"",
+      "value": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
       "_translations": {
         "value": {}
       },
@@ -114,31 +113,61 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"tr_tr\"",
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
           },
           {
-            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"tr_tr\"",
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
           },
           {
-            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"tr_tr\"",
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
           },
           {
-            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"tr_tr\"",
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
           },
           {
-            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"tr_tr\"",
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
@@ -147,6 +176,11 @@
       },
       "_dynamicDependencies": {
         "@fields._app_language": [
+          "value",
+          "value",
+          "value",
+          "value",
+          "value",
           "value",
           "value",
           "value",
@@ -157,7 +191,7 @@
     },
     {
       "name": "okay_playdates_language",
-      "value": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"tr_tr\"",
+      "value": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
       "_translations": {
         "value": {}
       },
@@ -167,31 +201,61 @@
       "_dynamicFields": {
         "value": [
           {
-            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"tr_tr\"",
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
           },
           {
-            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"tr_tr\"",
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
           },
           {
-            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"tr_tr\"",
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
           },
           {
-            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"tr_tr\"",
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
           },
           {
-            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"tr_tr\"",
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          },
+          {
+            "fullExpression": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
             "matchedExpression": "@fields._app_language",
             "type": "fields",
             "fieldName": "_app_language"
@@ -200,6 +264,11 @@
       },
       "_dynamicDependencies": {
         "@fields._app_language": [
+          "value",
+          "value",
+          "value",
+          "value",
+          "value",
           "value",
           "value",
           "value",
@@ -353,8 +422,7 @@
               "args": [
                 "efm_storybooks_tour"
               ],
-              "_raw": "click | start_tour: efm_storybooks_tour",
-              "_cleaned": "click | start_tour: efm_storybooks_tour"
+              "_raw": "click | start_tour: efm_storybooks_tour"
             },
             {
               "trigger": "click",
@@ -363,8 +431,7 @@
                 "has_accessed_storybooks",
                 true
               ],
-              "_raw": "click | set_field: has_accessed_storybooks: TRUE",
-              "_cleaned": "click | set_field: has_accessed_storybooks: TRUE"
+              "_raw": "click | set_field: has_accessed_storybooks: TRUE"
             },
             {
               "trigger": "click",
@@ -373,8 +440,7 @@
                 "@local.click_history_field_name",
                 "@local.button_click_history"
               ],
-              "_raw": "click | set_field:@local.click_history_field_name: @local.button_click_history",
-              "_cleaned": "click | set_field:@local.click_history_field_name: @local.button_click_history"
+              "_raw": "click | set_field:@local.click_history_field_name: @local.button_click_history"
             }
           ],
           "condition": "!@fields.has_accessed_storybooks",
@@ -417,20 +483,6 @@
                     "type": "local",
                     "fieldName": "button_click_history"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field:@local.click_history_field_name: @local.button_click_history",
-                    "matchedExpression": "@local.click_history_field_name",
-                    "type": "local",
-                    "fieldName": "click_history_field_name"
-                  },
-                  {
-                    "fullExpression": "click | set_field:@local.click_history_field_name: @local.button_click_history",
-                    "matchedExpression": "@local.button_click_history",
-                    "type": "local",
-                    "fieldName": "button_click_history"
-                  }
                 ]
               }
             },
@@ -446,13 +498,11 @@
           "_dynamicDependencies": {
             "@local.click_history_field_name": [
               "action_list.2.args.0",
-              "action_list.2._raw",
-              "action_list.2._cleaned"
+              "action_list.2._raw"
             ],
             "@local.button_click_history": [
               "action_list.2.args.1",
-              "action_list.2._raw",
-              "action_list.2._cleaned"
+              "action_list.2._raw"
             ],
             "!@fields.has_accessed_storybooks": [
               "condition"
@@ -484,8 +534,7 @@
               "args": [
                 "efm_storybooks"
               ],
-              "_raw": "click | go_to: efm_storybooks",
-              "_cleaned": "click | go_to: efm_storybooks"
+              "_raw": "click | go_to: efm_storybooks"
             },
             {
               "trigger": "click",
@@ -494,8 +543,7 @@
                 "@local.click_history_field_name",
                 "@local.button_click_history"
               ],
-              "_raw": "click | set_field:@local.click_history_field_name: @local.button_click_history",
-              "_cleaned": "click | set_field:@local.click_history_field_name: @local.button_click_history"
+              "_raw": "click | set_field:@local.click_history_field_name: @local.button_click_history"
             }
           ],
           "condition": "@fields.has_accessed_storybooks",
@@ -538,20 +586,6 @@
                     "type": "local",
                     "fieldName": "button_click_history"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field:@local.click_history_field_name: @local.button_click_history",
-                    "matchedExpression": "@local.click_history_field_name",
-                    "type": "local",
-                    "fieldName": "click_history_field_name"
-                  },
-                  {
-                    "fullExpression": "click | set_field:@local.click_history_field_name: @local.button_click_history",
-                    "matchedExpression": "@local.button_click_history",
-                    "type": "local",
-                    "fieldName": "button_click_history"
-                  }
                 ]
               }
             },
@@ -567,13 +601,11 @@
           "_dynamicDependencies": {
             "@local.click_history_field_name": [
               "action_list.1.args.0",
-              "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.1._raw"
             ],
             "@local.button_click_history": [
               "action_list.1.args.1",
-              "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.1._raw"
             ],
             "@fields.has_accessed_storybooks": [
               "condition"
@@ -703,8 +735,7 @@
               "args": [
                 "efm_chapters_tour"
               ],
-              "_raw": "click | start_tour: efm_chapters_tour",
-              "_cleaned": "click | start_tour: efm_chapters_tour"
+              "_raw": "click | start_tour: efm_chapters_tour"
             },
             {
               "trigger": "click",
@@ -713,8 +744,7 @@
                 "has_accessed_activities",
                 true
               ],
-              "_raw": "click | set_field: has_accessed_activities: TRUE",
-              "_cleaned": "click | set_field: has_accessed_activities: TRUE"
+              "_raw": "click | set_field: has_accessed_activities: TRUE"
             },
             {
               "trigger": "click",
@@ -723,8 +753,7 @@
                 "@local.click_history_field_name_1",
                 "@local.button_click_history_1"
               ],
-              "_raw": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
-              "_cleaned": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1"
+              "_raw": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1"
             }
           ],
           "condition": "!@fields.has_accessed_activities",
@@ -767,20 +796,6 @@
                     "type": "local",
                     "fieldName": "button_click_history_1"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
-                    "matchedExpression": "@local.click_history_field_name_1",
-                    "type": "local",
-                    "fieldName": "click_history_field_name_1"
-                  },
-                  {
-                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
-                    "matchedExpression": "@local.button_click_history_1",
-                    "type": "local",
-                    "fieldName": "button_click_history_1"
-                  }
                 ]
               }
             },
@@ -796,13 +811,11 @@
           "_dynamicDependencies": {
             "@local.click_history_field_name_1": [
               "action_list.2.args.0",
-              "action_list.2._raw",
-              "action_list.2._cleaned"
+              "action_list.2._raw"
             ],
             "@local.button_click_history_1": [
               "action_list.2.args.1",
-              "action_list.2._raw",
-              "action_list.2._cleaned"
+              "action_list.2._raw"
             ],
             "!@fields.has_accessed_activities": [
               "condition"
@@ -834,8 +847,7 @@
               "args": [
                 "efm_chapters"
               ],
-              "_raw": "click | go_to: efm_chapters",
-              "_cleaned": "click | go_to: efm_chapters"
+              "_raw": "click | go_to: efm_chapters"
             },
             {
               "trigger": "click",
@@ -844,8 +856,7 @@
                 "@local.click_history_field_name_1",
                 "@local.button_click_history_1"
               ],
-              "_raw": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
-              "_cleaned": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1"
+              "_raw": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1"
             }
           ],
           "condition": "@fields.has_accessed_activities",
@@ -888,20 +899,6 @@
                     "type": "local",
                     "fieldName": "button_click_history_1"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
-                    "matchedExpression": "@local.click_history_field_name_1",
-                    "type": "local",
-                    "fieldName": "click_history_field_name_1"
-                  },
-                  {
-                    "fullExpression": "click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
-                    "matchedExpression": "@local.button_click_history_1",
-                    "type": "local",
-                    "fieldName": "button_click_history_1"
-                  }
                 ]
               }
             },
@@ -917,13 +914,11 @@
           "_dynamicDependencies": {
             "@local.click_history_field_name_1": [
               "action_list.1.args.0",
-              "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.1._raw"
             ],
             "@local.button_click_history_1": [
               "action_list.1.args.1",
-              "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.1._raw"
             ],
             "@fields.has_accessed_activities": [
               "condition"
@@ -1054,8 +1049,7 @@
               "args": [
                 "efm_mls_tour"
               ],
-              "_raw": "click | start_tour: efm_mls_tour",
-              "_cleaned": "click | start_tour: efm_mls_tour"
+              "_raw": "click | start_tour: efm_mls_tour"
             },
             {
               "trigger": "click",
@@ -1064,8 +1058,7 @@
                 "has_accessed_math_learning_steps",
                 true
               ],
-              "_raw": "click | set_field: has_accessed_math_learning_steps: TRUE",
-              "_cleaned": "click | set_field: has_accessed_math_learning_steps: TRUE"
+              "_raw": "click | set_field: has_accessed_math_learning_steps: TRUE"
             },
             {
               "trigger": "click",
@@ -1074,8 +1067,7 @@
                 "@local.click_history_field_name_2",
                 "@local.button_click_history_2"
               ],
-              "_raw": "click | set_field:@local.click_history_field_name_2: @local.button_click_history_2",
-              "_cleaned": "click | set_field:@local.click_history_field_name_2: @local.button_click_history_2"
+              "_raw": "click | set_field:@local.click_history_field_name_2: @local.button_click_history_2"
             }
           ],
           "condition": "!@fields.has_accessed_math_learning_steps",
@@ -1118,20 +1110,6 @@
                     "type": "local",
                     "fieldName": "button_click_history_2"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field:@local.click_history_field_name_2: @local.button_click_history_2",
-                    "matchedExpression": "@local.click_history_field_name_2",
-                    "type": "local",
-                    "fieldName": "click_history_field_name_2"
-                  },
-                  {
-                    "fullExpression": "click | set_field:@local.click_history_field_name_2: @local.button_click_history_2",
-                    "matchedExpression": "@local.button_click_history_2",
-                    "type": "local",
-                    "fieldName": "button_click_history_2"
-                  }
                 ]
               }
             },
@@ -1147,13 +1125,11 @@
           "_dynamicDependencies": {
             "@local.click_history_field_name_2": [
               "action_list.2.args.0",
-              "action_list.2._raw",
-              "action_list.2._cleaned"
+              "action_list.2._raw"
             ],
             "@local.button_click_history_2": [
               "action_list.2.args.1",
-              "action_list.2._raw",
-              "action_list.2._cleaned"
+              "action_list.2._raw"
             ],
             "!@fields.has_accessed_math_learning_steps": [
               "condition"
@@ -1185,8 +1161,7 @@
               "args": [
                 "efm_math_learning_steps"
               ],
-              "_raw": "click | go_to: efm_math_learning_steps",
-              "_cleaned": "click | go_to: efm_math_learning_steps"
+              "_raw": "click | go_to: efm_math_learning_steps"
             },
             {
               "trigger": "click",
@@ -1195,8 +1170,7 @@
                 "@local.click_history_field_name_2",
                 "@local.button_click_history_2"
               ],
-              "_raw": "click | set_field:@local.click_history_field_name_2: @local.button_click_history_2",
-              "_cleaned": "click | set_field:@local.click_history_field_name_2: @local.button_click_history_2"
+              "_raw": "click | set_field:@local.click_history_field_name_2: @local.button_click_history_2"
             }
           ],
           "condition": "@fields.has_accessed_math_learning_steps",
@@ -1239,20 +1213,6 @@
                     "type": "local",
                     "fieldName": "button_click_history_2"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field:@local.click_history_field_name_2: @local.button_click_history_2",
-                    "matchedExpression": "@local.click_history_field_name_2",
-                    "type": "local",
-                    "fieldName": "click_history_field_name_2"
-                  },
-                  {
-                    "fullExpression": "click | set_field:@local.click_history_field_name_2: @local.button_click_history_2",
-                    "matchedExpression": "@local.button_click_history_2",
-                    "type": "local",
-                    "fieldName": "button_click_history_2"
-                  }
                 ]
               }
             },
@@ -1268,13 +1228,11 @@
           "_dynamicDependencies": {
             "@local.click_history_field_name_2": [
               "action_list.1.args.0",
-              "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.1._raw"
             ],
             "@local.button_click_history_2": [
               "action_list.1.args.1",
-              "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.1._raw"
             ],
             "@fields.has_accessed_math_learning_steps": [
               "condition"
@@ -1420,8 +1378,7 @@
               "args": [
                 "efm_playdates_tour"
               ],
-              "_raw": "click | start_tour: efm_playdates_tour",
-              "_cleaned": "click | start_tour: efm_playdates_tour"
+              "_raw": "click | start_tour: efm_playdates_tour"
             },
             {
               "trigger": "click",
@@ -1430,8 +1387,7 @@
                 "has_accessed_playdates",
                 true
               ],
-              "_raw": "click | set_field: has_accessed_playdates: TRUE",
-              "_cleaned": "click | set_field: has_accessed_playdates: TRUE"
+              "_raw": "click | set_field: has_accessed_playdates: TRUE"
             },
             {
               "trigger": "click",
@@ -1440,8 +1396,7 @@
                 "@local.click_history_field_name_3",
                 "@local.button_click_history_3"
               ],
-              "_raw": "click | set_field:@local.click_history_field_name_3: @local.button_click_history_3",
-              "_cleaned": "click | set_field:@local.click_history_field_name_3: @local.button_click_history_3"
+              "_raw": "click | set_field:@local.click_history_field_name_3: @local.button_click_history_3"
             }
           ],
           "condition": "!@fields.has_accessed_playdates",
@@ -1484,20 +1439,6 @@
                     "type": "local",
                     "fieldName": "button_click_history_3"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field:@local.click_history_field_name_3: @local.button_click_history_3",
-                    "matchedExpression": "@local.click_history_field_name_3",
-                    "type": "local",
-                    "fieldName": "click_history_field_name_3"
-                  },
-                  {
-                    "fullExpression": "click | set_field:@local.click_history_field_name_3: @local.button_click_history_3",
-                    "matchedExpression": "@local.button_click_history_3",
-                    "type": "local",
-                    "fieldName": "button_click_history_3"
-                  }
                 ]
               }
             },
@@ -1513,13 +1454,11 @@
           "_dynamicDependencies": {
             "@local.click_history_field_name_3": [
               "action_list.2.args.0",
-              "action_list.2._raw",
-              "action_list.2._cleaned"
+              "action_list.2._raw"
             ],
             "@local.button_click_history_3": [
               "action_list.2.args.1",
-              "action_list.2._raw",
-              "action_list.2._cleaned"
+              "action_list.2._raw"
             ],
             "!@fields.has_accessed_playdates": [
               "condition"
@@ -1551,8 +1490,7 @@
               "args": [
                 "efm_playdates"
               ],
-              "_raw": "click | go_to: efm_playdates",
-              "_cleaned": "click | go_to: efm_playdates"
+              "_raw": "click | go_to: efm_playdates"
             },
             {
               "trigger": "click",
@@ -1561,8 +1499,7 @@
                 "@local.click_history_field_name_3",
                 "@local.button_click_history_3"
               ],
-              "_raw": "click | set_field:@local.click_history_field_name_3: @local.button_click_history_3",
-              "_cleaned": "click | set_field:@local.click_history_field_name_3: @local.button_click_history_3"
+              "_raw": "click | set_field:@local.click_history_field_name_3: @local.button_click_history_3"
             }
           ],
           "condition": "@fields.has_accessed_playdates",
@@ -1605,20 +1542,6 @@
                     "type": "local",
                     "fieldName": "button_click_history_3"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field:@local.click_history_field_name_3: @local.button_click_history_3",
-                    "matchedExpression": "@local.click_history_field_name_3",
-                    "type": "local",
-                    "fieldName": "click_history_field_name_3"
-                  },
-                  {
-                    "fullExpression": "click | set_field:@local.click_history_field_name_3: @local.button_click_history_3",
-                    "matchedExpression": "@local.button_click_history_3",
-                    "type": "local",
-                    "fieldName": "button_click_history_3"
-                  }
                 ]
               }
             },
@@ -1634,13 +1557,11 @@
           "_dynamicDependencies": {
             "@local.click_history_field_name_3": [
               "action_list.1.args.0",
-              "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.1._raw"
             ],
             "@local.button_click_history_3": [
               "action_list.1.args.1",
-              "action_list.1._raw",
-              "action_list.1._cleaned"
+              "action_list.1._raw"
             ],
             "@fields.has_accessed_playdates": [
               "condition"
@@ -1664,8 +1585,97 @@
           "condition"
         ]
       }
+    },
+    {
+      "name": "true_value",
+      "value": true,
+      "type": "set_variable",
+      "_nested_name": "true_value"
+    },
+    {
+      "type": "display_group",
+      "name": "dg_debugging",
+      "condition": false,
+      "rows": [
+        {
+          "type": "text",
+          "name": "debug1",
+          "value": "What true looks like: @local.true_value",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "dg_debugging.debug1",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "What true looks like: @local.true_value",
+                "matchedExpression": "@local.true_value",
+                "type": "local",
+                "fieldName": "true_value"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@local.true_value": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "name": "debug2",
+          "value": "Activities: @fields.see_activities_introduction",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "dg_debugging.debug2",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "Activities: @fields.see_activities_introduction",
+                "matchedExpression": "@fields.see_activities_introduction",
+                "type": "fields",
+                "fieldName": "see_activities_introduction"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@fields.see_activities_introduction": [
+              "value"
+            ]
+          }
+        },
+        {
+          "type": "text",
+          "name": "debug3",
+          "value": "Already Started: @fields.already_started",
+          "_translations": {
+            "value": {}
+          },
+          "_nested_name": "dg_debugging.debug3",
+          "_dynamicFields": {
+            "value": [
+              {
+                "fullExpression": "Already Started: @fields.already_started",
+                "matchedExpression": "@fields.already_started",
+                "type": "fields",
+                "fieldName": "already_started"
+              }
+            ]
+          },
+          "_dynamicDependencies": {
+            "@fields.already_started": [
+              "value"
+            ]
+          }
+        }
+      ],
+      "_nested_name": "dg_debugging"
     }
   ],
-  "_xlsxPath": "EFM_high_level_sheets.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_high_level_sheets.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1eRPEXlpxqJC13R_DUMhwvUYgThgMpPXP6z2uIVw4ZgY"
+  }
 }

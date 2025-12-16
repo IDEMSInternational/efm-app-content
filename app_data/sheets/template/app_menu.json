@@ -32,8 +32,7 @@
           "args": [
             "app_menu_language"
           ],
-          "_raw": "click | go_to: app_menu_language",
-          "_cleaned": "click | go_to: app_menu_language"
+          "_raw": "click | go_to: app_menu_language"
         }
       ],
       "_nested_name": "button_privacy"
@@ -62,8 +61,7 @@
           "args": [
             "app_menu_privacy_policy"
           ],
-          "_raw": "click | go_to: app_menu_privacy_policy",
-          "_cleaned": "click | go_to: app_menu_privacy_policy"
+          "_raw": "click | go_to: app_menu_privacy_policy"
         }
       ],
       "_nested_name": "button_privacy"
@@ -92,8 +90,7 @@
           "args": [
             "/template"
           ],
-          "_raw": "click | go_to:/template",
-          "_cleaned": "click | go_to:/template"
+          "_raw": "click | go_to:/template"
         }
       ],
       "_nested_name": "button_template"
@@ -122,8 +119,7 @@
           "args": [
             "/tour"
           ],
-          "_raw": "click | go_to:/tour",
-          "_cleaned": "click | go_to:/tour"
+          "_raw": "click | go_to:/tour"
         }
       ],
       "_nested_name": "button_tour"
@@ -150,13 +146,15 @@
           "trigger": "click",
           "action_id": "reset_app",
           "args": [],
-          "_raw": "click | reset_app",
-          "_cleaned": "click | reset_app"
+          "_raw": "click | reset_app"
         }
       ],
       "_nested_name": "button_reset"
     }
   ],
-  "_xlsxPath": "EFM_high_level_sheets.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_high_level_sheets.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1eRPEXlpxqJC13R_DUMhwvUYgThgMpPXP6z2uIVw4ZgY"
+  }
 }

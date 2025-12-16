@@ -1,0 +1,259 @@
+{
+  "flow_type": "template",
+  "flow_name": "home_screen",
+  "status": "released",
+  "rows": [
+    {
+      "type": "begin_template",
+      "name": "inits",
+      "value": "initializations_on_startup",
+      "condition": "! @fields.already_started"
+    },
+    {
+      "type": "end_template"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_top_of_page"
+    },
+    {
+      "type": "title",
+      "name": "spacer",
+      "value": "Welcome!",
+      "style_list": "flex:1"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_help"
+    },
+    {
+      "type": "round_button",
+      "name": "help_button",
+      "action_list": "click | start_tour: home_screen_tour",
+      "parameter_list": "icon_src: help; style: navigation"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_image",
+      "parameter_list": "style: dashed_box"
+    },
+    {
+      "type": "image",
+      "name": "main_image",
+      "value": "EFM12EFMLogoNoEFMpng.png"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "name": "okay_learning_steps_language",
+      "value": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "okay_playdates_language",
+      "value": "@fields._app_language == \"us_en\" || @fields._app_language == \"es_es\" || @fields._app_language == \"cn_zh\" || @fields._app_language == \"tw_zh\" || @fields._app_language == \"fr_fr\" || @fields._app_language == \"br_pt\"  || @fields._app_language == \"kr_ko\" || @fields._app_language == \"tr_tr\" || @fields._app_language == \"sa_ar\" || @fields._app_language == \"ru_ru\"",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "now",
+      "value": "@calc(timestamp())",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "click_history_field_name",
+      "value": "storybooks_button_click_history",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "button_click_history",
+      "value": "@fields.@local.click_history_field_name ;  @local.now",
+      "condition": "!!(@fields.@local.click_history_field_name)",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "button_click_history",
+      "value": "@local.now",
+      "condition": "!(@fields.@local.click_history_field_name)",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_storybooks"
+    },
+    {
+      "type": "button",
+      "name": "button_storybooks",
+      "value": "Storybooks",
+      "action_list": "click | start_tour: efm_storybooks_tour; click | set_field: has_accessed_storybooks: TRUE; click | set_field:@local.click_history_field_name: @local.button_click_history",
+      "condition": "!@fields.has_accessed_storybooks",
+      "parameter_list": "style: short; \ntext_align: center"
+    },
+    {
+      "type": "button",
+      "name": "button_storybooks",
+      "value": "Storybooks",
+      "action_list": "click | go_to: efm_storybooks; click | set_field:@local.click_history_field_name: @local.button_click_history",
+      "condition": "@fields.has_accessed_storybooks",
+      "parameter_list": "style: short; \ntext_align: center"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "name": "click_history_field_name_1",
+      "value": "activities_button_click_history",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "button_click_history_1",
+      "value": "@fields.@local.click_history_field_name_1 ;  @local.now",
+      "condition": "!!(@fields.@local.click_history_field_name_1)",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "button_click_history_1",
+      "value": "@local.now",
+      "condition": "!(@fields.@local.click_history_field_name_1)",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_activities"
+    },
+    {
+      "type": "button",
+      "name": "button_activities",
+      "value": "Activities",
+      "action_list": "click | start_tour: efm_chapters_tour; click | set_field: has_accessed_activities: TRUE ; click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+      "condition": "!@fields.has_accessed_activities",
+      "parameter_list": "style: short; \ntext_align: center"
+    },
+    {
+      "type": "button",
+      "name": "button_activities",
+      "value": "Activities",
+      "action_list": "click | go_to: efm_chapters ; click | set_field:@local.click_history_field_name_1: @local.button_click_history_1",
+      "condition": "@fields.has_accessed_activities",
+      "parameter_list": "style: short; \ntext_align: center"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "name": "click_history_field_name_2",
+      "value": "learningsteps_button_click_history",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "button_click_history_2",
+      "value": "@fields.@local.click_history_field_name_2 ;  @local.now",
+      "condition": "!!(@fields.@local.click_history_field_name_2)",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "button_click_history_2",
+      "value": "@local.now",
+      "condition": "!(@fields.@local.click_history_field_name_2)",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_math_learning_steps",
+      "condition": "@local.okay_learning_steps_language"
+    },
+    {
+      "type": "button",
+      "name": "math_learning_steps",
+      "value": "Math Learning Steps",
+      "action_list": "click | start_tour: efm_mls_tour; click | set_field: has_accessed_math_learning_steps: TRUE ; click | set_field:@local.click_history_field_name_2: @local.button_click_history_2",
+      "condition": "!@fields.has_accessed_math_learning_steps",
+      "parameter_list": "style: short; \ntext_align: center"
+    },
+    {
+      "type": "button",
+      "name": "math_learning_steps",
+      "value": "Math Learning Steps",
+      "action_list": "click | go_to: efm_math_learning_steps; click | set_field:@local.click_history_field_name_2: @local.button_click_history_2",
+      "condition": "@fields.has_accessed_math_learning_steps",
+      "parameter_list": "style: short; \ntext_align: center"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "name": "click_history_field_name_3",
+      "value": "playdates_button_click_history",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "button_click_history_3",
+      "value": "@fields.@local.click_history_field_name_3 ;  @local.now",
+      "condition": "!!(@fields.@local.click_history_field_name_3)",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "button_click_history_3",
+      "value": "@local.now",
+      "condition": "!(@fields.@local.click_history_field_name_3)",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_playdates",
+      "condition": "@local.okay_playdates_language"
+    },
+    {
+      "type": "button",
+      "name": "button_playdates",
+      "value": "Playdates",
+      "action_list": "click | start_tour: efm_playdates_tour; click | set_field: has_accessed_playdates: TRUE ; click | set_field:@local.click_history_field_name_3: @local.button_click_history_3",
+      "condition": "!@fields.has_accessed_playdates",
+      "parameter_list": "style: short; \ntext_align: center"
+    },
+    {
+      "type": "button",
+      "name": "button_playdates",
+      "value": "Playdates",
+      "action_list": "click | go_to: efm_playdates ; click | set_field:@local.click_history_field_name_3: @local.button_click_history_3",
+      "condition": "@fields.has_accessed_playdates",
+      "parameter_list": "style: short; \ntext_align: center"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_debugging",
+      "condition": false
+    },
+    {
+      "name": "true_value",
+      "value": true
+    },
+    {
+      "type": "text",
+      "name": "debug1",
+      "value": "What true looks like: @local.true_value"
+    },
+    {
+      "type": "text",
+      "name": "debug2",
+      "value": "Activities: @fields.see_activities_introduction"
+    },
+    {
+      "type": "text",
+      "name": "debug3",
+      "value": "Already Started: @fields.already_started"
+    },
+    {
+      "type": "end_display_group"
+    }
+  ]
+}

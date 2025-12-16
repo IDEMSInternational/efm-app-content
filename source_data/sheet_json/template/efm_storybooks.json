@@ -1,0 +1,319 @@
+{
+  "flow_type": "template",
+  "flow_name": "efm_storybooks",
+  "status": "released",
+  "rows": [
+    {
+      "type": "begin_display_group",
+      "name": "dg_top_of_page"
+    },
+    {
+      "type": "title",
+      "name": "spacer",
+      "value": "Storybooks",
+      "style_list": "flex:1"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_help"
+    },
+    {
+      "type": "round_button",
+      "name": "help_button",
+      "action_list": "click | start_tour: efm_storybooks_tour",
+      "parameter_list": "icon_src: help; style:navigation"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "name": "description_begin",
+      "value": "Beginning"
+    },
+    {
+      "name": "description_intermed",
+      "value": "Intermediate"
+    },
+    {
+      "name": "description_advance",
+      "value": "Advanced"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_options",
+      "parameter_list": "style: column"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_box_beginner"
+    },
+    {
+      "type": "toggle_bar",
+      "name": "box_beginner",
+      "value": true,
+      "parameter_list": "true_text: @local.description_begin;\nfalse_text: @local.description_begin;\n"
+    },
+    {
+      "type": "text",
+      "name": "blank_one"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_box_intermediate"
+    },
+    {
+      "type": "toggle_bar",
+      "name": "box_intermediate",
+      "value": true,
+      "parameter_list": "true_text: @local.description_intermed;\nfalse_text: @local.description_intermed;\n"
+    },
+    {
+      "type": "text",
+      "name": "blank_two"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_box_advanced"
+    },
+    {
+      "type": "toggle_bar",
+      "name": "box_advanced",
+      "value": true,
+      "parameter_list": "true_text: @local.description_advance;\nfalse_text: @local.description_advance;"
+    },
+    {
+      "type": "text",
+      "name": "blank_three"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "name": "title_field_lang",
+      "value": "title_@fields._app_language"
+    },
+    {
+      "name": "now",
+      "value": "@calc(timestamp())",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "book_click_history",
+      "value": "_book_click_history",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_beginning_sb",
+      "condition": "@local.box_beginner",
+      "parameter_list": "style: column"
+    },
+    {
+      "type": "text",
+      "name": "begin_sb_text",
+      "value": "**Beginning Storybooks**"
+    },
+    {
+      "type": "begin_items",
+      "name": "activity_buttons",
+      "value": "@data.efm_storybooks",
+      "parameter_list": "sort: title_@fields._app_language",
+      "comments": "sort: title_@fields._app_language"
+    },
+    {
+      "name": "book_id",
+      "value": "@item.id"
+    },
+    {
+      "name": "book_title_in_table",
+      "value": "@item.@local.title_field_lang"
+    },
+    {
+      "name": "not_translated",
+      "value": "@local.book_title_in_table == \"NoTranslation\"",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "click_history_field_name",
+      "value": "@local.book_id@local.book_click_history",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "books_click_history",
+      "value": "@fields.@local.click_history_field_name ;  @local.now",
+      "condition": "!!(@fields.@local.click_history_field_name)",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "books_click_history",
+      "value": "@local.now",
+      "condition": "!(@fields.@local.click_history_field_name)",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "button",
+      "name": "button_sb",
+      "value": "@item.title",
+      "action_list": "click | go_to: @item.id;\nclick | set_field:@local.click_history_field_name: @local.books_click_history",
+      "condition": "@item.book_level == \"beginner\" && !@local.not_translated",
+      "parameter_list": "style: short; \ntext_align: center",
+      "comments": "click | go_to: @item.template"
+    },
+    {
+      "type": "end_items"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_intermediate_sb",
+      "condition": "@local.box_intermediate",
+      "parameter_list": "style: column"
+    },
+    {
+      "type": "text",
+      "name": "intermed_sb_text",
+      "value": "**Intermediate Storybooks**"
+    },
+    {
+      "type": "begin_items",
+      "name": "activity_buttons",
+      "value": "@data.efm_storybooks",
+      "parameter_list": "sort: title_@fields._app_language",
+      "comments": "sort: title_@fields._app_language"
+    },
+    {
+      "name": "book_id",
+      "value": "@item.id"
+    },
+    {
+      "name": "book_title_in_table",
+      "value": "@item.@local.title_field_lang"
+    },
+    {
+      "name": "not_translated",
+      "value": "@local.book_title_in_table == \"NoTranslation\"",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "click_history_field_name",
+      "value": "@local.book_id@local.book_click_history",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "books_click_history",
+      "value": "@fields.@local.click_history_field_name ;  @local.now",
+      "condition": "!!(@fields.@local.click_history_field_name)",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "books_click_history",
+      "value": "@local.now",
+      "condition": "!(@fields.@local.click_history_field_name)",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "button",
+      "name": "button_sb",
+      "value": "@item.title",
+      "action_list": "click | go_to: @item.id;\nclick | set_field:@local.click_history_field_name: @local.books_click_history",
+      "condition": "@item.book_level == \"intermediate\"  && !@local.not_translated",
+      "parameter_list": "style: short; \ntext_align: center",
+      "comments": "click | go_to: @item.template"
+    },
+    {
+      "type": "end_items"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_advanced_sb",
+      "condition": "@local.box_advanced",
+      "parameter_list": "style: column"
+    },
+    {
+      "type": "text",
+      "name": "advanced_sb_text",
+      "value": "**Advanced Storybooks**"
+    },
+    {
+      "type": "begin_items",
+      "name": "activity_buttons",
+      "value": "@data.efm_storybooks",
+      "parameter_list": "sort: title_@fields._app_language",
+      "comments": "sort: title_@fields._app_language"
+    },
+    {
+      "name": "book_id",
+      "value": "@item.id"
+    },
+    {
+      "name": "book_title_in_table",
+      "value": "@item.@local.title_field_lang"
+    },
+    {
+      "name": "not_translated",
+      "value": "@local.book_title_in_table == \"NoTranslation\"",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "click_history_field_name",
+      "value": "@local.book_id@local.book_click_history",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "books_click_history",
+      "value": "@fields.@local.click_history_field_name ;  @local.now",
+      "condition": "!!(@fields.@local.click_history_field_name)",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "books_click_history",
+      "value": "@local.now",
+      "condition": "!(@fields.@local.click_history_field_name)",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "button",
+      "name": "button_sb",
+      "value": "@item.title",
+      "action_list": "click | go_to: @item.id;\nclick | set_field:@local.click_history_field_name: @local.books_click_history",
+      "condition": "@item.book_level == \"advanced\" && !@local.not_translated",
+      "parameter_list": "style: short; \ntext_align: center",
+      "comments": "click | go_to: @item.template"
+    },
+    {
+      "type": "end_items"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "fake_group",
+      "style_list": "margin-top: 40px;"
+    },
+    {
+      "type": "text",
+      "name": "spacer"
+    },
+    {
+      "type": "end_display_group"
+    }
+  ]
+}

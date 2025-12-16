@@ -1,0 +1,96 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "efm_pd_act_list_3",
+  "data_list_name": "efm_pd_act_3",
+  "status": "released",
+  "rows": [
+    {
+      "id": "pd_act_list_3_1",
+      "act_list_id": "efm_act_3_230c"
+    },
+    {
+      "id": "pd_act_list_3_2",
+      "act_list_id": "efm_act_3_270c"
+    },
+    {
+      "id": "pd_act_list_3_3",
+      "act_list_id": "efm_act_4_300c"
+    },
+    {
+      "id": "pd_act_list_3_4",
+      "act_list_id": "efm_act_3_280c"
+    },
+    {
+      "id": "pd_act_list_3_5",
+      "act_list_id": "efm_act_3_220b"
+    },
+    {
+      "id": "pd_act_list_3_6",
+      "act_list_id": "efm_act_3_230a"
+    },
+    {
+      "id": "pd_act_list_3_7",
+      "act_list_id": "efm_act_3_210e"
+    },
+    {
+      "id": "pd_act_list_3_8",
+      "act_list_id": "efm_act_2_145f"
+    },
+    {
+      "id": "pd_act_list_3_9",
+      "act_list_id": "efm_act_3_250b"
+    },
+    {
+      "id": "pd_act_list_3_10",
+      "act_list_id": "efm_act_3_250c"
+    },
+    {
+      "id": "pd_act_list_3_11",
+      "act_list_id": "efm_act_2_140a"
+    },
+    {
+      "id": "pd_act_list_3_12",
+      "act_list_id": "efm_act_3_210b"
+    },
+    {
+      "id": "pd_act_list_3_13",
+      "act_list_id": "efm_act_3_260d"
+    },
+    {
+      "id": "pd_act_list_3_14",
+      "act_list_id": "efm_act_5_490b"
+    },
+    {
+      "id": "pd_act_list_3_15",
+      "act_list_id": "efm_act_3_180c"
+    },
+    {
+      "id": "pd_act_list_3_16",
+      "act_list_id": "efm_act_3_250a"
+    },
+    {
+      "id": "pd_act_list_3_17",
+      "act_list_id": "efm_act_3_200b"
+    },
+    {
+      "id": "pd_act_list_3_18",
+      "act_list_id": "efm_act_2_105f"
+    },
+    {
+      "id": "pd_act_list_3_19",
+      "act_list_id": "efm_act_3_220f"
+    },
+    {
+      "id": "pd_act_list_3_20",
+      "act_list_id": "efm_act_4_390b"
+    },
+    {
+      "id": "pd_act_list_3_21",
+      "act_list_id": "efm_act_3_220a"
+    },
+    {
+      "id": "pd_act_list_3_22",
+      "act_list_id": "efm_act_4_310a"
+    }
+  ]
+}

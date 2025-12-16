@@ -1,0 +1,60 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "efm_pd_act_list_1",
+  "data_list_name": "efm_pd_act_1",
+  "status": "released",
+  "rows": [
+    {
+      "id": "pd_act_list_1_1",
+      "act_list_id": "efm_act_3_190c"
+    },
+    {
+      "id": "pd_act_list_1_2",
+      "act_list_id": "efm_act_1_80g"
+    },
+    {
+      "id": "pd_act_list_1_3",
+      "act_list_id": "efm_act_1_20c"
+    },
+    {
+      "id": "pd_act_list_1_4",
+      "act_list_id": "efm_act_1_80a"
+    },
+    {
+      "id": "pd_act_list_1_5",
+      "act_list_id": "efm_act_1_70f"
+    },
+    {
+      "id": "pd_act_list_1_6",
+      "act_list_id": "efm_act_1_70c"
+    },
+    {
+      "id": "pd_act_list_1_7",
+      "act_list_id": "efm_act_1_30c"
+    },
+    {
+      "id": "pd_act_list_1_8",
+      "act_list_id": "efm_act_1_70b"
+    },
+    {
+      "id": "pd_act_list_1_9",
+      "act_list_id": "efm_act_1_70g"
+    },
+    {
+      "id": "pd_act_list_1_10",
+      "act_list_id": "efm_act_1_70h"
+    },
+    {
+      "id": "pd_act_list_1_11",
+      "act_list_id": "efm_act_1_80b"
+    },
+    {
+      "id": "pd_act_list_1_12",
+      "act_list_id": "efm_act_1_80c"
+    },
+    {
+      "id": "pd_act_list_1_13",
+      "act_list_id": "efm_act_1_80f"
+    }
+  ]
+}

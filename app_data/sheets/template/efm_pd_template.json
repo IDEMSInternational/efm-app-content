@@ -456,8 +456,7 @@
                 "current_pd",
                 "@local.prev_pd"
               ],
-              "_raw": "click | set_field:current_pd:@local.prev_pd",
-              "_cleaned": "click | set_field:current_pd:@local.prev_pd"
+              "_raw": "click | set_field:current_pd:@local.prev_pd"
             },
             {
               "trigger": "click",
@@ -465,8 +464,7 @@
               "args": [
                 "force_reload"
               ],
-              "_raw": "click | emit:force_reload",
-              "_cleaned": "click | emit:force_reload"
+              "_raw": "click | emit:force_reload"
             }
           ],
           "condition": "@local.prev_pd",
@@ -499,14 +497,6 @@
                     "type": "local",
                     "fieldName": "prev_pd"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field:current_pd:@local.prev_pd",
-                    "matchedExpression": "@local.prev_pd",
-                    "type": "local",
-                    "fieldName": "prev_pd"
-                  }
                 ]
               }
             },
@@ -523,7 +513,6 @@
             "@local.prev_pd": [
               "action_list.0.args.1",
               "action_list.0._raw",
-              "action_list.0._cleaned",
               "condition"
             ]
           }
@@ -598,8 +587,7 @@
                 "current_pd",
                 "@local.next_pd"
               ],
-              "_raw": "click | set_field:current_pd:@local.next_pd",
-              "_cleaned": "click | set_field:current_pd:@local.next_pd"
+              "_raw": "click | set_field:current_pd:@local.next_pd"
             },
             {
               "trigger": "click",
@@ -607,8 +595,7 @@
               "args": [
                 "force_reload"
               ],
-              "_raw": "click | emit:force_reload",
-              "_cleaned": "click | emit:force_reload"
+              "_raw": "click | emit:force_reload"
             }
           ],
           "condition": "@local.next_pd",
@@ -641,14 +628,6 @@
                     "type": "local",
                     "fieldName": "next_pd"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field:current_pd:@local.next_pd",
-                    "matchedExpression": "@local.next_pd",
-                    "type": "local",
-                    "fieldName": "next_pd"
-                  }
                 ]
               }
             },
@@ -665,7 +644,6 @@
             "@local.next_pd": [
               "action_list.0.args.1",
               "action_list.0._raw",
-              "action_list.0._cleaned",
               "condition"
             ]
           }
@@ -731,6 +709,9 @@
       "_nested_name": "activity_body_generator"
     }
   ],
-  "_xlsxPath": "EFM_pd_high_level_sheets.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_pd_high_level_sheets.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1_18mFLtI7wMer7eBzmviAKOcQtATPqEA93amfZnOSdY"
+  }
 }

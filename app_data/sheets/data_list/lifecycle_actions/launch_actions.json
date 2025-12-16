@@ -18,8 +18,7 @@
           "args": [
             "complete"
           ],
-          "_raw": "app_update: complete",
-          "_cleaned": "click | app_update: complete"
+          "_raw": "app_update: complete"
         }
       ]
     },
@@ -38,7 +37,6 @@
             "app_menu_language"
           ],
           "_raw": "pop_up: app_menu_language | fullscreen: true, showCloseButton: false",
-          "_cleaned": "click | pop_up: app_menu_language | fullscreen: true, showCloseButton: false",
           "params": {
             "fullscreen": true,
             "showCloseButton": false
@@ -60,8 +58,7 @@
           "args": [
             "home_screen_tour"
           ],
-          "_raw": "start_tour: home_screen_tour",
-          "_cleaned": "click | start_tour: home_screen_tour"
+          "_raw": "start_tour: home_screen_tour"
         },
         {
           "trigger": "click",
@@ -70,8 +67,7 @@
             "home_screen_tour_started",
             true
           ],
-          "_raw": "set_field: home_screen_tour_started: true",
-          "_cleaned": "click | set_field: home_screen_tour_started: true"
+          "_raw": "set_field: home_screen_tour_started: true"
         }
       ]
     },
@@ -86,14 +82,16 @@
           "args": [
             "prompt"
           ],
-          "_raw": "app_update: prompt",
-          "_cleaned": "click | app_update: prompt"
+          "_raw": "app_update: prompt"
         }
       ]
     }
   ],
-  "_xlsxPath": "EFM_app_launch.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_app_launch.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1Mtxc0VvXXl5oKddOwVWddaq2P80nDR-WzinV5LFRLnY"
+  },
   "_metadata": {
     "priority": {
       "type": "number"

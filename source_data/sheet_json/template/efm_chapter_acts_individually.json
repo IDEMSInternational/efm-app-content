@@ -1,0 +1,67 @@
+{
+  "flow_type": "template",
+  "flow_name": "efm_chapter_acts_individually",
+  "status": "released",
+  "rows": [
+    {
+      "name": "efm_chapter",
+      "value": "@@fields.current_chapter",
+      "comments": "List out the activities in this chapter that have acceptable types."
+    },
+    {
+      "name": "efm_chapter_title",
+      "value": "@local.efm_chapter.title"
+    },
+    {
+      "type": "title",
+      "name": "chapter_title",
+      "value": "@local.efm_chapter_title"
+    },
+    {
+      "type": "begin_items",
+      "name": "activity_buttons",
+      "value": "@data.efm_act_v_two"
+    },
+    {
+      "name": "activity_type",
+      "value": "fields.see_activities_@item.type"
+    },
+    {
+      "name": "ok_type",
+      "value": "@@local.activity_type"
+    },
+    {
+      "name": "ok_chapter",
+      "value": "@item.chapter==@local.efm_chapter.number",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "ok_type_and_chapter",
+      "value": "@local.ok_type && @local.ok_chapter",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "button",
+      "name": "button_activities",
+      "value": "@item.title",
+      "action_list": "click | set_field:current_activity: data.efm_act_v_two.@item.id;\nclick | go_to: efm_activity_v_two_template",
+      "condition": "@local.ok_type_and_chapter",
+      "parameter_list": "style: short; \ntext_align: center"
+    },
+    {
+      "type": "end_items"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "fake_group",
+      "style_list": "margin-top: 40px;"
+    },
+    {
+      "type": "text",
+      "name": "spacer"
+    },
+    {
+      "type": "end_display_group"
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "The_Smell_Thief_data",
+  "status": "released",
+  "data_list_name": "The_Smell_Thief_storybook",
+  "rows": [
+    {
+      "id": "page_1",
+      "page_no": 1,
+      "illustration": "EFMStorybooks/EFM-SB-TST-1.jpg",
+      "story_text::eng": "Mr. Shabangu was the best baker in town. Every morning he woke up at four o'clock to mix and knead the dough for his famous buns, cakes, and biscuits.",
+      "annotation_1::eng": "Do you like to cook? Baking can be a lot of fun. It usually involves a lot of careful measuring and counting.",
+      "annotation_2::eng": "It looks like there are two rows of four eggs. You can count them by 1's, 2's, or 4's. Which way did you choose? Have you ever seen a carton holding 8 eggs?",
+      "annotation_3::eng": "Why do you think bakers get up early in the morning? Do you like to get up so early that it is still dark outside, or does it seem like you should still be asleep at that time?"
+    },
+    {
+      "id": "page_2",
+      "page_no": 2,
+      "illustration": "EFMStorybooks/EFM-SB-TST-2.jpg",
+      "story_text::eng": "By eight o'clock the people of the town were walking past the bakery on their way to work and school. By this time the cakes and buns were almost cooked, and the most delicious smells wafted out of the bakery's windows.",
+      "annotation_1::eng": "The baker started early so his wonderful food would be ready to eat when people walked by at breakfast time.  Why couldn't the people just wait a little while?",
+      "annotation_2::eng": "The baker could have baked the evening before and then not needed to get up so early. Why didn't he do that?",
+      "annotation_3::eng": "This baker has a very small shop! Do you think he has room to cook in, display his baked goods, and have customers walk inside to buy things?"
+    },
+    {
+      "id": "page_3",
+      "page_no": 3,
+      "illustration": "EFMStorybooks/EFM-SB-TST-3.jpg",
+      "story_text::eng": "Many of the people went into the bakery to buy their breakfast. Mr. Shabangu smiled happily at them as he passed them the fresh, tasty cinnamon buns and warm, golden biscuits that were so famous in the town.",
+      "annotation_1::eng": "The clock says it is 1:00. That seems late to be buying breakfast. Have you ever eaten breakfast after noon?",
+      "annotation_2::eng": "How can you tell the items in the box are fresh and hot?",
+      "annotation_3::eng": "What in the picture shows that Mr. Shabangu likes his work and cares about the food he makes? Do you have a favorite thing you like to do that you care a lot about?"
+    },
+    {
+      "id": "page_4",
+      "page_no": 4,
+      "illustration": "EFMStorybooks/EFM-SB-TST-4.jpg",
+      "story_text::eng": "But other people were not so lucky. Because they had so little money, the poorer people of the town could hardly ever afford to buy any of the delicious buns, cakes, and biscuits. All they could do was enjoy the lovely smells that drifted out of the bakery windows. When Mr. Shabangu noticed these people sniffing the air near his bakery, he said angrily, \"How dare they sniff my delicious smells!\"",
+      "annotation_1::eng": "What do you think? Is it okay for the poor people to enjoy the delicious smells coming from Mr. Shabangu's bakery?",
+      "annotation_2::eng": "Some people are generous with the things they have, while other people don't want to give away something they worked hard to make. Which kind of person do you think tends to be happier?",
+      "annotation_3::eng": "Each of the three loaves of bread on the shelf has three cuts in it. How many total cuts does that make? Did you skip count by 3's, or do you know what 3 times 3 is?"
+    },
+    {
+      "id": "page_5",
+      "page_no": 5,
+      "illustration": "EFMStorybooks/EFM-SB-TST-5.jpg",
+      "story_text::eng": "\"Those are MY smells. I made them, so they belong to me! If people want to smell my wonderful smells, they should pay for them!\" He huffed and puffed and wiped the sweat from his brow, before turning back to the oven to bake some bread and rolls for his lunchtime customers.",
+      "annotation_1::eng": "Do you agree with Mr. Shabangu? Do we own the aromas we make?",
+      "annotation_2::eng": "There are many ways to sense things. For example, we can touch them. What are some other ways of sensing things?",
+      "annotation_3::eng": "We do restrict some ways of sensing. We typically control who gets to touch or taste our things. Can we control who gets to sense our things in other ways?"
+    },
+    {
+      "id": "page_6",
+      "page_no": 6,
+      "illustration": "EFMStorybooks/EFM-SB-TST-6.jpg",
+      "story_text::eng": "One old woman especially loved the smells that drifted out of the bakery window every morning. This was Ma Shange who slept on a bench in the park every night.",
+      "annotation_1::eng": "Why do you think Ma Shange sleeps on a bench in the park? What does she do when it rains?",
+      "annotation_2::eng": "Do you ever sleep outside? Do you like being out in nature getting to see the night sky? Is it a little uncomfortable and scary, or does it feel very natural and pleasant?",
+      "annotation_3::eng": "Have you ever tried to count all the stars you can see in the sky on a clear night? If the sky is really clear, there are too many stars to count, but it's still fun to try!"
+    },
+    {
+      "id": "page_7",
+      "page_no": 7,
+      "illustration": "EFMStorybooks/EFM-SB-TST-7.jpg",
+      "story_text::eng": "A few weeks before, a kind person had given her the money to buy herself a cinnamon bun. She had taken the bun back to the park and ate it very slowly, licking her lips and sharing the last crumbs with the birds.",
+      "annotation_1::eng": "That's a lot of birds for her to feed! If she gives three crumbs to each bird, count by 3's to find out how many crumbs she needs to feed them all.",
+      "annotation_2::eng": "If you took one of those buns and broke it into a bunch of crumbs, estimate how many crumbs that would make. An estimate is a best guess as to the quantity of something that is hard to count.",
+      "annotation_3::eng": "Ma Shange gave away some of something she likes very much. Why did she do that? Is she happier feeding the birds than if she had eaten those crumbs herself? Have you ever given away something you liked because you knew someone else would enjoy it or need it?"
+    },
+    {
+      "id": "page_8",
+      "page_no": 8,
+      "illustration": "EFMStorybooks/EFM-SB-TST-8.jpg",
+      "story_text::eng": "After that, although the old woman didn't have enough money to buy breakfast, she longed for the delicious bun again. So every morning she walked slowly past Mr. Shabangu's bakery, sniffing the air and smiling blissfully at the mouth-watering smell.",
+      "annotation_1::eng": "It's a little hard to tell, so let's suppose that each piece of bread has 4 cuts in it. What are the total number of cuts for those 6 pieces of bread? Did you skip count by 4's, by 6's, or did you figure it out some other way?",
+      "annotation_2::eng": "Take a quick look and estimate how many buns you see on the lower shelf.",
+      "annotation_3::eng": "Now count the buns and see how close your estimate is. There are many ways to count them. One way is to skip count by 2's. How did you count them?"
+    },
+    {
+      "id": "page_9",
+      "page_no": 9,
+      "illustration": "EFMStorybooks/EFM-SB-TST-9.jpg",
+      "story_text::eng": "Ma Shange's new habit made the baker very angry. As each day went by, he grew angrier and angrier with her. Finally, one winter morning when he was in an especially bad mood, he stormed out of his bakery and grabbed the old woman by the arm. \"How dare you steal my smells!\" he shouted. \"You're nothing but a smell thief!\" He wiped his hands on an apron, then pulled it off and threw it back into the bakery.",
+      "annotation_1::eng": "The bricks showing in the wall are rectangles. Rectangles have four straight sides and have corners like the corners of this page. Can you find any other rectangles in this picture? Do you see any rectangles around where you are?",
+      "annotation_2::eng": "What do you think, is the baker right? Should Ma Shange be forced to stay away?",
+      "annotation_3::eng": "Notice how the bricks in different rows are offset from the row above. This is always done. Guess why having the bricks all lined up would make the wall weaker."
+    },
+    {
+      "id": "page_10",
+      "page_no": 10,
+      "illustration": "EFMStorybooks/EFM-SB-TST-10.jpg",
+      "story_text::eng": "\"This is the last day this cheeky woman will steal my smells!\" he shouted. And with these words, he dragged Ma Shange off to the court to see judge Ngwenya. The judge was sitting down at his huge, shiny desk when the angry baker stormed in, dragging the quivering and confused Ma Shange with him.",
+      "annotation_1::eng": "Point out the rectangles in this picture. Why do you think rectangles are used so often in creating rooms and buildings?",
+      "annotation_2::eng": "Triangles, which are 3-sided figures, are stronger, more rigid, and keep their shape better. Why not build everything out of triangles?",
+      "annotation_3::eng": "Have you seen buildings that use shapes other than rectangles. It's fun to find places constructed out of unusual shapes!"
+    },
+    {
+      "id": "page_11",
+      "page_no": 11,
+      "illustration": "EFMStorybooks/EFM-SB-TST-11.jpg",
+      "story_text::eng": "\"Good morning,\" said the judge in his deep voice. \"Sir,\" said Mr. Shabangu furiously, \"I demand justice! I wish to lay a complaint against this woman. Every day for the last three weeks, she has walked past my bakery early in the morning when my delicious smells are at their best, and stolen them. I demand that she pays for those smells!\"",
+      "annotation_1::eng": "This is the first time in the story the baker has asked for payment for his smells rather than for his baked goods. Imagine how silly it would be if he had a sign in his shop that listed costs for different smells.",
+      "annotation_2::eng": "Smells can be wonderful and delightful and can fill us with happiness. However, what are they worth? How much do you think a good smell is worth?",
+      "annotation_3::eng": "Some people buy perfumes with special smells, and some people buy herbs and other foods mainly for the aromas they will provide for their food. Those are some forms of buying smells."
+    },
+    {
+      "id": "page_12",
+      "page_no": 12,
+      "illustration": "EFMStorybooks/EFM-SB-TST-12.jpg",
+      "story_text::eng": "The judge scratched his big, bald head for a moment. Then he cleared his throat. \"Fair enough,\" he said to the baker. \"Justice will be done.\" He turned to Ma Shange. \"How much money do you have on you, Madam?\" he asked.",
+      "annotation_1::eng": "There are even more rectangles in this picture. If you look for them, you will find rectangles almost everywhere people have made things.",
+      "annotation_2::eng": "What do you think the judge is going to do with Ma Shange's money? How will the judge put a price on the baker's smells?",
+      "annotation_3::eng": "How do you think this story is going to end?"
+    },
+    {
+      "id": "page_13",
+      "page_no": 13,
+      "illustration": "EFMStorybooks/EFM-SB-TST-13.jpg",
+      "story_text::eng": "\"Only two rands,\" stammered Ma Shange. \"Well,\" said the judge, \"hand it to me, please.\" Meekly, Ma Shange reached into the pocket of her tatty old cardigan and pulled out two one rand coins. She handed them to the judge. He took them, thanking her politely.",
+      "annotation_1::eng": "The judge asked her for all the money she had in the world. It seems pretty harsh for her to give her only money to the baker, even if it is only 2 rands (equal to about 15 cents in the US or Europe right now).",
+      "annotation_2::eng": "Rands are used as currency in the country of South Africa. Their smallest coin is the 5 cent piece. How many of those coins does it take to make 1 rand? If you haven't learned how to divide, count by 5's and keep track of how many 5's you use.",
+      "annotation_3::eng": "South Africa also has a 10 cent piece. How many of those coins does it take to make 1 rand?"
+    },
+    {
+      "id": "page_14",
+      "page_no": 14,
+      "illustration": "EFMStorybooks/EFM-SB-TST-14.jpg",
+      "story_text::eng": "Then he shook the coins in his big fist, so that they made a clinking sound. \"This is my judgement,\" he said to the baker. \"The punishment must fit the crime. Therefore the sound of Ma Shange's money is the payment you will get for the smells she stole. And now I wish you a good day.\" The baker looked thoughtful. Then, realizing how unreasonable he had been, he turned slowly and walked out of the room.",
+      "annotation_1::eng": "A good end to a dispute brings a sense of justice and rightness to all the parties involved. Did the baker feel he had been dealt with fairly? Did the baker learn something important on that day?",
+      "annotation_2::eng": "It was good the baker finally realized he had been unreasonable. It would have been even better if the baker had done more for Ma Shange. An apology to Ma Shange would have been an important step.",
+      "annotation_3::eng": "What else, if anything, do you think the baker should do for Ma Shange?"
+    },
+    {
+      "id": "page_15",
+      "page_no": 15,
+      "illustration": "EFMStorybooks/EFM-SB-TST-15.jpg",
+      "story_text::eng": "The judge smiled kindly at Ma Shange, and handed her back her money. \"Now, Madam,\" he said pulling a brown paper bag from his briefcase, \"would you care to join me for breakfast? These buns are still warm, I bought them only half an hour ago.\"",
+      "annotation_1::eng": "The judge realized how poor and hungry Ma Shange was. He showed the kind of generosity that the baker should have shown all along.",
+      "annotation_2::eng": "Helping others is tricky and involves some hard questions. Who do you help, how do you help, and how much do you help?",
+      "annotation_3::eng": "Have you ever given aid to someone in need of help? We all need help at times. We can't help everyone, but there are times when we can help and make an important difference in another person's life."
+    },
+    {
+      "id": "page_16",
+      "page_no": 16,
+      "illustration": "EFMStorybooks/EFM-SB-TST-16.jpg"
+    }
+  ]
+}

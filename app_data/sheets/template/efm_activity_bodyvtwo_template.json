@@ -1231,8 +1231,7 @@
             "current_bonus_activity",
             "data.efm_bon_acts_content.@local.bonus_act_id"
           ],
-          "_raw": "click | set_field:current_bonus_activity: data.efm_bon_acts_content.@local.bonus_act_id",
-          "_cleaned": "click | set_field:current_bonus_activity: data.efm_bon_acts_content.@local.bonus_act_id"
+          "_raw": "click | set_field:current_bonus_activity: data.efm_bon_acts_content.@local.bonus_act_id"
         },
         {
           "trigger": "click",
@@ -1240,8 +1239,7 @@
           "args": [
             "efm_bon_act_vtwo_template"
           ],
-          "_raw": "click | go_to: efm_bon_act_vtwo_template",
-          "_cleaned": "click | go_to: efm_bon_act_vtwo_template"
+          "_raw": "click | go_to: efm_bon_act_vtwo_template"
         }
       ],
       "condition": "@local.bonus_act_id",
@@ -1279,14 +1277,6 @@
                 "type": "local",
                 "fieldName": "bonus_act_id"
               }
-            ],
-            "_cleaned": [
-              {
-                "fullExpression": "click | set_field:current_bonus_activity: data.efm_bon_acts_content.@local.bonus_act_id",
-                "matchedExpression": "@local.bonus_act_id",
-                "type": "local",
-                "fieldName": "bonus_act_id"
-              }
             ]
           }
         },
@@ -1306,7 +1296,6 @@
         "@local.bonus_act_id": [
           "action_list.0.args.1",
           "action_list.0._raw",
-          "action_list.0._cleaned",
           "condition"
         ]
       }
@@ -1327,6 +1316,9 @@
       "_nested_name": "fake_group"
     }
   ],
-  "_xlsxPath": "EFM_activity_high_level_sheets.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_activity_high_level_sheets.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1eqIvNft0eO9y6xH3OF2oVpnRPU5KUTN9M3At1FgqgOs"
+  }
 }

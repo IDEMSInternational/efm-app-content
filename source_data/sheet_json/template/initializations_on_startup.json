@@ -1,0 +1,37 @@
+{
+  "flow_type": "template",
+  "flow_name": "initializations_on_startup",
+  "status": "released",
+  "rows": [
+    {
+      "type": "set_field",
+      "name": "already_started",
+      "value": true
+    },
+    {
+      "type": "set_field",
+      "name": "see_activities_introduction",
+      "value": true
+    },
+    {
+      "type": "set_field",
+      "name": "see_activities_game",
+      "value": true
+    },
+    {
+      "type": "set_field",
+      "name": "see_activities_puzzle",
+      "value": true
+    },
+    {
+      "type": "set_field",
+      "name": "see_activities_activity",
+      "value": true
+    },
+    {
+      "type": "set_field",
+      "name": "see_activities_investigation",
+      "value": true
+    }
+  ]
+}

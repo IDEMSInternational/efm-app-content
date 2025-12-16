@@ -44,8 +44,7 @@
                   "args": [
                     "efm_storybooks_tour"
                   ],
-                  "_raw": "click | start_tour: efm_storybooks_tour",
-                  "_cleaned": "click | start_tour: efm_storybooks_tour"
+                  "_raw": "click | start_tour: efm_storybooks_tour"
                 }
               ],
               "parameter_list": {
@@ -574,8 +573,7 @@
                   "args": [
                     "@item.id"
                   ],
-                  "_raw": "click | go_to: @item.id",
-                  "_cleaned": "click | go_to: @item.id"
+                  "_raw": "click | go_to: @item.id"
                 },
                 {
                   "trigger": "click",
@@ -584,8 +582,7 @@
                     "@local.click_history_field_name",
                     "@local.books_click_history"
                   ],
-                  "_raw": "click | set_field:@local.click_history_field_name: @local.books_click_history",
-                  "_cleaned": "click | set_field:@local.click_history_field_name: @local.books_click_history"
+                  "_raw": "click | set_field:@local.click_history_field_name: @local.books_click_history"
                 }
               ],
               "condition": "@item.book_level == \"beginner\" && !@local.not_translated",
@@ -616,14 +613,6 @@
                       ]
                     },
                     "_raw": [
-                      {
-                        "fullExpression": "click | go_to: @item.id",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
-                    ],
-                    "_cleaned": [
                       {
                         "fullExpression": "click | go_to: @item.id",
                         "matchedExpression": "@item.id",
@@ -664,20 +653,6 @@
                         "type": "local",
                         "fieldName": "books_click_history"
                       }
-                    ],
-                    "_cleaned": [
-                      {
-                        "fullExpression": "click | set_field:@local.click_history_field_name: @local.books_click_history",
-                        "matchedExpression": "@local.click_history_field_name",
-                        "type": "local",
-                        "fieldName": "click_history_field_name"
-                      },
-                      {
-                        "fullExpression": "click | set_field:@local.click_history_field_name: @local.books_click_history",
-                        "matchedExpression": "@local.books_click_history",
-                        "type": "local",
-                        "fieldName": "books_click_history"
-                      }
                     ]
                   }
                 },
@@ -702,18 +677,15 @@
                 ],
                 "@item.id": [
                   "action_list.0.args.0",
-                  "action_list.0._raw",
-                  "action_list.0._cleaned"
+                  "action_list.0._raw"
                 ],
                 "@local.click_history_field_name": [
                   "action_list.1.args.0",
-                  "action_list.1._raw",
-                  "action_list.1._cleaned"
+                  "action_list.1._raw"
                 ],
                 "@local.books_click_history": [
                   "action_list.1.args.1",
-                  "action_list.1._raw",
-                  "action_list.1._cleaned"
+                  "action_list.1._raw"
                 ],
                 "@item.book_level": [
                   "condition"
@@ -1013,8 +985,7 @@
                   "args": [
                     "@item.id"
                   ],
-                  "_raw": "click | go_to: @item.id",
-                  "_cleaned": "click | go_to: @item.id"
+                  "_raw": "click | go_to: @item.id"
                 },
                 {
                   "trigger": "click",
@@ -1023,8 +994,7 @@
                     "@local.click_history_field_name",
                     "@local.books_click_history"
                   ],
-                  "_raw": "click | set_field:@local.click_history_field_name: @local.books_click_history",
-                  "_cleaned": "click | set_field:@local.click_history_field_name: @local.books_click_history"
+                  "_raw": "click | set_field:@local.click_history_field_name: @local.books_click_history"
                 }
               ],
               "condition": "@item.book_level == \"intermediate\"  && !@local.not_translated",
@@ -1055,14 +1025,6 @@
                       ]
                     },
                     "_raw": [
-                      {
-                        "fullExpression": "click | go_to: @item.id",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
-                    ],
-                    "_cleaned": [
                       {
                         "fullExpression": "click | go_to: @item.id",
                         "matchedExpression": "@item.id",
@@ -1103,20 +1065,6 @@
                         "type": "local",
                         "fieldName": "books_click_history"
                       }
-                    ],
-                    "_cleaned": [
-                      {
-                        "fullExpression": "click | set_field:@local.click_history_field_name: @local.books_click_history",
-                        "matchedExpression": "@local.click_history_field_name",
-                        "type": "local",
-                        "fieldName": "click_history_field_name"
-                      },
-                      {
-                        "fullExpression": "click | set_field:@local.click_history_field_name: @local.books_click_history",
-                        "matchedExpression": "@local.books_click_history",
-                        "type": "local",
-                        "fieldName": "books_click_history"
-                      }
                     ]
                   }
                 },
@@ -1141,18 +1089,15 @@
                 ],
                 "@item.id": [
                   "action_list.0.args.0",
-                  "action_list.0._raw",
-                  "action_list.0._cleaned"
+                  "action_list.0._raw"
                 ],
                 "@local.click_history_field_name": [
                   "action_list.1.args.0",
-                  "action_list.1._raw",
-                  "action_list.1._cleaned"
+                  "action_list.1._raw"
                 ],
                 "@local.books_click_history": [
                   "action_list.1.args.1",
-                  "action_list.1._raw",
-                  "action_list.1._cleaned"
+                  "action_list.1._raw"
                 ],
                 "@item.book_level": [
                   "condition"
@@ -1452,8 +1397,7 @@
                   "args": [
                     "@item.id"
                   ],
-                  "_raw": "click | go_to: @item.id",
-                  "_cleaned": "click | go_to: @item.id"
+                  "_raw": "click | go_to: @item.id"
                 },
                 {
                   "trigger": "click",
@@ -1462,8 +1406,7 @@
                     "@local.click_history_field_name",
                     "@local.books_click_history"
                   ],
-                  "_raw": "click | set_field:@local.click_history_field_name: @local.books_click_history",
-                  "_cleaned": "click | set_field:@local.click_history_field_name: @local.books_click_history"
+                  "_raw": "click | set_field:@local.click_history_field_name: @local.books_click_history"
                 }
               ],
               "condition": "@item.book_level == \"advanced\" && !@local.not_translated",
@@ -1494,14 +1437,6 @@
                       ]
                     },
                     "_raw": [
-                      {
-                        "fullExpression": "click | go_to: @item.id",
-                        "matchedExpression": "@item.id",
-                        "type": "item",
-                        "fieldName": "id"
-                      }
-                    ],
-                    "_cleaned": [
                       {
                         "fullExpression": "click | go_to: @item.id",
                         "matchedExpression": "@item.id",
@@ -1542,20 +1477,6 @@
                         "type": "local",
                         "fieldName": "books_click_history"
                       }
-                    ],
-                    "_cleaned": [
-                      {
-                        "fullExpression": "click | set_field:@local.click_history_field_name: @local.books_click_history",
-                        "matchedExpression": "@local.click_history_field_name",
-                        "type": "local",
-                        "fieldName": "click_history_field_name"
-                      },
-                      {
-                        "fullExpression": "click | set_field:@local.click_history_field_name: @local.books_click_history",
-                        "matchedExpression": "@local.books_click_history",
-                        "type": "local",
-                        "fieldName": "books_click_history"
-                      }
                     ]
                   }
                 },
@@ -1580,18 +1501,15 @@
                 ],
                 "@item.id": [
                   "action_list.0.args.0",
-                  "action_list.0._raw",
-                  "action_list.0._cleaned"
+                  "action_list.0._raw"
                 ],
                 "@local.click_history_field_name": [
                   "action_list.1.args.0",
-                  "action_list.1._raw",
-                  "action_list.1._cleaned"
+                  "action_list.1._raw"
                 ],
                 "@local.books_click_history": [
                   "action_list.1.args.1",
-                  "action_list.1._raw",
-                  "action_list.1._cleaned"
+                  "action_list.1._raw"
                 ],
                 "@item.book_level": [
                   "condition"
@@ -1666,6 +1584,9 @@
       "_nested_name": "fake_group"
     }
   ],
-  "_xlsxPath": "EFM_storybooks_high_level_sheets.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_storybooks_high_level_sheets.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1SCyRMVnO02mHiz3ljOtaXl_sed8Qwh8zMN3S5k60Cak"
+  }
 }

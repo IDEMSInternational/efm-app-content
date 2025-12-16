@@ -1,0 +1,27 @@
+{
+  "flow_type": "template",
+  "flow_name": "efm_bonus_chapters",
+  "status": "released",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title",
+      "value": "Activities – Bonus Material"
+    },
+    {
+      "type": "begin_items",
+      "name": "chapter_buttons",
+      "value": "@data.efm_chapt"
+    },
+    {
+      "type": "button",
+      "name": "button_@item.title",
+      "value": "@item.title",
+      "action_list": "click | set_field:current_chapter: data.efm_chapt.@item.id;\nclick | go_to: efm_chapter_bon_acts",
+      "parameter_list": "style: short; \ntext_align: center"
+    },
+    {
+      "type": "end_items"
+    }
+  ]
+}

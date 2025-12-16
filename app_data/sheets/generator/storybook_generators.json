@@ -24,8 +24,7 @@
           "args": [
             "completed"
           ],
-          "_raw": "completed | emit: completed",
-          "_cleaned": "completed | emit: completed"
+          "_raw": "completed | emit: completed"
         },
         {
           "trigger": "uncompleted",
@@ -33,8 +32,7 @@
           "args": [
             "uncompleted"
           ],
-          "_raw": "uncompleted | emit: uncompleted",
-          "_cleaned": "uncompleted | emit: uncompleted"
+          "_raw": "uncompleted | emit: uncompleted"
         }
       ],
       "rows": [
@@ -45,8 +43,11 @@
       ]
     }
   ],
-  "_xlsxPath": "template_generators/storybook_generators.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "template_generators/storybook_generators.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1OnAWHpSlZqVNO-Zn9uVbZYjd5KiXVNuvASJznc2xhoI"
+  },
   "_output_flows": [
     {
       "flow_name": "efm_sb_A_Very_Tall_Man",

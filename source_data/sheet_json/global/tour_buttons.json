@@ -1,0 +1,22 @@
+{
+  "flow_type": "global",
+  "flow_name": "tour_buttons",
+  "status": "released",
+  "rows": [
+    {
+      "type": "declare_global_constant",
+      "name": "next",
+      "value": "Next"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "previous",
+      "value": "Previous"
+    },
+    {
+      "type": "declare_global_constant",
+      "name": "done",
+      "value": "Done"
+    }
+  ]
+}

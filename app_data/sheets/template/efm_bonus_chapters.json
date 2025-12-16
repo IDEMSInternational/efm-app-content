@@ -42,8 +42,7 @@
                 "current_chapter",
                 "data.efm_chapt.@item.id"
               ],
-              "_raw": "click | set_field:current_chapter: data.efm_chapt.@item.id",
-              "_cleaned": "click | set_field:current_chapter: data.efm_chapt.@item.id"
+              "_raw": "click | set_field:current_chapter: data.efm_chapt.@item.id"
             },
             {
               "trigger": "click",
@@ -51,8 +50,7 @@
               "args": [
                 "efm_chapter_bon_acts"
               ],
-              "_raw": "click | go_to: efm_chapter_bon_acts",
-              "_cleaned": "click | go_to: efm_chapter_bon_acts"
+              "_raw": "click | go_to: efm_chapter_bon_acts"
             }
           ],
           "parameter_list": {
@@ -96,14 +94,6 @@
                     "type": "item",
                     "fieldName": "id"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field:current_chapter: data.efm_chapt.@item.id",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
                 ]
               }
             },
@@ -124,8 +114,7 @@
             ],
             "@item.id": [
               "action_list.0.args.1",
-              "action_list.0._raw",
-              "action_list.0._cleaned"
+              "action_list.0._raw"
             ]
           }
         }
@@ -148,6 +137,9 @@
       }
     }
   ],
-  "_xlsxPath": "EFM_activity_high_level_sheets.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_activity_high_level_sheets.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1eqIvNft0eO9y6xH3OF2oVpnRPU5KUTN9M3At1FgqgOs"
+  }
 }

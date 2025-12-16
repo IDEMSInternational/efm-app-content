@@ -1,0 +1,49 @@
+{
+  "flow_type": "template",
+  "flow_name": "feature_feedback_text_select",
+  "status": "released",
+  "comments": "Default text-select feedback form",
+  "rows": [
+    {
+      "type": "title",
+      "name": "title_1",
+      "value": "Suggest Change",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "text",
+      "name": "selected_text",
+      "value": "@fields._feedback_selected_text",
+      "exclude_from_translation": true,
+      "comments": "This field is populated during feedback process"
+    },
+    {
+      "type": "text_area",
+      "name": "feedback",
+      "value": "@fields._feedback_selected_text",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "begin_display_group",
+      "name": "dg_buttons",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "button",
+      "name": "button_cancel",
+      "value": "Cancel",
+      "action_list": "click | feedback:cancel",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "button",
+      "name": "button_submit",
+      "value": "Submit",
+      "action_list": "click | feedback:submit:@local.feedback;",
+      "exclude_from_translation": true
+    },
+    {
+      "type": "end_display_group"
+    }
+  ]
+}

@@ -290,8 +290,7 @@
                 "current_activity",
                 "data.efm_act_v_two.@item.id"
               ],
-              "_raw": "click | set_field:current_activity: data.efm_act_v_two.@item.id",
-              "_cleaned": "click | set_field:current_activity: data.efm_act_v_two.@item.id"
+              "_raw": "click | set_field:current_activity: data.efm_act_v_two.@item.id"
             },
             {
               "trigger": "click",
@@ -299,8 +298,7 @@
               "args": [
                 "efm_activity_v_two_template"
               ],
-              "_raw": "click | go_to: efm_activity_v_two_template",
-              "_cleaned": "click | go_to: efm_activity_v_two_template"
+              "_raw": "click | go_to: efm_activity_v_two_template"
             }
           ],
           "condition": "@local.ok_type_and_chapter && @local.ok_new_page",
@@ -337,14 +335,6 @@
                     "type": "item",
                     "fieldName": "id"
                   }
-                ],
-                "_cleaned": [
-                  {
-                    "fullExpression": "click | set_field:current_activity: data.efm_act_v_two.@item.id",
-                    "matchedExpression": "@item.id",
-                    "type": "item",
-                    "fieldName": "id"
-                  }
                 ]
               }
             },
@@ -369,8 +359,7 @@
             ],
             "@item.id": [
               "action_list.0.args.1",
-              "action_list.0._raw",
-              "action_list.0._cleaned"
+              "action_list.0._raw"
             ],
             "@local.ok_type_and_chapter": [
               "condition"
@@ -450,6 +439,9 @@
       "_nested_name": "fake_group"
     }
   ],
-  "_xlsxPath": "EFM_activity_high_level_sheets.xlsx",
-  "_sheetsFolderUrl": "https://drive.google.com/drive/u/0/folders/1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL"
+  "_source": {
+    "name": "1hiIYr8nnLcP1kd2xTFAQx3MvVp7IlPQL",
+    "path": "EFM_activity_high_level_sheets.xlsx",
+    "url": "https://docs.google.com/spreadsheets/d/1eqIvNft0eO9y6xH3OF2oVpnRPU5KUTN9M3At1FgqgOs"
+  }
 }
