@@ -7,7 +7,7 @@
 | accordion_section | 10 |
 | button | 56 |
 | debug_toggle | 1 |
-| display_group | 66 |
+| display_group | 69 |
 | image | 13 |
 | items | 21 |
 | qr_code | 1 |
@@ -15,11 +15,11 @@
 | radio_group | 1 |
 | round_button | 6 |
 | select_text | 1 |
-| set_field | 11 |
-| set_variable | 423 |
+| set_field | 16 |
+| set_variable | 430 |
 | simple_checkbox | 4 |
 | template | 64 |
-| text | 86 |
+| text | 89 |
 | text_area | 2 |
 | tile_component | 3 |
 | title | 27 |
