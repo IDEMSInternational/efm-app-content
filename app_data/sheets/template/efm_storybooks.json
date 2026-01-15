@@ -18,6 +18,7 @@
               "es_es": true,
               "fr_fr": true,
               "gr_el": true,
+              "jp_ja": true,
               "kr_ko": true,
               "ru_ru": true,
               "sa_ar": true,
@@ -69,6 +70,7 @@
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
+          "jp_ja": true,
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
@@ -89,6 +91,7 @@
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
+          "jp_ja": true,
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
@@ -109,6 +112,7 @@
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
+          "jp_ja": true,
           "kr_ko": true,
           "ru_ru": true,
           "sa_ar": true,
@@ -351,6 +355,7 @@
               "es_es": true,
               "fr_fr": true,
               "gr_el": true,
+              "jp_ja": true,
               "kr_ko": true,
               "ru_ru": true,
               "sa_ar": true,
@@ -421,8 +426,15 @@
               "value": "@local.book_title_in_table == \"NoTranslation\"",
               "_translations": {
                 "value": {
+                  "br_pt": true,
+                  "cn_zh": true,
                   "es_es": true,
-                  "fr_fr": true
+                  "fr_fr": true,
+                  "jp_ja": true,
+                  "kr_ko": true,
+                  "ru_ru": true,
+                  "sa_ar": true,
+                  "tw_zh": true
                 }
               },
               "exclude_from_translation": true,
@@ -763,6 +775,7 @@
               "es_es": true,
               "fr_fr": true,
               "gr_el": true,
+              "jp_ja": true,
               "kr_ko": true,
               "ru_ru": true,
               "sa_ar": true,
@@ -833,8 +846,15 @@
               "value": "@local.book_title_in_table == \"NoTranslation\"",
               "_translations": {
                 "value": {
+                  "br_pt": true,
+                  "cn_zh": true,
                   "es_es": true,
-                  "fr_fr": true
+                  "fr_fr": true,
+                  "jp_ja": true,
+                  "kr_ko": true,
+                  "ru_ru": true,
+                  "sa_ar": true,
+                  "tw_zh": true
                 }
               },
               "exclude_from_translation": true,
@@ -1175,6 +1195,7 @@
               "es_es": true,
               "fr_fr": true,
               "gr_el": true,
+              "jp_ja": true,
               "kr_ko": true,
               "ru_ru": true,
               "sa_ar": true,
@@ -1245,8 +1266,15 @@
               "value": "@local.book_title_in_table == \"NoTranslation\"",
               "_translations": {
                 "value": {
+                  "br_pt": true,
+                  "cn_zh": true,
                   "es_es": true,
-                  "fr_fr": true
+                  "fr_fr": true,
+                  "jp_ja": true,
+                  "kr_ko": true,
+                  "ru_ru": true,
+                  "sa_ar": true,
+                  "tw_zh": true
                 }
               },
               "exclude_from_translation": true,

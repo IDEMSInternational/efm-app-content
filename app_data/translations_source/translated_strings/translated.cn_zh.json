@@ -26592,6 +26592,12 @@
     "note": ""
   },
   {
+    "SourceText": "@local.book_title_in_table == \"NoTranslation\"",
+    "text": "@local.book_title_in_table == \"NoTranslation\"",
+    "type": "template",
+    "note": "The string @local.book_title_in_table should not be translated."
+  },
+  {
     "SourceText": "**Intermediate Storybooks**",
     "text": "**中级故事书**",
     "type": "template",
@@ -26930,6 +26936,12 @@
   {
     "SourceText": "Language",
     "text": "语言",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue",
+    "text": "继续",
     "type": "template",
     "note": ""
   },
