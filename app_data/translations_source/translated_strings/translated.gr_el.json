@@ -15720,6 +15720,36 @@
     "note": ""
   },
   {
+    "SourceText": "Stage 1 — I Can Hear You!",
+    "text": "Στάδιο 1 – Σε Ακούω!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stage 2 — I Can Count to 5!",
+    "text": "Στάδιο 2 – Μπορώ να Μετρήσω μέχρι το 5!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stage 3 — I Can Count to 10!",
+    "text": "Στάδιο 3 – Μπορώ να Μετρήσω μέχρι το 10!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stage 4 — I Can Count to 20!",
+    "text": "Στάδιο 4 – Μπορώ να Μετρήσω μέχρι το 20!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stage 5 — I Can Count to 100!",
+    "text": "Στάδιο 5 – Μπορώ να Μετρήσω μέχρι το 100!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "A father, his son, and their donkey started a long journey.\n\nOn the way, some people asked them why they didn't ride the donkey.",
     "text": "Ένας πατέρας, ο γιος του και το γαϊδουράκι τους ξεκίνησαν ένα μακρύ ταξίδι.\n\nΣτον δρόμο, κάποιοι άνθρωποι τούς ρωτούσαν γιατί δεν καβαλούσαν το γαϊδουράκι.",
     "type": "data_list",
@@ -16196,6 +16226,1680 @@
   {
     "SourceText": "Ballet is not a sport. However, dancers are athletes, and they form a team, and their teachers are like coaches. Did this story make you want to become a dancer?",
     "text": "Το μπαλέτο δεν είναι άθλημα. Ωστόσο, οι χορευτές είναι αθλητές και σχηματίζουν μια ομάδα, και οι δάσκαλοί τους είναι σαν προπονητές. Σε έκανε αυτή η ιστορία να θέλεις να γίνεις χορευτής;",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "STAGE 1 – I CAN HEAR YOU!",
+    "text": "ΣΤΆΔΙΟ 1 – ΣΕ ΑΚΟΎΩ!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stage 1 Introduction",
+    "text": "Στάδιο 1 – Εισαγωγή",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "What a wonderful time watching your young child learn about the world! They are little sponges observing everything going on around them and they can hear you! They play and experiment constantly, making sense of the world and learning how to crawl, walk, talk, and interact with all that they are experiencing.\n\nMathematics is a natural part of this world they are learning about. No matter what your experiences and feelings about math, this is your chance to make mathematics a playful and fun activity that your family does together.\n\nFor now, the main mathematical activity to do together will be exposing your child constantly to mathematical language and ideas. This is mostly just a matter of verbalizing what is going on in your head already. Counting things out loud as you work with them and naming items that your child plays with is what gets everything rolling.\n\nHave fun! This is an amazing time for your family!",
+    "text": "Τι υπέροχη περίοδος να βλέπετε το μικρό σας παιδί να μαθαίνει τον κόσμο! Είναι σαν μικρά σφουγγαράκια που παρατηρούν τα πάντα γύρω τους και μπορούν να σας ακούσουν!\\ Παίζουν και πειραματίζονται συνεχώς, κατανοώντας τον κόσμο και μαθαίνοντας να μπουσουλάνε, να περπατούν, να μιλούν και να αλληλεπιδρούν με όλα όσα βιώνουν.\n\nΤα μαθηματικά είναι φυσικό κομμάτι αυτού του κόσμου που γνωρίζουν. Ανεξάρτητα από τις δικές σας εμπειρίες και τα συναισθήματά σας για τα μαθηματικά, αυτή είναι η ευκαιρία σας να τα κάνετε παιχνιδιάρικες και ευχάριστες δράσεις που θα απολαμβάνει η οικογένειά σας μαζί.\n\nΠρος το παρόν, η βασική μαθηματική δραστηριότητα που θα κάνετε μαζί είναι να εκθέτετε συνεχώς το παιδί σας σε μαθηματική γλώσσα και ιδέες. Αυτό είναι απλώς ζήτημα έκφρασης με λόγια όσων ήδη σκέφτεστε. Μετρήστε δυνατά τα πράγματα καθώς ασχολείστε μαζί τους και ονομάστε τα αντικείμενα με τα οποία παίζει το παιδί σας· αυτό είναι η αρχή των πάντων.\n\nΚαλή διασκέδαση! Είναι μια καταπληκτική περίοδος για την οικογένειά σας!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "* Have fun with math together! This is the most important thing. \n* Verbalize math - You do math all the time in your head – include your child by saying those thoughts out loud to your child all the time. \n* Point and describe - When you talk about something, point to it and then talk about it. If your child is ready, ask questions about it. \n* Expose - Your child is learning by being exposed to things. Your child will probably not un- derstand things initially, but by frequent exposure your child will pick up on the patterns and learn what is going on. \n* Count everything out loud. Count up and down. Include 0 sometimes. \n* Objects have properties that can be named, described, compared, and discussed. Those properties lead to discoveries of natural and human-made patterns.",
+    "text": "* Διασκεδάστε με τα μαθηματικά μαζί!\\ Αυτό είναι το πιο σημαντικό.\n* Εκφράστε τα μαθηματικά με λόγια - Κάνετε συνεχώς μαθηματικά στο μυαλό σας, συμπεριλάβετε το παιδί σας λέγοντας αυτές τις σκέψεις δυνατά σε αυτό συνεχώς.\n* Δείξτε και περιγράψτε - Όταν μιλάτε για κάτι, δείξτε το και μετά μιλήστε γι' αυτό. Αν το παιδί σας είναι έτοιμο, κάντε ερωτήσεις σχετικά.\n* Έκθεση - Το παιδί σας μαθαίνει όταν εκτίθεται σε πράγματα. Πιθανότατα δεν θα καταλαβαίνει αρχικά, αλλά με συχνή έκθεση θα εντοπίζει τα μοτίβα και θα μάθει τι συμβαίνει.\n* Μετρήστε τα πάντα δυνατά. Μετρήστε προς τα πάνω και προς τα κάτω. Συμπεριλάβετε το 0 μερικές φορές.\n* Τα αντικείμενα έχουν ιδιότητες που μπορούν να ονομαστούν, να περιγραφούν, να συγκριθούν και να συζητηθούν. Αυτές οι ιδιότητες οδηγούν σε ανακαλύψεις φυσικών και ανθρώπινων μοτίβων.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "MATH OUT LOUD – GENERAL",
+    "text": "ΜΑΘΗΜΑΤΙΚΆ ΦΩΝΑΧΤΆ – ΓΕΝΙΚΆ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Exposure:** During these early ages, it is all about exposure! Your child is being exposed to a wide array of experiences and is discovering patterns in everything they sense. While exposing your child to the world, expose them to math words and ideas and let them see how enjoyable it can be to play with math together.\n\n**Start early:** Start this even before your child seems to understand what you're saying. Your child is a sponge who is getting more from your words than you realize.",
+    "text": "**Έκθεση:** Κατά τα πρώτα αυτά χρόνια, όλα περιστρέφονται γύρω από την έκθεση του παιδιού στον κόσμο!\\ Το παιδί σας έρχεται σε επαφή με ένα ευρύ φάσμα εμπειριών και ανακαλύπτει μοτίβα σε καθετί που αισθάνεται. Καθώς το εκθέτετε στον κόσμο, εκθέστε το επίσης σε μαθηματικές λέξεις και ιδέες και αφήστε το να δει πόσο διασκεδαστικό είναι να παίζετε με τα μαθηματικά μαζί.\n\n**Ξεκινήστε νωρίς:** Ξεκινήστε ακόμη και πριν το παιδί σας φαίνεται να καταλαβαίνει τι λέτε. Το παιδί σας είναι σαν σφουγγάρι, απορροφώντας από τα λόγια σας περισσότερα απ’ ό,τι νομίζετε.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Point, describe and ask:** Point at things your child interacts with and describe them with words involving numbers, shapes, and colors. If you are dealing with a small set of things, count them out loud to your child. When your child is old enough, point to and ask questions about the things around them.",
+    "text": "**ξτε, περιγράψτε και ρωτήστε:** Δείξτε τα πράγματα με τα οποία αλληλεπιδρά το παιδί σας και περιγράψτε τα με λέξεις σχετικές με αριθμούς, σχήματα και χρώματα. Αν έχετε να κάνετε με λίγα αντικείμενα, μετρήστε τα δυνατά στο παιδί σας. Όταν το παιδί σας μεγαλώσει αρκετά, δείξτε και κάντε ερωτήσεις για τα πράγματα γύρω του.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Many facets of Math Talk",
+    "text": "Πολλές πλευρές της Μαθηματικής Συζήτησης",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There is much more math to talk about than just numbers.\n • Describe things. Talk about sizes, colors, textures, shapes, softness, wetness, hot- ness, brightness, and more. Naming and describing properties is essential for comparing them and discovering patterns. \n• Use comparison words. Bigger, smaller, tallest, widest, more, less, same, ... \n• Use position words. Over, under, between, near, far, above, ... \n• Talk about patterns and sequences in space and time. Refer to the order of things as first, second, third, and last. Talk about what just happened, what is about to happen, and things happening today. Talk about patterns in designs you see. \n• Count things out loud and say numbers to refer to quantities. \n• Talk about adding or taking away one or two things from a collection. \n• Use measurement words. Use words like inch, centimeter, foot, meter, mile, kilometer, cup, liter, quart, and more to refer to the sizes of things.",
+    "text": "Υπάρχουν πολλά περισσότερα μαθηματικά για συζήτηση από τους αριθμούς και μόνο.\n* Περιγράψτε αντικείμενα. Μιλήστε για μεγέθη, χρώματα, υφές, σχήματα, απαλότητα, υγρασία, ζέστη, φωτεινότητα και άλλα. Η ονομασία και η περιγραφή ιδιοτήτων είναι απαραίτητες για τη σύγκρισή τους και την ανακάλυψη μοτίβων.\n* Χρησιμοποιήστε λέξεις σύγκρισης. Μεγαλύτερο, μικρότερο, ψηλότερο, πιο πλατύ, περισσότερο, λιγότερο, ίδιο, ...\n* Χρησιμοποιήστε λέξεις θέσης. Πάνω, κάτω, ανάμεσα, κοντά, μακριά, επάνω από, ...\n* Μιλήστε για μοτίβα και ακολουθίες στον χώρο και στον χρόνο. Αναφερθείτε στη σειρά των πραγμάτων ως πρώτο, δεύτερο, τρίτο και τελευταίο. Μιλήστε για ό,τι μόλις συνέβη, τι πρόκειται να συμβεί και για πράγματα που γίνονται σήμερα. Μιλήστε για μοτίβα σε σχέδια που βλέπετε.\n* Μετρήστε αντικείμενα δυνατά και χρησιμοποιήστε αριθμούς για να δηλώσετε ποσότητες.\n* Μιλήστε για το ότι προσθέτετε ή αφαιρείτε ένα ή δύο αντικείμενα από μια συλλογή.\n* Χρησιμοποιήστε λέξεις μέτρησης. Πείτε, για παράδειγμα, εκατοστό, μέτρο, χιλιόμετρο, φλιτζάνι, λίτρο κ.ά. όταν αναφέρεστε στα μεγέθη των πραγμάτων.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**This is all math:** These different ways of describing things and their relationships is talking about math! Building up this vocabulary and concepts will help your child develop mathematically, and it will also give a big boost to helping your child read and talk about the world.",
+    "text": "**Όλα αυτά είναι μαθηματικά:** Αυτοί οι διάφοροι τρόποι περιγραφής αντικειμένων και των σχέσεών τους αποτελούν μαθηματική συζήτηση!\\ Η καλλιέργεια αυτού του λεξιλογίου και των αντίστοιχων εννοιών θα βοηθήσει το παιδί σας να αναπτυχθεί μαθηματικά και θα του δώσει επίσης σημαντική ώθηση στο να μάθει να διαβάζει και να μιλά για τον κόσμο.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "MATH OUT LOUD – STORYTIME",
+    "text": "ΜΑΘΗΜΑΤΙΚΆ ΦΩΝΑΧΤΆ – ΏΡΑ ΠΑΡΑΜΥΘΙΟΎ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**It's cozy:** Storytime is a wonderful chance to do a bit of math with your child in a cozy setting. This builds up happy associations with math for you and your child.\n\n**Discuss as you read:** As you read a story with your child, talk about things in the pictures and in the story. If there is a big yellow sun, point to the sun and say: “The sun is round and it is yellow. The wall of this room is also yellow. Point to something round in this room.”",
+    "text": "**Είναι ήρεμα:** Η ώρα για παραμύθι είναι μια υπέροχη ευκαιρία να κάνετε λίγα μαθηματικά με το παιδί σας σε ένα ήρεμο περιβάλλον. Αυτό δημιουργεί ευχάριστους συνειρμούς με τα μαθηματικά για εσάς και το παιδί σας.\n\n**Συζητήστε καθώς διαβάζετε:** Καθώς διαβάζετε μια ιστορία με το παιδί σας, μιλήστε για όσα βλέπετε στις εικόνες και στην ιστορία. Αν υπάρχει ένας μεγάλος κίτρινος ήλιος, δείξτε τον ήλιο και πείτε: “Ο ήλιος είναι στρογγυλός και είναι κίτρινος. Ο τοίχος αυτού του δωματίου είναι επίσης κίτρινος. Δείξε κάτι στρογγυλό σε αυτό το δωμάτιο.”",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "As your child gets older, count together, such as the yellow flower petals in this picture, or ask your child to point to things you describe. In addition to discussing the characters in the story, discuss all the things you would if you were seeing these things in the world around you.",
+    "text": "Καθώς το παιδί σας μεγαλώνει, μετρήστε μαζί, για παράδειγμα τα κίτρινα πέταλα του λουλουδιού στην εικόνα που του δείχνετε, ή ζητήστε από το παιδί σας να δείξει τα πράγματα που περιγράφετε. Εκτός από τους χαρακτήρες της ιστορίας, συζητήστε όλα όσα θα συζητούσατε αν βλέπατε αυτά τα πράγματα γύρω σας στον πραγματικό κόσμο.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "EFM Storybooks",
+    "text": "Βιβλία Ιστοριών EFM",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "EFM provides free picture storybooks as PDFs. Each book has suggested comments or questions to use while reading. Use these same math discussion ideas in your day-to-day activities with your child.",
+    "text": "Το EFM προσφέρει δωρεάν εικονογραφημένα βιβλία ιστοριών σε μορφή PDF. Κάθε βιβλίο περιλαμβάνει προτεινόμενα σχόλια ή ερωτήσεις για να χρησιμοποιείτε κατά την ανάγνωση. Χρησιμοποιήστε τις ίδιες ιδέες μαθηματικής συζήτησης στις καθημερινές σας δραστηριότητες με το παιδί σας.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "MATH OUT LOUD – HOME ROUTINES",
+    "text": "ΜΑΘΗΜΑΤΙΚΆ ΦΩΝΑΧΤΆ – ΟΙΚΙΑΚΈΣ ΡΟΥΤΊΝΕΣ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Doing laundry:** When doing laundry, sort by similarities and differences – colors and sizes\n\n**Cleaning up an area:** Which things belong together and why? If you have a box, does it go into, under, over, or inside something else? Do things that are the same shape go together? Is there a special place for round things or triangular things? Which toys belong together?\n\n**Going to sleep and getting up:** Both of these situations lend themselves to discussing doing things in sequence, and practicing words like first, second, third, last, and next. Where do dirty clothes go? How do you decide which clothes you should wear together when you get dressed?",
+    "text": "**Πλύσιμο ρούχων:** Όταν πλένετε ρούχα, ταξινομήστε τα με βάση ομοιότητες και διαφορές, όπως χρώματα και μεγέθη.\n\n**Τακτοποίηση χώρου:** Ποια πράγματα ανήκουν μαζί και γιατί; Αν έχετε ένα κουτί, πρέπει να μπει μέσα, κάτω, πάνω ή μέσα σε κάτι άλλο; Πάνε μαζί αντικείμενα που έχουν το ίδιο σχήμα; Υπάρχει ειδικό μέρος για στρογγυλά ή τριγωνικά πράγματα; Ποια παιχνίδια ανήκουν μαζί;\n\n**Ύπνος και ξύπνημα:** Και οι δύο αυτές καταστάσεις προσφέρονται για να μιλήσετε σχετικά με το να κάνουμε πράγματα με σειρά και για να εξασκήσετε λέξεις όπως πρώτο, δεύτερο, τρίτο, τελευταίο και επόμενο. Πού πάνε τα βρώμικα ρούχα; Πώς αποφασίζετε ποια ρούχα θα φορέσετε μαζί όταν ντύνεστε;",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "MATH OUT LOUD – MEALTIME",
+    "text": "ΜΑΘΗΜΑΤΙΚΆ ΦΩΝΑΧΤΆ – ΏΡΑ ΦΑΓΗΤΟΎ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Cooking:** As you follow a recipe or prepare some food, involve your child in counting out or measuring the ingredients, and talk about the sequence of steps. If they are not ready to do the steps themselves, have them 'oversee' your work.\n\n**Table setting and clearing:** When setting the table, count how many people there will be, and then discuss which things (plate, fork, glass) each person will need. Do some people need different glasses for different drinks?\n\nWhen you put the food out, how do you figure out how much food to provide? If you have six pieces of fruit for three people, how many should each person get to share it fairly?\n\nWhen you clean up, are there some things that get cleaned in a different way than others? How can you tell when a lid matches a pot or pan? Which kinds of things get put away in which places?\n\n**Putting graceries away:** When putting away groceries, talk about the types of things that go together. Which things need refrigeration? Where do the cans go? Where is there space for the big box? Use lots of relation words such as above, under, around, and between.",
+    "text": "**Μαγείρεμα:** Καθώς ακολουθείτε μια συνταγή ή ετοιμάζετε φαγητό, βάλτε το παιδί σας να μετρήσει ή να ζυγίσει τα υλικά και συζητήστε τη σειρά των βημάτων. Αν δεν είναι ακόμη έτοιμο να κάνει τα βήματα μόνο του, αφήστε το να «επιβλέπει» τη δουλειά σας.\n\n**Στρώσιμο και μάζεμα τραπεζιού:** Όταν στρώνετε το τραπέζι, μετρήστε πόσα άτομα θα είναι και μετά συζητήστε ποια πράγματα (πιάτο, πιρούνι, ποτήρι) θα χρειαστεί ο καθένας. Χρειάζονται κάποιοι διαφορετικά ποτήρια για διαφορετικά ποτά;\n\nΌταν βάζετε το φαγητό, πώς αποφασίζετε πόσο χρειάζεται; Αν έχετε έξι κομμάτια φρούτου για τρία άτομα, πόσα πρέπει να πάρει ο καθένας για δίκαιο μοίρασμα;\n\nΌταν καθαρίζετε, πλένονται κάποια πράγματα διαφορετικά από άλλα; Πώς καταλαβαίνετε ότι ένα καπάκι ταιριάζει σε μια κατσαρόλα ή σε ένα τηγάνι; Τι είδους πράγματα μπαίνουν σε ποιο μέρος;\n\n**Τακτοποίηση ψώνιων:** Όταν βάζετε τα ψώνια στη θέση τους, μιλήστε για τα είδη που πηγαίνουν μαζί. Ποια χρειάζονται ψυγείο; Πού μπαίνουν τα κουτιά; Πού υπάρχει χώρος για το μεγάλο κουτί; Χρησιμοποιήστε πολλές λέξεις θέσης όπως πάνω, κάτω, γύρω και ανάμεσα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "MATH OUT LOUD – PLAYTIME",
+    "text": "ΜΑΘΗΜΑΤΙΚΆ ΦΩΝΑΧΤΆ – ΏΡΑ ΠΑΙΧΝΙΔΙΟΎ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "While playing at home or in a park, there is much mathematics to point out and describe.\n\n**In the playground:** Count the children, the number of swings, the number of steps, or anything else. Comment about where there is more of one thing than another.",
+    "text": "Ενώ παίζετε στο σπίτι ή σε ένα πάρκο, υπάρχουν πολλά μαθηματικά να επισημάνετε και να περιγράψετε.\n\n**Στην παιδική χαρά:** Μετρήστε τα παιδιά, τις κούνιες, τα σκαλοπάτια ή οτιδήποτε άλλο. Σχολιάστε πού υπάρχει περισσότερο από κάτι σε σχέση με κάτι άλλο.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**On the swings:** Pushing your child on the swings is a perfect opportunity to count with your child. With each push, count “1, 2, 3, 4, 5.” After your child starts learning how to count to 5, counting down from 5 is also a good idea. Start or end at 0 sometimes.",
+    "text": "**Στις κούνιες:** Σπρώχνοντας το παιδί σας στις κούνιες είναι ιδανική ευκαιρία να μετρήσετε μαζί. Με κάθε σπρώξιμο, μετρήστε «1, 2, 3, 4, 5». Αφού το παιδί μάθει να μετρά μέχρι το 5, το να μετράτε αντίστροφα από το 5 είναι επίσης καλή ιδέα. Ξεκινήστε ή τελειώστε στο 0 μερικές φορές.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Point out the circles, curves, straight lines, triangles, and rectangles in the play area. Talk about how some things are over, under, between, or on top of other things.\n\n**At home:** Compare sizes when building with toys or blocks – Which tower is the tallest; Can you make two towers the same height? Describe and compare the sizes, numbers, colors of your toys, animals in pictures, or things you can see outside. If you are making a jigsaw puzzle, describe the shape and color of the piece you need.",
+    "text": "Επισημάνετε τους κύκλους, τις καμπύλες, τις ευθείες, τα τρίγωνα και τα ορθογώνια στον χώρο παιχνιδιού. Μιλήστε για το πώς κάποια πράγματα είναι πάνω, κάτω, ανάμεσα ή πάνω από άλλα.\n\n**Στο σπίτι:** Συγκρίνετε μεγέθη όταν χτίζετε με παιχνίδια ή τουβλάκια· ποιος πύργος είναι ο πιο ψηλός; Μπορείτε να κάνετε δύο πύργους στο ίδιο ύψος; Περιγράψτε και συγκρίνετε τα μεγέθη, τους αριθμούς και τα χρώματα των παιχνιδιών σας, των ζώων στις εικόνες ή των πραγμάτων που βλέπετε έξω. Αν φτιάχνετε ένα παζλ, περιγράψτε το σχήμα και το χρώμα του κομματιού που χρειάζεστε.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "MATH OUT LOUD – OUT AND ABOUT",
+    "text": "ΜΑΘΗΜΑΤΙΚΆ ΦΩΝΑΧΤΆ – ΒΌΛΤΕΣ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "While you travel, there are many opportunities to talk mathematically with your child.\n\nIf you see a somewhat unusual red car, you can point that out and count together other red cars that are like it. Similarly, you might see a big truck and start counting those.",
+    "text": "Καθώς ταξιδεύετε, έχετε πολλές ευκαιρίες να μιλήσετε μαθηματικά με το παιδί σας.\n\nΑν δείτε ένα λίγο ασυνήθιστο κόκκινο αυτοκίνητο, μπορείτε να το επισημάνετε και να μετρήσετε μαζί άλλα κόκκινα αυτοκίνητα που του μοιάζουν. Παρομοίως, μπορεί να δείτε ένα μεγάλο φορτηγό και να αρχίσετε να μετράτε τα φορτηγά.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "You can ask about bigger, smaller, thinner, and wider things such as buildings, window, trees, and people. Which things are closer than others, and which things are farther away?",
+    "text": "Μπορείτε να ρωτήσετε για μεγαλύτερα, μικρότερα, λεπτότερα και πλατύτερα πράγματα όπως κτίρια, παράθυρα, δέντρα και ανθρώπους. Ποια πράγματα είναι πιο κοντά και ποια πιο μακριά;",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Shapes:** You might see a circle in a design in a building and ask your child to point out other circles they see, such as the circles in a traffic light. Traffic signs and shop signs provide a great supply of shapes you can describe and name.",
+    "text": "**Σχήματα:** Ίσως δείτε έναν κύκλο σε ένα σχέδιο κάποιου κτιρίου και να ζητήσετε από το παιδί σας να δείξει άλλους κύκλους που βλέπει, όπως οι κύκλοι σε ένα φανάρι κυκλοφορίας. Επίσης τα σήματα κυκλοφορίας και οι ταμπέλες καταστημάτων είναι πλούσια πηγή σχημάτων που μπορείτε να περιγράψετε και να ονομάσετε.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There is no end to the shapes, colors, and counting that you can find and talk about once you make a habit of looking for them.",
+    "text": "Δεν υπάρχει τέλος στα σχήματα, τα χρώματα και τις μετρήσεις που μπορείτε να βρείτε και να συζητήσετε μόλις γίνει συνήθεια να τα αναζητάτε.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "MATH OUT LOUD – SHOPPING",
+    "text": "ΜΑΘΗΜΑΤΙΚΆ ΦΩΝΑΧΤΆ – ΨΏΝΙΑ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Math Out Loud",
+    "text": "Μαθηματικά Φωναχτά",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There are many things to count or describe when you shop in a store.",
+    "text": "Υπάρχουν πολλά να μετρήσετε ή να περιγράψετε όταν ψωνίζετε σε ένα κατάστημα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Counting:** Talk about how many apples you need, and count them out as you pick them out. Count the people in line in front of you, and compare that to the length of the other lines.",
+    "text": "**Μετρήσεις:** Μιλήστε για το πόσα μήλα χρειάζεστε και μετρήστε τα καθώς τα διαλέγετε. Μετρήστε τους ανθρώπους που περιμένουν μπροστά σας στη σειρά και συγκρίνετε αυτή τη σειρά με το μήκος των άλλων σειρών.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Shapes:** Point out the shapes of fruit or pictures on food boxes. Talk about how some things come in boxes, and other things come in round bottles.\n\nYou might need something on a high shelf, or something on a low shelf. There is so much to describe and compare!",
+    "text": "**Σχήματα:** Δείξτε τα σχήματα των φρούτων ή τις εικόνες πάνω στα κουτιά τροφίμων. Μιλήστε για το πώς κάποια πράγματα μπαίνουν σε κουτιά, ενώ άλλα σε στρογγυλά μπουκάλια.\n\nΊσως χρειάζεστε κάτι σε ψηλό ράφι ή κάτι σε χαμηλό ράφι. Υπάρχει τόσο πολύ υλικό για περιγραφή και σύγκριση!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "SHAPES INSIDE SHAPES",
+    "text": "ΣΧΉΜΑΤΑ ΜΈΣΑ ΣΕ ΣΧΉΜΑΤΑ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Help your child explore the physical relationships between shapes by providing an environment rich in opportunities to experiment.",
+    "text": "Βοηθήστε το παιδί σας να εξερευνήσει τις φυσικές σχέσεις ανάμεσα στα σχήματα, παρέχοντας ένα περιβάλλον πλούσιο σε ευκαιρίες για πειραματισμό.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to create:** Start with any box – perhaps a cereal box or cardboard shipping box. Cut holes with different shapes (square, circle, triangle, long rectangle) in the box. Watch your child experiment with fitting toys and other objects through the holes.",
+    "text": "**Πώς να το φτιάξετε:** Ξεκινήστε με οποιοδήποτε κουτί, για παράδειγμα ένα κουτί δημητριακών ή ένα χάρτινο κουτί παπουτσιών ή πακέτου. Κόψτε τρύπες με διάφορα σχήματα (τετράγωνο, κύκλο, τρίγωνο, μακρύ ορθογώνιο) στο κουτί. Παρακολουθήστε το παιδί σας να πειραματίζεται, περνώντας παιχνίδια και άλλα αντικείμενα μέσα από τις τρύπες.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Add different colors to outline the holes (e.g. red triangle, blue circle, yellow square). Reinforce the names by saying the name of the shape of the hole when your child puts the toy through it.",
+    "text": "Προσθέστε διάφορα χρώματα για να τονίσετε τις τρύπες (π.χ. κόκκινο τρίγωνο, μπλε κύκλος, κίτρινο τετράγωνο). Ενισχύστε τη γνώση του ονόματος λέγοντας το όνομα του σχήματος της τρύπας όταν το παιδί περνά το παιχνίδι μέσα από αυτή.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "SHAPE HUNT",
+    "text": "ΚΥΝΉΓΙ ΣΧΗΜΆΤΩΝ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This game is similar to I Spy. It can be played anywhere and at any time.\n\n**The setup:** One person sees a shape, and then gives clues about the object's description and position to the other person.",
+    "text": "Αυτό το παιχνίδι μοιάζει με το «Βλέπω, βλέπω». Μπορεί να παιχτεί οπουδήποτε και οποιαδήποτε στιγμή.\n\n**Η προετοιμασία:** Ένα άτομο βλέπει ένα σχήμα και στη συνέχεια δίνει στοιχεία σχετικά με την περιγραφή και τη θέση του αντικειμένου στο άλλο άτομο.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Player 1: “I see something that has a large blue circle.” \n\nPlayer 2: \"Is it that bicycle wheel?\"\n\nPlayer 1: \"No. It is in the middle of a wall.\"\n\nPlayer 2: “I see it! It’s the clock!”",
+    "text": "Παίκτης 1: «Βλέπω κάτι που έχει έναν μεγάλο μπλε κύκλο.»\n\nΠαίκτης 2: «Είναι εκείνη η ρόδα του ποδηλάτου;»\n\nΠαίκτης 1: «Όχι. Είναι στη μέση ενός τοίχου.»\n\nΠαίκτης 2: «Το βλέπω! Είναι το ρολόι!»",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Take turns with your child in the two roles. Being able to give good clues is just as important as discovering an object from some clues.\n\nStart with simple shapes, add size and color, and then add shapes inside of shapes or other arrangements. Add in information about its position relative to other objects.",
+    "text": "Παίξτε εναλλάξ με το παιδί σας και στους δύο ρόλους. Το να μπορεί κάποιος να δίνει καλές ενδείξεις είναι εξίσου σημαντικό με το να ανακαλύπτει ένα αντικείμενο από κάποιες ενδείξεις.\n\nΞεκινήστε με απλά σχήματα, προσθέστε μέγεθος και χρώμα και στη συνέχεια σχήματα μέσα σε άλλα σχήματα ή άλλες διατάξεις. Προσθέστε πληροφορίες για τη θέση του σε σχέση με άλλα αντικείμενα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "CREATE A JIGSAW PUZZLE",
+    "text": "ΣΧΉΜΑΤΑ ΜΈΣΑ ΣΕ ΣΧΉΜΑΤΑ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Make a jigsaw puzzle together for your child to play with.\n\nEither use a box that already has a picture on it, such as a cereal or product box, or have your child paint or draw on a piece of cardboard or stiff paper.\n\nCut the cardboard or paper into large pieces and keep all the pieces. \n\nYou now have your own personal jigsaw puzzle!",
+    "text": "Φτιάξτε μαζί με το παιδί σας ένα παζλ για να παίζει.\n\nΧρησιμοποιήστε ένα κουτί που έχει ήδη εικόνα, όπως κουτί δημητριακών ή άλλου γνωστού προϊόντος, ή ζητήστε από το παιδί να ζωγραφίσει ή να σχεδιάσει επάνω σε χαρτόνι ή χοντρό χαρτί.\n\nΚόψτε το χαρτόνι ή το χαρτί σε μεγάλα κομμάτια και κρατήστε όλα τα κομμάτια.\n\nΤώρα έχετε το δικό σας προσωπικό παζλ!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "COLORED TILINGS",
+    "text": "ΧΡΩΜΑΤΙΣΤΈΣ ΕΠΙΚΑΛΎΨΕΙΣ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to create:** Create a set of “tiles” from cardboard or stiff paper. Use the patterns in the EFM Printables PDF, or download the patterns from a source on the internet. Use one source for all the shapes so that they fit well together. For each shape, use just one or two colors, such as red squares and blue triangles – that will help your child pick up the pattern of which shapes are which, and it will make the patterns more interesting.",
+    "text": "**Πώς να το φτιάξετε:** Δημιουργήστε ένα σύνολο «πλακιδίων» από χαρτόνι ή χοντρό χαρτί. Χρησιμοποιήστε τα πρότυπα που υπάρχουν στο PDF \"EFM Printables\" (εκτυπώσιμα) ή κατεβάστε πρότυπα από κάποια πηγή στο διαδίκτυο. Χρησιμοποιήστε μία μόνο πηγή για όλα τα σχήματα ώστε να ταιριάζουν καλά μεταξύ τους. Για κάθε σχήμα, χρησιμοποιήστε μόνο ένα ή δύο χρώματα, π.χ. κόκκινα τετράγωνα και μπλε τρίγωνα· αυτό θα βοηθήσει το παιδί σας να αναγνωρίσει ποιο σχήμα είναι ποιο και θα κάνει τα μοτίβα πιο ενδιαφέροντα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Watch your child make patterns fitting the tiles together. Name the shapes and colors as they go.\n\nWith older children, talk about patterns in the tiling that repeat. Also, talk about symmetries in the overall design. Some designs have one side that is the reflection of the other side, and that is called mirror symmetry.",
+    "text": "Παρακολουθήστε το παιδί σας να φτιάχνει μοτίβα ενώ εφαρμόζει τα πλακίδια. Ονομάστε τα σχήματα και τα χρώματα καθώς προχωρά.\n\nΜε μεγαλύτερα παιδιά, μιλήστε για επαναλαμβανόμενα μοτίβα στην επίστρωση. Συζητήστε επίσης τις συμμετρίες στο συνολικό σχέδιο. Μερικά σχέδια έχουν μία πλευρά που είναι αντανάκλαση της άλλης πλευράς· αυτό ονομάζεται **κατοπτρική συμμετρία.**",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "After your child has made a few designs, start pointing out patterns in the tiled floors and buildings that you see. Brickwork or woodwork often have interesting patterns in them.",
+    "text": "Αφού το παιδί σας δημιουργήσει μερικά σχέδια, αρχίστε να επισημαίνετε μοτίβα στα πλακάκια δαπέδων και στα κτίρια που βλέπετε. Η τοιχοποιία από τούβλα ή το ξύλινο δάπεδο συχνά έχουν ενδιαφέροντα μοτίβα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "LAUNDRY SORTING",
+    "text": "ΤΑΞΙΝΌΜΗΣΗ ΡΟΎΧΩΝ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Laundry sorting is a great way to discuss properties that make things the same or different.",
+    "text": "Η ταξινόμηση ρούχων είναι ένας εξαιρετικός τρόπος να συζητήσετε ιδιότητες που κάνουν τα αντικείμενα όμοια ή διαφορετικά.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Dirty clothes:** Perhaps the clothes need to be sorted by whites, bright colors, and dark colors. Perhaps some clothes need delicate handling, or they are particularly dirty. Perhaps one pile is too big to wash as one group. All of these characterstics are things to be observed, described, and discussed.\n\n**Clean clothes:** You may want to sort into piles by whose clothes they are. Some clothes may be bigger than others. Pairing up socks can be particularly interesting – matching colors, patterns, and sizes.",
+    "text": "**Βρόμικα ρούχα:** Ίσως τα ρούχα πρέπει να ταξινομηθούν σε λευκά, έντονα χρώματα και σκούρα. Μπορεί κάποια ρούχα να χρειάζονται ευαίσθητη πλύση ή να είναι ιδιαίτερα βρόμικα. Ένας σωρός μπορεί να είναι πολύ μεγάλος για να πλυθεί ως μια ομάδα. Όλα αυτά τα χαρακτηριστικά είναι πράγματα που πρέπει να παρατηρηθούν, να περιγραφούν και να συζητηθούν.\n\n**Καθαρά ρούχα:** Ίσως θελήσετε να τα ταξινομήσετε σε σωρούς ανάλογα με το ποιανού είναι. Κάποια ρούχα μπορεί να είναι μεγαλύτερα από άλλα. Το ταίριασμα των καλτσών μπορεί να είναι ιδιαίτερα ενδιαφέρον, συνδυάζοντας χρώματα, μοτίβα και μεγέθη.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "OBJECT HUNT",
+    "text": "ΚΥΝΉΓΙ ΑΝΤΙΚΕΙΜΈΝΩΝ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Make a math game of searching for objects around the house or outside. Use the game to practice concepts that your child is learning, such as color, size (large, medium, small), weight (heavy, light), quantity, and relationship (inside, on top of, below).",
+    "text": "Φτιάξτε ένα μαθηματικό παιχνίδι αναζήτησης αντικειμένων μέσα στο σπίτι ή έξω. Χρησιμοποιήστε το παιχνίδι για να εξασκήσετε έννοιες που μαθαίνει το παιδί σας, όπως χρώμα, μέγεθος (μεγάλο, μεσαίο, μικρό), βάρος (βαρύ, ελαφρύ), ποσότητα και σχέση (μέσα, πάνω, κάτω).",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to play:** There are two versions of this game. Both versions involve a Puzzler, who thinks of an object to find, and a Guesser, who tries to guess what the object based on the information from the Puzzler.\n\n**Version 1:** The Puzzler starts describing an object, and the Guesser tries to guess what it is. \n\n**Version 2:** The Guesser asks yes/no questions of the Puzzler until the Guesser guesses what the object is.\n\n**How to win:** Guess what the object is in as few steps as possible.",
+    "text": "**Πώς να παίξετε:** Υπάρχουν δύο εκδοχές αυτού του παιχνιδιού. Και στις δύο υπάρχει ένας \"Προβληματιστής\", που σκέφτεται ένα αντικείμενο για εύρεση και φτιάχνει τους γρίφους, και ένας \"Μάντης\", που προσπαθεί να μαντέψει ποιο είναι το αντικείμενο βάσει των πληροφοριών του Προβληματιστή.\n\n**Έκδοση 1:** Ο Προβληματιστής αρχίζει να περιγράφει ένα αντικείμενο και ο Μάντης προσπαθεί να μαντέψει ποιο είναι.\n\n**Έκδοση 2:** Ο Μάντης κάνει ερωτήσεις ναι/όχι στον Προβληματιστή μέχρι να μαντέψει ποιο είναι το αντικείμενο.\n\n**Πώς να κερδίσετε:** Μαντέψτε ποιο είναι το αντικείμενο σε όσο το δυνατόν λιγότερα βήματα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "PATTERNS",
+    "text": "ΜΟΤΙΒΑ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Object Descriptions",
+    "text": "Περιγραφές Αντικειμένων",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Patterns are everywhere! See how many you can make with your child.",
+    "text": "Τα μοτίβα είναι παντού! Δείτε πόσα μπορείτε να δημιουργήσετε με το παιδί σας.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Pattern types",
+    "text": "Τύποι μοτίβων",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Here are some characteristics that can be used by themselves or mixed together: \n\n• Movement patterns: stepping, jumping, waving, nodding\n• Sound patterns: clapping, knee slapping, tongue clicking, stamping\n• Loudness patterns: soft, medium, loud\n• Visual patterns: color, shape, size",
+    "text": "Ακολουθούν μερικά χαρακτηριστικά που μπορούν να χρησιμοποιηθούν μόνα τους ή συνδυασμένα:\n\n* Μοτίβα κίνησης: βηματισμός, άλμα, χαιρετισμός με το χέρι, νεύμα\n* Μοτίβα ήχου: παλαμάκια, χτύπημα γονάτου, κλικ με τη γλώσσα, χτύπημα ποδιού\n* Μοτίβα έντασης: χαμηλή, μέτρια, υψηλή\n* Οπτικά μοτίβα: χρώμα, σχήμα, μέγεθος",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Player one: makes a pattern and challenges the other person to repeat it. (Step, clap, jump)\n\nPlayer two: can repeat and eventually add to the pattern, challenging player one to repeat it. (Step, clap, jump, touch their nose)\nAs you get better, challenge each other to repeat longer and longer patterns from memory.\n\nYou can use a pattern as a secret code for getting through a passageway. You can also make necklaces with your child by taking string and threading on beads or bits of food to create repeating patterns. Walking hand in hand, you can use squeeze patterns (short short long, etc.).\n\n**Puzzles:** For older children, create puzzles by drawing a pattern of shapes on paper. One person establishes a pattern and then leaves gaps in the sequence for the other to fill in.",
+    "text": "Παίκτης ένα: δημιουργεί ένα μοτίβο και προκαλεί τον άλλο να το επαναλάβει. (Βήμα, παλαμάκι, άλμα)\n\nΠαίκτης δύο: μπορεί να το επαναλάβει και τελικά να προσθέσει στο μοτίβο, προκαλώντας τον παίκτη ένα να το επαναλάβει. (Βήμα, παλαμάκι, άλμα, αγγίζει τη μύτη του)\n\nΚαθώς βελτιώνεστε, προκαλέστε ο ένας τον άλλον να επαναλαμβάνει ολοένα και μεγαλύτερα μοτίβα από μνήμης.\n\nΜπορείτε να χρησιμοποιήσετε ένα μοτίβο ως μυστικό κώδικα για να περάσετε από ένα πέρασμα. Μπορείτε επίσης να φτιάξετε κολιέ με το παιδί σας παίρνοντας νήμα και περνώντας χάντρες ή κομμάτια φαγητού για να δημιουργήσετε επαναλαμβανόμενα μοτίβα. Περπατώντας χέρι-χέρι, μπορείτε να χρησιμοποιείτε μοτίβα πιέσεων (σύντομη σύντομη μακριά, κ.λπ.).\n\n**Παζλ:** Για μεγαλύτερα παιδιά, δημιουργήστε παζλ σχεδιάζοντας ένα μοτίβο σχημάτων πάνω σε χαρτί. Ένα άτομο καθορίζει ένα μοτίβο και μετά αφήνει κενά στην ακολουθία για να τα συμπληρώσει ο άλλος.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "NUMBER HUNT",
+    "text": "ΚΥΝΉΓΙ ΑΡΙΘΜΏΝ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Go hunting:** Pick a number, say 2. Challenge your child to go on a treasure hunt to find as many ways as possible that 2 shows up around you. It may show up as the numeral 2 on a wall, sign, or building. It may show up as two of something, such as two chairs, two dishes, or two cups, as it does in this illustration.",
+    "text": "**Πάμε για κυνήγι:** Διαλέξτε έναν αριθμό, για παράδειγμα το 2. Προκαλέστε το παιδί σας να κάνει ένα κυνήγι θησαυρού για να βρει όσους περισσότερους τρόπους μπορεί όπου εμφανίζεται το 2 γύρω σας. Μπορεί να εμφανιστεί ως το ψηφίο 2 σε έναν τοίχο, πινακίδα ή κτίριο. Μπορεί να εμφανιστεί ως δύο από κάτι, όπως δύο καρέκλες, δύο πιάτα ή δύο φλιτζάνια, όπως φαίνεται σε αυτή την εικόνα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If you like, you can make this into a contest by seeing who can find the most of whatever number you are looking for.",
+    "text": "Αν θέλετε, μπορείτε να το κάνετε διαγωνισμό για να δείτε ποιος θα βρει τα περισσότερα παραδείγματα του αριθμού που ψάχνετε.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "NUMBER GOBBLER",
+    "text": "ΑΡΙΘΜΟΦΆΓΟΣ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Counting up to 5",
+    "text": "Μέτρηση μέχρι το 5",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Make a 21-piece triangle with some food item. Put 1 piece in the top row, 2 pieces in the next row, and 6 pieces in the last.",
+    "text": "**Προετοιμασία:** Φτιάξτε ένα τρίγωνο με 21 κομμάτια από κάποιο φαγώσιμο. Βάλτε 1 κομμάτι στην κορυφαία σειρά, 2 κομμάτια στην επόμενη σειρά και 6 κομμάτια στην τελευταία.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to play:** Take turns rolling a die. Each time the count of a roll matches a row that is still in the triangle, the player gets to remove that row and either eat it (yum) or put it in their personal pile.\n\n**How to win:** Beginning players can do a 1-to-1 match of the dots on the die with the food pieces in a row. The player with the bigger pile of food wins! To determine the winner, do a 1-to-1 match of the two piles to see whose pile is larger.",
+    "text": "**Πώς παίζεται:** Οι παίκτες ρίχνουν το ζάρι εναλλάξ. Κάθε φορά που η ένδειξη του ζαριού αντιστοιχεί σε σειρά που υπάρχει ακόμη στο τρίγωνο, ο παίκτης αφαιρεί αυτή τη σειρά και είτε την τρώει (μμμ) είτε τη βάζει στη δική του στοίβα.\n\n**Πώς κερδίζω:** Οι αρχάριοι μπορούν να κάνουν αντιστοίχιση 1-προς-1 των κουκίδων στο ζάρι με τα κομμάτια της σειράς. Ο παίκτης με τη μεγαλύτερη στοίβα φαγητού κερδίζει. Για να βρείτε τον νικητή, κάντε αντιστοίχιση 1-προς-1 των δύο στοιβών ώστε να δείτε ποια είναι μεγαλύτερη.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Vary the size of the pile to correspond with the range of numbers your child is comfortable with.",
+    "text": "Αλλάξτε το μέγεθος της στοίβας ώστε να ταιριάζει με το εύρος αριθμών με το οποίο το παιδί σας αισθάνεται άνετα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "ONE MORE ONE LESS",
+    "text": "ΈΝΑ ΠΕΡΙΣΣΌΤΕΡΟ ΈΝΑ ΛΙΓΌΤΕΡΟ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "As understanding of the first few numbers grows, ask your child questions about 'one more' or 'one less.' For example, without talking about how many items there currently are, ask “Would you like one more?” or “Would you like one less?”",
+    "text": "Καθώς μεγαλώνει η κατανόηση των πρώτων αριθμών, κάντε στο παιδί σας ερωτήσεις για «ένα περισσότερο» ή «ένα λιγότερο». Για παράδειγμα, χωρίς να μιλάτε για το πόσα αντικείμενα υπάρχουν αυτή τη στιγμή, ρωτήστε: «Θα ήθελες ένα ακόμη;» ή «Θα ήθελες ένα λιγότερο;»",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Quantity and change:** Slowly, start emphasizing the current quantity and how it changes. Count the number of items together, perhaps two apple slices on a plate. Summarize saying there are two apple slices, and ask if your child would like one more apple slice or perhaps one less. If the amount does change, end by asking how many apple slices there are now.\n\n**Walking around:** Similarly, when you are walking about, pick out things to count. Suppose there are three people in line in front of you. Count them together and ask how many there will be when one leaves and there will be one less.",
+    "text": "**Ποσότητα και αλλαγή:** Σιγά σιγά αρχίστε να δίνετε έμφαση στην τρέχουσα ποσότητα και στο πώς αλλάζει. Μετρήστε μαζί τα αντικείμενα, για παράδειγμα δύο φέτες μήλου σε ένα πιάτο. Περάστε στο συμπέρασμα ότι υπάρχουν δύο φέτες μήλου και ρωτήστε αν το παιδί θέλει μία ακόμη ή ίσως μία λιγότερη. Αν η ποσότητα αλλάξει, ρωτήστε στο τέλος πόσες φέτες υπάρχουν τώρα.\n\n**Βόλτα:** Παρομοίως, όταν περπατάτε, επιλέξτε πράγματα για μέτρημα. Αν υπάρχουν τρία άτομα στην ουρά μπροστά, μετρήστε τα μαζί και ρωτήστε πόσα θα μείνουν όταν φύγει ένα, δηλαδή όταν θα υπάρχει ένα λιγότερο.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Foundations",
+    "text": "Θεμέλια",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Understanding 'one more' and 'one less' helps deepen understanding of how numbers sequence, and it also is the foundational skill for beginning addition and subtraction.",
+    "text": "Η κατανόηση του «ένα περισσότερο» και «ένα λιγότερο» εμβαθύνει την κατανόηση της ακολουθίας των αριθμών και αποτελεί βασική δεξιότητα για την αρχή της πρόσθεσης και της αφαίρεσης.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "IN THE OTHER HAND",
+    "text": "ΣΤΟ ΆΛΛΟ ΧΈΡΙ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Start with a bowl of small pieces of food.",
+    "text": "**Προετοιμασία:** Ξεκινήστε με ένα μπολ γεμάτο μικρά κομμάτια φαγητού.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to play:** Have your child count out loud a few items from the bowl, say 5, and give them to you. Secretly divide these items between your hands and then hold both hands out with one hand open and the other closed. Your child now counts aloud the items in the open hand and then chooses which hand to “steal” from. Have your child predict how many items will be stolen before you open your hand.",
+    "text": "**Πώς παίζεται:** Βάλτε το παιδί να μετρήσει δυνατά μερικά κομμάτια από το μπολ, π.χ. 5, και να σας τα δώσει. Μοιράστε κρυφά αυτά τα κομμάτια ανάμεσα στα χέρια σας και μετά τεντώστε και τα δύο χέρια, το ένα ανοιχτό και το άλλο κλειστό. Το παιδί μετρά δυνατά τα κομμάτια στο ανοιχτό χέρι και μετά επιλέγει ποιο χέρι θα «κλέψει». Ζητήστε του να προβλέψει πόσα κομμάτια θα κλέψει πριν ανοίξετε το χέρι.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to win:** The stolen items become part of your child’s pile, and you keep the remaining items. Play continues for as many rounds as needed until the bowl is empty. At the end, you both line up your items next to each other to see who has more.",
+    "text": "**Πώς κερδίζω:** Τα κλεμμένα κομμάτια μπαίνουν στη στοίβα του παιδιού και εσείς κρατάτε τα υπόλοιπα. Το παιχνίδι συνεχίζεται όσους γύρους χρειαστεί μέχρι να αδειάσει το μπολ. Στο τέλος, ευθυγραμμίστε τα κομμάτια σας δίπλα-δίπλα για να δείτε ποιος έχει περισσότερα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Introduction**\n\nYou only need a few materials for these Early Family Math activities, and they are all very inexpensive and easy to get. Here’s a short list:\n\n• Five dice\n• A deck of playing cards\n• String (optional)\n• Sidewalk chalk (optional)\n• Some stiff paper in various colors (optional)\n\n**Make Number Cards**\n\nMany EFM activities can be played using decks of playing cards. However, using a Number Card deck will help your child practice ideas that will not be emphasized with regular playing cards. Make your own cards using card stock or any thick paper. You can either use the PDF supplied in Resources or draw your own.",
+    "text": "**Εισαγωγή**\n\nΧρειάζεστε μόνο λίγα υλικά για αυτές τις δραστηριότητες του Early Family Math και είναι όλα πολύ οικονομικά και εύκολο να τα βρείτε. Δείτε έναν σύντομο κατάλογο:\n\n* Πέντε ζάρια\n* Μια τράπουλα\n* Σπάγκος (προαιρετικό)\n* Κιμωλία πεζοδρομίου (προαιρετικό)\n* Λίγο χοντρό χαρτί σε διάφορα χρώματα (προαιρετικό)\n\n**Φτιάξτε Κάρτες Αριθμών**\n\nΠολλές δραστηριότητες του EFM μπορούν να παιχτούν με τράπουλες. Ωστόσο, ένα πακέτο με Κάρτες Αριθμών θα βοηθήσει το παιδί σας να εξασκηθεί σε ιδέες που δεν τονίζονται με τις κανονικές τράπουλες. Φτιάξτε τις δικές σας Κάρτες Αριθμών χρησιμοποιώντας χαρτόνι ή οποιοδήποτε χοντρό χαρτί. Μπορείτε είτε να χρησιμοποιήσετε το PDF που παρέχεται στους Πόρους είτε να σχεδιάσετε τις δικές σας.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "MAKE A SHAPE DECK",
+    "text": "ΦΤΙΆΞΤΕ “ΤΡΆΠΟΥΛΑ” ΣΧΗΜΆΤΩΝ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There are a few games and puzzles that involve a Shape Deck of 27 cards in the Shape Deck Games page. If you happen to have a set of 81 cards from the game of SET, you can use 27 of those cards that have solid colors as a Shape Deck.",
+    "text": "Υπάρχουν μερικά παιχνίδια και γρίφοι που χρησιμοποιούν μια Τράπουλα Σχημάτων 27 καρτών στη σελίδα Παιχνίδια με Τράπουλα Σχημάτων. Αν έχετε σετ 81 καρτών από το παιχνίδι SET, μπορείτε να χρησιμοποιήσετε 27 από εκείνες τις κάρτες που έχουν συμπαγή χρώματα, ως Τράπουλα Σχημάτων.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Start with some stiff paper such as card stock if you can. Regular paper will work, it’s just not as easy to handle or as durable.\n\nEach of the 27 cards of the Shape Deck has three properties: a shape (circle, triangle, or square), a count (one, two, or three) and a color (red, blue, or black). The 27 cards are pictured above. Use the pdf supplied in Resources or draw your own.",
+    "text": "Ξεκινήστε με χοντρό χαρτί όπως χαρτόνι, αν είναι δυνατόν. Το απλό χαρτί θα δουλέψει, απλώς δεν είναι τόσο εύχρηστο ούτε τόσο ανθεκτικό.\n\nΚάθε μία από τις 27 κάρτες της Τράπουλας Σχημάτων έχει τρεις ιδιότητες: ένα σχήμα (κύκλος, τρίγωνο ή τετράγωνο), μία ποσότητα (ένα, δύο ή τρία) και ένα χρώμα (κόκκινο, μπλε ή μαύρο). Οι 27 κάρτες φαίνονται παραπάνω. Χρησιμοποιήστε το pdf που παρέχεται στους Πόρους ή σχεδιάστε τις δικές σας.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "NUMBER LINE ON THE WALL",
+    "text": "ΑΡΙΘΜΟΓΡΑΜΜΉ ΣΤΟΝ ΤΟΊΧΟ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Materials",
+    "text": "Υλικά",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Place a number line on a wall to let your child see the numbers and how they grow. The number line should start at 0 and go at least to 20, with the numbers increasing as they go to the right. Make it from regular paper and use tick marks and large numbers.",
+    "text": "Τοποθετήστε μια αριθμογραμμή σε έναν τοίχο ώστε το παιδί σας να βλέπει τους αριθμούς και πώς μεγαλώνουν. Η αριθμογραμμή πρέπει να ξεκινά στο 0 και να φτάνει τουλάχιστον μέχρι το 20, με τους αριθμούς να αυξάνονται προς τα δεξιά. Φτιάξτε τη από απλό χαρτί και χρησιμοποιήστε παύλες και μεγάλους αριθμούς.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "YOUR OWN STORE",
+    "text": "ΤΟ ΔΙΚΌ ΣΟΥ ΜΑΓΑΖΊ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Kids love to play store! Create tags with silly prices that are small numbers. If your child hasn't learned the numerals yet, you can use quantities of dots on the tags.",
+    "text": "Τα παιδιά λατρεύουν να παίζουν μαγαζί!\\ Φτιάξτε ετικέτες με αστείες τιμές που είναι μικροί αριθμοί. Αν το παιδί σας δεν έχει μάθει ακόμη τα ψηφία, μπορείτε να χρησιμοποιήσετε ποσότητες από κουκκίδες στις ετικέτες.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Put price tags on things in your home (toys, food, books, etc.) Use pieces of paper that have '1' marked on them as pretend money to spend on things in the store.\n\nAfter each 'purchase,' have your child count out the number of bills to pay for it and then count out how much money is left.",
+    "text": "Βάλτε ετικέτες τιμών σε αντικείμενα στο σπίτι (παιχνίδια, φαγητό, βιβλία κ.λπ.). Χρησιμοποιήστε κομμάτια χαρτιού που έχουν το «1» γραμμένο επάνω ως ψεύτικα χαρτονομίσματα για να «αγοράζετε» πράγματα από το μαγαζί.\n\nΜετά από κάθε «αγορά», ζητήστε από το παιδί να μετρήσει τα χαρτονομίσματα για να πληρώσει και έπειτα να μετρήσει πόσα χρήματα απομένουν.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "HOPSCOTCH",
+    "text": "ΚΟΥΤΣΌ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Numbers up to 5",
+    "text": "Αριθμοί μέχρι το 5",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The game of hopscotch provides great counting practice, both forward and backward. Copy this design, or use a simpler one. Use chalk if outside, or masking or painter's tape if inside.",
+    "text": "Το παιχνίδι κουτσό προσφέρει εξαιρετική εξάσκηση στη μέτρηση, τόσο προς τα πάνω όσο και προς τα κάτω. Αντιγράψτε αυτό το σχέδιο ή χρησιμοποιήστε ένα πιο απλό. Χρησιμοποιήστε κιμωλία αν βρίσκεστε έξω ή χαρτοταινία αν είστε μέσα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "1. Throw a marker into the first square. If it lands on a line, or outside the square, you lose your turn and you pass the marker to the next player.\n\n2. Hop on one foot into the first empty square, and then every subsequent empty square. Skip the one your marker is on.\n\n3. At the pairs (4-5 and 7-8), jump with both feet.\n\n4. At 10, hop with both feet, turn around, and head back toward the start.",
+    "text": "1. Ρίξτε ένα αντικείμενο-σημάδι στο πρώτο τετράγωνο. Αν ακουμπήσει σε γραμμή ή έξω από το τετράγωνο, χάνετε τη σειρά σας και δίνετε το αντικείμενο-σημάδι στον επόμενο παίκτη.\n\n2. Πηδήξτε στο ένα πόδι στο πρώτο άδειο τετράγωνο και στη συνέχεια σε κάθε επόμενο άδειο τετράγωνο. Παραλείψτε αυτό όπου βρίσκεται το αντικείμενο-σημάδι.\n\n3. Στα ζεύγη (4–5 και 7–8) πηδήξτε με τα δύο πόδια.\n\n4. Στο 10 πηδήξτε με τα δύο πόδια, γυρίστε και κατευθυνθείτε πίσω προς την αρχή.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "5. When you reach the marked square again, pick up the marker—on one foot!—and keep going.\n\n6. If you finished without any mistakes, pass the marker to the next player. On your next turn, throw the marker to the next number.\n\n7. If you fall, jump outside the lines, or miss a square or the marker, you lose your turn and must repeat the same number on your next turn. Whoever reaches 10 first, wins.",
+    "text": "5. Όταν φτάσετε ξανά στο τετράγωνο με το σημάδι, σηκώστε το αντικείμενο—στο ένα πόδι!—και συνεχίστε.\n\n6. Αν τελειώσετε χωρίς λάθη, δώστε το αντικείμενο-σημάδι στον επόμενο παίκτη. Στην επόμενη σειρά σας, ρίξτε το αντικείμενο-σημάδι στον επόμενο αριθμό.\n\n7. Αν πέσετε, πατήσετε έξω από τις γραμμές ή χάσετε τετράγωνο ή το σημάδι, χάνετε τη σειρά σας και πρέπει να επαναλάβετε τον ίδιο αριθμό στην επόμενη σειρά. Όποιος φτάσει πρώτος στο 10 κερδίζει.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Simpler variations",
+    "text": "Απλούστερες παραλλαγές",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "For younger children, relax many of the rules and replace hopping with stepping. Also, use a jumping pattern with fewer squares, perhaps as simple as having the numbers from1to5infivesquaresinarow.",
+    "text": "Για μικρότερα παιδιά, χαλαρώστε πολλούς από τους κανόνες και αντικαταστήστε τα πηδήματα με βηματισμό. Επίσης, χρησιμοποιήστε ένα σχέδιο με λιγότερα τετράγωνα, ίσως απλώς τους αριθμούς από το 1 έως το 5 σε πέντε τετράγωνα στη σειρά.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "GOING IN CIRCLES",
+    "text": "ΠΗΓΑΊΝΟΝΤΑΣ ΣΕ ΚΎΚΛΟΥΣ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**A circle for each property:** Create large circles on the ground using Hula Hoops, string, or draw them with sidewalk chalk. Use a collection of objects and have each circle represent a property of some of the objects. Possible properties are: has four legs, is bigger than a doll, has some red coloring. The challenge for your child is to put everything that has the property in the circle and everything without the property outside the circle.",
+    "text": "**Ένας κύκλος για κάθε ιδιότητα:** Δημιουργήστε μεγάλους κύκλους στο έδαφος χρησιμοποιώντας στεφάνια Χούλα-Χουπ, σπάγκο ή σχεδιάζοντάς τους με κιμωλία πεζοδρομίου. Χρησιμοποιήστε μια συλλογή αντικειμένων και κάντε κάθε κύκλο να αντιπροσωπεύει μια ιδιότητα ορισμένων αντικειμένων. Πιθανές ιδιότητες είναι: έχει τέσσερα πόδια, είναι μεγαλύτερο από μια κούκλα, έχει κόκκινο χρώμα. Η πρόκληση για το παιδί σας είναι να βάλει ό,τι έχει την ιδιότητα μέσα στον κύκλο και ό,τι δεν την έχει έξω από τον κύκλο.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Two circles:** Start by using one circle to get your child used to the idea. When you change to two circles, make them partially overlap, and choose the properties so that some objects have both properties.\n\n**Example:** For example, if you have a box of blocks, the two properties might be having a round shape and being wooden. Your child should tell you how they are deciding to place each object.",
+    "text": "**Δύο κύκλοι:** Ξεκινήστε με έναν κύκλο για να συνηθίσει το παιδί την ιδέα. Όταν περάσετε σε δύο κύκλους, κάντε τους να αλληλεπικαλύπτονται μερικώς και διαλέξτε ιδιότητες ώστε κάποια αντικείμενα να έχουν και τις δύο.\n\n**Παράδειγμα:** Αν έχετε ένα κουτί με τουβλάκια, οι δύο ιδιότητες μπορεί να είναι το κυκλικό σχήμα και το να είναι ξύλινα. Το παιδί σας πρέπει να σας λέει πώς αποφασίζει να τοποθετήσει κάθε αντικείμενο.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Reverse this activity by placing objects in the circles and challenging your child to identify what property goes with each circle.",
+    "text": "Αντιστρέψτε τη δραστηριότητα βάζοντας εσείς αντικείμενα στους κύκλους και προκαλέστε το παιδί να εντοπίσει ποια ιδιότητα αντιστοιχεί σε κάθε κύκλο.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "SAME AND DIFFERENT",
+    "text": "ΊΔΙΑ ΚΑΙ ΔΙΑΦΟΡΕΤΙΚΆ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to play:** Choose two items that are somewhat similar. How are they similar? How are they different? Allow your child lots of freedom to come up with unusual reasons. Sometimes let your child pick the two items to challenge you to come up with the similarities and differences.\n\n**Example:** Pick a spoon and a fork. They are similar because you eat with them and they are both kept in the kitchen. They are different because one is pointy and one is round.",
+    "text": "**Πώς να παίξετε:** Επιλέξτε δύο αντικείμενα που είναι κάπως παρόμοια. Σε τι μοιάζουν; Σε τι διαφέρουν; Αφήστε το παιδί να έχει πολλή ελευθερία για να βρει ασυνήθιστους λόγους. Κάποιες φορές αφήστε το παιδί να διαλέξει τα δύο αντικείμενα για να προκαλέσει εσάς να βρείτε εσείς τις ομοιότητες και τις διαφορές.\n\n**Παράδειγμα:** Διαλέξτε ένα κουτάλι και ένα πιρούνι. Μοιάζουν επειδή τρώμε με αυτά και φυλάγονται στην κουζίνα. Διαφέρουν επειδή το ένα είναι μυτερό και το άλλο στρογγυλό.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "One variation is to choose an item and ask which things in the room are similar to it and which things are very different from it.",
+    "text": "Μία παραλλαγή είναι να επιλέξετε ένα αντικείμενο και να ρωτήσετε ποια πράγματα στο δωμάτιο του μοιάζουν και ποια είναι πολύ διαφορετικά από αυτό.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "ONE OF THESE IS NOT LIKE THE OTHERS",
+    "text": "ΈΝΑ ΑΠΌ ΑΥΤΆ ΔΕΝ ΜΟΙΆΖΕΙ ΜΕ ΤΑ ΆΛΛΑ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Use a set of four items or drawings where at least one of the four is the odd one out. Challenge your child to identify one that is not like the others and to explain why. Accept any reason that makes sense; your child may have an unusual reason.",
+    "text": "Χρησιμοποιήστε ένα σύνολο τεσσάρων αντικειμένων ή σχεδίων όπου τουλάχιστον ένα από τα τέσσερα είναι το «διαφορετικό». Προκαλέστε το παιδί σας να εντοπίσει ποιο δεν μοιάζει με τα άλλα και να εξηγήσει το γιατί. Δεχθείτε κάθε λόγο που βγάζει νόημα, το παιδί σας μπορεί να έχει έναν ασυνήθιστο συλλογισμό.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Example – Shapes:** Suppose the four items are a red triangle, a red square with a hole, a small red square, and solid blue square.",
+    "text": "**Παράδειγμα – Σχήματα:** Έστω ότι τα τέσσερα αντικείμενα είναι ένα κόκκινο τρίγωνο, ένα κόκκινο τετράγωνο με τρύπα, ένα μικρό κόκκινο τετράγωνο και ένα συμπαγές μπλε τετράγωνο.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The red triangle is the only non-square, the red square with the hole is the only one with a hole, the blue square is the only one that isn't red, and the little red square is much smaller than the others. There isn’t always more than one good answer, but you should always be open to surprising ideas.",
+    "text": "Το κόκκινο τρίγωνο είναι το μόνο που δεν είναι τετράγωνο, το κόκκινο τετράγωνο με την τρύπα είναι το μόνο που έχει τρύπα, το μπλε τετράγωνο είναι το μόνο που δεν είναι κόκκινο και το μικρό κόκκινο τετράγωνο είναι πολύ μικρότερο από τα άλλα. Δεν υπάρχει πάντα μόνο μία σωστή απάντηση, αλλά πρέπει πάντα να είστε ανοιχτοί σε απρόσμενες ιδέες.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Object Properties",
+    "text": "Ιδιότητες Αντικειμένων",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "DESCRIBING SCENES",
+    "text": "ΠΕΡΙΓΡΑΦΉ ΣΚΗΝΏΝ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Make a simple barrier between the two players so they can’t see each other’s work. Another option is to work back to back. Each person has a piece of paper and the same set of colored pencils, crayons, or pens.\n\nOne person draws shapes (such as circles, triangles, squares, and rectangles) in colors and groups in distinctive positions on their paper. That person then gives directions for the other person to follow to make the identical drawing.\n\nAt the end, the barrier is removed and the two drawings are compared (usually with lots of laughter). The players compare ideas on which spoken directions worked and which did not.",
+    "text": "**Η προετοιμασία:** Φτιάξτε ένα απλό εμπόδιο ανάμεσα στους δύο παίκτες ώστε να μη βλέπουν τη δουλειά ο ένας του άλλου. Μια άλλη επιλογή είναι να καθίσετε πλάτη με πλάτη. Κάθε άτομο έχει ένα φύλλο χαρτί και το ίδιο σετ χρωματιστών μολυβιών, κηρομπογιών ή στυλό.\n\nΈνα άτομο σχεδιάζει σχήματα (όπως κύκλους, τρίγωνα, τετράγωνα και ορθογώνια) με χρώματα και ομαδοποιήσεις σε χαρακτηριστικές θέσεις στο χαρτί του. Αυτό το άτομο δίνει στη συνέχεια οδηγίες για να ακολουθήσει ο άλλος ώστε να φτιάξει το ίδιο σχέδιο.\n\nΣτο τέλος, το εμπόδιο αφαιρείται και τα δύο σχέδια συγκρίνονται, συνήθως με πολύ γέλιο. Οι παίκτες συζητούν ποιες προφορικές οδηγίες λειτούργησαν και ποιες όχι.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This can be a 3D activity if each player has the same set of stackable items (such as Lego bricks). In this case, one player makes a stack in some interesting way and then gives a sequence of directions to the other player.",
+    "text": "Αυτό μπορεί να γίνει τρισδιάστατη δραστηριότητα αν κάθε παίκτης έχει το ίδιο σετ στοιβαζόμενων αντικειμένων (όπως τουβλάκια Lego). Σε αυτή την περίπτωση, ο ένας παίκτης φτιάχνει μια στοίβα με κάποιον ενδιαφέροντα τρόπο και μετά δίνει μια σειρά οδηγιών στον άλλον παίκτη.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "WHICH SHAPE AM I?",
+    "text": "ΠΟΙΟ ΣΧΉΜΑ ΕΊΜΑΙ;",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Have a collection of small shapes, drawings of shapes on cards, or names of shapes on cards.\n\nStick a shape or card on each person’s forehead. Ask yes-or-no questions about your own shape until you guess what you are.",
+    "text": "Έχετε μια συλλογή από μικρά σχήματα, σχέδια σχημάτων σε κάρτες ή ονόματα σχημάτων σε κάρτες.\n\nΚολλήστε ένα σχήμα ή μια κάρτα στο μέτωπο κάθε ατόμου. Κάντε ερωτήσεις ναι ή όχι για το δικό σας σχήμα μέχρι να μαντέψετε τι είστε.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "WHO IS IT?",
+    "text": "ΠΟΙΟΣ ΕΊΝΑΙ;",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This is an activity for several people. The Leader secretly picks one person in the group. To narrow down to the secret person, players ask questions such as, \"Is this person wearing a shirt with a triangle on the front?\" or \"Is this person's hair more than 12 inches long?\"",
+    "text": "Αυτή είναι δραστηριότητα για πολλά άτομα. Ο Αρχηγός διαλέγει κρυφά ένα άτομο της ομάδας. Για να φτάσουν στο μυστικό άτομο, οι παίκτες κάνουν ερωτήσεις όπως «Φορά αυτό το άτομο μπλούζα με τρίγωνο μπροστά;» ή «Έχει αυτό το άτομο μαλλιά πιο μακριά από 10 εκατοστά;»",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Unknown Shapes",
+    "text": "Ανακαλύπτοντας Σχήματα",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "STAGE 2 – I CAN COUNT TO 5!",
+    "text": "ΣΤΆΔΙΟ 2 – ΜΠΟΡΏ ΝΑ ΜΕΤΡΉΣΩ ΜΈΧΡΙ ΤΟ 5!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stage 2 Introduction",
+    "text": "Στάδιο 2 – Εισαγωγή",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Where You've Been**\n\nWow! Your child is now able to count to 5! These numbers are not just being repeated in order like a parrot – they represent quantities that your child is gaining a feel for. You are ready to assign properties to objects that you describe and talk about. Think how far your child has come in understanding the world!\n\nYour child is becoming more verbal and better able to reason and explain. You can discuss mathematical things and this allows you to start playing games and doing puzzles together.",
+    "text": "**Όσα Έχετε Καταφέρει**\n\nΤι θαύμα! Το παιδί σας μπορεί πλέον να μετρά μέχρι το 5! Οι αριθμοί αυτοί δεν επαναλαμβάνονται πια παπαγαλίζοντας, αλλά αντιπροσωπεύουν ποσότητες που το παιδί αρχίζει να κατανοεί. Είστε έτοιμοι να αποδίδετε ιδιότητες στα αντικείμενα που περιγράφετε και συζητάτε. Σκεφτείτε πόσο έχει προχωρήσει το παιδί στην κατανόηση του κόσμου.\n\nΤο παιδί γίνεται πιο ομιλητικό και ικανό να αιτιολογεί και να εξηγεί. Μπορείτε πλέον να συζητάτε μαθηματικά θέματα και αυτό σας επιτρέπει να αρχίσετε να παίζετε παιχνίδια και να λύνετε γρίφους μαζί.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Your child will be learning many things in the coming months beyond counting to 10 and above.\nHere is a quick list of topics that will be covered in this Stage.\n\n• Counting forward and backward to 10. Don’t ignore backward counting – it is important for understanding number relationships as well as being an aid for subtraction.\n• Include 0 in your counting sometimes. Including 0 now makes it a familiar number and keeps it from feeling exotic.\n• Reasoning with properties and numbers. Understanding properties and reasoning with them is a key part of developing mathematical ability.\n• Deepening understanding of shapes, especially circles, triangles, and squares. Keep using descriptive shape names as your child interacts with them.\n• Comparing and ordering numbers. How quantities compare and interact with each other is central to understanding them.\n• One more, one less, two more, two less. These concepts are relatively easy to pick up, and they will form the basis for addition and subtraction.\n• Learning to use manipulatives, especially fingers, to understand adding and subtracting. Adding and subtracting 0.\n• Subtracting a number from itself.",
+    "text": "Το παιδί σας θα μάθει πολλά τους επόμενους μήνες πέρα από το μέτρημα μέχρι το 10 και παραπάνω. Δείτε έναν σύντομο κατάλογο θεμάτων που θα καλυφθούν σε αυτό το Στάδιο.\n\n* Μετράμε προς τα πάνω και προς τα πίσω μέχρι το 10. Μην παραμελείτε το μέτρημα προς τα πίσω, είναι σημαντικό για την κατανόηση των σχέσεων των αριθμών και βοηθά στην αφαίρεση.\n* Συμπεριλάβετε το 0 στο μέτρημα μερικές φορές. Αν το 0 εμφανιστεί από τώρα, γίνεται οικείος αριθμός και δεν φαίνεται «εξωτικός».\n* Συλλογισμός με ιδιότητες και αριθμούς. Η κατανόηση των ιδιοτήτων και ο συλλογισμός με αυτές είναι κλειδί για την ανάπτυξη μαθηματικών ικανοτήτων.\n* Εμβάθυνση στην κατανόηση των σχημάτων, ιδιαίτερα κύκλων, τριγώνων και τετραγώνων. Συνεχίστε να χρησιμοποιείτε περιγραφικά ονόματα σχημάτων όταν το παιδί αλληλεπιδρά με αυτά.\n* Σύγκριση και ταξινόμηση αριθμών. Το πώς συγκρίνονται και αλληλεπιδρούν οι ποσότητες είναι κρίσιμο για την κατανόησή τους.\n* Ένα περισσότερο, ένα λιγότερο, δύο περισσότερα, δύο λιγότερα. Αυτές οι έννοιες κατακτώνται σχετικά εύκολα και θα αποτελέσουν τη βάση για πρόσθεση και αφαίρεση.\n* Χρήση χειραπτικών αντικειμένων, ειδικά των δαχτύλων, για κατανόηση της πρόσθεσης και της αφαίρεσης. Πρόσθεση και αφαίρεση με το 0.\n* Αφαίρεση ενός αριθμού από τον εαυτό του.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "CONNECT THE DOTS",
+    "text": "ΈΝΩΣΕ ΤΙΣ ΤΕΛΕΊΕΣ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to create:** Complete fun drawings by connecting numbered dots. Make these by taking a simple drawing, removing some straight lines, and replacing them with numbered dots. Connecting the dots in order recreates the original drawing.",
+    "text": "**Πώς να το φτιάξετε:** Ολοκληρώστε διασκεδαστικά σχέδια ενώνοντας αριθμημένες τελείες. Φτιάξτε τα παίρνοντας ένα απλό σχέδιο, αφαιρώντας μερικές ευθείες γραμμές και αντικαθιστώντας τες με αριθμημένες τελείες. Ενώνοντας τις τελείες με τη σειρά αναδημιουργείτε το αρχικό σχέδιο.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Backwards:** Challenge your child to connect the dots in backwards order.\n\nYou can also find these kinds of drawings to download from the internet.",
+    "text": "**Ανάποδα:** Προκαλέστε το παιδί σας να ενώσει τις τελείες με αντίστροφη σειρά.\n\nΜπορείτε επίσης να βρείτε τέτοια σχέδια για κατέβασμα από το διαδίκτυο.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "ISLAND HOPPING – COUNTING",
+    "text": "ΠΗΔΉΜΑΤΑ ΝΗΣΙΏΝ – ΜΈΤΡΗΜΑ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These puzzles use numbered islands (circles) connected by bridges (lines).\n\n**The challenge:** Find a path that connects the islands in order. The easiest versions have numbers that go from 1 to the number of islands.",
+    "text": "Αυτοί οι γρίφοι χρησιμοποιούν αριθμημένα νησιά (κύκλους) που συνδέονται με γέφυρες (γραμμές).\n\n**Η πρόκληση:** Βρείτε μια διαδρομή που ενώνει τα νησιά με τη σωστή σειρά. Οι πιο εύκολες διαδρομές έχουν αριθμούς που ξεκινούν από το 1 μέχρι τον συνολικό αριθμό των νησιών.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Adjust the challenge 1:** Leave out some numbers so your child figures out what is missing and where it belongs.\n\n**Adjust the challenge 2:** Instead of starting at 1, design the puzzles to start at 0 or other numbers. (Note the range at the top of the puzzle).",
+    "text": "**Προσαρμόστε την πρόκληση 1:** Αφαιρέστε μερικούς αριθμούς ώστε το παιδί να βρει τι λείπει και πού ανήκει.\n\n**Προσαρμόστε την πρόκληση 2:** Αντί να ξεκινά από το 1, σχεδιάστε γρίφους που να ξεκινούν από το 0 ή από άλλους αριθμούς. (Δείτε το εύρος στο επάνω μέρος του γρίφου).",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Make this into a physical puzzle by placing pieces of paper with consecutive numbers on the floor in some twisty path. Your child can solve this puzzle by walking along the path from the smallest to the largest number.\n\nAdd challenge: Replace some of the numbered pieces with blank ones. Also, have your child to start at the largest number and go downward.",
+    "text": "Μετατρέψτε το σε φυσικό γρίφο τοποθετώντας κομμάτια χαρτιού με διαδοχικούς αριθμούς στο πάτωμα, δημιουργώντας μια στριφογυριστή διαδρομή. Το παιδί σας λύνει τον γρίφο περπατώντας από τον μικρότερο στον μεγαλύτερο αριθμό.\n\nΠρόσθετη πρόκληση: Αντικαταστήστε μερικά από τα αριθμημένα κομμάτια με κενά. Επίσης, ζητήστε από το παιδί να ξεκινήσει από τον μεγαλύτερο αριθμό και να κατεβαίνει.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "STRING NUMBER LINE",
+    "text": "ΑΡΙΘΜΟΓΡΑΜΜΉ ΜΕ ΣΠΆΓΚΟ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "In addition to having a paper number line on a wall, create a number line using a piece of string. Tie or clip a section of string between two objects. Use paper clips to attach sliding Number Cards from 0 to 10 along the string in order.",
+    "text": "Εκτός από μια αριθμογραμμή από χαρτί στον τοίχο, φτιάξτε μια αριθμογραμμή χρησιμοποιώντας ένα κομμάτι σπάγκου. Στερεώστε ένα τμήμα σπάγκου ανάμεσα σε δύο αντικείμενα. Χρησιμοποιήστε συνδετήρες ή μανταλάκια για να στερεώσετε και να μετακινείτε Κάρτες Αριθμών από το 0 έως το 10 με τη σωστή σειρά.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "In addition to exploring these ideas, you and your child will probably discover many more.\n\n• Switch two numbers and have your child find the mistake.\n• Leave out a number and have your child find which one is missing.\n• Practice adding. To do 4 + 2, slide over the first 4 numbers and then slide the next 2.\n• Practice subtracting. To do 6 - 2, slide 6 cards to the left, then slide 2 of those to the right.",
+    "text": "Εκτός από αυτές τις ιδέες, εσείς και το παιδί σας μπορεί να ανακαλύψετε πολλές ακόμη.\n\n* Αλλάξτε δύο αριθμούς μεταξύ τους και ζητήστε από το παιδί να βρει το λάθος.\n* Αφαιρέστε έναν αριθμό και ζητήστε από το παιδί να εντοπίσει ποιος λείπει.\n* Εξασκηθείτε στην πρόσθεση. Για 4 + 2, γλιστρήστε πρώτα 4 κάρτες και έπειτα τις επόμενες 2.\n* Εξασκηθείτε στην αφαίρεση. Για 6 - 2, μετακινήστε 6 κάρτες προς τα αριστερά και μετά 2 από αυτές προς τα δεξιά.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "GO FISH!",
+    "text": "ΠΑΜΕ ΓΙΑ ΨΑΡΙΑ!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Counting up to 10",
+    "text": "Μέτρηση μέχρι το 10",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Remove cards above the highest number your child is comfortable with. For more than two players, if you have restricted the number range you may need several decks.",
+    "text": "**Προετοιμασία:** Αφαιρέστε τις κάρτες που είναι πάνω από τον μεγαλύτερο αριθμό με τον οποίο το παιδί σας αισθάνεται άνετα. Για περισσότερους από δύο παίκτες, αν έχετε περιορίσει το εύρος των αριθμών, ίσως χρειαστείτε περισσότερα πακέτα με κάρτες.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to play:** Deal 5 cards to each player and put the other cards face down in a shared draw pile.\n\nDuring a turn, a player “fishes” by asking any player if they have a card matching one of their cards. For example: ‘Jonah, please give me a 4’. If they have it, they hand over the card. If they don’t, they say “Go Fish!” and the player must pick a card from the draw pile.",
+    "text": "Πώς παίζεται:} Μοιράστε 5 κάρτες σε κάθε παίκτη και τοποθετήστε τις υπόλοιπες σε μια κοινή κλειστή στοίβα.\n\nΚατά τη διάρκεια της σειράς του, ο παίκτης «ψαρεύει» ρωτώντας οποιονδήποτε αν έχει κάρτα που ταιριάζει με μία από τις δικές του. Παράδειγμα: «Γιάννη, έχεις ένα 4;». Αν ναι, δίνει την κάρτα. Αν όχι, λέει «Πάμε για Ψάρια!» και ο παίκτης τραβά μία κάρτα από τη στοίβα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Making a book:** When a player has a pair of matching cards, those cards are placed in a “book” in front of them.\n\n**How to win:** The game is over after all the cards have been put into books. The player with the most books wins.",
+    "text": "**Δημιουργία βιβλίου:** Όταν ένας παίκτης μαζέψει ένα ζευγάρι όμοιων καρτών, τις τοποθετεί μπροστά του, σχηματίζοντας ένα «βιβλίο».\n\n**Πώς κερδίζεις:** Το παιχνίδι τελειώνει όταν όλες οι κάρτες έχουν τοποθετηθεί σε βιβλία. Νικητής είναι ο παίκτης με τα περισσότερα βιβλία.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "SHAPES ON THE FLOOR",
+    "text": "ΣΧΉΜΑΤΑ ΣΤΟ ΠΆΤΩΜΑ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Cut large shapes from big pieces of paper (use color paper if you have it) and place the shapes on the floor. At first, use basic shapes such as triangles, rectangles, squares, pentagons, hexagons, and octagons. Find patterns for these online or in the EFM Printables file. To cause more running around, include more than one of each shape.",
+    "text": "**Προετοιμασία:** Κόψτε μεγάλα σχήματα από μεγάλες κόλλες χαρτιού (χρησιμοποιήστε χρωματιστό χαρτί αν έχετε) και τοποθετήστε τα σχήματα στο πάτωμα. Ξεκινήστε με βασικά σχήματα όπως τρίγωνα, ορθογώνια, τετράγωνα, πεντάγωνα, εξάγωνα και οκτάγωνα. Βρείτε πατρόν γι’ αυτά στο διαδίκτυο ή στο αρχείο EFM Εκτυπώσιμα. Για να προκαλέσετε περισσότερο τρέξιμο κατά τη διάρκεια του παιχνιδιού, συμπεριλάβετε παραπάνω από ένα αντίγραφο κάθε σχήματος.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The challenge:** Give your child some shape information and ask them to run to that shape, or shapes. For a very young child, show them a drawing and ask them to find and name that shape on the floor. For older children, name the shape and challenge them to find it.\n\nAdd variety to this by asking for shapes all of whose sides are the same length, or all of whose angles are the same (or all different), or whose opposite sides (or angles) are the same size.\n\n**Extending the challenge:** With experience, include less basic shapes – add specific triangles (right, obtuse, acute), a kite, a parallelogram (diamond), a star, and some unusual shapes.\n\nAs your child gets experienced, playfully mix in some impossible requests such as a triangle with two right angles or a quadrilateral with exactly three right angles.",
+    "text": "**Η πρόκληση:** Δώστε στο παιδί σας κάποιες πληροφορίες για ένα σχήμα και ζητήστε του να τρέξει σε αυτό ή σε αυτά τα σχήματα. Για πολύ μικρό παιδί, δείξτε ένα σχέδιο και ζητήστε να βρει και να ονομάσει το σχήμα στο πάτωμα. Για μεγαλύτερα παιδιά, ονομάστε το σχήμα και προκαλέστε τα να το βρουν.\n\nΠροσθέστε ποικιλία ζητώντας σχήματα των οποίων όλες οι πλευρές έχουν το ίδιο μήκος ή όλες οι γωνίες είναι ίδιες (ή όλες διαφορετικές) ή των οποίων οι απέναντι πλευρές (ή γωνίες) είναι ίδιου μεγέθους.\n\n**Επέκταση πρόκλησης: Με την εμπειρία, προσθέστε λιγότερο βασικά σχήματα – συγκεκριμένα τρίγωνα (ορθογώνιο, αμβλυγώνιο, οξυγώνιο), έναν χαρταετό, ένα παραλληλόγραμμο (ρόμβος), ένα αστέρι και ορισμένα ασυνήθιστα σχήματα.\n\nΚαθώς το παιδί αποκτά εμπειρία, με παιχνιδιάρικο τρόπο ζητήστε αδύνατα σχήματα όπως ένα τρίγωνο με δύο ορθές γωνίες ή ένα τετράπλευρο με τρεις ορθές γωνίες μόνο.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Another way to play",
+    "text": "Άλλος τρόπος παιχνιδιού",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Reverse roles so your child makes up questions and you find the shapes. Make a \"mistake\" sometimes and have your child explain to you what you did wrong.",
+    "text": "Αντιστρέψτε τους ρόλους ώστε το παιδί να κάνει τις ερωτήσεις κι εσείς να βρίσκετε τα σχήματα. Κάντε «λάθος» μερικές φορές και ζητήστε από το παιδί να σας εξηγήσει τι κάνατε λάθος.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "CONNECT THE DOTS – STRING ART",
+    "text": "ΈΝΩΣΕ ΤΙΣ ΤΕΛΕΊΕΣ – ΤΈΧΝΗ ΜΕ ΧΟΡΔΈΣ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Make abstract drawings by connecting points with the same number along opposite sides of an angle.\n\nAnother way is to put some dots, say 9, evenly spaced on a circle. Play with creating different patterns by connecting the dots in order, or connecting every second dot, or every third dot.",
+    "text": "Φτιάξτε αφηρημένα σχέδια ενώνοντας σημεία με τον ίδιο αριθμό στις απέναντι πλευρές μιας γωνίας.\n\nΈνας άλλος τρόπος είναι να τοποθετήσετε, π.χ., 9 τελείες ομοιόμορφα κατανεμημένες πάνω σε έναν κύκλο. Παίξτε δημιουργώντας διαφορετικά μοτίβα ενώνοντας τις τελείες με τη σειρά τους, ενώνοντας κάθε δεύτερη τελεία ή κάθε τρίτη τελεία.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "MEMORY CHALLENGE",
+    "text": "ΠΡΌΚΛΗΣΗ ΜΝΉΜΗΣ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Select two or four sets of Number Cards and remove numbers above your child’s comfort level. Place the cards face down in a 3 by 3 grid, with the remaining cards put in a draw pile.",
+    "text": "**Προετοιμασία:** Επιλέξτε δύο ή τέσσερα σετ από Κάρτες Αριθμών και αφαιρέστε τους αριθμούς που ξεπερνούν το επίπεδο άνεσης του παιδιού. Τοποθετήστε τις κάρτες κλειστές σε διάταξη 3 επί 3, με τις υπόλοιπες σε μια κοινή στοίβα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to play:** Take turns flipping two cards face-up. If the cards match, the player gets to keep the cards, replaces the two cards from the draw pile, and continues their turn. If the cards don’t match, the player flips the cards back over and ends their turn.",
+    "text": "**Πώς παίζεται:** Οι παίκτες εναλλάξ ανοίγουν δύο κάρτες. Αν οι κάρτες ταιριάζουν, ο παίκτης τις κρατά, αντικαθιστά τις δύο θέσεις από την κοινή στοίβα και συνεχίζει τη σειρά του. Αν δεν ταιριάζουν, ο παίκτης τις ξανακλείνει και τελειώνει η σειρά του.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to win:** The game ends when the last pair is taken. The player with the most cards wins.",
+    "text": "**Πώς κερδίζεις:** Το παιχνίδι τελειώνει όταν παρθεί το τελευταίο ζευγάρι καρτών. Ο παίκτης με τις περισσότερες κάρτες κερδίζει.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "• Allow at most one match per turn.\n• Use a target sum larger than the largest card. Two cards match if their sum is the target.",
+    "text": "* Να επιτρέπεται το πολύ ένα ταίριασμα ανά γύρο.\n* Χρησιμοποιήστε έναν στόχο αθροίσματος μεγαλύτερο από τη μεγαλύτερη κάρτα. Δύο κάρτες ταιριάζουν αν το άθροισμά τους είναι ο αριθμός που έχει μπει ως στόχος.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "BINGO! WITH CARDS",
+    "text": "ΜΠΊΝΓΚΟ ΜΕ ΚΆΡΤΕΣ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Play this with Number Cards, or if there are many players, with numbered regular playing cards.",
+    "text": "**Προετοιμασία:** Παίξτε με Κάρτες Αριθμών ή, αν υπάρχουν πολλοί παίκτες, με αριθμημένες κανονικές τράπουλες.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to play:** Reserve two suits worth of cards for a draw pile, and divide the remaining cards among the players. Each player randomly selects 16 cards to place in a 4 by 4 grid face up in front of them.",
+    "text": "**Πώς παίζεται:** Κρατήστε τις μισές κάρτες (π.χ. τα καρό και τα σπαθιά αν πρόκειται για τράπουλα) ως στοίβα για να τραβούν και μοιράστε τις υπόλοιπες κάρτες στους παίκτες. Κάθε παίκτης επιλέγει τυχαία 16 κάρτες και τις τοποθετεί ανοικτά σε διάταξη 4 επί 4 μπροστά του.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Take a card from the draw pile and call it out. Each player may turn over one card from their grid that matches the number drawn. If a player has more than one card that matches, the player must choose which one to turn over.\n\n**How to win:** The first player to get four cards flipped over in a row horizontally, vertically, or diagonally wins the game and calls out “Bingo!”",
+    "text": "Τραβήξτε μια κάρτα από τη στοίβα και ανακοινώστε τον αριθμό. Κάθε παίκτης μπορεί να γυρίσει μία κάρτα στη διάταξη μπροστά του που να έχει τον ίδιο αριθμό. Αν ένας παίκτης έχει πάνω από μία κάρτες που ταιριάζουν, πρέπει να διαλέξει ποια θα γυρίσει.\n\n**Πώς κερδίζεις:** Ο πρώτος παίκτης που θα γυρίσει τέσσερις κάρτες στη σειρά, οριζόντια, κάθετα ή διαγώνια, κερδίζει και φωνάζει «Μπίνγκο!»",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Numbers up to 10",
+    "text": "Αριθμοί μέχρι το 10",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "STEALING BONES",
+    "text": "ΚΛΈΒΟΝΤΑΣ ΠΛΑΚΊΔΙΑ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to play:** Place all dominoes (bones) face up between the players. For a turn, a player rolls two dice. If the domino that matches these dice is available, the player claims it and moves it to their pile.",
+    "text": "**Πώς παίζεται:** Τοποθετήστε όλα τα πλακίδια ντόμινο με την όψη προς τα πάνω μπροστά στους παίκτες. Με τη σειρά του, κάθε παίκτης ρίχνει δύο ζάρια. Αν το ντόμινο που αντιστοιχεί σε αυτή τη ζαριά είναι διαθέσιμο, ο παίκτης το διεκδικεί και το μεταφέρει στη στοίβα του.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to win:** For two players, the first player with ten dominoes wins. For more than two players, the first player with six dominoes wins.\n\n**Variation:** Claimed dominoes can still be stolen by other players.",
+    "text": "**Πώς κερδίζεις:** Για δύο παίκτες, κερδίζει ο πρώτος παίκτης με δέκα ντόμινο. Για περισσότερους από δύο παίκτες, κερδίζει ο πρώτος παίκτης με έξι ντόμινο.\n\n**Παραλλαγή:** Τα διεκδικούμενα ντόμινο μπορούν ακόμα και να \"κλαπούν\" από άλλους παίκτες.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "DOMINOES",
+    "text": "ΝΤΌΜΙΝΟ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Domino Games",
+    "text": "Παιχνίδια Ντόμινο",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There are many variations to this ancient game – discuss the rules before you start!\n\n**The setup.** Mix up all tiles (bones) face down – this is called the boneyard. Take seven tiles each for two players, and five tiles each for three or four players. The player with the highest double starts by putting it on the table. If no one has a double, start the game over.",
+    "text": "Υπάρχουν πολλές παραλλαγές αυτού του αρχαίου παιχνιδιού – συζητήστε τους κανόνες πριν ξεκινήσετε!\n\n**Προετοιμασία:** Ανακατέψτε όλα τα πλακίδια με την όψη προς τα κάτω – αυτό ονομάζεται «νεκροταφείο». Πάρτε επτά πλακίδια ο καθένας για δύο παίκτες και πέντε πλακίδια ο καθένας για τρεις ή τέσσερις παίκτες. Ο παίκτης με το υψηλότερο «διπλό» ξεκινά τοποθετώντας το στο τραπέζι. Αν κανείς δεν έχει διπλό, ξεκινήστε το παιχνίδι από την αρχή.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to play.** A turn consists of placing a tile that matches one of the available ends of the string of dominoes (place double dominoes crosswise to the previous domino). If the player has no matching tile, the player is “blocked,” and there are two possible rules to use: 1) the player’s turn is over, or 2) the player keeps drawing tiles until there is a match (one version restricts this to a single draw whether or not there is a match). If the boneyard is emptied before there is a move, play passes to the next player on the right.\n\n**How to win:** The game ends when a player runs out of bones, or when all players are blocked. The winner is the player with the lowest total of dots on their tiles (which is 0 if they have used up all their tiles).",
+    "text": "**Πώς παίζεται:** Μια σειρά αποτελείται από την τοποθέτηση ενός πλακιδίου που ταιριάζει σε μία από τις διαθέσιμες άκρες της αλυσίδας των ντόμινο (τα διπλά ντόμινο τοποθετούνται εγκάρσια ως προς το προηγούμενο ντόμινο). Αν ο παίκτης δεν έχει ταιριαστό πλακίδιο, ο παίκτης είναι «μπλοκαρισμένος», και υπάρχουν δύο πιθανοί κανόνες για χρήση: 1) η σειρά του παίκτη τελειώνει, ή 2) ο παίκτης συνεχίζει να τραβά πλακίδια μέχρι να υπάρξει ταίριασμα (μια εκδοχή το περιορίζει αυτό σε ένα μόνο τράβηγμα είτε υπάρχει είτε όχι ταίριασμα). Αν το «νεκροταφείο» αδειάσει πριν γίνει μια κίνηση, το παίξιμο περνά στον επόμενο παίκτη στα δεξιά.\n\n**Πώς κερδίζεις:** Το παιχνίδι τελειώνει όταν ένας παίκτης ξεμείνει από πλακίδια, ή όταν όλοι οι παίκτες είναι μπλοκαρισμένοι. Νικητής είναι ο παίκτης με το χαμηλότερο συνολικό άθροισμα κουκίδων στα πλακίδιά του (το οποίο είναι 0 αν έχει χρησιμοποιήσει όλα τα πλακίδιά του).",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Scoring options:** The winner’s score can be calculated in two ways. The traditional way is to use the sum of the dots on all the other players’ tiles. Rounds are played until a player reaches 50 or 100. For little ones, a better scoring system is to let the winner have the score which is the count of all the other players’ tiles.\n\n**Matching options:** When your child starts adding, change the rule for matching – two tiles match if their numbers add up to six (or nine if using a larger range of dominoes).",
+    "text": "**Επιλογές βαθμολόγησης:** Το σκορ του νικητή μπορεί να υπολογιστεί με δύο τρόπους. Ο παραδοσιακός τρόπος είναι να χρησιμοποιηθεί το άθροισμα των κουκίδων σε όλα τα πλακίδια των άλλων παικτών. Παίζονται γύροι μέχρι ένας παίκτης να φτάσει τους 50 ή τους 100 πόντους. Για τα μικρά παιδιά, ένα εναλλακτικό σύστημα βαθμολόγησης είναι να αναδειχθεί νικητής αυτός που έχει για σκορ τον αριθμό των πλακιδίων των άλλων παικτών.\n\n**Παραλλαγή:** Όταν το παιδί σας αρχίσει να προσθέτει, αλλάξτε τον κανόνα για το ταίριασμα – δύο πλακίδια ταιριάζουν αν οι αριθμοί τους αθροίζουν έξι (ή εννέα αν χρησιμοποιείτε μεγαλύτερο εύρος ντόμινο).",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "WITHIN ONE OR TWO",
+    "text": "ΕΝΤΌΣ ΕΝΌΣ Ή ΔΎΟ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Create a stack of Number Cards with a range of quantities your child is comfortable with. Split the cards evenly between two players and place the cards face down.",
+    "text": "**Προετοιμασία:** Δημιουργήστε μια στοίβα με κάρτες αριθμών με ένα εύρος ποσοτήτων που το παιδί σας αισθάνεται άνετα. Μοιράστε τις κάρτες ισομερώς σε δύο παίκτες και τοποθετήστε τις κάρτες με την όψη προς τα κάτω.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to play:** Players take turns placing a single card on the stack in the middle between them. If the card is one more, the same, or one less than the previous card, the first player to say ‘one more’, ‘the same’ or ‘one less’ wins all the cards in the current stack.\n\n**How to win:** The person wins who has the larger stack of cards when you stop playing.",
+    "text": "**Πώς παίζεται:** Οι παίκτες τοποθετούν εκ περιτροπής μία μόνο κάρτα στη στοίβα στη μέση μπροστά τους. Εάν η κάρτα δείχνει αριθμό κατά ένα μεγαλύτερο, τον ίδιο, ή κατά ένα μικρότερο από την προηγούμενη κάρτα, ο πρώτος παίκτης που θα πει «ένα περισσότερο», «ίδιο» ή «ένα λιγότερο» κερδίζει όλες τις κάρτες στη στοίβα.\n\n**Πώς κερδίζεις:** Κερδίζει το άτομο που έχει τη μεγαλύτερη στοίβα καρτών (τις περισσότερες κάρτες) όταν σταματήσει το παιχνίδι.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "• Include the relationships of ‘two more’ and ‘two less’ as options.\n• Use a target sum, say 10. Be the first person to say the top two cards add up to the target.",
+    "text": "* Συμπεριλάβετε τις σχέσεις του «δύο περισσότερο» και «δύο λιγότερο» ως επιλογές.\n* Χρησιμοποιήστε ένα στόχο αθροίσματος, π.χ. 10. Κερδίζει ο πρώτος που θα πει ότι οι δύο πάνω κάρτες της στοίβας αθροίζουν τον στόχο.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "NIM WITH ONE AND TWO",
+    "text": "ΤΟ ΠΑΙΧΝΊΔΙ NIM ΜΕ ΈΝΑ ΚΑΙ ΔΎΟ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Nearby Numbers",
+    "text": "Κοντινοί Αριθμοί",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Choose a target number, say 10. Let your child choose to go first or second. \n\n**How to play:** Start at 0. Players take turns adding 1 or 2 to the current total. Count aloud the progress for each turn.\n\n**How to win:** The player who lands on the target (e.g. 10) wins.",
+    "text": "**Προετοιμασία:** Επιλέξτε έναν αριθμό-στόχο, π.χ. 10. Αφήστε το παιδί σας να επιλέξει αν θα ξεκινήσει πρώτο ή δεύτερο.\n\n**Πώς παίζεται:** Ξεκινήστε από το 0. Οι παίκτες προσθέτουν εκ περιτροπής 1 ή 2 στο τρέχον σύνολο. Μετρήστε δυνατά την πρόοδο για κάθε σειρά.\n\n**Πώς κερδίζεις:** Ο παίκτης που καταλήγει στον στόχο (π.χ. 10) κερδίζει.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "• Once children learn to play this verbally, it is a great travel game.\n• Use a pile of objects. Players add one or two objects to the pile until the target quantity\nis reached.\n• Use a number line. Advance a marker along the line one or two spaces during a move.\n• Use subtraction. Players start at the target, say 10. On their turn, players choose whether\nto subtract 1 or 2. The first person to reach 0 wins.\n• Use larger target numbers as your child’s skills improve.\n• Instead of winning, the player forced to hit or go beyond the target number loses.\n• Allow a player to add (or subtract) 1, 2, or 3 for each turn.",
+    "text": "* Μόλις τα παιδιά μάθουν να το παίζουν προφορικά, είναι ένα υπέροχο παιχνίδι για ταξίδια.\n* Χρησιμοποιήστε μια στοίβα αντικειμένων. Οι παίκτες προσθέτουν ένα ή δύο στη στοίβα μέχρι να φτάσουν τον στόχο.\n* Χρησιμοποιήστε μια αριθμογραμμή. Προωθήστε έναν δείκτη κατά μία ή δύο θέσεις κατά τη διάρκεια μιας κίνησης.\n* Χρησιμοποιήστε αφαίρεση. Οι παίκτες ξεκινούν από τον στόχο, π.χ. 10. Στη σειρά τους, οι παίκτες επιλέγουν αν θα αφαιρέσουν 1 ή 2. Ο πρώτος που θα φτάσει το 0 κερδίζει.\n* Χρησιμοποιήστε μεγαλύτερους αριθμούς-στόχους καθώς βελτιώνονται οι δεξιότητες του παιδιού σας.\n* Αντί για νίκη, ο παίκτης που αναγκάζεται να χτυπήσει ή να ξεπεράσει τον αριθμό-στόχο χάνει.\n* Επιτρέψτε σε έναν παίκτη να προσθέσει (ή να αφαιρέσει) 1, 2 ή 3 για κάθε σειρά.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "WAR – SINGLE-DIGIT COMPARING",
+    "text": "ΠΌΛΕΜΟΣ – ΣΎΓΚΡΙΣΗ ΜΟΝΟΨΉΦΙΩΝ ΑΡΙΘΜΏΝ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Remove the cards from two, four, or six Number Decks outside your child’s comfort range. Split the cards evenly in two piles face down.",
+    "text": "**Προετοιμασία:** Αφαιρέστε από δύο, τέσσερα ή έξι πακέτα καρτών με αριθμούς αυτές τις κάρτες που βρίσκονται εκτός του εύρους άνεσης του παιδιού σας. Χωρίστε τις κάρτες ομοιόμορφα σε δύο στοίβες με την όψη προς τα κάτω.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to play:** Flip over the top cards and the player with the larger card keeps both cards. If the cards match, flip the next two cards and the winner gets all four cards.",
+    "text": "**Πώς παίζεται:** Αναποδογυρίστε τις πάνω κάρτες και ο παίκτης με τη μεγαλύτερη κάρτα κρατά και τις δύο κάρτες. Εάν οι κάρτες είναι ίδιες, αναποδογυρίστε τις επόμενες δύο κάρτες και ο νικητής παίρνει και τις τέσσερις κάρτες.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to win:** The player with the most cards after one or more runs through all the cards is the winner.\n\n**Variations:** To change things up, sometimes play that the smaller of the two cards wins.",
+    "text": "**Πώς κερδίζεις:** Ο παίκτης με τις περισσότερες κάρτες μετά από έναν ή περισσότερους γύρους παιχνιδιού (όπου έχουν τελειώσει όλες οι κάρτες της στοίβας) είναι ο νικητής.\n\n**Παραλλαγές:** Για να αλλάξετε λίγο τη σκέψη, μερικές φορές παίξτε έτσι ώστε να κερδίζει η μικρότερη από τις δύο κάρτες.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Comparing",
+    "text": "Συγκρινοντας",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This is an introductory version of a fun game we will revisit again soon.\n\n**How to play:** There are two people: the Puzzler thinks of a number and the Questioner discovers the number. The Puzzler declares, “I am thinking of a number from 0 to 8” (for example). The Questioner then asks questions of the form “How does your number compare to 3?” The Puzzler answers that the number is smaller, equal to, or larger than that number.\n\n**Use cards:** With younger children, play this game with counting cards from 0 to 8 placed face up. Hide a star under one of the cards. After each guess, the Questioner turns over all the eliminated cards until the star is discovered.",
+    "text": "Αυτή είναι μια εισαγωγική έκδοση ενός διασκεδαστικού παιχνιδιού στο οποίο θα επανέλθουμε σύντομα.\n\n**Πώς παίζεται:** Υπάρχουν δύο άτομα: ο \"Προβληματιστής\" που σκέφτεται έναν αριθμό και ο \"Λύτης\" που ανακαλύπτει τον αριθμό. Ο Προβληματιστής δηλώνει, «Σκέφτομαι έναν αριθμό από το 0 έως το 8» (για παράδειγμα). Στη συνέχεια, ο Λύτης κάνει ερωτήσεις της μορφής «Ποια είναι η σχέση του αριθμού σου με το 3;» Ο Προβληματιστής απαντά ότι ο αριθμός είναι μικρότερος, ίσος, ή μεγαλύτερος από το 3.\n\n**Χρήση καρτών:** Με μικρότερα παιδιά, παίξτε αυτό το παιχνίδι με κάρτες μέτρησης από το 0 έως το 8 τοποθετημένες με την όψη προς τα πάνω. Κρύψτε ένα αστέρι κάτω από μία από τις κάρτες. Μετά από κάθε μαντεψιά, ο Λύτης αναποδογυρίζει όλες τις κάρτες που έχουν αποκλειστεί μέχρι να ανακαλυφθεί το αστέρι.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Example:** The game pictured above uses cards with a target of 5.\n\nPuzzler: I’m thinking of a number from 0 to 8. \nQuestion: How does your number compare to 3? \nPuzzler: My number is larger than 3.\nQuestion: How does your number compare to 6? \nPuzzler: My number is smaller than 6.\nQuestion: How does your number compare to 5? \nPuzzler: Well done! My number is equal to 5.",
+    "text": "**Παράδειγμα:** Ακολουθεί ένα παιχνίδι με στόχο το 5:\n\nΠροβληματιστής: Σκέφτομαι έναν αριθμό από το 0 έως το 8.\nΕρώτηση: Ποια είναι η σχέση του αριθμού σου με το 3;\nΠροβληματιστής: Ο αριθμός μου είναι μεγαλύτερος από το 3.\nΕρώτηση: Ποια είναι η σχέση του αριθμού σου με το 6;\nΠροβληματιστής: Ο αριθμός μου είναι μικρότερος από το 6.\nΕρώτηση: Ποια είναι η σχέση του αριθμού σου με το 5;\nΠροβληματιστής: Μπράβο! Ο αριθμός μου είναι ίσος με το 5.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "FITTING IN",
+    "text": "ΠΡΟΣΑΡΜΟΓΉ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Give your child a small number, say seven, of little objects and count them together. Pick a target number, say five.",
+    "text": "Δώστε στο παιδί σας έναν μικρό αριθμό, π.χ. επτά, μικρών αντικειμένων και μετρήστε τα μαζί. Επιλέξτε έναν αριθμό-στόχο, π.χ. πέντε.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Ask your child to take five objects out of the original group of seven objects, if it is possible. This helps your child learn the relative sizes of numbers and how much they are bigger or less than each other.",
+    "text": "Ζητήστε από το παιδί σας να πάρει πέντε αντικείμενα από την αρχική ομάδα των επτά αντικειμένων, αν είναι δυνατόν. Αυτό βοηθά το παιδί σας να μάθει τις σχετικές ποσότητες των αριθμών και πόσο μεγαλύτεροι ή μικρότεροι είναι ο ένας από τον άλλο.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "At first, the target number should be less than or equal to the total number. Later on, giving numbers that are too big provides practice with the relative size of quantities, as well as providing practice checking that requests are reasonable.",
+    "text": "Στην αρχή, ο αριθμός-στόχος πρέπει να είναι μικρότερος ή ίσος με τον συνολικό αριθμό. Αργότερα, το να δίνετε αριθμούς που είναι πολύ μεγάλοι προσφέρει εξάσκηση στο σχετικό μέγεθος των ποσοτήτων, καθώς και εξάσκηση στο να ελέγχει ότι αυτό που ζητάτε είναι λογικό.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "INVISIBLE ADDING AND SUBTRACTING",
+    "text": "ΑΌΡΑΤΗ ΠΡΌΣΘΕΣΗ ΚΑΙ ΑΦΑΊΡΕΣΗ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**First:** Have your child count a small number of objects and put them in a box.",
+    "text": "**Πρώτα:** Βάλτε το παιδί σας να μετρήσει έναν μικρό αριθμό αντικειμένων και να τα βάλει σε ένα κουτί.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Next:** Ask them to put up the same number of fingers as there are objects in the box.",
+    "text": "**Μετά:** Ζητήστε του να σηκώσει τον ίδιο αριθμό δαχτύλων με τα αντικείμενα που βρίσκονται στο κουτί.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Finally:** Show your child that you are adding (or removing) one or two objects to the box, and ask ‘How many objects are in the box now?’",
+    "text": "**Τέλος:** Δείξτε στο παιδί σας ότι προσθέτετε (ή αφαιρείτε) ένα ή δύο αντικείμενα στο κουτί και ρωτήστε «Πόσα αντικείμενα είναι στο κουτί τώρα;»",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "When this becomes too easy, you can add or remove more than two objects.",
+    "text": "Όταν αυτό γίνει πολύ εύκολο, μπορείτε να προσθέσετε ή να αφαιρέσετε περισσότερα από δύο αντικείμενα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "NUMBER LINE BATTLESHIP",
+    "text": "ΝΑΥΜΑΧΊΑ ΣΤΗΝ ΑΡΙΘΜΟΓΡΑΜΜΉ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Each player has two number lines – one for their battleships and one for their guesses. These number lines go from 0 to 12 (or higher if the children can count higher). Out of sight, on their battleship number line, each player places tokens on two numbers that will be their battleships.",
+    "text": "**Προετοιμασία:** Κάθε παίκτης έχει δύο αριθμογραμμές – μία για τα πολεμικά πλοία του και μία για τις μαντεψιές του. Αυτές οι αριθμογραμμές πηγαίνουν από το 0 έως το 12 (ή περισσότερο αν τα παιδιά μπορούν να μετρήσουν περισσότερο). Κρυφά, στην αριθμογραμμή των πολεμικών του, κάθε παίκτης τοποθετεί μάρκες σε δύο αριθμούς που θα είναι τα πολεμικά πλοία του.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to play:** After the setup, the players take turns guessing numbers. When a player makes a guess, the other player says how close the guess was to the nearest target - the guesser then marks down that information on their second number line.\n\n**How to win:** The first person to get all the targets wins.",
+    "text": "**Πώς παίζεται:** Μετά την προετοιμασία, οι παίκτες μαντεύουν εκ περιτροπής αριθμούς. Όταν ένας παίκτης κάνει μια μαντεψιά, ο άλλος παίκτης λέει πόσο κοντά ήταν η μαντεψιά στον πλησιέστερο στόχο - ο παίκτης που μαντεύει σημειώνει τότε αυτή την πληροφορία στη δεύτερη αριθμογραμμή του.\n\n**Πώς κερδίζεις:** Ο πρώτος που θα βρει όλους τους στόχους κερδίζει.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "• Use a wider range of numbers.\n• The response to a guess can be a range of distances rather than an exact amount - for\nexample: “the nearest ship is 1 or 2 away.”\n• Have ships that are two or three spaces in length.",
+    "text": "* Χρησιμοποιήστε μεγαλύτερο εύρος αριθμών.\n* Η απάντηση σε μια μαντεψιά μπορεί να είναι ένα εύρος αποστάσεων αντί για μία ακριβή απόσταση - για παράδειγμα: «το πλησιέστερο πλοίο απέχει 1 ή 2».\n* Βάλτε πλοία που έχουν μήκος δύο ή τριών θέσεων.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "WHAT’S MISSING",
+    "text": "ΤΙ ΛΕΊΠΕΙ;",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Count a small number of little things. Hide a few while your child looks away. When your child looks back, ask how many are hidden.",
+    "text": "Μετρήστε έναν μικρό αριθμό μικρών αντικειμένων. Κρύψτε μερικά ενώ το παιδί σας κοιτάζει αλλού. Όταν το παιδί σας ξανακοιτάξει, ρωτήστε πόσα είναι κρυμμένα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Example:** Suppose you have 6 raisins on a table. Have your child look away and cover 2 of them with a bowl. When your child looks back, count out the 4 visible raisins and ask how many raisins are under the bowl if there are 6 in total.",
+    "text": "Παράδειγμα:} Υποθέστε ότι έχετε 6 σταφίδες σε ένα τραπέζι. Βάλτε το παιδί σας να κοιτάξει αλλού και καλύψτε τις 2 με ένα μπολ. Όταν το παιδί σας ξανακοιτάξει, μετρήστε τις 4 ορατές σταφίδες και ρωτήστε πόσες σταφίδες είναι κάτω από το μπολ αν υπάρχουν 6 συνολικά.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Reasoning",
+    "text": "Συλλογισμός",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "One way for your child to figure this out is to “count on” from 4 to 6 - as your child counts 4, 5, and 6, start with 0 fingers raised and raise one finger at a time to arrive at 2 raised fingers. Similarly, your child can do almost the same thing by “counting down” from 6 to 4. Seeing that 4 plus 2 more is 6 is tied together with taking 2 away from 6 to get 4 is great practice for understanding fact families.",
+    "text": "Ένας τρόπος για το παιδί σας να το βρει αυτό είναι να «μετρήσει προς τα πάνω» από το 4 στο 6 - καθώς το παιδί σας μετρά 4, 5 και 6, ξεκινήστε με 0 δάχτυλα σηκωμένα και σηκώστε ένα δάχτυλο κάθε φορά μέχρι να φτάσετε στα 2 σηκωμένα δάχτυλα. Ομοίως, το παιδί σας μπορεί να κάνει σχεδόν το ίδιο πράγμα «μετρώντας προς τα κάτω» από το 6 στο 4. Το να βλέπει κανείς ότι 4 συν 2 ακόμη είναι 6 συνδέεται με το να αφαιρεί 2 από το 6 για να πάρει 4, και είναι εξαιρετική εξάσκηση για την κατανόηση των συγγενών πράξεων (πρόσθεση και αφαίρεση).",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "FEATURE MATCHING GAME",
+    "text": "ΠΑΙΧΝΊΔΙ ΤΑΙΡΙΆΣΜΑΤΟΣ ΧΑΡΑΚΤΗΡΙΣΤΙΚΏΝ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Shape Cards have three properties: shape (circle, triangle, square); count (one, two, three); color (red, blue, black).",
+    "text": "Οι Κάρτες Σχημάτων έχουν τρία χαρακτηριστικά:\n* σχήμα (κύκλος, τρίγωνο, τετράγωνο)·\n* πλήθος (ένα, δύο, τρία)·\n* χρώμα (κόκκινο, μπλε, μαύρο).",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Deal five cards to each player. Put the remaining cards face-down in a draw pile. Turn the draw pile’s top card face-up to begin a new stack. Take turns placing a card on the stack – the new card must match two features of the top card. If you cannot play a card on your turn, draw a card from the draw pile and end your turn.\n\n**How to win:** The first person to run out of cards is the winner. If the draw pile runs out, the player with the fewest cards in their hand wins.",
+    "text": "**Προετοιμασία:** Μοιράστε πέντε κάρτες σε κάθε παίκτη. Τοποθετήστε τις υπόλοιπες κάρτες με την όψη προς τα κάτω σε μια στοίβα από την οποία θα τραβούν. Γυρίστε την πρώτη κάρτα της στοίβας με την όψη προς τα πάνω για να ξεκινήσει μια νέα στοίβα (όπου οι κάρτες θα είναι με την όψη προς τα πάνω). Τοποθετήστε εκ περιτροπής μια κάρτα στη νέα στοίβα – η κάρτα που βάζετε θα πρέπει να ταιριάζει με δύο χαρακτηριστικά της πάνω κάρτας. Εάν δεν έχετε κάρτα που να ταιριάζει και δεν μπορείτε να παίξετε στη σειρά σας, τραβήξτε μια κάρτα από τη στοίβα με τις κλειστές κάρτες και τερματίστε τη σειρά σας.\n\n**Πώς κερδίζεις:** Ο πρώτος που θα τελειώσει τις κάρτες του είναι ο νικητής. Εάν τελειώσει η στοίβα με τις κλειστές κάρτες, κερδίζει ο παίκτης με τις λιγότερες κάρτες στο χέρι του.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "• Simplify the game by only requiring a match of one property with the top card.\n• Allow a player to place more than one card on a turn as long as each card is a legal play on top of the previous card.",
+    "text": "* Απλοποιήστε το παιχνίδι απαιτώντας μόνο ταίριασμα ενός χαρακτηριστικού με την πάνω κάρτα.\n* Επιτρέψτε σε έναν παίκτη να τοποθετήσει περισσότερες από μία κάρτες σε μια σειρά, εφόσον κάθε κάρτα είναι αποδεκτή κίνηση πάνω στην προηγούμενη κάρτα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "FEATURE MATCHING PUZZLE",
+    "text": "ΠΑΖΛ ΤΑΙΡΙΆΣΜΑΤΟΣ ΧΑΡΑΚΤΗΡΙΣΤΙΚΏΝ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Choose a Shape Card as your starting card. In our example, this is the card with two blue circles. Create a sequence of 4 to 8 cards that can legally be played - each card must share two features with the previous card.",
+    "text": "Επιλέξτε μια Κάρτα Σχήματος ως κάρτα εκκίνησης. Στο παράδειγμά μας, αυτή είναι η κάρτα με δύο μπλε κύκλους. Δημιουργήστε μια ακολουθία από 4 έως 8 κάρτες που μπορούν να παιχτούν σύμφωνα με τον κανόνα - κάθε κάρτα πρέπει να μοιράζεται δύο χαρακτηριστικά με την προηγούμενη κάρτα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Put the unused cards aside, separate the starting card, and shuffle the puzzle cards.\n\n**The challenge:** Take the shuffled cards and place them in a series of legal moves on the starting card.",
+    "text": "Αφήστε στην άκρη τις αχρησιμοποίητες κάρτες, χωρίστε την κάρτα εκκίνησης και ανακατέψτε τις κάρτες του παιχνιδιού.\n\n**Η πρόκληση:** Πάρτε τις ανακατεμένες κάρτες και τοποθετήστε τις σε μια σειρά αποδεκτών κινήσεων πάνω στην κάρτα εκκίνησης.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "TRIPLET",
+    "text": "ΤΡΙΠΛΈΤΑ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Make a tic-tac-toe grid big enough to hold a Shape Card in each square. Place around the board 8 of the Shape Cards that have two of each property. For example, pick the 8 cards that are either a triangle or square, have one or two figures, and are red or blue.\n\n**How to play:** Players take turns picking an unused card for their opponent to place on the board. The cards on the board may be used by either play to get three in a row.",
+    "text": "**Προετοιμασία:** Φτιάξτε ένα πλέγμα τρίλιζας αρκετά μεγάλο ώστε να χωράει μια Κάρτα Σχήματος σε κάθε τετράγωνο. Τοποθετήστε γύρω από τον πίνακα 8 από τις Κάρτες Σχημάτων που έχουν δύο ιδιότητες από κάθε κατηγορία. Για παράδειγμα, επιλέξτε τις 8 κάρτες που να είναι είτε τρίγωνο είτε τετράγωνο και να έχουν μία ή δύο φιγούρες και να είναι κόκκινες ή μπλε.\n\n**Πώς παίζεται:** Οι παίκτες επιλέγουν εκ περιτροπής μια αχρησιμοποίητη κάρτα για να την τοποθετήσει ο αντίπαλός τους στον πίνακα. Οι κάρτες στον πίνακα μπορούν να χρησιμοποιηθούν από οποιονδήποτε παίκτη για να κάνει τρεις στη σειρά.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to win:** The player wins who places a card that completes 3 cards in a row with at least one property in common! If all the cards are played without a winner, it's a tie game.",
+    "text": "**Πώς κερδίζεις:** Κερδίζει ο παίκτης που τοποθετεί μια κάρτα που ολοκληρώνει 3 κάρτες στη σειρά με τουλάχιστον μία κοινή ιδιότητα! Εάν παιχτούν όλες οι κάρτες χωρίς νικητή, είναι ισοπαλία.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Simplify the game and add an element of luck by placing the cards face down in a draw pile and having each player play the top card.",
+    "text": "Απλοποιήστε το παιχνίδι και προσθέστε ένα στοιχείο τύχης τοποθετώντας τις κάρτες με την όψη προς τα κάτω σε μια στοίβα τραβήγματος και βάζοντας κάθε παίκτη να παίζει την πάνω κάρτα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "SHAPE SUDOKU",
+    "text": "ΣΟΥΝΤΌΚΟΥ ΣΧΗΜΆΤΩΝ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Shape Games",
+    "text": "Παιχνίδια Σχημάτων",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Use four tokens each of four different types. For example, use different colored gummy bears. We have used orange triangles, blue squares, red circles, and purple diamonds.\n\n**How to create:** Create one of these puzzles by starting with the answer – this will be a pattern of tokens with one of each kind in each row and column, and one of each kind in each 2 by 2 corner box of the grid. Once you have the “answer,” pull off some of the tokens and place them in a pile to the side.\n\n**The challenge:** Give the puzzle to your child to figure out how to put back the tokens that were pulled off.",
+    "text": "**Προετοιμασία:** Χρησιμοποιήστε τέσσερις μάρκες, καθεμία από τέσσερις διαφορετικούς τύπους. Για παράδειγμα, χρησιμοποιήστε ζελεδάκια διαφορετικών χρωμάτων. Εμείς χρησιμοποιήσαμε πορτοκαλί τρίγωνα, μπλε τετράγωνα, κόκκινους κύκλους και μοβ ρόμβους.\n\n**Πώς να δημιουργήσετε γρίφο:** Δημιουργήστε ένα γρίφο ξεκινώντας από την απάντηση – αυτή θα είναι ένα μοτίβο από μάρκες που θα έχει μία μάρκα από κάθε είδος σε κάθε σειρά και στήλη, και μία από κάθε είδος σε κάθε τετράγωνο γωνιακό κουτί του πλέγματος 2x2. Μόλις έχετε την «απάντηση», αφαιρέστε μερικές από τις μάρκες και τοποθετήστε τις σε μια στοίβα στο πλάι.\n\n**Η πρόκληση:** Δώστε τον γρίφο στο παιδί σας για να βρει πώς να τοποθετήσει ξανά τις μάρκες που αφαιρέθηκαν.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Puzzle creation strategies",
+    "text": "Στρατηγικές δημιουργίας γρίφων",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Here are some simple strategies for creating puzzles: remove one token from each row; remove all of one kind of token and one each of the other tokens; or remove one entire row and column.",
+    "text": "Ακολουθούν μερικές απλές στρατηγικές για τη δημιουργία γρίφων: αφαιρέστε μία μάρκα από κάθε σειρά· αφαιρέστε όλες τις μάρκες ενός τύπου και μία από κάθε άλλο τύπο· ή αφαιρέστε μία ολόκληρη σειρά και στήλη.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "MAGIC HANDS – ADD AND SUBTRACT",
+    "text": "ΜΑΓΙΚΆ ΧΈΡΙΑ – ΠΡΌΣΘΕΣΗ ΚΑΙ ΑΦΑΊΡΕΣΗ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This is a magic trick for practicing addition and subtraction. Do this slowly enough so that your child will get a chance to see what is going on.",
+    "text": "Αυτό είναι ένα μαγικό κόλπο για την εξάσκηση στην πρόσθεση και την αφαίρεση. Κάντε το αρκετά αργά ώστε το παιδί σας να έχει την ευκαιρία να δει τι συμβαίνει.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**For addition:** Pick two numbers that add up to 5 or less. Count the number of raised fingers on your left hand, say 3. Count the number of raised fingers on your right hand, say 1. Bring the hands together and poof – the fingers on your right hand are transferred to the left – there are now 4 fingers raised. Magic!\n\nSummarize by saying '3 fingers plus 1 more finger creates 4 fingers. Tada!'\n\n**For subtraction:** Raise some fingers on your left hand, say 4 of them. Have your right hand reach over and grab some of the fingers, say 1 of them. Presto, there will be 3 fingers left raised on the left hand and 1 raised on the right hand. Summarize this saying that 4 take away 1 gives three, or say that you have broken 4 into two pieces which are 3 and 1. This wording emphasizes the concept of number bonds, which are pairs of numbers that add up to a given total.",
+    "text": "**Για την πρόσθεση:** Επιλέξτε δύο αριθμούς που αθροίζουν 5 ή λιγότερο. Μετρήστε τον αριθμό των σηκωμένων δαχτύλων στο αριστερό σας χέρι, π.χ. 3. Μετρήστε τον αριθμό των σηκωμένων δαχτύλων στο δεξί σας χέρι, π.χ. 1. Φέρτε τα χέρια κοντά και... τσακ – τα δάχτυλα στο δεξί σας χέρι μεταφέρονται στο αριστερό – τώρα υπάρχουν 4 δάχτυλα σηκωμένα. Μαγεία!\n\nΣυνοψίστε λέγοντας «3 δάχτυλα συν 1 ακόμα δάχτυλο κάνουν 4 δάχτυλα. Τα-ρα!»\n\n**Για την αφαίρεση:** Σηκώστε μερικά δάχτυλα στο αριστερό σας χέρι, π.χ. 4. Βάλτε το δεξί σας χέρι να απλωθεί και να πιάσει μερικά από τα δάχτυλα, π.χ. 1 από αυτά. Τσακ - θα μείνουν 3 δάχτυλα σηκωμένα στο αριστερό χέρι και 1 σηκωμένο στο δεξί χέρι. Συνοψίστε λέγοντας ότι 4 βγάζω 1 μένουν 3, ή πείτε ότι χωρίζετε το 4 σε δύο κομμάτια που είναι το 3 και το 1. Αυτή η διατύπωση τονίζει την έννοια των αριθμητικών δεσμών, που είναι ζευγάρια αριθμών που αθροίζουν ένα δεδομένο σύνολο.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Special cases",
+    "text": "Σημαντικές ειδικές περιπτώσεις",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "*Addition: Let one or both of the hands have 0 fingers raised and show nothing changes when adding 0.\n• Subtraction: Subtract all the fingers so none are left over, and sometimes subtract none of the fingers to show that nothing changes.",
+    "text": "* Πρόσθεση: Αφήστε το ένα ή και τα δύο χέρια να έχουν 0 δάχτυλα σηκωμένα και δείξτε ότι τίποτα δεν αλλάζει όταν προσθέτετε 0.\n* Αφαίρεση: Αφαιρέστε όλα τα δάχτυλα ώστε να μην μείνει κανένα, και μερικές φορές μην αφαιρέσετε κανένα δάχτυλο για να δείξετε ότι τίποτα δεν αλλάζει.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "FLASH NUMBERS",
+    "text": "ΑΡΙΘΜΟΊ ΣΤΟ ΛΕΠΤΌ (FLASH NUMBERS)",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Beginning Finger Math",
+    "text": "Εισαγωγικά Μαθηματικά Δαχτύλων",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Help your child to easily and quickly recognize numbers of objects. Practice in two ways.\n\n**Use ten frames:** Use Number Cards that have ten frames. Pick a card at random and playfully see if your child can recognize the quantity. For variety, have your child quiz you sometimes.",
+    "text": "Βοηθήστε το παιδί σας να αναγνωρίζει εύκολα και γρήγορα αριθμούς αντικειμένων. Εξασκηθείτε με δύο τρόπους.\n\n**Χρήση πλαισίων των δέκα:** Χρησιμοποιήστε Κάρτες Αριθμών που έχουν πλαίσια των δέκα. Επιλέξτε μια κάρτα τυχαία και δείτε με παιγνιώδη τρόπο αν το παιδί σας μπορεί να αναγνωρίσει την ποσότητα. Για ποικιλία, βάλτε το παιδί σας να σας κάνει κουίζ μερικές φορές.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Use fingers:** Show some fingers on one or both hands and have your child recognize the total count. When two hands are used for numbers over five, one of the hands should have 5 fingers raised - that way it looks like a ten frame.",
+    "text": "**Χρήση δαχτύλων:** Δείξτε μερικά δάχτυλα στο ένα ή και στα δύο χέρια και βάλτε το παιδί σας να αναγνωρίσει το συνολικό πλήθος. Όταν χρησιμοποιούνται δύο χέρια για αριθμούς πάνω από πέντε, το ένα από τα χέρια πρέπει να έχει 5 δάχτυλα σηκωμένα - με αυτόν τον τρόπο μοιάζει με πλαίσιο των δέκα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "CUTTING SYMMETRIC SHAPES",
+    "text": "ΚΌΨΙΜΟ ΣΥΜΜΕΤΡΙΚΏΝ ΣΧΗΜΆΤΩΝ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Kirigami is the art of creating designs by folding a piece of paper and then cutting the paper while it is folded. There may be more than one fold, and the folds can happen in different directions.",
+    "text": "Το Κιριγκάμι (Kirigami) είναι η τέχνη της δημιουργίας σχεδίων διπλώνοντας ένα κομμάτι χαρτί και στη συνέχεια κόβοντας το χαρτί ενώ είναι διπλωμένο. Μπορεί να υπάρχουν περισσότερες από μία διπλώσεις και οι διπλώσεις μπορούν να γίνουν σε διαφορετικές κατευθύνσεις.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Folding the paper once and cutting it creates a design where one side is the mirror image, or reflection, of the other.",
+    "text": "Διπλώνοντας το χαρτί μία φορά και κόβοντάς το δημιουργείται ένα σχέδιο όπου η μία πλευρά είναι η κατοπτρική εικόνα ή αντανάκλαση της άλλης.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Ideas to explore",
+    "text": "Ιδέες για εξερεύνιση",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "• Experiment with cutting out faces, lamps, or geometric shapes.\n• Use two intersecting folds to create designs with mirror images in two directions. This makes it easy to create designs such as flowers.\n• Try various folds and cuts. Create snowflake designs by starting with the same two folds as in the last example. Then use two more folds that split the folded paper into thirds.\n• Make a game of this by working backwards – draw a symmetrical shape on a piece of paper and challenge each other to cut a folded piece of paper to create that shape.",
+    "text": "* Πειραματιστείτε με το κόψιμο προσώπων ή γεωμετρικών σχημάτων.\n* Χρησιμοποιήστε δύο διπλώσεις που τέμνονται για να δημιουργήσετε σχέδια με κατοπτρικές εικόνες σε δύο κατευθύνσεις. Αυτό διευκολύνει τη δημιουργία σχεδίων όπως λουλούδια.\n* Δοκιμάστε διάφορες διπλώσεις και κοψίματα. Δημιουργήστε σχέδια νιφάδων χιονιού ξεκινώντας με τις ίδιες δύο διπλώσεις όπως στο τελευταίο παράδειγμα. Στη συνέχεια, χρησιμοποιήστε δύο ακόμη διπλώσεις που χωρίζουν το διπλωμένο χαρτί σε τρίτα.\n* Μετατρέψτε το σε παιχνίδι δουλεύοντας ανάποδα – σχεδιάστε ένα συμμετρικό σχήμα σε ένα κομμάτι χαρτί και προκαλέστε ο ένας τον άλλο να κόψετε ένα διπλωμένο κομμάτι χαρτί για να δημιουργήσετε αυτό το σχήμα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "FINDING SQUARES",
+    "text": "ΕΎΡΕΣΗ ΤΕΤΡΑΓΏΝΩΝ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Figures",
+    "text": "Σχήματα",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Create an empty 5 by 5 grid using five horizontal and vertical lines.\n\n**How to play:** Players take turns putting their tokens on points where the lines cross in the grid.",
+    "text": "**Προετοιμασία:** Δημιουργήστε ένα πλέγμα 5x5 χρησιμοποιώντας πέντε οριζόντιες και κάθετες γραμμές.\n\n**Πώς παίζεται:** Οι παίκτες τοποθετούν εκ περιτροπής τις μάρκες τους σε σημεία όπου διασταυρώνονται οι γραμμές στο πλέγμα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to win:** The first player with four tokens on the corners of a square of any size wins.",
+    "text": "**Πώς κερδίζεις:** Ο πρώτος παίκτης με τέσσερις μάρκες στις γωνίες ενός τετραγώνου οποιουδήποτε μεγέθους κερδίζει.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "• Allow squares with diagonal sides (pictured above).\n• Use grids larger than 5 by 5.",
+    "text": "* Επιτρέψτε τετράγωνα με διαγώνιες πλευρές.\n* Χρησιμοποιήστε πλέγματα μεγαλύτερα από 5x5.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "BAG STORIES – ADD AND SUBTRACT",
+    "text": "ΙΣΤΟΡΊΕΣ ΜΕ ΣΑΚΟΎΛΕΣ – ΠΡΌΣΘΕΣΗ ΚΑΙ ΑΦΑΊΡΕΣΗ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Stories about bags:** You and your child each pretend to have a bag with some number of things. One person creates a story such as: “Your bag has 3 raisins and mine has one more. How many do I have?” After your child gets comfortable, let your child come up with the question some of the time - this is often great fun for them, especially if you make the occasional “mistake.”",
+    "text": "**Ιστορίες για σακούλες:** Εσείς και το παιδί σας προσποιείστε ότι ο καθένας έχει μια σακούλα με κάποιο αριθμό αντικειμένων. Ένα άτομο δημιουργεί μια ιστορία όπως: «Η σακούλα σου έχει 3 σταφίδες και η δική μου έχει μία παραπάνω. Πόσες έχω εγώ;» Αφού το παιδί σας εξοικειωθεί, αφήστε το να επινοήσει το ίδιο την ερώτηση μερικές φορές – αυτό συνήθως τους αρέσει πολύ, ειδικά αν κάνετε εσείς κάποιο περιστασιακό «λάθος».",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Add complexity:** These stories can get more elaborate with experience. For example, the story could be “I have two fewer cookies than you do, and together we have six cookies. How many cookies do you have?” Another example, “You have twice as many candies as I do, and together we have nine pieces. How many pieces do you have?”\n\n**Other story lines:** The use of bags and pieces of food can be replaced by the idea of a fish bowl with two (or more) kinds of fish, or with any other imagery that appeals to your child. For a fish bowl, you could create a story such as “There are seven fish in the bowl, and there is one more goldfish than there are tetras. How many goldfish are there?”",
+    "text": "**Προσθέστε πολυπλοκότητα:** Αυτές οι ιστορίες μπορούν να γίνουν πιο περίπλοκες με την εμπειρία. Για παράδειγμα, η ιστορία θα μπορούσε να είναι «Έχω δύο λιγότερα μπισκότα από εσένα, και μαζί έχουμε έξι μπισκότα. Πόσα μπισκότα έχεις εσύ;» Ένα άλλο παράδειγμα, «Έχεις διπλάσιες καραμέλες από ό,τι εγώ, και μαζί έχουμε εννέα καραμέλες. Πόσες καραμέλες έχεις εσύ;»\n\n**Άλλες αφηγήσεις:** Η ιδέα της σακούλας με αντικείμενα μπορεί να αντικατασταθεί από την ιδέα μιας γυάλας με δύο (ή περισσότερα) είδη ψαριών, ή με οποιαδήποτε άλλη φανταστική ιστορία που ελκύει το παιδί σας. Για μια γυάλα, θα μπορούσατε να δημιουργήσετε μια ιστορία όπως «Υπάρχουν επτά ψάρια στη γυάλα, και υπάρχει ένα περισσότερο χρυσόψαρο από ό,τι γλύφτες. Πόσα χρυσόψαρα υπάρχουν;»",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "MATH STORIES",
+    "text": "ΙΣΤΟΡΊΕΣ ΜΑΘΗΜΑΤΙΚΏΝ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Number Stories",
+    "text": "Ιστορίες Αριθμών",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stories are a fun way to add interest to calculations. Here are two examples of such stories:",
+    "text": "Οι ιστορίες είναι ένας διασκεδαστικός τρόπος για να προσθέσετε ενδιαφέρον στους υπολογισμούς. Ακολουθούν δύο παραδείγματα τέτοιων ιστοριών:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Chairs:** There are four chairs in a room. At first there are two people, but then three more come along. Can everyone sit down? This is more interesting than simply asking if 2 + 3 is larger than 4.\n\n**Ice cream:** My two friends and I are having ice cream. I will give each of my friends one more scoop than I get. If there are ten scoops of ice cream, how many scoops of ice cream can I have?",
+    "text": "**Καρέκλες:** Υπάρχουν τέσσερις καρέκλες σε ένα δωμάτιο. Αρχικά υπάρχουν δύο άτομα, αλλά μετά έρχονται άλλα τρία. Μπορούν όλοι να καθίσουν; Αυτό είναι πιο ενδιαφέρον από το να ρωτήσετε απλώς αν το 2 + 3 είναι μεγαλύτερο από το 4.\n\n**Παγωτό:** Οι δύο φίλοι μου και εγώ τρώμε παγωτό. Εγώ θα δώσω σε κάθε έναν από τους φίλους μου μία μπάλα παραπάνω από όσες θα πάρω εγώ. Εάν υπάρχουν δέκα μπάλες παγωτού, πόσες μπάλες παγωτού μπορώ να έχω εγώ;",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Pick topics that interest your child, such as food or animals. As your child gets better at this, let some of the stories be somewhat vague so your child will need to analyze more and learn to ask clarifying questions.",
+    "text": "Επιλέξτε θέματα που ενδιαφέρουν το παιδί σας, όπως το φαγητό ή τα ζώα. Καθώς το παιδί σας βελτιώνεται σε αυτό, αφήστε μερικές από τις ιστορίες να είναι κάπως ασαφείς ώστε να χρειαστεί το παιδί σας να αναλύσει περισσότερο και να μάθει να κάνει διευκρινιστικές ερωτήσεις.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Introduce the idea of variable names by using silly names for missing numbers in activities.",
+    "text": "Εισάγετε την ιδέα των μεταβλητών χρησιμοποιώντας αστεία ονόματα για τους αριθμούς που λείπουν στις δραστηριότητες.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "GET OUT OF MY HOUSE – 1 MORE/LESS",
+    "text": "ΒΓΕΣ ΑΠΌ ΤΟ ΣΠΊΤΙ ΜΟΥ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Use a deck of cards with numbers from 1 to 10. On a shared piece of paper, have boxes, or simple drawings of houses, numbered from 0 to 11. To provide practice figuring out order, do not put these boxes in order on the page. Each player has 7 tokens distinct from the other player’s tokens – using different colors is one way to do this.",
+    "text": "**Προετοιμασία:** Χρησιμοποιήστε κάρτες με αριθμούς από το 1 ως το 10. Σε ένα κοινό κομμάτι χαρτί, σχεδιάστε κουτιά, ή απλά σχέδια σπιτιών, αριθμημένα από το 0 έως το 11. Για να προσφέρετε εξάσκηση στην εύρεση της σειράς, μην βάλετε αυτά τα κουτιά σε σειρά στη σελίδα. Κάθε παίκτης έχει 7 μάρκες που ξεχωρίζουν από τις μάρκες του άλλου παίκτη – η χρήση διαφορετικών χρωμάτων είναι ένας τρόπος να γίνει αυτό.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to play:** On a turn, a player picks a card and puts their token in any house that is one more or one less, as long as it does not have 3 or more of the other player’s tokens in it already. If the house has one or two of the opponent’s tokens, those are given back to the opponent and the player says “Get out of my house.”\n\n**How to win:** The first player to place all their tokens wins.",
+    "text": "**Πώς παίζεται:** Σε κάθε σειρά, ένας παίκτης τραβά μια κάρτα και βάζει τη μάρκα του σε οποιοδήποτε σπίτι είναι κατά ένα παραπάνω ή κατά ένα λιγότερο, αρκεί να μην έχει ήδη 3 ή περισσότερες μάρκες του άλλου παίκτη μέσα. Εάν το σπίτι έχει μία ή δύο μάρκες του αντιπάλου, αυτές επιστρέφονται στον αντίπαλο και ο παίκτης λέει «Βγες από το σπίτι μου».\n\n**Πώς κερδίζεις:** Ο πρώτος παίκτης που θα τοποθετήσει όλες τις μάρκες του κερδίζει.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "• For a child not ready for numerals, use Number Cards and boxes with quantities of dots.\n• Use a smaller or larger range of Number Cards and boxes.\n• Allow moves to houses that are 2 numbers more or less.",
+    "text": "* Αν το παιδί δεν είναι έτοιμο για αριθμούς, χρησιμοποιήστε Κάρτες Αριθμών με κουκίδες και κουτιά με τις αντίστοιχες ποσότητες από κουκκίδες.\n* Χρησιμοποιήστε μικρότερο ή μεγαλύτερο εύρος Καρτών Αριθμών και κουτιών.\n* Επιτρέψτε κινήσεις σε σπίτια που είναι 2 αριθμούς παραπάνω ή λιγότερο.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "THE IN-BETWEEN GAME",
+    "text": "ΤΟ ΕΝΔΙΆΜΕΣΟ ΠΑΙΧΝΊΔΙ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Order",
+    "text": "Τάξη",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Use one set of cards from 0 to 10. Use either Number Cards or playing cards with Queen as 0 and Ace as 1. Each player also gets 20 tokens.",
+    "text": "**Προετοιμασία:** Χρησιμοποιήστε ένα σετ καρτών από το 0 έως το 10. Χρησιμοποιήστε είτε Κάρτες Αριθμών είτε τραπουλόχαρτα (χρησιμοποιώντας τη Βασίλισσα ως 0 και τον Άσο ως 1). Κάθε παίκτης παίρνει επίσης 20 μάρκες.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to play:** For the player whose turn it is, deal two cards face up and a third card face down between them. The player decides to bet 0 to 3 tokens that the third card is between the two cards. If the player is right, the player gets that many tokens from the other player. If the player is wrong, that many tokens go to the other player.\n\n**How to win:** You can either play five rounds or until one player runs out of tokens. The player with the most tokens at the end wins.",
+    "text": "**Πώς παίζεται:** Για τον παίκτη που είναι η σειρά του, μοιράστε δύο κάρτες με την όψη προς τα πάνω και μια τρίτη κάρτα με την όψη προς τα κάτω ανάμεσά τους. Ο παίκτης αποφασίζει να στοιχηματίσει 0 έως 3 μάρκες ότι η τρίτη κάρτα είναι ανάμεσα στις δύο κάρτες. Εάν ο παίκτης έχει δίκιο, παίρνει τόσες μάρκες από τον άλλο παίκτη. Εάν ο παίκτης κάνει λάθος, τόσες μάρκες πηγαίνουν στον άλλο παίκτη.\n\n**Πώς κερδίζεις:** Μπορείτε είτε να παίξετε πέντε γύρους είτε μέχρι ένας παίκτης να ξεμείνει από μάρκες. Ο παίκτης με τις περισσότερες μάρκες στο τέλος κερδίζει.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "NUMBER SUDOKU",
+    "text": "ΣΟΥΝΤΌΚΟΥ ΑΡΙΘΜΏΝ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** These are similar to the Shape Sudokus, only now they use numbers (or quantities of dots). To avoid erasing, use numbered (or dotted) slips of paper to solve the puzzles.\n\nFor a 4 by 4 puzzle, each row and column has the numbers from 1 to 4 once. Also, each marked subregion has the numbers from 1 to 4 once. That’s it! Create these puzzles for your child by starting with a completed puzzle and removing some of the pieces of paper.",
+    "text": "**Προετοιμασία:** Είναι παρόμοια με τα Σουντόκου Σχημάτων, μόνο που τώρα χρησιμοποιούνται αριθμοί (ή ποσότητες κουκκίδων). Για να αποφύγετε το σβήσιμο, χρησιμοποιήστε αριθμημένα (ή με κουκκίδες) κομμάτια χαρτιού για την επίλυση των γρίφων.\n\nΓια έναν γρίφο 4x4, κάθε σειρά και στήλη έχει τους αριθμούς από το 1 έως το 4 από μία φορά. Επίσης, κάθε σημαδεμένη \"υποπεριοχή\" έχει τους αριθμούς από το 1 έως το 4 από μία φορά. Αυτό είναι όλο! Δημιουργήστε αυτούς τους γρίφους για το παιδί σας ξεκινώντας από έναν ολοκληρωμένο γρίφο και αφαιρώντας μερικά από τα κομμάτια χαρτιού.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Variations:** For variety, use irregularly-sized subregions – these are called Jigsaw Sudoku puzzles. You can also create puzzles of larger size (two 5 by 5 puzzles are shown).",
+    "text": "**Παραλλαγές:** Για ποικιλία, χρησιμοποιήστε υποπεριοχές ακανόνιστου μεγέθους – αυτοί ονομάζονται γρίφοι Σουντόκου Παζλ. Μπορείτε επίσης να δημιουργήσετε γρίφους μεγαλύτερου μεγέθους (δύο γρίφοι 5x5 φαίνονται).",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "SUDOKU – COMPARING",
+    "text": "ΣΟΥΝΤΌΚΟΥ – ΣΎΓΚΡΙΣΗ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These puzzles start with the same rules as regular Sudoku - each number appears exactly once in each row, column, and subregion. Additionally, if there is a less than or greater than symbol between two cells, then the numbers in the cells must obey that relationship.\n\n**Hungry alligator:** Tell a child who has never seen a comparison symbol, >, that the bigger number is on the side with the wider part of the symbol. Some people say that the symbol is a hungry alligator and it always wants its mouth to point in the direction of the larger number.\n\n**Solving strategy:** First look for where the smallest and largest numbers are.",
+    "text": "Αυτοί οι γρίφοι ξεκινούν με τους ίδιους κανόνες με το κανονικό Σουντόκου - κάθε αριθμός εμφανίζεται ακριβώς μία φορά σε κάθε σειρά, στήλη και υποπεριοχή. Επιπλέον, εάν υπάρχει σύμβολο ανισότητας (\"μικρότερο\" ή \"μεγαλύτερο\") μεταξύ δύο κελιών, τότε οι αριθμοί στα κελιά πρέπει να υπακούουν σε αυτή τη σχέση.\n\n**Πεινασμένος αλιγάτορας:** Πείτε σε ένα παιδί που δεν έχει ξαναδεί ποτέ σύμβολο σύγκρισης \">\", ότι ο μεγαλύτερος αριθμός βρίσκεται στην πλευρά με το πλατύτερο μέρος του συμβόλου. Μερικοί λένε ότι το σύμβολο είναι ένας πεινασμένος αλιγάτορας και θέλει πάντα το στόμα του να είναι \"ανοιχτό\" προς την κατεύθυνση του μεγαλύτερου αριθμού.\n\n**Στρατηγική επίλυσης:** Κοιτάξτε πρώτα πού βρίσκονται οι μικρότεροι και μεγαλύτεροι αριθμοί.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "As your child gets better, make the puzzles more challenging by leaving out more of the inequality symbols.\n\n**Puzzle creation:** Make these puzzles by using a finished Sudoku puzzle. Put in greater than and less than signs on a blank grid of the same geometry. If your child gets stuck, put in a few numbers to get them started.",
+    "text": "Καθώς το παιδί σας γίνεται καλύτερο, κάντε τους γρίφους πιο προκλητικούς παραλείποντας περισσότερα από τα σύμβολα ανισότητας.\n\n**Δημιουργία γρίφου:** Φτιάξτε αυτούς τους γρίφους χρησιμοποιώντας έναν ολοκληρωμένο γρίφο Σουντόκου. Βάλτε σύμβολα \"μεγαλύτερο\" και \"μικρότερο\" σε ένα κενό πλέγμα της ίδιας διάταξης. Εάν το παιδί σας δυσκολεύεται, βάλτε μερικούς αριθμούς για να ξεκινήσει.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "MAKE ME A LIAR",
+    "text": "ΚΆΝΕ ΜΕ ΨΕΎΤΗ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Someone makes a statement and the other players attempt to show that the statement maker is lying. The goal is to come up with a counterexample that shows that the statement is not always true.\n\n**Always true:** One type of statement is saying something is always true. Examples are:\n\n• All trucks have four wheels\n• All rectangles are squares\n• All birds can fly\n\n**If -> then:** Another type of statement is of the form “if then”. Examples are:\n\n• If today is Monday, then it is a school day\n• If I don’t eat for three hours, then I am hungry\n• If a person is taller than someone, then they are older",
+    "text": "Κάποιος κάνει μια δήλωση και οι άλλοι παίκτες προσπαθούν να δείξουν ότι αυτός που έκανε τη δήλωση λέει ψέματα. Ο στόχος είναι να βρεθεί ένα αντιπαράδειγμα που να δείχνει ότι η δήλωση δεν είναι πάντα αλήθεια.\n\n**Πάντα αλήθεια:** Ένας τύπος δήλωσης είναι να λέει κανείς ότι κάτι είναι πάντα αλήθεια. Παραδείγματα είναι:\n\n* Όλα τα φορτηγά έχουν τέσσερις ρόδες\n* Όλα τα ορθογώνια είναι τετράγωνα\n* Όλα τα πουλιά μπορούν να πετάξουν\n\n**Εάν ->τότε:** Ένας άλλος τύπος δήλωσης είναι της μορφής «εάν τότε». Παραδείγματα είναι:\n\n* Εάν σήμερα είναι Δευτέρα, τότε είναι σχολική μέρα\n* Εάν δεν φάω για τρεις ώρες, τότε πεινάω\n* Εάν ένα άτομο είναι ψηλότερο από κάποιον, τότε είναι μεγαλύτερο σε ηλικία",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "CODEBREAKER",
+    "text": "ΣΠΆΣΙΜΟ ΚΏΔΙΚΑ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Being Logical",
+    "text": "Λογικός Συλλογισμός",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** The CodeMaster creates a code, and the other player is the CodeBreaker. Suppose the code has three positions each of which can be from 1 to 5. An example of such a code would be 321.",
+    "text": "**Προετοιμασία:** Ο Κυρίαρχος του Κώδικα (Code Master) δημιουργεί έναν κώδικα και ο άλλος παίκτης είναι ο Σπάστης του Κώδικα (Code Breaker). Υποθέστε ότι ο κώδικας έχει τρεις θέσεις, η καθεμία από τις οποίες μπορεί να είναι από το 1 έως το 5. Ένα παράδειγμα τέτοιου κώδικα θα ήταν το 321.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Breaking the code:** The CodeBreaker guesses a code and the CodeMaster says how close the guess is. For example, if the CodeBreaker guesses 131, then the CodeMaster would say that one spot was exactly right and one other spot had the correct number but in the wrong place. Play continues until the CodeBreaker figures out the code.",
+    "text": "**Σπάσιμο του κώδικα:** Ο Σπάστης του Κώδικα μαντεύει έναν κώδικα και ο Κυρίαρχος του Κώδικα λέει πόσο κοντά είναι η μαντεψιά. Για παράδειγμα, αν ο Σπάστης του Κώδικα μαντέψει 131, τότε ο Κυρίαρχος του Κώδικα θα έλεγε ότι μία θέση ήταν ακριβώς σωστή και μία άλλη θέση είχε τον σωστό αριθμό αλλά σε λάθος μέρος. Το παιχνίδι συνεχίζεται μέχρι ο Σπάστης του Κώδικα να βρει τον κώδικα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**How to win:** The number of guesses is the score for the CodeBreaker. The lowest score wins.",
+    "text": "**Πώς κερδίζεις:** Ο αριθμός των μαντεψιών είναι το σκορ για τον Σπάστη του Κώδικα. Το χαμηλότερο σκορ κερδίζει.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "• Add challenge by having a maximum number of questions that are allowed.\n• Allow or disallow repeated numbers in the code.\n• Use shorter or longer lengths for the code.\n• Use a narrower or wider range of numbers for each place of the code.",
+    "text": "* Προσθέστε πρόκληση έχοντας έναν μέγιστο αριθμό ερωτήσεων που επιτρέπονται.\n* Επιτρέψτε ή αποκλείστε τους επαναλαμβανόμενους αριθμούς στον κώδικα.\n* Χρησιμοποιήστε μικρότερα ή μεγαλύτερα μήκη για τον κώδικα.\n* Χρησιμοποιήστε μικρότερο ή μεγαλύτερο εύρος αριθμών για κάθε θέση του κώδικα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "FINGER ADDITION TO 10",
+    "text": "ΠΡΌΣΘΕΣΗ ΔΑΧΤΎΛΩΝ ΩΣ ΤΟ 10",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "We'll use 4 + 2 to demonstrate two methods for this.",
+    "text": "Θα χρησιμοποιήσουμε το 4 + 2 για να δείξουμε δύο μεθόδους γι' αυτό.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Method 1:** Use this method if both numbers are 5 or less. Put up 4 fingers on one hand and 2 fingers on the other. Bring the two hands together - Tada! Your child sees that 4 and 2 brought together becomes 6.",
+    "text": "**Μέθοδος 1:** Χρησιμοποιήστε αυτή τη μέθοδο αν και οι δύο αριθμοί είναι 5 ή μικρότεροι. Σηκώστε 4 δάχτυλα στο ένα χέρι και 2 δάχτυλα στο άλλο. Φέρτε τα δύο χέρια μαζί - Τα-ρα! Το παιδί σας βλέπει ότι όταν φέρεις το 4 και το 2 μαζί γίνονται 6.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Method 2:** Use “counting on” from one of the numbers to reach any sum of up to 10.\n\n**Example:** To add 4 and 2, put up 4 fingers on one hand, and count aloud from 0 to 2. For each spoken number after 0, put up one more finger. When 2 is reached, there should be 6 fingers raised.\n\nThis method allows addition of numbers bigger than 5. Your child will come to realize that it’s easier to start with the larger number of fingers raised and count on using the smaller number.",
+    "text": "**Μέθοδος 2:** Χρησιμοποιήστε την «μέτρηση προς τα πάνω» από έναν από τους αριθμούς για να φτάσετε σε οποιοδήποτε άθροισμα ως και 10.\n\n**Παράδειγμα:** Για να προσθέσετε 4 και 2, σηκώστε 4 δάχτυλα στο ένα χέρι και μετρήστε δυνατά από το 0 έως το 2. Για κάθε αριθμό που λέγεται μετά το 0, σηκώστε ένα ακόμη δάχτυλο. Όταν φτάσετε στο 2, θα πρέπει να υπάρχουν 6 δάχτυλα σηκωμένα.\n\nΑυτή η μέθοδος επιτρέπει την πρόσθεση αριθμών μεγαλύτερων από 5. Το παιδί σας θα συνειδητοποιήσει ότι είναι πιο εύκολο να ξεκινήσει με τον μεγαλύτερο αριθμό δαχτύλων σηκωμένο και να μετρήσει προς τα πάνω χρησιμοποιώντας τον μικρότερο αριθμό.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "FINGER SUBTRACTION TO 10",
+    "text": "ΑΦΑΊΡΕΣΗ ΔΑΧΤΎΛΩΝ ΈΩΣ ΤΟ 10",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Finger Math",
+    "text": "Μαθηματικά Δαχτύλων",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "There are two mental models for subtraction – “take away” or “difference.” Your child should be comfortable with both models. Here is 8 – 5 calculated both ways:",
+    "text": "Υπάρχουν δύο νοητικά μοντέλα για την αφαίρεση – «αφαίρεση» ή «διαφορά». Το παιδί σας πρέπει να είναι άνετο και με τα δύο μοντέλα. Εδώ είναι το 8 - 5 υπολογισμένο και με τους δύο τρόπους:",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Take away (on the left):** Think of 8 – 5 as what is left after you start with 8 things and take 5 of them away. Start with 8 fingers raised. Next, count aloud from 0 to 5, and for each number after 0 put one finger down. When 5 is reached in the count, there will be three fingers left up.",
+    "text": "**Αφαίρεση (αριστερά):** Σκεφτείτε το 8 - 5 ως αυτό που απομένει αφού ξεκινήσετε με 8 αντικείμενα και αφαιρέσετε 5 από αυτά. Ξεκινήστε με 8 δάχτυλα σηκωμένα. Στη συνέχεια, μετρήστε δυνατά από το 0 έως το 5 και για κάθε αριθμό μετά το 0 κατεβάστε ένα δάχτυλο. Όταν φτάσετε στο 5 στην μέτρηση, θα έχουν μείνει 3 δάχτυλα σηκωμένα.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Difference (on the right):** This model views 8 – 5 as finding the difference or distance between the two numbers. Start with 5 fingers raised. Then count the new fingers being raised, and when there are 8 fingers raised the difference of 3 will have been counted.\n\nThis method uses the “counting on” addition method to find the number to add to 5 to get 8.",
+    "text": "**Διαφορά (δεξιά):** Αυτό το μοντέλο βλέπει το 8 - 5 ως την εύρεση της διαφοράς ή της απόστασης μεταξύ των δύο αριθμών. Ξεκινήστε με 5 δάχτυλα σηκωμένα. Στη συνέχεια, μετρήστε τα νέα δάχτυλα που σηκώνονται και όταν σηκωθούν 8 δάχτυλα, θα έχει μετρηθεί η διαφορά του 3.\n\nΑυτή η μέθοδος χρησιμοποιεί τη μέθοδο πρόσθεσης «μέτρηση προς τα πάνω» για να βρει τον αριθμό που πρέπει να προστεθεί στο 5 για να πάρει το 8.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Mix in problems where a number is subtracted from itself, and where 0 is being subtracted.",
+    "text": "Συμπεριλάβετε προβλήματα όπου ένας αριθμός αφαιρείται από τον εαυτό του και όπου αφαιρείται το 0.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** There are two people - the Puzzler, who thinks of a number, and the Questioner, who discovers the number.\n\n**How to play:** To start, the Puzzler says, “Bowser is a number from 0 to 12.” The Questioner then asks questions of the form “How does Bowser compare to 4?” The Puzzler then says Bowser is smaller, equal to, or larger than 4. \n\n**Example:** The Puzzler thinks of 11. The discussion could go like this:\n\n• Puzzler: Stripes is a number between 0 and 15.\n• Questioner: How does Stripes compare to 8?\n• Puzzler: Stripes is bigger than 8.\n• Questioner: How does Stripes compare to 12? \n• Puzzler: Stripes is less than 12.\n• Questioner: How does Stripes compare to 10? \n• Puzzler: Stripes is bigger than 10.\n• Questioner: Is your number 11?\n• Puzzler: Yes, congratulations!",
+    "text": "**Προετοιμασία:** Υπάρχουν δύο άτομα - ο Προβληματιστής, που σκέφτεται έναν αριθμό, και ο Ερωτών, που ανακαλύπτει τον αριθμό.\n\n**Πώς παίζεται:** Για να ξεκινήσει, ο Προβληματιστής λέει, «Ο Μπάουζερ είναι ένας αριθμός από το 0 έως το 12». Στη συνέχεια, ο Ερωτών κάνει ερωτήσεις της μορφής «Ποια είναι η σχέση του Μπάουζερ με το 4;» Στη συνέχεια, ο Προβληματιστής λέει ότι ο Μπάουζερ είναι μικρότερος, ίσος ή μεγαλύτερος από το 4.\n\n**Παράδειγμα:** Ο Προβληματιστής σκέφτεται το 11. Η συζήτηση θα μπορούσε να εξελιχθεί ως εξής:\n\n* Προβληματιστής: Ο Στρίπς είναι ένας αριθμός μεταξύ 0 και 15.\n* Ερωτών: Ποια είναι η σχέση του Στρίπς με το 8;\n* Προβληματιστής: Ο Στρίπς είναι μεγαλύτερος από το 8.\n* Ερωτών: Ποια είναι η σχέση του Στρίπς με το 12;\n* Προβληματιστής: Ο Στρίπς είναι μικρότερος από το 12.\n* Ερωτών: Ποια είναι η σχέση του Στρίπς με το 10;\n* Προβληματιστής: Ο Στρίπς είναι μεγαλύτερος από το 10.\n* Ερωτών: Ο αριθμός σου είναι το 11;\n* Προβληματιστής: Ναι,συγχαρητήρια!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Make this into a game by counting the questions. After alternating turns, the player asking the smaller total number of questions wins.\n\nAs your child’s mathematics develops, use other kinds of questions, such as “Is Bowser even?” or “Is Bowser a prime number?”",
+    "text": "Μετατρέψτε το σε παιχνίδι μετρώντας τις ερωτήσεις. Αφού κάνετε εναλλάξ σειρές, ο παίκτης που ρωτά τον μικρότερο συνολικό αριθμό ερωτήσεων κερδίζει.\n\nΚαθώς τα μαθηματικά του παιδιού σας αναπτύσσονται, χρησιμοποιήστε άλλα είδη ερωτήσεων, όπως «Είναι ο Μπάουζερ ζυγός;» ή «Είναι ο Μπάουζερ πρώτος αριθμός;»",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "ESTIMATION GAME",
+    "text": "ΠΑΙΧΝΊΔΙ ΕΚΤΊΜΗΣΗΣ",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Develop a sense of quantities by seeing who can make the best estimate for the size of a group, such as a group of people standing in line.\n\nForce yourselves to make a quick estimate wiithout doing any counting. After everyone gives an estimate, count the objects and reward the person who is the closest.",
+    "text": "Αναπτύξτε την αίσθηση των ποσοτήτων βλέποντας ποιος μπορεί να κάνει την καλύτερη εκτίμηση για το μέγεθος μιας ομάδας, όπως μια ομάδα ανθρώπων που στέκονται στην ουρά.\n\nΑναγκάστε τους εαυτούς σας να κάνουν μια γρήγορη εκτίμηση χωρίς να κάνουν καμία μέτρηση. Αφού όλοι δώσουν μια εκτίμηση, μετρήστε τα αντικείμενα και επιβραβεύστε το άτομο που είναι το πιο κοντινό.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Number Sizes",
+    "text": "Μεγέθη Αριθμών",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "15 SLIDING PUZZLE",
+    "text": "ΠΑΖΛ ΟΛΊΣΘΗΣΗΣ 15",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Numbers in Order",
+    "text": "Αριθμοί σε Σειρά",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The setup:** Start with a 4 x 4 empty grid of squares formed by 5 horizontal and vertical lines. Use a set of 15 pieces of paper the size of the grid squares, and number the pieces of paper from 1 to 15. The puzzle starts by having someone place the pieces of paper on the grid.",
+    "text": "**Προετοιμασία:** Ξεκινήστε με ένα κενό πλέγμα τετραγώνων 4x4 που σχηματίζονται από 5 οριζόντιες και κάθετες γραμμές. Χρησιμοποιήστε ένα σετ από 15 κομμάτια χαρτιού στο μέγεθος των τετραγώνων του πλέγματος και αριθμήστε τα κομμάτια χαρτιού από το 1 έως το 15. Ο γρίφος ξεκινά με κάποιον να τοποθετεί τα κομμάτια χαρτιού στο πλέγμα.\n\nΣτην εικόνα φαίνεται ένα πλέγμα τετραγώνων 3x3 στο οποίο χρησιμοποιούνται αριθμοί από το 1 έως το 8.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**The challenge:** The object of the puzzle is to get the pieces of paper in order with only the lower right hand corner of the grid empty. To achieve this, a piece of paper can be moved if it is adjacent to the empty square - in which case it can be slid into that space. Depending on how the person sets up the puzzle, the puzzle may or may not be solvable.\n\n**How to create:** To create these puzzles, you have two options. The first is to place the squares randomly, in which case you have a 50 / 50 chance of the position being solvable. Alternatively, you can start by placing the pieces of paper in the final position and then making a series of legal moves to move the paper around. When you are all done, you are guaranteed that the puzzle is solvable.",
+    "text": "**Η πρόκληση:** Ο στόχος του γρίφου είναι να μπουν τα κομμάτια χαρτιού σε σειρά με μόνο την κάτω δεξιά γωνία του πλέγματος κενή. Για να επιτευχθεί αυτό, ένα κομμάτι χαρτιού μπορεί να μετακινηθεί εάν είναι παρακείμενο στο κενό τετράγωνο - οπότε μπορεί να συρθεί σε αυτόν τον χώρο. Ανάλογα με το πώς στήνει ο παίκτης τον γρίφο, ο γρίφος μπορεί να είναι ή να μην δυνατό να λυθεί.\n\n**Πώς να δημιουργήσετε γρίφους:** Για να δημιουργήσετε αυτούς τους γρίφους, έχετε δύο επιλογές. Η πρώτη είναι να τοποθετήσετε τα τετράγωνα τυχαία, οπότε έχετε μια πιθανότητα 50/50 να είναι δυνατό να λυθεί. Εναλλακτικά, μπορείτε να ξεκινήσετε τοποθετώντας τα κομμάτια χαρτιού στην τελική θέση και στη συνέχεια να κάνετε μια σειρά από επιτρεπόμενες κινήσεις για να μετακινήσετε τα τετράγωνα. Έτσι, όταν τελειώσετε, είναι εγγυημένο ότι ο γρίφος είναι δυνατό να λυθεί.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Different sizes",
+    "text": "Διαφορετικά μεγέθη",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "If a 4 x 4 grid is too hard for a beginner, start with something smaller. The grid could be as small as 2 x 2 or as big as the child wants. The number of numbered pieces of paper will always be one less than the size of the grid. For example, on a 2 x 3 grid use the cards from 1 to 5.",
+    "text": "Εάν ένα πλέγμα 4x4 είναι πολύ δύσκολο για έναν αρχάριο, ξεκινήστε με κάτι μικρότερο. Το πλέγμα θα μπορούσε να είναι τόσο μικρό όσο 2x2 ή τόσο μεγάλο όσο θέλει το παιδί. Ο αριθμός των αριθμημένων κομματιών χαρτιού θα είναι πάντα ένα λιγότερο από το μέγεθος του πλέγματος. Για παράδειγμα, σε ένα πλέγμα 2x3 χρησιμοποιήστε τις κάρτες από το 1 έως το 5.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "STAGE 3 – I CAN COUNT TO 10!",
+    "text": "ΣΤΆΔΙΟ 3 – ΜΠΟΡΏ ΝΑ ΜΕΤΡΉΣΩ ΜΈΧΡΙ ΤΟ 10!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stage 3 Introduction",
+    "text": "Στάδιο 3 – Εισαγωγή",
     "type": "data_list",
     "note": ""
   },

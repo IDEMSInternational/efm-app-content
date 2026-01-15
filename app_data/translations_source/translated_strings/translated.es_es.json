@@ -26940,6 +26940,12 @@
     "note": ""
   },
   {
+    "SourceText": "Continue",
+    "text": "Sigue",
+    "type": "template",
+    "note": ""
+  },
+  {
     "SourceText": "Each Stage has ten playdates for your family to enjoy with a group of other families. Each playdate has suggested storybooks and activities to enjoy together during the playdate. The playdates correspond to the ten math learning steps for each Stage. Links are provided to give direct and easy access to each of those resources.",
     "text": "Cada etapa tiene diez citas de juego para que su familia disfrute con otras familias. Cada cita de juego tiene libros de cuentos y actividades sugeridos para disfrutar juntos. Las citas de juego corresponden a los diez pasos de aprendizaje de matemáticas para cada etapa. Se proporcionan enlaces para brindar acceso directo y fácil a cada uno de esos recursos.",
     "type": "tour",

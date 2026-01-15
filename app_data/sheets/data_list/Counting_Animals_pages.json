@@ -13,6 +13,7 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -26,6 +27,7 @@
         "annotation_1": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -39,6 +41,7 @@
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -52,6 +55,7 @@
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -90,6 +94,7 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -103,6 +108,7 @@
         "annotation_1": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -116,6 +122,7 @@
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -129,6 +136,7 @@
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -167,6 +175,7 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -180,6 +189,7 @@
         "annotation_1": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -193,6 +203,7 @@
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -206,6 +217,7 @@
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -244,6 +256,7 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -257,6 +270,7 @@
         "annotation_1": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -270,6 +284,7 @@
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -283,6 +298,7 @@
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -321,6 +337,7 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -334,6 +351,7 @@
         "annotation_1": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -347,6 +365,7 @@
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -360,6 +379,7 @@
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -398,6 +418,7 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -411,6 +432,7 @@
         "annotation_1": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -424,6 +446,7 @@
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -437,6 +460,7 @@
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -475,6 +499,7 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -488,6 +513,7 @@
         "annotation_1": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -501,6 +527,7 @@
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -514,6 +541,7 @@
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -552,6 +580,7 @@
         "story_text": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -565,6 +594,7 @@
         "annotation_1": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -578,6 +608,7 @@
         "annotation_2": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
@@ -591,6 +622,7 @@
         "annotation_3": {
           "br_pt": true,
           "cn_zh": true,
+          "de_de": true,
           "es_es": true,
           "fr_fr": true,
           "gr_el": true,
