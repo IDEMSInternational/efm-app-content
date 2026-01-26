@@ -1,6 +1,8 @@
 # efm-app-content
 This package contains data used in the early family math app
 
+Translations repo: https://github.com/IDEMSInternational/efm-content/pulls
+
 ## App Preview
 https://early-family-math.web.app
 
