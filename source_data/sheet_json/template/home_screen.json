@@ -62,6 +62,16 @@
       "exclude_from_translation": true
     },
     {
+      "name": "not_okay_activities_language",
+      "value": "@fields._app_language == \"pl_pl\"",
+      "exclude_from_translation": true
+    },
+    {
+      "name": "okay_activities_language",
+      "value": "!@local.not_okay_activities_language",
+      "exclude_from_translation": true
+    },
+    {
       "name": "now",
       "value": "@calc(timestamp())",
       "exclude_from_translation": true
@@ -125,7 +135,8 @@
     },
     {
       "type": "begin_display_group",
-      "name": "dg_activities"
+      "name": "dg_activities",
+      "condition": "@local.okay_activities_language"
     },
     {
       "type": "button",
@@ -251,6 +262,18 @@
       "type": "text",
       "name": "debug3",
       "value": "Already Started: @fields.already_started"
+    },
+    {
+      "type": "end_display_group"
+    },
+    {
+      "type": "begin_display_group",
+      "name": "fake_group",
+      "style_list": "margin-top: 40px;"
+    },
+    {
+      "type": "text",
+      "name": "spacer"
     },
     {
       "type": "end_display_group"

@@ -114,6 +114,15 @@
       "language_label": "اللغة العربية",
       "name": "@row.id",
       "text": "@row.language_label"
+    },
+    {
+      "id": "pl_pl",
+      "country_code": "pl",
+      "country_label": "Poland",
+      "language_code": "pl",
+      "language_label": "polski",
+      "name": "@row.id",
+      "text": "@row.language_label"
     }
   ]
 }

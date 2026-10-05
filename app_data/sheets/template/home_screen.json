@@ -43,6 +43,7 @@
               "gr_el": true,
               "jp_ja": true,
               "kr_ko": true,
+              "pl_pl": true,
               "ru_ru": true,
               "sa_ar": true,
               "tr_tr": true,
@@ -279,6 +280,56 @@
       }
     },
     {
+      "name": "not_okay_activities_language",
+      "value": "@fields._app_language == \"pl_pl\"",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "not_okay_activities_language",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "@fields._app_language == \"pl_pl\"",
+            "matchedExpression": "@fields._app_language",
+            "type": "fields",
+            "fieldName": "_app_language"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@fields._app_language": [
+          "value"
+        ]
+      }
+    },
+    {
+      "name": "okay_activities_language",
+      "value": "!@local.not_okay_activities_language",
+      "_translations": {
+        "value": {}
+      },
+      "exclude_from_translation": true,
+      "type": "set_variable",
+      "_nested_name": "okay_activities_language",
+      "_dynamicFields": {
+        "value": [
+          {
+            "fullExpression": "!@local.not_okay_activities_language",
+            "matchedExpression": "!@local.not_okay_activities_language",
+            "type": "local",
+            "fieldName": "not_okay_activities_language"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "!@local.not_okay_activities_language": [
+          "value"
+        ]
+      }
+    },
+    {
       "name": "now",
       "value": "@calc(timestamp())",
       "_translations": {
@@ -411,6 +462,7 @@
               "gr_el": true,
               "jp_ja": true,
               "kr_ko": true,
+              "pl_pl": true,
               "ru_ru": true,
               "sa_ar": true,
               "tr_tr": true,
@@ -524,6 +576,7 @@
               "gr_el": true,
               "jp_ja": true,
               "kr_ko": true,
+              "pl_pl": true,
               "ru_ru": true,
               "sa_ar": true,
               "tr_tr": true,
@@ -712,6 +765,7 @@
     {
       "type": "display_group",
       "name": "dg_activities",
+      "condition": "@local.okay_activities_language",
       "rows": [
         {
           "type": "button",
@@ -726,6 +780,7 @@
               "gr_el": true,
               "jp_ja": true,
               "kr_ko": true,
+              "pl_pl": true,
               "ru_ru": true,
               "sa_ar": true,
               "tr_tr": true,
@@ -839,6 +894,7 @@
               "gr_el": true,
               "jp_ja": true,
               "kr_ko": true,
+              "pl_pl": true,
               "ru_ru": true,
               "sa_ar": true,
               "tr_tr": true,
@@ -931,7 +987,22 @@
           }
         }
       ],
-      "_nested_name": "dg_activities"
+      "_nested_name": "dg_activities",
+      "_dynamicFields": {
+        "condition": [
+          {
+            "fullExpression": "@local.okay_activities_language",
+            "matchedExpression": "@local.okay_activities_language",
+            "type": "local",
+            "fieldName": "okay_activities_language"
+          }
+        ]
+      },
+      "_dynamicDependencies": {
+        "@local.okay_activities_language": [
+          "condition"
+        ]
+      }
     },
     {
       "name": "click_history_field_name_2",
@@ -1042,6 +1113,7 @@
               "gr_el": true,
               "jp_ja": true,
               "kr_ko": true,
+              "pl_pl": true,
               "ru_ru": true,
               "sa_ar": true,
               "tr_tr": true,
@@ -1155,6 +1227,7 @@
               "gr_el": true,
               "jp_ja": true,
               "kr_ko": true,
+              "pl_pl": true,
               "ru_ru": true,
               "sa_ar": true,
               "tr_tr": true,
@@ -1373,6 +1446,7 @@
               "gr_el": true,
               "jp_ja": true,
               "kr_ko": true,
+              "pl_pl": true,
               "ru_ru": true,
               "sa_ar": true,
               "tr_tr": true,
@@ -1486,6 +1560,7 @@
               "gr_el": true,
               "jp_ja": true,
               "kr_ko": true,
+              "pl_pl": true,
               "ru_ru": true,
               "sa_ar": true,
               "tr_tr": true,
@@ -1680,6 +1755,21 @@
         }
       ],
       "_nested_name": "dg_debugging"
+    },
+    {
+      "type": "display_group",
+      "name": "fake_group",
+      "style_list": [
+        "margin-top: 40px"
+      ],
+      "rows": [
+        {
+          "type": "text",
+          "name": "spacer",
+          "_nested_name": "fake_group.spacer"
+        }
+      ],
+      "_nested_name": "fake_group"
     }
   ],
   "_source": {
