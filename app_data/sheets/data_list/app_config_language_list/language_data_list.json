@@ -112,6 +112,15 @@
       "language_label": "اللغة العربية",
       "name": "sa_ar",
       "text": "اللغة العربية"
+    },
+    {
+      "id": "pl_pl",
+      "country_code": "pl",
+      "country_label": "Poland",
+      "language_code": "pl",
+      "language_label": "polski",
+      "name": "pl_pl",
+      "text": "polski"
     }
   ],
   "_source": {

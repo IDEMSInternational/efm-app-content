@@ -19,7 +19,7 @@
       },
       {
         "type": "display_group",
-        "count": 69
+        "count": 70
       },
       {
         "type": "image",
@@ -55,7 +55,7 @@
       },
       {
         "type": "set_variable",
-        "count": 430
+        "count": 432
       },
       {
         "type": "simple_checkbox",
@@ -67,7 +67,7 @@
       },
       {
         "type": "text",
-        "count": 89
+        "count": 90
       },
       {
         "type": "text_area",

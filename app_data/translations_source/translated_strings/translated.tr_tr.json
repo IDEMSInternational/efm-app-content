@@ -17071,31 +17071,31 @@
   },
   {
     "SourceText": "Stage 1 — I Can Hear You!",
-    "text": "1. Aşama — Seni Anlayabiliyorum!",
+    "text": "Aşama 1: Seni Anlayabiliyorum!",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Stage 2 — I Can Count to 5!",
-    "text": "2. Aşama — 5’e Kadar Sayabiliyorum!",
+    "text": "Aşama 2: 5’e Kadar Sayabiliyorum!",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Stage 3 — I Can Count to 10!",
-    "text": "3. Aşama — 10’e Kadar Sayabiliyorum!",
+    "text": "Aşama 3: 10’e Kadar Sayabiliyorum!",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Stage 4 — I Can Count to 20!",
-    "text": "4. Aşama — 20’e Kadar Sayabiliyorum!",
+    "text": "Aşama 4: 20’e Kadar Sayabiliyorum!",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Stage 5 — I Can Count to 100!",
-    "text": "5. Aşama — 100’e Kadar Sayabiliyorum!",
+    "text": "Aşama 5: 100’e Kadar Sayabiliyorum!",
     "type": "data_list",
     "note": ""
   },
@@ -17581,13 +17581,13 @@
   },
   {
     "SourceText": "STAGE 1 – I CAN HEAR YOU!",
-    "text": "1. AŞAMA — SENI ANLAYABILIYORUM!",
+    "text": "AŞAMA 1: SENI ANLAYABILIYORUM!",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Stage 1 Introduction",
-    "text": "1. Aşama — Giriş",
+    "text": "Aşama 1: Giriş",
     "type": "data_list",
     "note": ""
   },
@@ -18325,13 +18325,13 @@
   },
   {
     "SourceText": "STAGE 2 – I CAN COUNT TO 5!",
-    "text": "2. Aşama — 5’e Kadar Sayabiliyorum!",
+    "text": "AŞAMA 2: 5’E KADAR SAYABİLİYORUM!",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Stage 2 Introduction",
-    "text": "2. Aşama — Giriş",
+    "text": "Aşama 2: Giriş",
     "type": "data_list",
     "note": ""
   },
@@ -19363,13 +19363,13 @@
   },
   {
     "SourceText": "STAGE 3 – I CAN COUNT TO 10!",
-    "text": "3. Aşama — 10’e Kadar Sayabiliyorum!",
+    "text": "AŞAMA 3: 10’E KADAR SAYABİLİYORUM!",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Stage 3 Introduction",
-    "text": "3. Aşama — Giriş",
+    "text": "Aşama 3: Giriş",
     "type": "data_list",
     "note": ""
   },
@@ -20149,13 +20149,13 @@
   },
   {
     "SourceText": "STAGE 4 – I CAN COUNT TO 20!",
-    "text": "4. Aşama — 20’e Kadar Sayabiliyorum!",
+    "text": "AŞAMA 4: 20’E KADAR SAYABİLİYORUM!",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Stage 4 Introduction",
-    "text": "4. Aşama — Giriş",
+    "text": "Aşama 4: Giriş",
     "type": "data_list",
     "note": ""
   },
@@ -21037,13 +21037,13 @@
   },
   {
     "SourceText": "STAGE 5 – I CAN COUNT TO 100!",
-    "text": "5. Aşama — 100’e Kadar Sayabiliyorum!",
+    "text": "AŞAMA 5: 100’E KADAR SAYABİLİYORUM!",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "Stage 5 Introduction",
-    "text": "5. Aşama — Giriş",
+    "text": "Aşama 5: Giriş",
     "type": "data_list",
     "note": ""
   },
@@ -23406,6 +23406,18 @@
     "note": ""
   },
   {
+    "SourceText": "1.0 Stage 1 Introduction",
+    "text": "Aşama 1: Seni Anlayabiliyorum!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This Stage starts as early as 4 to 6 months. Exposing your child to all kinds of experiences is so important. Start talking with your child even though they show no outward signs of understanding you. Make a habit to point at and describe all sorts of things. As your child starts reacting to your words, begin mixing in questions for your child to respond to.\n\nWhen your child begins to understand that objects have properties, start pointing out properties that make things similar or different. These properties are also useful for playing with patterns. Finally, start describing shapes in terms of their many properties.\n\nThe math learning steps for this Stage are:\n\n**1. Math Talk – Early and Often** Constantly pointing at and describing things is very important for a child's development. Start doing this long before they seem to understand.\n**2. Math Talk – At Home** There are many mathematical things in your home to talk about.\n**3. Math Talk – Out and About** Talk about math in a store, in the park, and in many other places. Math is all around us!\n**4. Math Talk – Describe, Compare** Use describing, comparison, and spatial relationship words with your child - this is math!\n**5. Math Talk – Counting** Whenever possible, count things for your child.\n**6. Math Talk – Point, Describe, and Ask** Begin asking questions that they can respond nonverbally to by pointing or actions.\n**7. Object properties** Your descriptions and play should start to involve lots of properties of objects.\n**8. Same and Different** Discuss properties that make things the same or different\n**9. Patterns** Start playing with identifying, creating and extending patterns.\n**10. Basic shapes I** Introduce geometric ideas and objects, and the names of simple shapes.",
+    "text": "Bu aşama 4 ila 6 aylık gibi çok erken bir dönemde başlayabilir. Çocuğunuzu her türlü deneyimle tanıştırmak son derece önemlidir. Dışarıdan anlamış gibi görünmeseler bile, çocuğunuzla konuşmaya başlayın. Gördüğünüz her şeyi işaret etmeyi ve tanımlamayı alışkanlık hâline getirin. Çocuğunuz sözlerinize tepki vermeye başladıkça, onun da yanıt verebileceği sorular eklemeye başlayın.\n\nÇocuğunuz nesnelerin özellikleri olduğunu fark etmeye başladığında, benzerlikleri ve farklılıkları vurgulayan özelliklere dikkat çekin. Bu özellikler aynı zamanda örüntülerle (pattern) oynamak için de oldukça faydalıdır. Son olarak, şekilleri sahip oldukları temel özellikler üzerinden tanımlamaya başlayın.\n\t\nBu aşama için matematik öğrenme adımları şunlardır:\n\n**Adım 1: Matematik Sohbeti – Erken ve Sık Sık** Nesneleri sürekli işaret etmek ve tanımlamak, çocuğun gelişimi için çok önemlidir. Çocuğunuzun anlamasa bile duyduğu kelimelerle yavaş yavaş tanışmasına yardımcı olur.\n**Adım 2: Matematik Sohbeti – Evde** Evinizde matematikle ilgili konuşabileceğiniz pek çok şey vardır. Günlük yaşamda karşılaştığınız nesneleri ve durumları fırsat bilerek matematik dilini kullanın.\n**Adım 3: Matematik Sohbeti– Dışarıda ve Çevrede** Markette, parkta ve bulunduğunuz pek çok farklı ortamda matematik hakkında konuşun. Matematik her yerdedir.\n**Adım 4: Matematik Sohbeti – Tarif Et ve Karşılaştır** Çocuğunuzla konuşurken betimleme, karşılaştırma ve mekânsal ilişki kelimelerini kullanın. İşte matematik tam olarak budur!\n**Adım 5: Matematik Sohbeti – Sayı Sayma** Mümkün olduğunda çocuğunuzla birlikte nesneleri sayın.\n**Adım 6: Matematik Sohbeti – İşaret Et, Tarif Et, Sor** Çocuğunuzun işaret ederek ya da hareketlerle yanıt verebileceği sorular sormaya başlayın.\n**Adım 7: Nesnelerin Özellikleri** Nesnelerin sahip olduğu özellikler hakkında konuşun. Bu, çocuğunuzun benzerlikleri ve farklılıkları fark etmesine yardımcı olur.\n**Adım 8: Aynı ve Farklı** Nesneleri aynı ya da farklı yapan özellikler hakkında konuşun.\n**Adım 9: Örüntüler** Örüntüleri fark etmeye, oluşturmaya ve devam ettirmeye yönelik oyunlar oynamaya başlayın.\n**Adım 10: Temel Şekiller I** Geometrik kavramları ve nesneleri tanıtın; temel şekillerin isimlerini öğretin.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "1.1 Math Talk – Early and Often",
     "text": "Adım 1: Matematik Sohbeti – Erken ve Sık Sık",
     "type": "data_list",
@@ -23437,7 +23449,7 @@
   },
   {
     "SourceText": "**Shapes:** You might see a circle in a design in a building and ask your child to point out other circles they see, such as the circles in a traffic light. Traffic signs and shop signs provide a great supply of shapes you can describe and name. There is no end to the shapes, colors, and counting that you can find and talk about once you make a habit of looking for them.\n\n**Traveling:** There are many mathematical things to talk about as you travel. If you see a somewhat unusual red car, you can point that out and count together other red cars that are like it. Ask about bigger, smaller, thinner, and wider things such as buildings, windows, trees, and people. Which things are closer than others, and which things are farther away?\n\n**Counting in a store:** Talk about how many apples you need, and count them out as you pick them out. Count the people in line in front of you, and compare that to the length of the other lines.\n\nPoint out the shapes of fruit or pictures on food boxes. Talk about how some things come in boxes, and other things come in round bottles. You might need something on a high shelf, or something on a low shelf. There is so much to describe and compare!\n\n**In a park:** Count the children, the number of structures or trees, or any- thing else. Comment about where there is more of one thing than an- other.\n\n**On the swings:** Pushing your child on something that swings or sways back and forth is a perfect opportunity to count with your child. With each push, count “1, 2, 3, 4, 5.” After your child starts learning how to count to 5, counting down from 5 is also a good idea. Start or end at 0 sometimes.\n\nPoint out the circles, curves, straight lines, triangles, and rectangles in the park. Talk about how some things are over, under, between, or on top of other things.",
-    "text": "**Şekiller:** Bir binadaki daire şeklini fark ederseniz, daireyi çocuğunuza da gösterip başka nerelerde daireler gördüğünü sorabilirsiniz (örneğin trafik ışıklarında). Trafik işaretleri ve mağaza tabelaları, tanıyıp isimlendirebileceğiniz pek çok şekil sunar. Şekilleri aramayı alışkanlık haline getirdiğinizde, konuşulacak şekiller, renkler ve sayılarla ilgili pek çok şey bulursunuz.\n\n**Seyahatte:** Seyahatte: Seyahat ederken konuşulacak birçok matematiksel konu vardır. Alışılmadık bir kırmızı araba mı gördünüz? Arabayı işaret edin ve birlikte başka kırmızı arabaları sayın. Binalar, camlar, ağaçlar ve insanlar gibi daha büyük, daha küçük, daha ince ve daha geniş şeyleri tartışın. Hangileri daha yakın, hangileri daha uzak?\n\n**Markette sayma:** Markette sayma: Kaç tane elma almanız gerektiğini konuşun ve onları birlikte sayarak sepete koyun. Önünüzde sırada bekleyen insanları sayın ve diğer sıraların uzunluklarıyla karşılaştırın.\n\nYiyecek kutularının üzerindeki resimleri ya da meyvelerin şekillerini işaret edin. Bazı şeylerin kutuda, bazılarının yuvarlak şişelerde olduğunu gösterin. Bazen yüksek ya da alçak bir raftan bir şey almak gerekebilir. Anlatılacak ve karşılaştırılacak çok şey var!\n\n**Parkta:** Çocukları, ağaçları ya da başka nesneleri sayın. Bir şey seçin ve neden bir bölgede daha fazla olduğunu tartışın.\n\n**Salıncakta:** Çocuğunuzu salıncakta ileri geri sallamak, birlikte saymak için güzel bir fırsattır. Her itişte “1, 2, 3, 4, 5” diye sayın. Çocuğunuz 5’e kadar saymayı öğrendiğinde 5’ten geriye sayabilirsiniz. 0’dan başlamak ve 0’da bitirmek gibi farklı yollar deneyin.\n\nParkta gördüğünüz daireleri, eğrileri, düz çizgileri, üçgenleri ve dikdörtgenleri gösterin. Nesnelerin birbirlerinin nasıl üstünde, altında, arasında ve üzerinde olduğunu konuşun.",
+    "text": "**Şekiller:** Bir binadaki daire şeklini fark ederseniz, daireyi çocuğunuza da gösterip başka nerelerde daireler gördüğünü sorabilirsiniz (örneğin trafik ışıklarında). Trafik işaretleri ve mağaza tabelaları, tanıyıp isimlendirebileceğiniz pek çok şekil sunar. Şekilleri aramayı alışkanlık haline getirdiğinizde, konuşulacak şekiller, renkler ve sayılarla ilgili pek çok şey bulursunuz.\n\n**Seyahatte:** Seyahatte: Seyahat ederken konuşulacak birçok matematiksel konu vardır. Alışılmadık bir kırmızı araba mı gördünüz? Arabayı işaret edin ve birlikte başka kırmızı arabaları sayın. Binalar, camlar, ağaçlar ve insanlar gibi daha büyük, daha küçük, daha ince ve daha geniş şeyleri tartışın. Hangileri daha yakın, hangileri daha uzak?\n\n**Markette sayma:** Markette sayma: Kaç tane elma almanız gerektiğini konuşun ve onları birlikte sayarak sepete koyun. Önünüzde sırada bekleyen insanları sayın ve diğer sıraların uzunluklarıyla karşılaştırın.\n\nYiyecek kutularının üzerindeki resimleri ya da meyvelerin şekillerini işaret edin. Bazı şeylerin kutuda, bazılarının yuvarlak şişelerde olduğunu gösterin. Bazen yüksek ya da alçak bir raftan bir şey almak gerekebilir. Anlatılacak ve karşılaştırılacak çok şey var!\n\n**Parkta:** Çocukları, ağaçları ya da başka nesneleri sayın. Bir şey seçin ve neden bir bölgede daha fazla olduğunu tartışın.\n\n**Salıncakta:** Salıncakta: Çocuğunuzu salıncakta ileri geri sallamak, birlikte saymak için güzel bir fırsattır. Her itişte “1, 2, 3, 4, 5” diye sayın. Çocuğunuz 5’e kadar saymayı öğrendiğinde 5’ten geriye sayabilirsiniz. 0’dan başlamak ve 0’da bitirmek gibi farklı yollar deneyin.\n\nParkta gördüğünüz daireleri, eğrileri, düz çizgileri, üçgenleri ve dikdörtgenleri gösterin. Nesnelerin birbirlerinin nasıl üstünde, altında, arasında ve üzerinde olduğunu konuşun.",
     "type": "data_list",
     "note": ""
   },
@@ -23527,7 +23539,7 @@
   },
   {
     "SourceText": "Here are some characteristics that can be used by themselves or mixed together to create patterns:\n\n* Movement patterns: stepping, jumping, waving, nodding\n* Sound patterns: clapping, knee slapping, tongue clicking, stamping \n* Loudness patterns: soft, medium, loud\n* Visual patterns: color, shape, size\n\n**Discover patterns:** Challenge each other to find repeating patterns wherever you are. You might notice a repeating tile work in a floor, wall, or ceiling. The brick work of a building might make an interesting pattern. Plants may be planted in an organized pattern in a field. The side of a pineap- ple or pine cone may have a spiral pattern. Something may be producing sounds in a repeating pattern.\n\n**Game: Repeat patterns:** Two or more of you can challenge each other to repeat and extend each other's patterns. This can be done in many ways. The simplest is for one person to create a pattern of sounds and movements and have all the others repeat it.\n\nAdd difficulty to this by having the original person add one more item to the end of the pattern every time the pattern goes once around the group. Alternatively, each person can take the pattern that comes to them and one more item at the end of it.\n\n**Secret handshakes or knocks:** Use patterns as an agreed upon way for being allowed to enter some place such as a room. This might be a series of fist bumps and other type of handshakes. Or it might be knocking and stamping that causes a series of sounds.\n\n**Sequence of drawings:** For older children, create puzzles by drawing a pattern of shapes. One person establishes a pattern and then leaves gaps in the repeating sequence for the other to fill in.",
-    "text": "Örüntü oluştururken kullanılabilecek özelliklerden bazıları (bunları tek başlarına veya bir arada kullanabilirsiniz:\n\n* Hareket örüntüleri: yürüme, zıplama, el sallama, baş sallama\n* Ses örüntüleri: alkış, diz vurma, dil şaklatma, ayak sesi\n* Ses seviyesi örüntüleri: alçak, orta, yüksek\n* Görsel örüntüler: renk, şekil, boyut\n\n**Örüntüleri keşfedin:** Nerede olursanız olun, tekrarlayan örüntüleri bulmak için birbirinize meydan okuyun. Zeminde, duvarda veya tavanda tekrarlayan bir döşeme düzeni görebilirsiniz. Bir binanın tuğlaları ilginç bir örüntü oluşturabilir. Bitkiler tarlaya düzenli bir şekilde ekildiğinde bir örüntü yaratır. Bir ananasın veya çam kozalağının kenarlarında spiral desenler olabilir. Bazen bir ses kaynağı tekrar eden ritmik sesler çıkarıyor olabilir.\n\n**Oyun: Örüntüyü tekrarla:** İki veya daha fazla kişi ile oluşturduğunuz örüntüleri tekrar edebilir ve uzatabilirsiniz. Bunun birçok yolu vardır. En basiti, bir kişinin ses ve hareketlerden oluşan bir örüntü oluşturması ve diğerlerinin bunu tekrar etmesidir.\n\nBu oyunu zorlaştırmak için örüntüyü başlatan kişi her turdan sonunda örüntüye bir yeni öğe ekleyebilir. Alternatif olarak, her kişi sırası geldiğinde örüntüye yeni bir öğe ekleyerek devam edebilir.\n\n**Gizli el sıkışmalar veya vuruşlar:** Çeşitli örüntüler seçin ve bunları belirli yerlere girme yöntemi olarak kullanın. Örneğin, bir dizi el sıkışma hareketleri belirlenebilir. Ya da elle kapıya vurma ve ayakla yere vurma gibi ritmik sesli hareketler kullanılabilir.\n\n**Çizim dizileri:** Daha büyük çocuklar için, tekrar eden şekillerden oluşan bir örüntü çizerek bulmacalar hazırlayın. Örneğin bir kişi şekil örüntüsü oluşturur ve bu dizilimde boşluklar bırakarak diğerinden örüntüyü tamamlamasını ister.",
+    "text": "Örüntü oluştururken kullanılabilecek özelliklerden bazıları (bunları tek başlarına veya bir arada kullanabilirsiniz):\n\n* Hareket örüntüleri: yürüme, zıplama, el sallama, baş sallama\n* Ses örüntüleri: alkış, diz vurma, dil şaklatma, ayak sesi\n* Ses seviyesi örüntüleri: alçak, orta, yüksek\n* Görsel örüntüler: renk, şekil, boyut\n\n**Örüntüleri keşfedin:** Nerede olursanız olun, tekrarlayan örüntüleri bulmak için birbirinize meydan okuyun. Zeminde, duvarda veya tavanda tekrarlayan bir döşeme düzeni görebilirsiniz. Bir binanın tuğlaları ilginç bir örüntü oluşturabilir. Bitkiler tarlaya düzenli bir şekilde ekildiğinde bir örüntü yaratır. Bir ananasın veya çam kozalağının kenarlarında spiral desenler olabilir. Bazen bir ses kaynağı tekrar eden ritmik sesler çıkarıyor olabilir.\n\n**Oyun: Örüntüyü tekrarla:** İki veya daha fazla kişi ile oluşturduğunuz örüntüleri tekrar edebilir ve uzatabilirsiniz. Bunun birçok yolu vardır. En basiti, bir kişinin ses ve hareketlerden oluşan bir örüntü oluşturması ve diğerlerinin bunu tekrar etmesidir.\n\nBu oyunu zorlaştırmak için örüntüyü başlatan kişi her turdan sonunda örüntüye bir yeni öğe ekleyebilir. Alternatif olarak, her kişi sırası geldiğinde örüntüye yeni bir öğe ekleyerek devam edebilir.\n\n**Gizli el sıkışmalar veya vuruşlar:** Çeşitli örüntüler seçin ve bunları belirli yerlere girme yöntemi olarak kullanın. Örneğin, bir dizi el sıkışma hareketleri belirlenebilir. Ya da elle kapıya vurma ve ayakla yere vurma gibi ritmik sesli hareketler kullanılabilir.\n\n**Çizim dizileri:** Daha büyük çocuklar için, tekrar eden şekillerden oluşan bir örüntü çizerek bulmacalar hazırlayın. Örneğin bir kişi şekil örüntüsü oluşturur ve bu dizilimde boşluklar bırakarak diğerinden örüntüyü tamamlamasını ister.",
     "type": "data_list",
     "note": ""
   },
@@ -23539,7 +23551,19 @@
   },
   {
     "SourceText": "**The world of shapes:** There are many possibilities that open up as your child's understanding of properties grows. For example, they can now understand geometric shapes and talk about them!\n\n**Counting sides:** Distinguishing between a triangle, square, rectangle, hexagon, and octagon will involve the idea of \"sides\" and being able to count those sides. Your child's growing understanding of quantities will make this counting possible. Also, as your child begins to automatically identify these shapes, that will help them to deepen their understand of the quantities for 3, 4, 6, and 8.\n\n**Basic shapes:** For now, stay with basic shapes and build confidence and fluency with those shapes. Of course, you can always mix in any additional shapes, such as stars, that your child happens to enjoy.\n\nHere is a list of words for flat shapes:\n\n* Circle\n* Triangle\n* Rectangle (looks like a piece of paper) \n* Square (rectangle with equal sides)\n* Hexagon (6 sides)\n* Octagon (8 sides – stop sign)\n\nThis is a list of words for 3-dimensional shapes:\n\n* Ball (Sphere)\n* Cylinder (Round tube) \n* Box (Cube)\n\n**Hands on:** Use and explain these shape names as your child plays with objects that have these shapes. Give them lots of opportunities to see how these fit together or build on top of each other. Help your child identify these shapes as you see the shapes out in the world.",
-    "text": "**Şekillerin dünyası::** Çocuğunuzun nesnelerin özelliklerini anlaması geliştikçe birçok yeni fırsat doğar. Mesela, artık geometrik şekilleri anlayabilir ve bunlar hakkında konuşabilirler.\n\n**Kenar sayma:** Üçgen, kare, dikdörtgen, altıgen ve sekizgen gibi şekilleri ayırt etmek, “kenar” kavramını ve bu kenarları saymayı gerektirir. Çocuğunuz şekillerin kenarlarını “miktar” konusunu kavrayınca daha rahat sayabilecektir. Bu farkındalık, çocuğunuz şekilleri kendi başına tanımaya başlayınca, onun 3, 4, 6 ve 8 gibi sayıların anlamını daha iyi kavramasına da yardımcı olacaktır.\n\n**Temel şekiller:** Başlangıçta temel şekillerle çalışın. Böylece çocuğunuz bu şekillere dair özgüven ve akıcılık kazanır. Elbette, çocuğunuzun sevdiği ek şekilleri de dahil edebilirsiniz (örneğin yıldız).\n\nDüz şekiller:\n\n* Daire\n* Üçgen\n* Dikdörtgen (bir kâğıt gibi)\n* Kare (eş kenarlı dikdörtgen)\n* Altıgen (6 kenar)\n* Sekizgen (8 kenar – dur işareti)\n\n3 boyutlu şekiller:\n\n* Top (Küre)\n* Silindir (Yuvarlak tüp)\n* Kutu (Küp)\n\n**Uygulamalı etkinlikler:** Çocuğunuz nesnelerle oynarken, nesnelerin şekillerini belirtin ve ne olduklarını açıklayın. Nesneleri birleştirme, sıralama ve tanıma etkinlikleriyle şekil bilgilerini pekiştirin. Dışarıda bu şekilleri gördüğünüzde onları fark etmelerine yardımcı olun.",
+    "text": "**Şekillerin dünyası:** Çocuğunuzun nesnelerin özelliklerini anlaması geliştikçe birçok yeni fırsat doğar. Mesela, artık geometrik şekilleri anlayabilir ve bunlar hakkında konuşabilirler.\n\n**Kenar sayma:** Üçgen, kare, dikdörtgen, altıgen ve sekizgen gibi şekilleri ayırt etmek, “kenar” kavramını ve bu kenarları saymayı gerektirir. Çocuğunuz şekillerin kenarlarını “miktar” konusunu kavrayınca daha rahat sayabilecektir. Bu farkındalık, çocuğunuz şekilleri kendi başına tanımaya başlayınca, onun 3, 4, 6 ve 8 gibi sayıların anlamını daha iyi kavramasına da yardımcı olacaktır.\n\n**Temel şekiller:** Başlangıçta temel şekillerle çalışın. Böylece çocuğunuz bu şekillere dair özgüven ve akıcılık kazanır. Elbette, çocuğunuzun sevdiği ek şekilleri de dahil edebilirsiniz (örneğin yıldız).\n\nDüz şekiller:\n\n* Daire\n* Üçgen\n* Dikdörtgen (bir kâğıt gibi)\n* Kare (eş kenarlı dikdörtgen)\n* Altıgen (6 kenar)\n* Sekizgen (8 kenar – dur işareti)\n\n3 boyutlu şekiller:\n\n* Top (Küre)\n* Silindir (Yuvarlak tüp)\n* Kutu (Küp)\n\n**Uygulamalı etkinlikler:** Çocuğunuz nesnelerle oynarken, nesnelerin şekillerini belirtin ve ne olduklarını açıklayın. Nesneleri birleştirme, sıralama ve tanıma etkinlikleriyle şekil bilgilerini pekiştirin. Dışarıda bu şekilleri gördüğünüzde onları fark etmelerine yardımcı olun.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "2.0 Stage 2 Introduction",
+    "text": "Aşama 2 — 5’e Kadar Sayabiliyorum!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Your child has mastered counting to five and understands those numbers in terms of quantities. They also understand that objects have various properties and that those properties can be compared and contrasted.\n\nDuring this Stage, your child will learn to count to ten and begin to understand adding and subtracting of small numbers. They will also become much better at understanding the size of small quantities of objects.\n\n**1. Counting up from 1 and 0** This is the foundation of understanding quantities, and builds a basis for addition and sub- traction.\n**2. Counting down to 1 and 0** This solidifies the understanding of the number sequence and helps with subtraction.\n**3. Comparing small quantities** Use quantities of objects to build understanding of relative sizes.\n**4. Counting On** Counting On helps with an understanding of quantities, saves time for counting, and is im- portant for adding.\n**5. Basic shapes II** Use more sophisticated geometric ideas of shapes.\n**6. One more and one less** Learning the next number and previous number are the first steps towards learning addition and subtraction.\n**7. Finger add and subtract to 5** Small sums up to 5 can be handled effectively with one hand.\n**8. Finger add and subtract to 10** Using your child's fingers is an effective way to do addition and subtraction to 10.\n**9. Skip counting by 2’s** This is a fun and fast way to count a group of objects.\n**10. Counting groups** Explore different ways of counting groups of objects.",
+    "text": "Çocuğunuz 5’e kadar saymayı öğrenmiştir ve bu sayıları miktarlarla ilişkilendirebilmektedir. Ayrıca nesnelerin çeşitli özelliklere sahip olduğunu ve bu özelliklerin karşılaştırılabileceğini ve ayırt edilebileceğini de anlamaktadır.\n\nBu aşamada çocuğunuz 10’a kadar saymayı öğrenecek ve küçük sayılarla toplama ve çıkarma kavramlarını tanımaya başlayacaktır. Ayrıca küçük miktarların büyüklüğünü anlamada çok daha yetkin hâle gelecektir.\n\n**Adım 11: 1 ve 0’dan Başlayarak İleri Sayma** Bu adım, miktarları anlamanın temelini oluşturur ve toplama ile çıkarma işlemleri için sağlam bir zemin hazırlar.\n**Adım 12: 1 ve 0’a Kadar Geri Sayma** Bu adım, sayı dizisinin anlaşılmasını pekiştirir ve çıkarma işlemini destekler.\n**Adım 13: Küçük Miktarları Karşılaştırma** Küçük miktarları birbirinden farklı kılan özellikler hakkında konuşun.\n**Adım 14: Ekleyerek Saymak** Ekleyerek sayma, miktarları anlamaya yardımcı olur, sayma süresini kısaltır ve toplama işlemi için önemlidir.\n**Adım 15: Temel Şekiller II** Şekillerle ilgili daha gelişmiş geometrik kavramları kullanmaya başlayın.\n**Adım 16: Bir Fazla ve Bir Eksik** Bir sonraki sayıyı ve bir önceki sayıyı öğrenmek, toplama ve çıkarma becerilerinin ilk adımlarıdır.\n**Adım 17: Parmaklarla 5’e Kadar Toplama ve Çıkarma** 5’e kadar olan küçük işlemler tek el kullanılarak etkili bir şekilde yapılabilir.\n**Adım 18: Parmaklarla 10’a Kadar Toplama ve Çıkarma** Çocuğunuzun parmaklarını kullanmak, 10’a kadar toplama ve çıkarma yapmak için etkili bir yöntemdir.\n**Adım 19: 2’şer Sayma** Bu, bir grup nesneyi saymanın eğlenceli ve hızlı bir yoludur.\n**Adım 20: Grupları Saymak** Nesne gruplarını saymanın farklı yollarını keşfedin.",
     "type": "data_list",
     "note": ""
   },
@@ -23599,7 +23623,7 @@
   },
   {
     "SourceText": "**Deepening explorations:** Bit by bit, your child's developing skills with shapes, counting, and de- scriptions will allow you to include more detailed and advanced aspects of shapes. Use lots of hands-on experiences for your child. Have your child fit pieces together, pile things on top of each other, put things inside other things, and study how shapes are put together in all the objects around them. As your child experiences these things, name and discuss the shapes, and ask lots of questions about them.\n\n**Shape words:** It may seem like there are a lot of words to learn. However, if you make a habit of exposing your child to these words, your child will pick them up slowly but surely.\n\nThis is a list of flat shapes:\n\n* Parallel lines (railroad tracks, two lines in the same direction that don't meet) \n* Right angle (angle found in the corner of a piece of paper)\n* Circle\n* Triangle\n* Rectangle (looks like a piece of paper, it has four right angles) \n* Square (rectangle with equal sides)\n* Parallelogram (opposite sides are parallel)\n* Rhombus (has four equal sides)\n* Trapezoid (one pair of parallel sides) \n* Pentagon (five sides)\n* Hexagon (6 sides)\n* Octagon (8 sides, stop sign)\n\nThis is a list of 3-dimensional shapes:\n\n* Sphere (Ball)\n* Cylinder (Round tube)\n* Box (Cube)\n* Pyramid (with a triangle or square as base)\n\n**Symmetries:** A lot of shapes have one side that looks like the other side upon being reflected. This is called mirror symmetry. The outside shape of a human body has mirror symmetry.\n\n**Tilings:** Point out tiling patterns to your child. A lot of buildings have tiling patterns on floors, walls, or ceilings. Brick walls often have interesting patterns made by their bricks. These patterns often have mirror symmetries.",
-    "text": "**Keşifleri Derinleştirme:** Zamanla, çocuğunuzun şekillerle, sayılarla ve tanımlamalarla becerileri gelişecektir. Bu sayede daha detaylı ve ileri düzey şekil tanımlarını de tanıtmaya başlayabilirsiniz. Bu süreçte birlikte bol bol pratik yapmayı ihmal etmeyin. Çocuğunuzun parçaları birleştirmesini, nesneleri üst üste koymasını, bir nesneyi diğerinin içine yerleştirmesini teşvik edin. Etrafındaki nesnelerin hangi şekillerden oluştuğunu birlikte gözlemleyin. Bu etkinlikler sırasında şekillerin isimlerini kullanın, onlardan bahsedin ve sık sık sorular yöneltin.\n\n**Şekil kelimeleri:** Bu alanda öğrenilecek çok fazla kelime varmış gibi görünebilir. Ama bu kelimeleri çocuğunuz yanında düzenli olarak tekrar ederseniz, onları zamanla yavaş ama sağlam bir şekilde öğrenmesini sağlarsınız.\n\nşekiller:\n\n* Paralel çizgiler (tren rayları gibi birbirine paralel ilerleyen, kesişmeyen iki çizgi)\n* Dik açı (kâğıt parçasının köşesindeki açı)\n* Daire\n* Üçgen\n* Dikdörtgen (kâğıt parçasına benzer ve dört dik açısı vardır)\n* Kare (eşit kenarlı bir dikdörtgen)\n* Paralelkenar (karşılıklı kenarları paralel)\n* Eşkenar dörtgen (dört eşit kenarı vardır)\n* Yamuk (sadece bir çift paralel kenarı vardır)\n* Beşgen (5 kenar)\n* Altıgen (6 kenar)\n* Sekizgen (8 kenar, örneğin dur işareti)\n\n3 boyutlu şekiller:\n\n* Küre (top)\n* Silindir (yuvarlak bir tüp)\n* Küp (kutu)\n* Piramit (tabanı üçgen ya da kare olabilir)\n\n**Simetri:** Birçok şekilde gördüğümüz üzere bir taraf, diğer tarafın yansıması gibidir. Buna ayna simetrisi denir. İnsan vücudunun dış hatları da ayna simetrisine örnektir.\n\n**Döşemeler:** Çocuğunuza döşeme desenleri gösterin. Birçok binanın zemininde, duvarında ya da tavanında tekrar eden döşeme desenleri yer alır. Tuğla duvarlar genellikle tuğlaların dizilimiyle oluşan ilginç örüntüler barındırır. Bu desenlerin çoğu ayna simetrisine sahiptir.",
+    "text": "**Keşifleri Derinleştirme:** Zamanla, çocuğunuzun şekillerle, sayılarla ve tanımlamalarla becerileri gelişecektir. Bu sayede daha detaylı ve ileri düzey şekil tanımlarını da tanıtmaya başlayabilirsiniz. Bu süreçte birlikte bol bol pratik yapmayı ihmal etmeyin. Çocuğunuzun parçaları birleştirmesini, nesneleri üst üste koymasını, bir nesneyi diğerinin içine yerleştirmesini teşvik edin. Etrafındaki nesnelerin hangi şekillerden oluştuğunu birlikte gözlemleyin. Bu etkinlikler sırasında şekillerin isimlerini kullanın, onlardan bahsedin ve sık sık sorular yöneltin.\n\n**Şekil kelimeleri:** Bu alanda öğrenilecek bol miktarda kelime varmış gibi görünebilir. Ama bu kelimeleri çocuğunuz yanında düzenli olarak tekrar ederseniz, onları zamanla yavaş ama sağlam bir şekilde öğrenmesini sağlarsınız.\n\nDüz (2 boyutlu) şekiller:\n\n* Paralel çizgiler (tren rayları gibi birbirine paralel ilerleyen, kesişmeyen iki çizgi)\n* Dik açı (kâğıt parçasının köşesindeki açı)\n* Daire\n* Üçgen\n* Dikdörtgen (kâğıt parçasına benzer ve dört dik açısı vardır)\n* Kare (eşit kenarlı bir dikdörtgen)\n* Paralelkenar (karşılıklı kenarları paralel)\n* Eşkenar dörtgen (dört eşit kenarı vardır)\n* Yamuk (sadece bir çift paralel kenarı vardır)\n* Beşgen (5 kenar)\n* Altıgen (6 kenar)\n* Sekizgen (8 kenar, örneğin dur işareti)\n\n3 boyutlu şekiller:\n\n* Küre (top)\n* Silindir (yuvarlak bir tüp)\n* Küp (kutu)\n* Piramit (tabanı üçgen ya da kare olabilir)\n\n**Simetri:** Birçok şekilde gördüğümüz üzere bir taraf, diğer tarafın yansıması gibidir. Buna ayna simetrisi denir. İnsan vücudunun dış hatları da ayna simetrisine örnektir.\n\n**Döşemeler:** Çocuğunuza döşeme desenleri gösterin. Birçok binanın zemininde, duvarında ya da tavanında tekrar eden döşeme desenleri yer alır. Tuğla duvarlar genellikle tuğlaların dizilimiyle oluşan ilginç örüntüler barındırır. Bu desenlerin çoğu ayna simetrisine sahiptir.",
     "type": "data_list",
     "note": ""
   },
@@ -23635,7 +23659,7 @@
   },
   {
     "SourceText": "**Fingers and quantities:** Using your child's fingers is an effective way to do addition and subtraction to 10, and it will build your child's confidence and understanding of these operations in terms of quantities. The focus of this step is using fingers in a simple way to do adding and subtracting problems whose largest number is ten or less.",
-    "text": "**Parmaklar ve miktarlar:** Çocuğunuzun parmaklarını kullanması, 10’a kadar olan toplama ve çıkarma işlemleri için hem etkili hem de kendine güven duyarak yapmasını sağlayan bir yöntemdir. Bu yöntem, çocuğunuzun toplama ve çıkarma işlemlerini miktarlar üzerinden düşünmesine ve bu işlemleri daha somut bir şekilde anlamasına yardımcı olur. Bu adımdaki hedefimiz, parmakları kullanarak 10’a kadar olan işlemleri basit ama etkili biçimde yapmaktır.",
+    "text": "**Parmaklar ve miktarlar:** Çocuğunuzun parmaklarını kullanması, 10’a kadar olan toplama ve çıkarma işlemleri için hem etkili hem de çocuğunuzun kendine güvenle yapmasını sağlayan bir yöntemdir. Bu yöntem, çocuğunuzun toplama ve çıkarma işlemlerini miktarlar üzerinden düşünmesine ve bu işlemleri daha somut bir şekilde anlamasına yardımcı olur. Bu adımdaki hedefimiz, parmakları kullanarak 10’a kadar olan işlemleri basit ama etkili biçimde yapmaktır.",
     "type": "data_list",
     "note": ""
   },
@@ -23647,7 +23671,7 @@
   },
   {
     "SourceText": "**Flash numbers:** A fun activity with your child is to flash a partially filled ten frame or a group of fingers on your two hands, and then have your child quickly recognize the quantity of things. If you use five or more fingers, put up five of those fingers on one hand so the two hands look like a ten frame. This activity also lays the groundwork for more easily using quantities on two hands for adding and subtracting.\n\n**Finger adding to 10:** If both numbers are five or less, put up the appropriate number of fingers on the two hands and count them up. Alternatively, put up the number of fingers for one of the numbers, and then count that many more fingers for the other number. When you are done, the total number of fingers shown will be the sum.\n\n**Finger subtracting to 10:** Do subtracting from numbers that are ten or less by putting up the number of fingers for the number being subtracted from. Then put down one finger at a time as you count up the number that is being subtracted. The resulting number of fingers left up is the answer.",
-    "text": "**Anlık sayılar:** Eğlenceli bir etkinlik olarak, çocuğunuza kısa süreliğine bazı parmaklarınızı ya da kısmen doldurulmuş bir onluk çerçevesi gösterin ve bu miktarı hızlıca söylemesini isteyin. Eğer 5 veya daha fazla parmak gösterecekseniz, bir elinizdeki bütün beş parmağı kaldırın. Böylece iki el birlikte bir onluk çerçevesine benzer. Bu etkinlik, çocuğunuzun iki eli birden kullanarak daha rahat toplama ve çıkarma yapmasının önünü açar.\n\n**10’a kadar parmakla toplama:** Her iki sayı da 5 veya 5’ten küçükse, iki elinizle uygun sayıda parmağı kaldırın ve toplamı birlikte sayın. Alternatif olarak, önce sayılardan biri kadar parmak kaldırın, ardından diğer sayı kadar parmak daha ekleyin. En sonunda gösterilen toplam parmak sayısı işleminin sonucunu verir.\n\n**10’a kadar parmakla çıkarma:** 10’a kadar olan sayılardan çıkarma yapmak için, önce çıkarma yapılacak sayı kadar parmağı kaldırın. Ardından çıkarılacak sayı kadar parmağı birer birer indirerek sonucu bulun. Yukarıda kalan parmak sayısı, işlemin cevabını verir.",
+    "text": "**Anlık sayılar:** Eğlenceli bir etkinlik olarak, çocuğunuza kısa süreliğine bazı parmaklarınızı ya da kısmen doldurulmuş bir onluk çerçevesi gösterin ve bu miktarı hızlıca söylemesini isteyin. Eğer 5 veya daha fazla parmak gösterecekseniz, bir elinizdeki bütün beş parmağı kaldırın. Böylece iki el birlikte bir onluk çerçevesine benzer. Bu etkinlik, çocuğunuzun iki eli birden kullanarak daha rahat toplama ve çıkarma yapmasının önünü açar.\n\n**10’a kadar parmakla toplama:** Her iki sayı da 5 veya 5’ten küçükse, iki elinizle uygun sayıda parmağı kaldırın ve toplamı birlikte sayın. Alternatif olarak, önce sayılardan biri kadar parmak kaldırın, ardından diğer sayı kadar parmak daha ekleyin. En sonunda gösterilen toplam parmak sayısı, işlemin sonucunu verir.\n\n**10’a kadar parmakla çıkarma:** 10’a kadar olan sayılardan çıkarma yapmak için, önce çıkarma yapılacak sayı kadar parmağı kaldırın. Ardından çıkarılacak sayı kadar parmağı birer birer indirerek sonucu bulun. Yukarıda kalan parmak sayısı, işlemin cevabını verir.",
     "type": "data_list",
     "note": ""
   },
@@ -23659,7 +23683,7 @@
   },
   {
     "SourceText": "**It's fast and fun:** Show your child that this is a fun way of counting that goes a lot more quickly than counting by 1's. If you pair things up and then skip count them by 2's, you will reinforce how paired things come in twos.\n\n**Getting started with skip counting:** Introduce skip counting in two ways. One way is to take turns with your child as you count up to some number, alternating numbers as you go – one of you will be skip counting starting at 0, and the other will be starting at 1. After some practice, one of you stays silent and the other one counts as before, saying every other number.\n\nThe other way for your child to get used to skip counting is to count up to some number normally the first time. Then do that counting again by saying every other number softly. Continue this practice until the softly-spoken numbers are not spoken at all.\n\n**Start at numbers other than 0:** It is tempting to always start at 0. However, if you start at other numbers, such as 1, you will be helping your child with adding skills as well as multiplying and dividing skills.\n\n**Skip count downwards sometimes:** Skip counting downwards helps with subtracting skills and with dividing skills.",
-    "text": "**Hızlı ve eğlenceli:** Çocuğunuza 2’şer saymanın 1’er saymadan çok daha hızlı ve eğlenceli bir yol olduğunu gösterin. Nesneleri ikili gruplar hâlinde eşleştirip 2’şer saymak, çiftlerin ikişer olduğu fikrini pekiştirmeye yardımcı olur.\n\n**2’şer saymaya başlamak:** 2’şer saymayı çocuğunuza tanıtmanın iki yolu vardır. Bir yol, sırayla belirli bir sayıya kadar sayarken, sayıları dönüşümlü olarak söylemektir. Çocuğunuzla ile biriniz 0’dan, diğeriniz 1’den başlayacak şekilde sayarsınız. Biraz pratik yaptıktan sonra, biriniz sessiz kalırken diğeriniz her iki sayıda birini söyleyecek şekilde saymaya devam eder.\n\nİkinci yol: İlk olarak normal şekilde 1’er sayarak belirli bir sayıya kadar sayın. Ardından aynı saymayı tekrar edin ama bu kez her iki sayıdan birini sessizce söyleyin. Pratik yaptıkça bu sessizce söylenen sayılar tamamen ortadan kalkar ve sadece 2’şer sayılar duyulur.\n\n**0’dan başka sayılarla başlayın:** Her sefer 0’dan başlamak isteyebilirsiniz. Ancak 1 gibi başka sayılardan başlamak da çocuğunuzun toplama becerilerine katkı sağlar. Aynı zamanda çarpma ve bölme becerilerinin gelişimine de destek olur.\n\n**Geri doğru 2’şer sayın:** 2’şer geri saymak, çıkarma işlemlerini anlamaya ve bölme becerilerini geliştirmeye yardımcı olur.",
+    "text": "**Hızlı ve eğlenceli:** Çocuğunuza 2’şer saymanın 1’er saymadan çok daha hızlı ve eğlenceli bir yol olduğunu gösterin. Nesneleri ikili gruplar hâlinde eşleştirip 2’şer saymak, çiftlerin ikişer olduğu fikrini pekiştirmeye yardımcı olur.\n\n**2’şer saymaya başlamak:** 2’şer saymayı çocuğunuza tanıtmanın iki yolu vardır. Bir yol, sırayla belirli bir sayıya kadar sayarken, sayıları dönüşümlü olarak söylemektir. Biriniz 0’dan, diğeriniz 1’den başlayacak şekilde dönüşümlü sayarsınız. Biraz pratik yaptıktan sonra, biriniz sessiz kalırken diğeriniz her iki sayıda birini söyleyecek şekilde saymaya devam eder.\n\nİkinci yol: İlk olarak normal şekilde 1’er sayarak belirli bir sayıya kadar sayın. Ardından aynı saymayı tekrar edin ama bu kez her iki sayıdan birini sessizce söyleyin. Pratik yaptıkça bu sessizce söylenen sayılar tamamen ortadan kalkar ve sadece 2’şer sayılar duyulur.\n\n**0’dan başka sayılarla başlayın:** Her sefer 0’dan başlamak isteyebilirsiniz. Ancak 1 gibi başka sayılardan başlamak da çocuğunuzun toplama becerilerine katkı sağlar. Aynı zamanda çarpma ve bölme becerilerinin gelişimine de destek olur.\n\n**Geri doğru 2’şer sayın:** 2’şer geri saymak, çıkarma işlemlerini anlamaya ve bölme becerilerini geliştirmeye yardımcı olur.",
     "type": "data_list",
     "note": ""
   },
@@ -23671,13 +23695,25 @@
   },
   {
     "SourceText": "**Variety:** Skip counting is one way to add interest to counting a group of objects, and there are often many other ways as well. Show your child that they can use their imagination to explore the many other interesting ways they can count a picture of some objects.",
-    "text": "**Çeşitlilik:** Atlayarak saymak, nesneleri saymayı daha ilgi çekici kılan yollarından sadece biridir. Bunun yanı sıra başka pek çok farklı yöntem de vardır. Çocuğunuza bir resimdeki nesneleri hayal gücünü kullanarak farklı ilginç şekillerde de sayabileceğini gösterin.",
+    "text": "**Çeşitlilik:** Atlayarak saymak, nesneleri saymayı daha ilgi çekici kılan yollardan sadece biridir. Bunun yanı sıra başka pek çok farklı yöntem de vardır. Çocuğunuza bir resimdeki nesneleri hayal gücünü kullanarak farklı ilginç şekillerde de sayabileceğini gösterin.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "**Ten frames:** Ten frames offer a simple example of different ways to count. Suppose you have seven dots in the usual way in a ten frame. You can count this as 5 plus 2 more. You can count by 2's from left to right to get to 4, and then add the 3 single dots. Or, you can see the 3 blank squares and count this as 3 less than 10.\n\n**Be playful:** Play with all the different ways you and your child can do the counting. Seeing different ways to get the answer will open your child's eyes that math is about exploring and play, and not about arriving at an answer in some preferred way. All these different ways of counting will also develop a deeper understanding of quantities for your child.\n\n**Additive approaches:** One way to count up a group of objects is to add up the different parts of the group. That's what we did in this ten frame example when we added up 5 from the top row to the 2 in the bottom row.\n\n**Skip counting:** You may see a repeated pattern when you add up the parts of a group. That's what happened when we started by skip counting the two 2's on the left side.\n\n**Subtracting:** Another common technique is to subtract off what is missing from what would oth- erwise be a whole collection. That's what we did when we subtracted 3 from 10 in this example.",
-    "text": "**On çerçeveleri:** On çerçeveleri, farklı sayma yollarını göstermek için güzel ve basit bir örnektir. Diyelim ki çerçevede 7 nokta var. Bunu “5 artı 2” olarak sayabilirsiniz. Ya da soldan sağa doğru 2’şer sayarak önce 4’e ulaşır, ardından kalan 3 noktayı eklersiniz. Alternatif olarak boş kareleri sayar, bunu “10’dan 3 eksik” şeklinde düşünürsünüz.\n\n**Oyun oynayın:** Çocuğunuzla birlikte, aynı şeyi farklı şekillerde saymayı denemek oyunun bir parçası hâline gelebilir. Bu çeşitlilik, çocuğunuzun matematiği sadece doğru cevaba ulaşma aracı değil, aynı zamanda bir keşif ve oyun alanı olarak görmesini sağlar. Farklı yollarla yapılan her sayım, çocuğunuzun ayrıca miktar kavramını daha iyi anlamasını sağlar.\n\n**Toplamsal yaklaşımlar:** Bir grubu saymanın bir yolu, onu parçalara ayırıp her parçayı tek tek saymak ve sonra bunları toplamaktır. Yukarıdaki on çerçevesi örneğinde, üst sıradaki 5 noktayı alt sıradaki 2 noktayla topladık.\n\n**Atlayarak sayma:** Bir grubun parçalarını toplarken tekrar eden bir desen görebilirsiniz. Bu, örneğin soldaki iki çift 2’yi atlayarak saydığımızda karşılaştığımız durum.\n\n**Çıkarma:** Başka bir yaygın yöntem, tam olan bir gruptan eksik olanı çıkararak geriye kaç kaldığını bulmaktır. Yukarıdaki örnekte 10’dan 3 çıkararak yaptığımız da tam olarak budur.",
+    "text": "**On çerçeveleri:** On çerçeveleri, farklı sayma yollarını göstermek için güzel ve basit bir örnektir. Diyelim ki çerçevede 7 nokta var. Bunu “5 artı 2” olarak sayabilirsiniz. Ya da soldan sağa doğru 2’şer sayarak önce 4’e ulaşır, ardından kalan 3 noktayı eklersiniz. Alternatif olarak boş kareleri sayar, bunu “10’dan 3 eksik” şeklinde düşünürsünüz.\n\n**Oyun oynayın:** Çocuğunuzla birlikte, aynı şeyi farklı şekillerde saymayı denemek oyunun bir parçası hâline gelebilir. Bu çeşitlilik, çocuğunuzun matematiği sadece doğru cevaba ulaşma aracı değil, aynı zamanda bir keşif ve oyun alanı olarak görmesini sağlar. Farklı yollarla yapılan her sayım, çocuğunuzun ayrıca miktar kavramını daha iyi anlamasını sağlar.\n\n**Toplamsal yaklaşımlar:** Bir grubu saymanın bir yolu, onu parçalara ayırıp her parçayı tek tek saymak ve sonra bunları toplamaktır. Yukarıdaki on çerçevesi örneğinde, üst sıradaki 5 noktayı alt sıradaki 2 noktayla topladık.\n\n**Atlayarak sayma:** Bir grubun parçalarını toplarken tekrar eden bir desen görebilirsiniz. Bu, örneğin soldaki iki çifti 2’şer sayarak atladığımızda karşılaştığımız durumdur.\n\n**Çıkarma:** Başka bir yaygın yöntem, tam olan bir gruptan eksik olanı çıkararak geriye kaç kaldığını bulmaktır. Yukarıdaki örnekte 10’dan 3 çıkararak yaptığımız da tam olarak budur.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "3.0 Stage 3 Introduction",
+    "text": "Aşama 3 — 10’a Kadar Sayabiliyorum!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Your child has become comfortable with counting to ten, and those numbers and quantities are now more meaningful. Your child is much better now with adding and subtracting small numbers.\n\nThis Stage extends counting to 20, and it extends the range of numbers your child can add and subtract. It also introduces the beginning of multiplying and dividing. Finally, your child's improving analytical skills and maturity warrant a discussion of early ideas for playing strategy games.\n\n**1. Mental adding by Counting On** Adding by Counting On from one of the numbers is an important step in learning addition.\n**2. Mental subtracting – take away** Subtracting by taking away and counting down is an important step in learning subtraction.\n**3. Mental subtracting – difference** Another way to subtract is to find the difference between two numbers by Counting On.\n**4. Number bonds** Number bonds reinforce part and whole concepts, as well as fact families for addition and subtraction.\n**5. Place value** Introduce your child to the role of 10 in the numbers up to 20.\n**6. Fact families** The facts 2 + 3 = 5, 3 + 2 = 5, 5 - 2 = 3, and 5 - 3 = 2 are connected. Knowing this deepens the understanding of each fact.\n**7. Adding twins and near twins** Most children learn adding twins easily. This provides a foundation for doubling.\n**8. Multiply and Divide by 2** This is the start of many concepts – doubling, multiplying by 2, halving, dividing by 2, and equal sharing.\n**9. Skip counting by 2s II** Further develop skip counting by 2s by going up and down and starting with any number.\n**10. Strategy games I** These games naturally motivate children to do problem solving.",
+    "text": "Çocuğunuz artık 10’a kadar sayma konusunda kendini rahat hissetmektedir ve bu sayılar ile miktarlar onun için daha anlamlı hâle gelmiştir. Ayrıca küçük sayılarla toplama ve çıkarma konusunda da çok daha yetkindir.\n\nBu aşama, saymayı 20’ye kadar genişletir ve çocuğunuzun toplayıp çıkarabildiği sayı aralığını artırır. Aynı zamanda çarpma ve bölmeye giriş niteliğindeki ilk fikirleri tanıtır. Son olarak, çocuğunuzun gelişen analitik becerileri ve olgunluğu, strateji oyunlarına yönelik erken fikirlerin konuşulmasını mümkün kılar.\n\n**Adım 21: Zihinde Toplamak – Ekleyerek Sayma** Ekleyerek sayma yoluyla toplama yapmak, toplama becerilerini öğrenmede önemli bir adımdır.\n**Adım 22: Zihinde Çıkarmak – Eksiltme** Geriye doğru sayarak çıkarma yapmak, çıkarma becerilerini öğrenmede önemli bir adımdır.\n**Adım 23: Zihinde Çıkarmak – Fark** Çıkarmanın bir başka yolu da, iki sayı arasındaki farkı ekleyerek sayma yoluyla bulmaktır.\n**Adım 24: Sayı Bağları** Sayı bağları, parçalar ile bütün arasındaki ilişkiyi güçlendirir ve toplama ile çıkarma için sayı ailelerini destekler.\n**Adım 25: Yer Değeri** 10’un, 20’ye kadar olan sayılardaki rolünü çocuğunuza tanıtın.\n**Adım 26: Sayı Aileleri** 2 + 3 = 5, 3 + 2 = 5, 5 − 2 = 3 ve 5 − 3 = 2 işlemleri birbiriyle ilişkilidir. Bu ilişkileri bilmek, her bir işlemin daha iyi anlaşılmasını sağlar.\n**Adım 27: İkizleri ve Yakın İkizleri Toplama** Çoğu çocuk ikizleri (aynı sayıları) toplama işlemini kolayca öğrenir. Bu beceri, 2 ile çarpma (iki katını alma) için sağlam bir temel oluşturur.\n**Adım 28: 2 ile Çarpma ve Bölme** Bu adım; iki katını alma, 2 ile çarpma, yarıya bölme, 2’ye bölme ve eşit paylaşma gibi pek çok kavramın başlangıcıdır.\n**Adım 29: İkişer Sayma II** Herhangi bir sayıdan başlayarak ileri ve geri ikişer sayma çalışmalarıyla bu beceriyi daha da geliştirin.\n**Adım 30: Strateji Oyunları I** Bu oyunlar, çocukları problem çözmeye doğal bir şekilde motive eder.",
     "type": "data_list",
     "note": ""
   },
@@ -23689,7 +23725,7 @@
   },
   {
     "SourceText": "**Gradual change:** As your child develops skill with small adding and subtracting problems, gradually shift over to doing more of these calculations mentally. Don't be in a hurry to memorize. This time spent calculating answers by seeing the relationships between numbers will pay off handsomely in terms of a much better feel and understanding of numbers. If your child masters these facts by grinding through repeated drills with flash cards, you will have thrown away this important opportunity.\n\n**Counting on:** Use 6 + 3 as an example of adding by Counting On.\n\nInitially, your child will want to do this using their fingers, and that is fine. Say \"6\" and have a closed fist to indicate 0. Next, count up \"7, 8, 9\" and raise one finger with each number. Stop at 9, when three fingers have been raised.\n\nOver time, using fingers with small addition problems will become less necessary. Your child will start to mentally see the change of 3 in going from 6 to 9, and will no longer need to use fingers – just as they no longer need fingers for adding 1 or 2.\n\n**Start from the larger number:** With experience, your child will start to realize that it is easier and faster to start with the larger of the two numbers. For example, it is easier to do 3 + 6 as 6 Counted On with 3 more than it is do it as 3 Counted On with 6 more. Part of making this choice is realizing that the results of 3 + 6 and 6 + 3 are the same. This important observation will mean learning only about half as many addition facts!",
-    "text": "**Aşamalı değişim:** Çocuğunuz küçük toplama ve çıkarma işlemleri yapmakta geliştikçe, bu hesaplamaların bir kısmını yavaş yavaş zihinden yapmaya başlayın. Bu aşamada acele edip ezber yapmayın. Sayılar arasındaki ilişkileri görerek sonuç bulmak, zamanla sayıların çok daha iyi anlaşılmasını sağlar. Eğer çocuğunuz bu gerçekleri sadece tekrar eden alıştırmalarla, örneğin kartlarla ezberlerse, bu önemli fırsatı kaçırmış olursunuz.\n\n**Ekleyerek Saymak:** Ekleyerek Sayma yöntemini kullanarak toplama yapın. Bunun için örnek olarak 6 + 3 işlemini kullanın.\n\nBaşlangıçta çocuğunuz bunu parmaklarını kullanarak yapmak isteyebilir, bu da gayet doğaldır. “6” deyin ve 0’ı ifade etmek için elinizi bir yumruk haline getirin. Sonra “7, 8, 9” diye sayın ve her sayıyla bir parmak kaldırın. Üç parmak kaldırıldığında, 9’da durun.\n\nZamanla, çocuğunuz küçük toplama problemlerinde parmak kullanmaya daha az ihtiyaç duyacaktır. 6’dan 9’a gitmenin 3 sayılık bir değişim olduğunu zihninde görebilecek ve 1 ya da 2 eklerken parmak kullanmaya ihtiyaç duymadığı gibi, burada da ihtiyaç duymayacaklardır.\n\n**Büyük sayıdan başlamak:** Çocuğunuz deneyim kazandıkça, iki sayıdan büyük olanla başlamanın daha kolay ve hızlı olduğunu fark etmeye başlayacaktır. Örneğin, 3 + 6 işlemini yapmak için 6’dan başlayıp 3 Ekleyerek Saymak, 3’ten başlayıp 6 Ekleyerek Saymaktan daha kolaydır. Bu tercihin bir parçası da, 3 + 6 ile 6 + 3’ün aynı sonuca ulaştığını fark etmektir. Bu önemli gözlem, çocuğunuzun öğreneceği toplama kurallarının sayısını yarıya indirecektir!",
+    "text": "**Aşamalı değişim:** Çocuğunuz küçük toplama ve çıkarma işlemleri yapmakta geliştikçe, bu hesaplamaların bir kısmını yavaş yavaş zihinden yapmaya başlayın. Bu aşamada acele edip ezber yapmayın. Sayılar arasındaki ilişkileri görerek sonuç bulmak, zamanla sayıların çok daha iyi anlaşılmasını sağlar. Eğer çocuğunuz bu gerçekleri sadece tekrar eden alıştırmalarla, örneğin kartlarla ezberlerse, bu önemli fırsatı kaçırmış olursunuz.\n\n**Ekleyerek Saymak:** Ekleyerek Sayma yöntemini kullanarak toplama yapın. Bunun için örnek olarak 6 + 3 işlemini kullanın.\n\nBaşlangıçta çocuğunuz bunu parmaklarını kullanarak yapmak isteyebilir, bu da gayet doğaldır. “6” deyin ve 0’ı ifade etmek için elinizi bir yumruk haline getirin. Sonra “7, 8, 9” diye sayın ve her sayıyla bir parmak kaldırın. Üç parmak kaldırıldığında, 9’da durun.\n\nZamanla, çocuğunuz küçük toplama problemlerinde parmak kullanmaya daha az ihtiyaç duyacaktır. 6’dan 9’a gitmenin 3 sayılık bir değişim olduğunu zihninde görebilecek ve 1 ya da 2 eklerken parmak kullanmaya ihtiyaç duymadığı gibi, burada da ihtiyaç duymayacaklardır.\n\n**Büyük sayıdan başlamak:** Çocuğunuz deneyim kazandıkça, iki sayıdan büyük olanla başlamanın daha kolay ve hızlı olduğunu fark etmeye başlayacaktır. Örneğin, 3 + 6 işlemini yapmak için 6’dan başlayıp 3 ekleyerek saymak, 3’ten başlayıp 6 Ekleyerek Saymaktan daha kolaydır. Bu tercihin bir parçası da, 3 + 6 ile 6 + 3’ün aynı sonuca ulaştığını fark etmektir. Bu önemli gözlem, çocuğunuzun öğreneceği toplama kurallarının sayısını yarıya indirecektir!",
     "type": "data_list",
     "note": ""
   },
@@ -23701,7 +23737,7 @@
   },
   {
     "SourceText": "**Two kinds of subtraction:** There are two models for subtraction, and both are important. The first is taking away. If you are asked to subtract 3 things from 9 things, you will probably think of this as taking away or removing 3 of the things. The second model involves difference. The difference between two numbers is the distance between them . If you are asked to subtract 7 from 9, you are likely to do this be finding how far apart they are, what their difference is.\n\nBoth understandings of subtraction are needed and are useful. For mental arithmetic, having a choice of using take away or difference can make a big difference in the ease of the calculation. Additionally, some problems are more naturally understood as take away or difference problems.\n\n**Counting down:** Counting down is a natural way to do take away. Use 9 - 3 as an example of subtracting by counting down.\n\nAs with adding, your child may want to initially do this using their fingers, and that is fine. Say \"9\" and have a closed fist to indicate 0. Next, count down \"8, 7, 6\" and raise one finger with each number. Stop at 6, when three fingers have been raised.\n\nOver time, using fingers with small subtraction problems will become less necessary. Your child will start to mentally see the change of 3 in going from 9 to 6, and will no longer need to use fingers – just as they no longer need fingers for subtracting 1 or 2.\n\n**Subtracting 1 to 4:** With practice, your child will build up speed using this approach for subtracting the numbers from 1 to 4. Take your time and make sure everyone enjoys the process.",
-    "text": "**İki tür çıkarma:** Çıkarma için iki model vardır ve her ikisi de önemlidir. İlki eksiltmedir. Eğer sizden 9 şeyden 3’ünü çıkarmanız istenirse, bunu muhtemelen 3 şeyi alıp kaldırmak ya da eksiltmek olarak düşünürsünüz. İkinci model fark kavramını içerir. İki sayı arasındaki fark, aralarındaki uzaklıktır. Sizden 9’dan 7’yi çıkarmanız istenirse, muhtemelen aralarındaki mesafeyi, yani farkı bularak yaparsınız.\n\nBu iki çıkarma yöntemi de gereklidir ve faydalıdır. Zihinde yapılan aritmetik işlemler için eksiltme ya da fark yöntemlerinden birini tercih etmek, işlemi kolaylaştırma açısından büyük fark yaratabilir. Ayrıca, bazı problemler eksiltme olarak, bazıları da fark olarak daha doğal bir şekilde çözülür.\n\n**Geriye sayma:** Geriye saymak, eksiltme işlemi için doğal bir yöntemdir. Bunun için örnek olarak 9 - 3 çıkarma işlemini kullanın.\n\nToplamada olduğu gibi, çocuğunuz başlangıçta bunu parmaklarını kullanarak yapmak isteyebilir, bu da gayet doğaldır. “9” deyin ve 0’ı ifade etmek için elinizi bir yumruk haline getirin. Sonra “8, 7, 6” diye geriye sayın ve her sayı ile bir parmak kaldırın. Üç parmak kaldırdığınızda 6’da durun.\n\nZamanla, çocuğunuz küçük çıkarma işlemleri için parmak kullanmaya daha az ihtiyaç duyacaktır. 9’dan 6’ya gitmenin 3 sayılık bir değişim olduğunu zihinsel olarak görmeye başlayacak ve artık 1 ya da 2 çıkarma işlemleri için parmak kullanmadığı gibi burada da kullanmayacaktır.\n\n**1’den 4’e kadar çıkarma:** Çocuğunuz alıştırma yaptıkça 1’den 4’e kadar olan sayıları bu yöntemle çıkarmada hız kazanacaktır. Acele etmeyin ve herkesin bu süreçten keyif aldığından emin olun.",
+    "text": "**İki tür çıkarma:** Çıkarma için iki model vardır ve her ikisi de önemlidir. İlki eksiltmedir. Eğer sizden 9 şeyden 3’ünü çıkarmanız istenirse, bunu muhtemelen 3 şeyi alıp kaldırmak ya da eksiltmek olarak düşünürsünüz. İkinci model fark kavramını içerir. İki sayı arasındaki fark, aralarındaki uzaklıktır. Sizden 9’dan 7’yi çıkarmanız istenirse, muhtemelen aralarındaki mesafeyi, yani farkı bularak yaparsınız.\n\nBu iki çıkarma yöntemi de gereklidir ve faydalıdır. Zihinde yapılan aritmetik işlemler için eksiltme ya da fark yöntemlerinden birini tercih etmek, işlemi kolaylaştırma açısından büyük fark yaratabilir. Ayrıca, bazı problemler eksiltme olarak, bazıları da fark olarak daha doğal bir şekilde çözülür.\n\n**Geriye sayma:** Geriye saymak, eksiltme işlemi için doğal bir yöntemdir. Bunun için örnek olarak 9 - 3 çıkarma işlemini kullanın.\n\nToplamada olduğu gibi, çocuğunuz başlangıçta bunu parmaklarını kullanarak yapmak isteyebilir, bu da gayet doğaldır. “9” deyin ve 0’ı ifade etmek için elinizi bir yumruk haline getirin. Sonra “8, 7, 6” diye geriye sayın ve her sayıyla bir parmak kaldırın. Üç parmak kaldırdığınızda 6’da durun.\n\nZamanla, çocuğunuz küçük çıkarma işlemleri için parmak kullanmaya daha az ihtiyaç duyacaktır. 9’dan 6’ya gitmenin 3 sayılık bir değişim olduğunu zihinsel olarak görmeye başlayacak ve artık 1 ya da 2 çıkarma işlemleri için parmak kullanmadığı gibi burada da kullanmayacaktır.\n\n**1’den 4’e kadar çıkarma:** Çocuğunuz alıştırma yaptıkça 1’den 4’e kadar olan sayıları bu yöntemle çıkarmada hız kazanacaktır. Acele etmeyin ve herkesin bu süreçten keyif aldığından emin olun.",
     "type": "data_list",
     "note": ""
   },
@@ -23713,7 +23749,7 @@
   },
   {
     "SourceText": "**Distance or gap size:** If you are asked to find the difference between two numbers, you are doing a subtraction problem. Finding the difference is understood as finding the distance between the numbers, and this can be calculated by asking what number needs to be added to span the gap between them.\n\n**Counting On:** Use finding the difference of 9 and 6 as an example. Calculate this by keeping track of how many numbers you use as you Count On from 6 to 9. As with the instructions for adding in a previous learning step, this can be done with or without fingers. If your child has been practicing adding problems, they can probably very quickly count \"7, 8, 9\" and see that the gap is 3.\n\n**Subtracting and adding:** Using Counting On to find the difference is a great way to see the connec- tion between adding and subtracting. When we Counted On starting at 6 to add 6 + 3, we wanted to find the result of Counting On three times. When we Counted On from 6 to find 9 - 6, we knew the result of 9 and wanted to find out what we needed to add to 6 to get there.\n\n**Differences of 1 to 4:** With practice, your child will build up speed using this approach for finding differences of sizes 1 to 4. Take your time and make sure everyone enjoys the process.",
-    "text": "**Mesafe ya da aralık büyüklüğü:** Eğer sizden iki sayı arasındaki farkı bulmanız isteniyorsa, bir çıkarma işlemi yapıyorsunuz demektir. Farkı bulmak, sayılar arasındaki mesafeyi bulmak anlamına gelir ve bu, iki sayı arasındaki boşluğu kapatmak için hangi sayının eklenmesi gerektiği sorularak hesaplanabilir.\n\n**Ekleyerek Saymak:** Örnek olarak 9 ve 6 arasındaki farkı bulun. Bu farkı hesaplamak için, 6’dan başlayarak 9’a kadar Ekleyerek Sayın ve kaç sayı kullandığınıza dikkat edin. Daha önceki bir öğrenme adımında olduğu gibi, bu işlem parmakla da yapılabilir, parmaksız da. Çocuğunuz daha önce toplama problemleriyle pratik yaptıysa, büyük ihtimalle “7, 8, 9” diye hızla sayabilir ve farkın 3 olduğunu fark edebilir.\n\n**Çıkarma ve toplama:** Farkı bulmak için Ekleyerek Sayma yöntemini kullanmak, toplama ve çıkarma arasındaki ilişkiyi görmek için harika bir yoldur. 6 + 3 işlemini yaparken 6’dan başlayarak Ekleyerek Saydık, yani üç sayı ekleyerek ilerledik. Aynı şekilde, 6’dan başlayarak 9 - 6 işlemi için ekleyerek saydığımızda, 9’a ulaşmak için 6’ya ne eklememiz gerektiğini bulduk.\n\n**1’den 4’e kadar olan farklar:** Çocuğunuz alıştırma yaptıkça 1’den 4’e kadar olan sayıları bu yöntemle çıkarmada hız kazanacaktır. Acele etmeyin ve herkesin bu süreçten keyif aldığından emin olun.",
+    "text": "**Mesafe ya da aralık büyüklüğü:** Eğer sizden iki sayı arasındaki farkı bulmanız isteniyorsa, bir çıkarma işlemi yapıyorsunuz demektir. Farkı bulmak, sayılar arasındaki mesafeyi bulmak anlamına gelir ve bu, iki sayı arasındaki boşluğu kapatmak için hangi sayının eklenmesi gerektiği sorularak hesaplanabilir.\n\n**Ekleyerek Saymak:** Örnek olarak 9 ve 6 arasındaki farkı bulun. Bu farkı hesaplamak için, 6’dan başlayarak 9’a kadar ekleyerek sayın ve kaç sayı kullandığınıza dikkat edin. Daha önceki bir öğrenme adımında olduğu gibi, bu işlem parmakla da yapılabilir, parmaksız da. Çocuğunuz daha önce toplama problemleriyle pratik yaptıysa, büyük ihtimalle “7, 8, 9” diye hızla sayabilir ve farkın 3 olduğunu fark edebilir.\n\n**Çıkarma ve toplama:** Farkı bulmak için Ekleyerek Sayma yöntemini kullanmak, toplama ve çıkarma arasındaki ilişkiyi görmek için harika bir yoldur. 6 + 3 işlemini yaparken 6’dan başlayarak ekleyerek saydık, yani üç sayı ekleyerek ilerledik. Aynı şekilde, 6’dan başlayarak 9 - 6 işlemi için ekleyerek saydığımızda, 9’a ulaşmak için 6’ya ne eklememiz gerektiğini bulduk.\n\n**1’den 4’e kadar olan farklar:** Çocuğunuz alıştırma yaptıkça 1’den 4’e kadar olan sayıları bu yöntemle çıkarmada hız kazanacaktır. Acele etmeyin ve herkesin bu süreçten keyif aldığından emin olun.",
     "type": "data_list",
     "note": ""
   },
@@ -23725,7 +23761,7 @@
   },
   {
     "SourceText": "**Part and whole:** Seeing a whole thing as being made up of its parts is an important developmental step for a child. The number bonds for a number, say 6, are all the ways of pairing two numbers that add up to 6. It is all the ways of taking the whole of 6 and breaking it into two parts. This reinforces an understanding of the connection between addition and subtraction as forming groups of fact families – a topic to be covered in an upcoming learning step.\n\n**What's missing?:** Let's continue using number bonds for 6 as our example. The number bonds for 6 are: 0 + 6, 1 + 5, 2 + 4, and 3 + 3. A child who has learned these well will then have little trouble answering the question: \"What do I need to add to 2 to get 6?\" They will know that 2 + 4 is a number bond for 6, so 4 is the part of 6 that is missing.",
-    "text": "**Parça ve bütün:** Bir şeyi, onu oluşturan parçalardan oluşan bir bütün olarak görmek, çocuklar için önemli bir adımıdır. Sayı bağları, bir sayının değerini toplanınca veren bütün iki sayılardır. Örnek olarak 6’yı ele alalım. 6’nın sayı bağları, 6’yı bir bütün olarak alıp iki parçaya ayırmanın farklı yollarıdır. Bu aynı zamanda toplama ve çıkarma arasındaki bağlantıyı, sayı aileleri şeklinde değerlendirmeyi de pekiştirir. Bu konu ileriki bir öğrenme adımında ele alınacaktır.\n\n**Eksik olan ne?:** 6 için sayı bağlarını kullanmaya devam edelim. 6’nın sayı bağları şunlardır: 0 + 6, 1 + 5, 2 + 4 ve 3 + 3. Bu bağları iyi öğrenmiş bir çocuk, “6’ya ulaşmak için 2’ye ne eklemem gerekiyor?” sorusuna cevap vermekte zorlanmayacaktır. 2 + 4’ün 6 için bir sayı bağı olduğunu bilecek, yani bu durumda 6’nın eksik parçasının 4 olduğunu anlayacaktır.",
+    "text": "**Parça ve bütün:** Bir şeyi, onu oluşturan parçalardan oluşan bir bütün olarak görmek çocuklar için önemli bir adımdır. Sayı bağları, bir sayıyı oluşturan iki parçayı gösterir. Örnek olarak 6’yı ele alalım. 6’nın sayı bağları, 6’yı bir bütün olarak alıp iki parçaya ayırmanın farklı yollarıdır. Bu aynı zamanda toplama ve çıkarma arasındaki bağlantıyı, sayı aileleri şeklinde değerlendirmeyi de pekiştirir. Bu konu ileriki bir öğrenme adımında ele alınacaktır.\n\n**Eksik olan ne?:** 6 için sayı bağlarını kullanmaya devam edelim. 6’nın sayı bağları şunlardır: 0 + 6, 1 + 5, 2 + 4 ve 3 + 3. Bu bağları iyi öğrenmiş bir çocuk, “6’ya ulaşmak için 2’ye ne eklemem gerekiyor?” sorusuna cevap vermekte zorlanmayacaktır. 2 + 4’ün 6 için bir sayı bağı olduğunu bilecek, yani bu durumda 6’nın eksik parçasının 4 olduğunu anlayacaktır.",
     "type": "data_list",
     "note": ""
   },
@@ -23785,7 +23821,7 @@
   },
   {
     "SourceText": "**Connected concepts:** In the previous learning step we discussed doubling. This is connected to a surprising number of related concepts, as you will soon see.\n\n**Multiplying by 2:** Multiplying by 2 is the same as doubling. However, it uses interesting new wording that your child will need to get used to. When you first introduce the phrase of multiplying by 2, be sure to mix in the use of doubling from time to time to help with the transition. Your child will be getting used to the new words \"multiplying\" and \"times.\"\n\n**Half of something:** When something is doubled, such as 3 doubled is 6, then you can take half of the result and get back the original number. For example, suppose you picture 3 doubled as two rows of 3 things. Then taking half of those two matched rows is to take one of the rows, which is 3 things.\n\n**Equal sharing:** When you talk about taking half of something, you can combine that with the idea of sharing it equally among two people. If two people are to get equal shares, they will each get the same thing and that will be half of the original amount.\n\n**Dividing by 2:** If your child is comfortable with all the concepts so far in this learning step, then they are ready to talk about dividing! You can start talking about dividing something equally, or dividing it in two, or dividing by two. Mix together using all these phrases with your child – it will take time for them to absorb this new vocabulary. As far as the math is concerned, they have mastered all the ideas already!\n\n**Concrete examples:** Do lots of practice with each of these new ideas and words with groups of objects. Make your child's understanding be concrete rather than simply abstract. Anytime there is something to share among two people is a perfect time to practice. You can of course start extending this to sharing among more than two people if you like.\n\n**The beginning of multiplying and dividing:** As you have seen, this is the starting point of multi- plying and dividing. There are one or two new ideas, and a lot of new vocabulary. It's exciting to see your child step into this new part of the world!",
-    "text": "**Bağlantılı kavramlar:** Önceki adımda 2 ile çarpma konusunu ele almıştık. Bu, birazdan göreceğiniz üzere şaşırtıcı derecede çok sayıda kavramla bağlantılıdır.\n\n**2 ile çarpmak:** 2 ile çarpmak, ikiz toplamak ile aynı şeydir. Fakat çarpma işlemi çocuğunuzun alışması gereken bazı yeni sözcükler içerir. 2 ile çarpma ifadesini ilk tanıttığınızda, bu konuya geçişi kolaylaştırmak için zaman zaman “ikiz” terimini de kullanmaya dikkat edin. Çocuğunuz böylece “çarpma” ve “kere” gibi kelimelere alışmaya başlayacaktır.\n\n**Bir şeyin yarısı:** Bir şey 2 ile çarpıldığında, örneğin 3 iki katına çıkıp 6 olduğunda, sonucun yarısını alarak başlangıçtaki sayıya geri dönebilirsiniz. Örneğin 3’ün ikiyle çarpılmasını, iki sıra olarak dizilmiş 3 nesne olarak hayal edin. Bu iki sıranın yarısını almak, bir sırayı almak demektir. Bu da 3 nesnedir.\n\n**Eşit paylaşım:** Bir şeyin yarısını almaktan bahsederken, bunu bir şeyi iki kişi arasında eşit paylaştırma fikriyle birleştirebilirsiniz. Eğer iki kişi eşit miktarda pay alacaksa, her kişi aynı şeyi alır ve bu da başlangıçtaki miktarın yarısı olur.\n\n**2’ye bölme:** Eğer çocuğunuz bu adımdaki kavramları anladıysa, artık bölme konusuna geçmeye hazırdır! Bir şeyi eşit parçalara bölmekten, iki parçaya ayırmaktan veya 2’ye bölmekten söz etmeye başlayabilirsiniz. Bu ifadelerin hepsini birlikte kullanın. Çocuğunuzun bu yeni kelime dağarcığını sindirmesi zaman alacaktır. Ama matematiksel olarak baktığımızda, zaten tüm bu fikirlere hâkim olmuş durumdalar!\n\n**Somut örnekler:** Bu yeni fikirlerle ve sözcüklerle bol bol nesne kullanarak pratik yapın. Çocuğunuzun bu konuyu soyut olarak değil, somut olarak anladığından emin olun. Herhangi bir şeyi iki kişi arasında paylaşmanız gereken her an, bu konuyu pekiştirmek için mükemmel bir fırsattır. Dilerseniz, bu paylaşımı iki kişiden daha fazlasına yaymaya da başlayabilirsiniz.\n\n**Çarpma ve bölmenin başlangıcı:** Gördüğünüz gibi, bu adım çarpma ve bölmenin başlangıç noktasıdır. Bu adımda birçok yeni fikir ve oldukça fazla yeni terim var. Çocuğunuzun bu yeni dünyaya adım atmasını izlemek gerçekten heyecan verici!",
+    "text": "**Bağlantılı kavramlar:** Önceki adımda 2 ile çarpma konusunu ele almıştık. Bu, birazdan göreceğiniz üzere şaşırtıcı derecede çok sayıda kavramla bağlantılıdır.\n\n**2 ile çarpmak:** 2 ile çarpmak, ikiz toplamak ile aynı şeydir. Fakat çarpma işlemi çocuğunuzun alışması gereken bazı yeni sözcükler içerir. 2 ile çarpma ifadesini ilk tanıttığınızda, bu konuya geçişi kolaylaştırmak için zaman zaman “ikiz” terimini de kullanmaya dikkat edin. Çocuğunuz böylece “çarpma” ve “kere” gibi kelimelere alışmaya başlayacaktır.\n\n**Bir şeyin yarısı:** Bir şey 2 ile çarpıldığında, örneğin 3 iki katına çıkıp 6 olduğunda, sonucun yarısını alarak başlangıçtaki sayıya geri dönebilirsiniz. Örneğin 3’ün 2 ile çarpılmasını, iki sıra olarak dizilmiş 3 nesne olarak hayal edin. Bu iki sıranın yarısını almak, bir sırayı almak demektir. Bu da 3 nesnedir.\n\n**Eşit paylaşım:** Bir şeyin yarısını almaktan bahsederken, bunu bir şeyi iki kişi arasında eşit paylaştırma fikriyle birleştirebilirsiniz. Eğer iki kişi eşit miktarda pay alacaksa, her kişi aynı şeyi alır ve bu da başlangıçtaki miktarın yarısı olur.\n\n**2’ye bölme:** Eğer çocuğunuz bu adımdaki kavramları anladıysa, artık bölme konusuna geçmeye hazırdır! Bir şeyi eşit parçalara bölmekten, iki parçaya ayırmaktan veya 2’ye bölmekten söz etmeye başlayabilirsiniz. Bu ifadelerin hepsini birlikte kullanın. Çocuğunuzun bu yeni kelime dağarcığını sindirmesi zaman alacaktır. Ama matematiksel olarak baktığımızda, zaten tüm bu fikirlere hâkim olmuş durumdalar!\n\n**Somut örnekler:** Bu yeni fikirlerle ve sözcüklerle bol bol nesne kullanarak pratik yapın. Çocuğunuzun bu konuyu soyut olarak değil, somut olarak anladığından emin olun. Herhangi bir şeyi iki kişi arasında paylaşmanız gereken her an, bu konuyu pekiştirmek için mükemmel bir fırsattır. Dilerseniz, bu paylaşımı iki kişiden daha fazlasına yaymaya da başlayabilirsiniz.\n\n**Çarpma ve bölmenin başlangıcı:** Gördüğünüz gibi, bu adım çarpma ve bölmenin başlangıç noktasıdır. Bu adımda birçok yeni fikir ve oldukça fazla yeni terim var. Çocuğunuzun bu yeni dünyaya adım atmasını izlemek gerçekten heyecan verici!",
     "type": "data_list",
     "note": ""
   },
@@ -23797,7 +23833,7 @@
   },
   {
     "SourceText": "**New connections:** Your child started skip counting by 2's during Stage 2. Their skip counting is now going higher and faster, and it is also now connected with new ideas, such as with multiplying and with even and odd numbers.\n\n**Multiplying by 2:** For example, multiplying something by 2 means to take that many 2's. Suppose your child is calculating 5 times 2. This means adding 2 to itself 5 times, which is exactly what your child will get if they skip count by 2's 5 times starting at 0. Of course, they can also calculate this quantity by doubling the number, in this case 5.\n\n**Start anywhere and go up or down:** It is important to keep practicing skip counting by 2's starting anywhere and going up and down. This practice will be surprisingly helpful for adding, subtracting, multiplying, and dividing. Get used to doing this practice anytime you have a somewhat large collection of things to count.\n\n**Even and odd numbers:** An even number is one that can be split in half evenly. It is a quantity that two people can share and have nothing left over. The odd numbers are the other numbers, the numbers that cannot be shared evenly. Even numbers are the numbers you get when you skip count by 2's starting at 0. Odd numbers are the numbers you get when you skip count by 2's starting at 1.\n\n**Skip count by other numbers:** If you like, this is a good time to start skip counting by other numbers. Skip counting by 10's, 11's, and 5's are good starting places.",
-    "text": "**Yeni bağlantılar:** Çocuğunuz 2. Aşamada 2’şer saymaya başlamıştı. Artık ikişer atlayarak daha ileriye ve daha hızlı sayabiliyor. Aynı zamanda, atlayarak sayma, çarpma ve çift ve tek sayılar gibi yeni fikirlerle de bağlantılı hale geliyor.\n\n**2 ile çarpmak:** Örneğin, bir şeyi 2 ile çarpmak demek, o kadar tane 2 toplamak demektir. Diyelim ki çocuğunuz 5 kere 2’yi hesaplıyor. Bu, 2’yi beş kez kendisine eklemek anlamına gelir ve bu tam olarak çocuğunuzun 0’dan başlayarak 2’şer sayarak 5 adım ilerlediğinde elde edeceği değerdir. Tabii ki, bu miktarı 5’i ikiyle çarparak da bulabilirler.\n\n**İstediğiniz yerden başlayın ve ileri ya da geri sayın:** Herhangi bir sayıdan başlayarak ve hem ileri hem geri sayarak 2’şer sayma pratiği yapmak önemlidir. Bu alıştırma toplama, çıkarma, çarpma ve bölme için şaşırtıcı derecede faydalı olacaktır. Saymanız gereken büyük bir grup nesneniz olduğunda bu pratiği yapmayı alışkanlık haline getirin.\n\n**Çift ve tek sayılar:** Çift sayılar, iki eş parçaya bölünebilen bir sayılardır. İki kişi arasında eşit olarak paylaşılabilen ve hiç artık bırakmayan sayılardır. Tek sayılar ise geriye kalan ve eşit paylaşılamayan sayılardır. Çift sayılar, 0’dan başlayarak 2’şer atlayarak sayıldığında elde edilen sayılardır. Tek sayılar ise 1’den başlayarak 2’şer atlayarak sayıldığında elde edilir.\n\n**Başka sayılarla atlayarak sayma:** İsterseniz başka sayılarla da atlayarak saymaya başlayabilirsiniz. 10’ar, 11’er ve 5’er atlayarak saymak, iyi bir başlangıç noktasıdır.",
+    "text": "**Yeni bağlantılar:** Çocuğunuz Aşama 2’de 2’şer saymaya başlamıştı. Artık ikişer atlayarak daha ileriye ve daha hızlı sayabiliyor. Aynı zamanda, atlayarak sayma, çarpma ve çift ve tek sayılar gibi yeni fikirlerle de bağlantılı hale geliyor.\n\n**2 ile çarpmak:** Örneğin, bir şeyi 2 ile çarpmak demek, o kadar tane 2 toplamak demektir. Diyelim ki çocuğunuz 5 kere 2’yi hesaplıyor. Bu, 2’yi beş kez kendisine eklemek anlamına gelir ve bu tam olarak çocuğunuzun 0’dan başlayarak 2’şer sayarak 5 adım ilerlediğinde elde edeceği değerdir. Tabii ki, bu miktarı 5’i ikiyle çarparak da bulabilirler.\n\n**İstediğiniz yerden başlayın ve ileri ya da geri sayın:** Herhangi bir sayıdan başlayarak ve hem ileri hem geri sayarak 2’şer sayma pratiği yapmak önemlidir. Bu alıştırma toplama, çıkarma, çarpma ve bölme için şaşırtıcı derecede faydalı olacaktır. Saymanız gereken büyük bir grup nesneniz olduğunda bu pratiği yapmayı alışkanlık haline getirin.\n\n**Çift ve tek sayılar:** Çift sayılar, iki eş parçaya bölünebilen bir sayılardır. İki kişi arasında eşit olarak paylaşılabilen ve hiç artık bırakmayan sayılardır. Tek sayılar ise geriye kalan ve eşit paylaşılamayan sayılardır. Çift sayılar, 0’dan başlayarak 2’şer atlayarak sayıldığında elde edilen sayılardır. Tek sayılar ise 1’den başlayarak 2’şer atlayarak sayıldığında elde edilir.\n\n**Başka sayılarla atlayarak sayma:** İsterseniz başka sayılarla da atlayarak saymaya başlayabilirsiniz. 10’ar, 11’er ve 5’er atlayarak saymak, iyi bir başlangıç noktasıdır.",
     "type": "data_list",
     "note": ""
   },
@@ -23810,6 +23846,18 @@
   {
     "SourceText": "**Developmental stage:** Strategy games are games where the players have choices that produce better or worse outcomes. These games have a lot to offer children. In particular, they naturally motivate children to do problem solving. However, the difficulty with these is that they require rule following and a willingness to participate in organized play. If your child is not ready yet for this kind of play environment, please be patient and let them get to a developmental point where they are ready. There is plenty of time.\n\n**Be patient:** When children are first ready to play organized games and are introduced to a new game, you will probably need to be very patient. It could well be that the first ten times you attempt to play the game your child will have fun with all the pieces and do many things that have nothing to do with the game. This is a process. Your child needs to become familiar with the game and its pieces, and the novelty needs to wear off a bit. You will know when your child is ready and your patience has paid off.\n\n**Play around:** At first, it is likely that your child won't really have a sense of winning and losing, and won't understand that their choices make a difference. That's okay. You are just there to have fun together. Over time, as the game and its choices become more familiar, your child will start to see that their choices make a difference and that they care about those differences.\n\n**Invisible math sometimes:** Strategy games don't always involve numeric components, but they are mathematical anyway. Any strategy game offers many important learning opportunities, some mathematical and some not. As mentioned earlier, problem solving is high on the list of skills that are developed by these games. Critical thinking and logical communication are also being developed. The rule following and turn taking are very good for social-emotional learning.",
     "text": "**Gelişimsel aşama:** Strateji oyunları, oyuncuların daha iyi ya da daha kötü sonuçlar doğuran seçimler yaptığı oyunlardır. Bu oyunlar çocuklara çok şey kazandırır. Özellikle, onları doğal bir şekilde problem çözmeye teşvik eder. Ancak bu tür oyunların zorluğu, kuralları takip etme ve iyice planlı bir oyuna katılma isteği gerektirmesidir. Eğer çocuğunuz henüz bu tür bir oyun ortamına hazır değilse, lütfen sabırlı olun ve çocuğunuzun gelişimsel olarak hazır hâle gelmesini bekleyin. Bunun için bolca zamanımız var.\n\n**Sabırlı olun:** Çocuklar ilk kez planlı bir oyun oynamaya hazır olduklarında ve yeni bir oyunla tanıştıklarında epey sabırlı olmanız gerekebilir. İlk birkaç denemede çocuğunuz oyun parçalarıyla oynamaya dalabilir ve oyunun kendisinden çok parçalarla ilgilenebilir. Bu, sürecin bir parçasıdır. Çocuğunuzun oyunla ve oyunun parçalarıyla tanışması ve bunlara alışması gerekir. Bu yeni şeylere alışması için zaman tanıyın. Çocuğunuz hazır hâle gelecek ve sabrınızın karşılığını verecektir.\n\n**Etraftaki şeylerle oyna:** Başlarda çocuğunuz kazanmak ya da kaybetmek gibi kavramları önemsemeyebilir ya da yaptığı seçimlerin sonucu etkilediğini henüz anlamayabilir. Bu bir sorun değildir. Sadece birlikte keyifli vakit geçirmeye odaklanın. Çocuğunuz zamanla oyunun yapısını ve yaptıkları seçimleri daha iyi kavrayacak, seçimlerinin fark yarattığını görecek ve bu farkları önemsemeye başlayacaktır.\n\n**Bazen matematik görünmez:** Strateji oyunları her zaman açık bir şekilde sayılar içermez ama yine de matematik öğeleri içerir. Her strateji oyunu, sayısal olan ve olmayan birçok önemli öğrenme fırsatı sunar. Daha önce de belirtildiği gibi problem çözme bu oyunların kazandırdığı en önemli becerilerden biridir. Eleştirel düşünme ve mantıklı iletişim yetenekleri de gelişir. Kurallara uymak ve sırayla oynamak, sosyal ve duygusal gelişim açısından çok faydalıdır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "4.0 Stage 4 Introduction",
+    "text": "Aşama 4 — 20’ye Kadar Sayabiliyorum!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "During this Stage, your child will extend their counting to 100. As their counting develops, they need to get a solid understanding of double-digit place value. They will also come to master all their single-digit addition and subtraction facts. This is also an exciting time when multiplication by the numbers from 1 to 5 starts to be mastered.\n\n**1. Counting to 100** Count both forward and backward to solidify an understanding of these numbers.\n**2. Two-digit place value** Use expanded form to understand place value and how to compare numbers.\n**3. Finger Addition** Learn finger addition doing it the Easy Way.\n**4. Finger Subtraction** Learn finger subtraction doing it the Easy Way.\n**5. Compensation for Add and Subtract** Compensation is a useful tool for simplifying addition and subtraction calculations.\n**6. 10 as a midway point** Use 10 as a midway point for addition and subtraction.\n**7. Skip counting by 2s, 5s, 10s** Practice this skip counting going up and down, starting anywhere.\n**8. Beginning multiplying** Gently introduce the words \"multiplying\" and \"times\" to describe doubling and skip counting.\n**9. Multiplying 1-5 by 1-5** At this point, your child knows all the multiplication facts for 1 to 5.\n**10. Strategy games II** Discuss deeper ideas about strategy games.",
+    "text": "Bu aşamada çocuğunuz saymayı 100’e kadar genişletecektir. Sayma becerisi geliştikçe, iki basamaklı sayılarda yer değerini sağlam bir şekilde anlaması gerekir. Ayrıca tek basamaklı tüm toplama ve çıkarma işlemlerinde ustalaşacaktır. Bu dönem, 1’den 5’e kadar olan sayılarla çarpma becerilerinin de gelişmeye başladığı heyecan verici bir zamandır.\n\n**Adım 31: 100’e Kadar Sayma** Bu sayıları daha iyi kavramak için ileriye ve geriye doğru sayma çalışmaları yapın.\n**Adım 32: Çift Basamaklı Sayılar** Yer değerini anlamak ve sayıları karşılaştırmak için Genişletilmiş Form yöntemini kullanın.\n**Adım 33: Parmaklarla Toplama** Kolay bir yöntemle parmakları kullanarak toplama yapmayı öğrenin.\n**Adım 34: Parmaklarla Çıkarma** Kolay bir yöntemle parmakları kullanarak çıkarma yapmayı öğrenin.\n**Adım 35: Toplama ve Çıkarmada Dengeleme** Dengeleme, toplama ve çıkarma işlemlerini basitleştirmek için yararlı bir yöntemdir.\n**Adım 36: 10'u Ara Durak Olarak Kullanmak** Toplama ve çıkarma işlemlerinde 10’u ara bir durak olarak kullanın.\n**Adım 37: 2’şer, 5’er ve 10’ar Sayma** Herhangi bir sayıdan başlayarak ileri ve geri 2’şer, 5’er ve 10’ar ritmik sayma alıştırmaları yapın.\n**Adım 38: Çarpmaya Başlangıç** İki katını alma ve ritmik saymayı anlatmak için “çarpma” ve “kere” kavramlarını yumuşak bir şekilde tanıtın.\n**Adım 39: 1 ile 5 Arasındaki Sayıları Birbiriyle Çarpma** Bu noktada çocuğunuz, 1 ile 5 arasındaki sayıların tüm çarpım sonuçlarını öğrenmiş olur.\n**Adım 40: Strateji Oyunları II** Strateji oyunlarıyla ilgili daha derin kavramlar ve fikirler üzerine konuşun.",
     "type": "data_list",
     "note": ""
   },
@@ -23857,13 +23905,13 @@
   },
   {
     "SourceText": "**Two subtractions:** The two models for subtraction, take away and difference, are both important and both need to be practiced. Here are methods that use a child's hands to keep track of part of the calculation. As with finger addition using fingers, these methods use your child's skill with recognizing quantities of fingers. We'll use 14 - 8 as our example for both methods.\n\n**Take away with fingers:** This method uses counting down to take away a single-digit number from any number. Have your child start with two closed fists and say \"14.\" Counting down from 14, your child raises one more finger with each new number: \"13, 12, 11, 10, 9, 8, 7, 6.\" Your child will stop at 6 when they see they have 8 fingers raised.\n\n**Difference with fingers:** This method uses Counting On to find a single-digit difference between any two numbers. Have your child start with two closed fists and say \"8.\" Counting On from 8, your child raises one more finger with each new number: \"9, 10, 11, 12, 13, 14.\" When your child hits 14, they look at their fingers and see that the difference is 6.\n\n**Reliable but will be replaced:** These will eventually be replaced by other methods, but for now these are reliable and are something your child can be assured will always give them the right answer any time they need it.",
-    "text": "**İki çıkarma modeli:** Çıkarma işlemini iki farklı şekilde değerlendirebiliriz: eksiltme ve fark bulma. Bu yaklaşımların ikisi de önemlidir ve pratik yaparak pekiştirilmelidir. Bu adımda çocuğunuzun çıkarma işlemini daha rahat yapabilmesi için farklı yöntemler sunacağız Parmakla toplamada olduğu gibi, burada da parmak sayılarıyla miktarları tanıma becerisi devreye girer. Her iki yöntem için de 14 - 8 örneğini kullanalım.\n\n**Parmakla eksiltme:** Bu yöntemde, büyük bir sayıdan tek basamaklı küçük bir sayı çıkarılır ve geriye doğru sayılır. Çocuğunuz ellerini yumruk yaparak “14” der. Ardından geriye doğru saymaya başlar ve her yeni sayı söylediğinde bir parmak kaldırır: “13, 12, 11, 10, 9, 8, 7, 6.” Çocuğunuz 8 parmağı kalkınca 6 sayısında durur.\n\n**Parmakla fark bulma:** Bu yöntemde, iki sayı arasındaki farkı bulmak için Ekleyerek Sayma kullanılır. Çocuğunuz iki elini yumruk yaparak ve “8” der. 8’den başlayarak Ekleyerek Sayar ve her yeni sayıda bir parmak kaldırır: “9, 10, 11, 12, 13, 14.” Çocuğunuz 14’e ulaştığında 6 parmak kalkmış olur. Gördükleri üzere fark 6’dır.\n\n**Güvenilir ama geçici bir yöntem:** Bu strateji zamanla yerini başka yöntemlere bırakacaktır. Ancak şimdilik güvenilirdir ve çocuğunuzun her seferinde doğru sonuca ulaşmasını sağlar.",
+    "text": "**İki çıkarma modeli:** Çıkarma işlemini iki farklı şekilde değerlendirebiliriz: eksiltme ve fark bulma. Bu yaklaşımların ikisi de önemlidir ve pratik yaparak pekiştirilmelidir. Bu adımda çocuğunuzun çıkarma işlemini daha rahat yapabilmesi için farklı yöntemler sunacağız. Parmakla toplamada olduğu gibi, burada da parmak sayılarıyla miktarları tanıma becerisi devreye girer. Her iki yöntem için de 14 - 8 örneğini kullanalım.\n\n**Parmakla eksiltme:** Bu yöntemde, büyük bir sayıdan tek basamaklı küçük bir sayı çıkarılır ve geriye doğru sayılır. Çocuğunuz ellerini yumruk yaparak “14” der. Ardından geriye doğru saymaya başlar ve her yeni sayı söylediğinde bir parmak kaldırır: “13, 12, 11, 10, 9, 8, 7, 6.” Çocuğunuz 8 parmağı kalkınca 6 sayısında durur.\n\n**Parmakla fark bulma:** Bu yöntemde, iki sayı arasındaki farkı bulmak için Ekleyerek Sayma kullanılır. Çocuğunuz iki elini yumruk yaparak ve “8” der. 8’den başlayarak Ekleyerek Sayar ve her yeni sayıda bir parmak kaldırır: “9, 10, 11, 12, 13, 14.” Çocuğunuz 14’e ulaştığında 6 parmak kalkmış olur. Gördükleri üzere fark 6’dır.\n\n**Güvenilir ama geçici bir yöntem:** Bu strateji zamanla yerini başka yöntemlere bırakacaktır. Ancak şimdilik güvenilirdir ve çocuğunuzun her seferinde doğru sonuca ulaşmasını sağlar.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "4.5 Compensation for Add and Subtract",
-    "text": "Adım 35: Toplama ve Çıkarmada için Dengeleme",
+    "text": "Adım 35: Toplama ve Çıkarmada Dengeleme",
     "type": "data_list",
     "note": ""
   },
@@ -23905,7 +23953,7 @@
   },
   {
     "SourceText": "**New words:** During the last half of Stage 4, the learning steps involving doubling described starting to use the words \"multiply\" and \"times.\" If you haven't done so already, start using these words more and more. You now have plenty of situations to use those words in.\n\n**Doubling and tripling:** Doubling is multiplying by 2, and tripling is multiplying by 3, and you should start calling it that. If you are to double some number, say 4, ask your child to multiply it by 2 or ask them what 2 times 4 is. They have all the tools they need, they just need to adjust to the new wording.\n\n**Skip counting is multiplying:** If your child skip counts by 5's seven times starting at 0, your child will have seven 5's. That is the same as multiplying 7 times 5. From now on, anytime your child is asked to do a multiplication problem, they can skip count to find the answer. Over time, they will have better ways to find the answer, but this is a secure method they can use for now.",
-    "text": "**Yeni kelimeler:** 4. Aşamanın sonlarına doğru iki katına çıkarma kavramını işlerken, “çarpmak” ve “kere” terimlerine de yer vermeye başladık. Henüz yapmadıysanız, artık bu kelimeleri daha sık kullanmanın zamanı geldi. Artık bu sözcükleri kullanabileceğiniz pek çok durumla karşılaşacaksınız.\n\n**İki ve üç katına çıkarmak:** İki katına çıkarmak, bir sayıyı 2 ile çarpmaktır. Üç katına çıkarmaksa 3 ile çarpmaktır. Artık bu işlemleri bu şekilde adlandırmaya başlamalısınız. Örneğin bir sayıyı, diyelim ki 4’ü, iki katına çıkarmanız gerekiyorsa çocuğunuza “2 çarpı (veya kere) 4 kaç eder?” diye sorun. Çocuğunuz gerekli tüm becerilere artık sahip. Sadece bu yeni terimlere alışması gerekiyor.\n\n**Atlayarak sayma aslında çarpımdır:** Eğer çocuğunuz 0’dan başlayarak 5’er sayarsa ve bunu 7 kez yaparsa, yedi tane 5 söylemiş olur. Bu da 7 kere 5 ile aynıdır. Çocuğunuz bir çarpma işlemiyle karşılaşınca cevabı bulmak için atlayarak sayabilir. Zamanla cevabı daha rahat bulmanın yollarını da öğrenecek ama şimdilik bu yöntemi güvenle kullanabilir.",
+    "text": "**Yeni kelimeler:** Aşama 4’ün sonlarına doğru iki katına çıkarma kavramını işlerken, “çarpmak” ve “kere” terimlerine de yer vermeye başladık. Henüz yapmadıysanız, artık bu kelimeleri daha sık kullanmanın zamanı geldi. Artık bu sözcükleri kullanabileceğiniz pek çok durumla karşılaşacaksınız.\n\n**İki ve üç katına çıkarmak:** İki katına çıkarmak, bir sayıyı 2 ile çarpmaktır. Üç katına çıkarmaksa 3 ile çarpmaktır. Artık bu işlemleri bu şekilde adlandırmaya başlamalısınız. Örneğin bir sayıyı, diyelim ki 4’ü, iki katına çıkarmanız gerekiyorsa çocuğunuza “2 çarpı (veya kere) 4 kaç eder?” diye sorun. Çocuğunuz gerekli tüm becerilere artık sahip. Sadece bu yeni terimlere alışması gerekiyor.\n\n**Atlayarak sayma aslında çarpımdır:** Eğer çocuğunuz 0’dan başlayarak 5’er sayarsa ve bunu 7 kez yaparsa, yedi tane 5 söylemiş olur. Bu da 7 kere 5 ile aynıdır. Çocuğunuz bir çarpma işlemiyle karşılaşınca cevabı bulmak için atlayarak sayabilir. Zamanla cevabı daha rahat bulmanın yollarını da öğrenecek ama şimdilik bu yöntemi güvenle kullanabilir.",
     "type": "data_list",
     "note": ""
   },
@@ -23940,6 +23988,18 @@
     "note": ""
   },
   {
+    "SourceText": "5.0 Stage 5 Introduction",
+    "text": "Aşama 5 — 100’e Kadar Sayabiliyorum!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "In this Stage counting progresses into the three-digit numbers beyond 100. The ideas of place value become incresingly important, and the use of expanded form for numbers can make many of these ideas clearer. Now that single-digit addition and subtraction have been mastered, it is time to learn single-digit multiplication and dividision.\n\n**1. 3-digit place value** Extend the use of expanded form to 3-digit numbers to understand place value.\n**2. Double-digit add/sub** Use expanded form to see how 2-digit addition and subtraction work.\n**3. Skip counting by 2's to 10's** Practice skip counting up and down starting anywhere and by any number from 2 to 10.\n**4. Multiplication – 2, 4, 8, 5, 10** These involve doubling and multiples of 5. They are quick to learn and provide a good framework for the remaining numbers.\n**5. Multiplication – 3, 4, 6, 9, 11** Use the idea of one more or one less to learn these based on the earlier numbers.\n**6. Single-digit multiplication** Your child will now know all of single-digit multiplication!\n**7. Divisors, factors, and multiples** Introduce the terms divisors, factors, and multiples.\n**8. Primes, composites, and powers** Learn about primes, composite numbers, and units. Practice prime factorizations – these often involve repeated factors, which is a good time to learn about powers of numbers.\n**9. Fact families II** Group multiplication and division facts by families.\n**10. Single-digit division** Your work with skip counting, learning multiplication facts, and fact families will smooth the way for dividing both with and without remainders.",
+    "text": "Bu aşamada sayma, 100’ün ötesindeki üç basamaklı sayılara doğru ilerler. Basamak değeri giderek daha önemli hâle gelir ve sayıları genişletilmiş form ile ele almak bu fikirlerin çoğunu daha anlaşılır kılar. Tek basamaklı toplama ve çıkarma artık öğrenildiğine göre, tek basamaklı çarpma ve bölmeyi öğrenmenin zamanı gelmiştir.\n\n**Adım 41: Üç Basamaklı Sayılar** Yer değerini anlamak için Genişletilmiş Form kullanımını üç basamaklı sayılara genişletin.\n**Adım 42: Çift Basamaklı Toplama ve Çıkarma** İki basamaklı toplama ve çıkarma işlemlerinin nasıl çalıştığını görmek için Genişletilmiş Form yöntemini kullanın.\n**Adım 43: 2 ile 10 Arasındaki Sayılarla Atlayarak Sayma** 2’den 10’a kadar herhangi bir sayıyla, herhangi bir noktadan başlayarak ileri ve geri ritmik sayma çalışmaları yapın.\n**Adım 44: Çarpma – 2, 4, 8, 5, 10** Bu işlemler iki katını alma ve 5’in katlarını içerir. Hızlı öğrenilir ve kalan sayılar için iyi bir temel oluşturur.\n**Adım 45: Çarpma – 3, 4, 6, 9, 11** Bu çarpımları öğrenirken, önceki sayılara göre “bir fazla” ya da “bir eksik” fikrinden yararlanın.\n**Adım 46: Tek Basamaklı Sayılarla Çarpma** Bu aşamada çocuğunuz tek basamaklı tüm çarpma işlemlerini öğrenmiş olur.\n**Adım 47: Bölenler, Çarpanlar ve Katlar** Bölen, çarpan ve kat kavramlarını tanıtın.\n**Adım 48: Asal Sayılar, Bileşik Sayılar ve Kuvvetler** Asal sayılar, bileşik sayılar ve birimler hakkında bilgi edinin. Asal çarpanlara ayırma çalışmaları yapın; bu çalışmalar genellikle tekrar eden çarpanlar içerir ve sayıların kuvvetlerini öğrenmek için iyi bir fırsat sunar.\n**Adım 49: Sayı Aileleri II** Çarpma ve bölme işlemlerini sayı ailelerine göre gruplandırın.\n**Adım 50: Tek Basamaklı Sayılarla Bölme** Ritmik sayma, çarpma işlemlerini öğrenme ve sayı aileleriyle yapılan çalışmalar; kalansız ve kalanlı bölme işlemlerine geçişi kolaylaştırır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "5.1 3-Digit Place Value",
     "text": "Adım 41: Üç Basamaklı Sayılar",
     "type": "data_list",
@@ -23947,7 +24007,7 @@
   },
   {
     "SourceText": "**Many objects:** Relating math concepts to physical objects is often the best approach for young children. The difficulty here is that it is not so easy to have hundreds of objects in the first place, and it can also be unwieldy to deal with such a large collection. In addition to having groups of ones and tens of some object, one strategy is to use symbolic place holders for large groups, such as 100s. You could have several pieces of paper or wood on which you have written \"100.\"\n\n**Use objects:** Practice having your child represent various quantities using objects grouped in ones, tens, and hundreds. For example, ask how 325 would be represented using these objects. Include examples such as 206, 430, and 500 that have zero things in one or more categories. Also, lay out collections of ones, tens, and hundreds and ask your child to name the number for this quantity.\n\n**Use expanded form:** Once your child is thoroughly comfortable with the connection between numbers and their quantities, start using numerals and expanded form to represent the numbers. Take a number, such as 325, for example. Represent it with quantities for hundreds, tens, and ones, and then use the quantity representation to write the number in expanded form as 325 = 300 + 20 + 5. Do this same practice in the opposite direction by writing 100 + 40 + 6, representing it with physical groups of hundreds, tens, and ones of objects, and then asking what the total number is.",
-    "text": "**Çok sayıda nesne:** Matematik kavramlarını somut nesnelerle ilişkilendirmek küçük çocuklar için genellikle en etkili yaklaşımdır. Bu aşamada bir sorunla karşılaşırız: bir nesneden yüzlerce sayıda bulundurmak ve çok sayıda nesneyle uğraşmak oldukça zordur. Birlik ve onluk nesne gruplarına ek olarak büyük grupların yerine geçecek sembolik nesneler kullanmak etkili bir stratejidir. Örneğin 100’lük nesne gruplarını temsil eden kâğıtlar ya da üzerine “100” yazılmış tahta parçaları kullanabilirsiniz.\n\n**Nesneleri kullanın:** Çocuğunuzun birlik, onluk ve yüzlük gruplar hâlinde düzenlenmiş nesneleri kullanarak farklı sayıları temsil etmesini isteyin. Örneğin, 325 sayısını bu nesnelerle nasıl gösterebileceklerini sorun. Ayrıca, bazı basamaklarında sıfır olan sayıları da dahil edin (örneğin 206, 430 ve 500). Birlik, onluk ve yüzlük nesne grupları oluşturun ve çocuğunuzdan bu grupların hangi sayıyı temsil ettiğini söylemesini isteyin.\n\n**Basamaklara ayırın:** Çocuğunuz sayılar ve miktarlar arasındaki ilişkiyi iyice kavradıktan sonra, sayıları yazarak basamaklara ayırmaya başlayın. Örneğin 325 sayısını ele alın. Önce bu sayıyı yüzlük, onluk ve birlik miktarlarıyla temsil edin, ardından basamaklarına ayırarak 325 = 300 + 20 + 5 şeklinde yazın. Aynı uygulamayı ters şekilde de yapın: örneğin 100 + 40 + 6 ifadesini yazın. Sonra, bunu yüzlük, onluk ve birlik nesne gruplarıyla gösterin ve bu ifadenin toplamda hangi sayı olduğunu sorun.",
+    "text": "**Çok sayıda nesne:** Matematik kavramlarını somut nesnelerle ilişkilendirmek küçük çocuklar için genellikle en etkili yaklaşımdır. Bu aşamada bir sorunla karşılaşırız: bir nesneden yüzlerce sayıda bulundurmak ve çok sayıda nesneyle uğraşmak oldukça zordur. Birlik ve onluk nesne gruplarına ek olarak büyük grupların yerine geçecek sembolik nesneler kullanmak etkili bir stratejidir. Örneğin 100’lük nesne gruplarını temsil eden kâğıtlar ya da üzerine “100” yazılmış tahta parçaları kullanabilirsiniz.\n\n**Nesneleri kullanın:** Çocuğunuzun birlik, onluk ve yüzlük gruplar hâlinde düzenlenmiş nesneleri kullanarak farklı sayıları temsil etmesini isteyin. Örneğin, 325 sayısını bu nesnelerle nasıl gösterebileceklerini sorun. Ayrıca, bazı basamaklarında sıfır olan sayıları da dahil edin (örneğin 206, 430 ve 500). Birlik, onluk ve yüzlük nesne grupları oluşturun ve çocuğunuzdan bu grupların hangi sayıyı temsil ettiğini söylemesini isteyin.\n\n**Basamaklara ayırın (Genişletilmiş Form):** Çocuğunuz sayılar ve miktarlar arasındaki ilişkiyi iyice kavradıktan sonra, sayıları yazarak Genişletilmiş Form olarak basamaklara ayırmaya başlayın. Örneğin 325 sayısını ele alın. Önce bu sayıyı yüzlük, onluk ve birlik miktarlarıyla temsil edin, ardından basamaklarına ayırarak 325 = 300 + 20 + 5 şeklinde yazın. Aynı uygulamayı ters şekilde de yapın: örneğin 100 + 40 + 6 ifadesini yazın. Sonra, bunu yüzlük, onluk ve birlik nesne gruplarıyla gösterin ve bu ifadenin toplamda hangi sayı olduğunu sorun.",
     "type": "data_list",
     "note": ""
   },
@@ -23959,7 +24019,7 @@
   },
   {
     "SourceText": "**Single digit:** A gentle introduction to working with two two-digit numbers is to have one of them be a single-digit number. One of the best ways to practice adding or subtracting a single-digit number with a double-digit number is to do skip counting using various skip sizes, going up or down, and starting at any number. The following methods for two two-digit numbers will of course work when one of the numbers is a single-digit number.\n\n**Use objects:** Grounding your child's understanding by using physical objects is always a good idea. Start by representing both of the numbers with groups of tens and ones.\n\n**Adding:** If you are adding the two numbers, put all the groups together and discuss the result. If you are adding two numbers, such as 23 and 45, that is all you need to do. However, if you are adding 23 and 48, the two groups of ones form at least a group of ten. Talk about how that changes the total number of tens you have from 6 to 7. This is called regrouping.\n\n**Subtracting:** If you are subtracting, start by removing the tens being subtracted from the bigger number and then attempt to remove the appropriate number of ones. For example, if you are subtracting 23 from 45, then there are enough ones and you are done. If there are not enough ones, such as if you are subtracting 28 from 45, then discuss how one of the groups of tens needs to be broken up and included with the ones. The original grouping of 45 as 4 tens and 5 ones becomes a grouping of 3 tens and 15 ones. This is also called regrouping.\n\n**Use expanded form:** Use objects for double-digit adding and subtracting until your child thoroughly understands the process and why regrouping makes sense when it is needed. At this point, move to representing the adding and subtracting with numbers written in expanded form. When working with numbers in expanded form, the process and the steps are exactly the same as they were when you were working with groups of tens and ones – and that is the point.\n\n**Making it automatic:** Over time and with lots of practice, your child will stop needing to use groups of tens and ones or expanded form. However, as with so many other things, there is no hurry getting to that point – it will come with practice.",
-    "text": "**Tek basamak:** Çift basamaklı iki sayıyla çalışmaya başlayım. Sayıların birinin tek basamaklı olması, burada işimizi rahatlatacaktır. Tek basamaklı bir sayıyı çift basamaklı bir sayıya ekleme ya da çıkarma alıştırması yaparken atlayarak saymak çok etkilidir. Bunun için farklı sayılarla atlayabilir, ileri ya da geri doğru sayabilir veya farklı başlangıç noktaları seçebilirsiniz. Aşağıdaki yöntemler çift basamaklı iki sayı için verilse de sayılardan biri tek basamaklı olduğunda da işe yararlar.\n\n**Nesneleri kullanın:** Çocuğunuzun kavramları daha iyi anlaması için nesnelerle çalışmasını teşvik edin. Her iki sayıyı da onluk ve birlik gruplarıyla temsil ederek başlayın.\n\n**Toplama:** Eğer iki sayıyı topluyorsanız, tüm grupları bir araya getirin ve çıkan sonucu birlikte inceleyin. Örneğin 23 ile 45’i topluyorsanız, sadece bu grupları toplamak yeterlidir. Ancak 23 ile 48’i topluyorsanız, birlikler grubundaki sayılar yeni bir onluk grup oluşturacaktır. Onluk grup sayısının 6’dan 7’ye çıktığını vurgulayın. Buna yeniden gruplama denir.\n\n**Çıkarma:** Çıkarma yaparken önce büyük sayıdan çıkarılacak onluk grupları çıkarmakla başlayın. Ardından gerekli birlikleri çıkarmaya çalışın. Örneğin, 45’ten 23’ü çıkarıyorsanız elinizde yeterince birlik grup olduğu için işlem kolayca tamamlanır. Ama eğer 45’ten 28’i çıkarıyorsanız birlikler yeterli olmayabilir. Bu durumda bir onluk grubu parçalayarak birlik gruplara dönüştürebileceğinizi gösterin. Örneğin 45 başlangıçta 4 onluk ve 5 birlik gruptan oluşurken, onu 3 onluk ve 15 birlik grup şeklinde yeniden düzenleyebiliriz. Bu da yeniden gruplamadır.\n\n**Basamaklara ayırın:** Çocuğunuz sayıların yapısını ve yeniden gruplamanın neden gerekli olduğunu tam olarak anlayana kadar somut nesneler kullanmaya devam edin. Bir sonraki adımda, işlemleri basamaklara ayrılmış sayılar kullanarak ve yazılı olarak yapmaya başlayın. Sayıları basamaklara ayırırken kullandığımız yöntem ve adımlar, onluk ve birlik nesne gruplarıyla yaptığımız işlemlerle aynıdır.\n\n**Otomatikleştirme:** Zamanla ve bol pratikle, çocuğunuz onluk ve birlik gruplara ya da sayıları basamaklarına ayırmaya gerek duymadan işlemleri yapabilecektir. Ancak, diğer pek çok beceride olduğu gibi, bu seviyeye ulaşmak için acele etmeye gerek yoktur. Bu, pratikle doğal olarak gelişecektir.",
+    "text": "**Tek basamak:** Çift basamaklı iki sayıyla çalışmaya başlayalım. Sayıların birinin tek basamaklı olması, burada işimizi rahatlatacaktır. Tek basamaklı bir sayıyı çift basamaklı bir sayıya ekleme ya da çıkarma alıştırması yaparken atlayarak saymak çok etkilidir. Bunun için farklı sayılarla atlayabilir, ileri ya da geri doğru sayabilir veya farklı başlangıç noktaları seçebilirsiniz. Aşağıdaki yöntemler çift basamaklı iki sayı için verilse de sayılardan biri tek basamaklı olduğunda da işe yararlar.\n\n**Nesneleri kullanın:** Çocuğunuzun kavramları daha iyi anlaması için nesnelerle çalışmasını teşvik edin. Her iki sayıyı da onluk ve birlik gruplarıyla temsil ederek başlayın.\n\n**Toplama:** Eğer iki sayıyı topluyorsanız, tüm grupları bir araya getirin ve çıkan sonucu birlikte inceleyin. Örneğin 23 ile 45’i topluyorsanız, sadece bu grupları toplamak yeterlidir. Ancak 23 ile 48’i topluyorsanız, birlikler grubundaki sayılar yeni bir onluk grup oluşturacaktır. Onluk grup sayısının 6’dan 7’ye çıktığını vurgulayın. Buna yeniden gruplama denir.\n\n**Çıkarma:** Çıkarma yaparken önce büyük sayıdan çıkarılacak onluk grupları çıkarmakla başlayın. Ardından gerekli birlikleri çıkarmaya çalışın. Örneğin, 45’ten 23’ü çıkarıyorsanız elinizde yeterince birlik grup olduğu için işlem kolayca tamamlanır. Ama eğer 45’ten 28’i çıkarıyorsanız birlikler yeterli olmayabilir. Bu durumda bir onluk grubu parçalayarak birlik gruplara dönüştürebileceğinizi gösterin. Örneğin 45 başlangıçta 4 onluk ve 5 birlik gruptan oluşurken, onu 3 onluk ve 15 birlik grup şeklinde yeniden düzenleyebiliriz. Bu da yeniden gruplamadır.\n\n**Basamaklara ayırın (Genişletilmiş Form):** Çocuğunuz sayıların yapısını ve yeniden gruplamanın neden gerekli olduğunu tam olarak anlayana kadar somut nesneler kullanmaya devam edin. Bir sonraki adımda, işlemleri basamaklara ayrılmış sayılar kullanarak ve yazılı olarak yapmaya başlayın. Sayıları basamaklara ayırırken kullandığımız yöntem ve adımlar, onluk ve birlik nesne gruplarıyla yaptığımız işlemlerle aynıdır.\n\n**Otomatikleştirme:** Zamanla ve bol pratikle, çocuğunuz onluk ve birlik gruplara ya da sayıları basamaklarına ayırmaya gerek duymadan işlemleri yapabilecektir. Ancak, diğer pek çok beceride olduğu gibi, bu seviyeye ulaşmak için acele etmeye gerek yoktur. Bu, pratikle doğal olarak gelişecektir.",
     "type": "data_list",
     "note": ""
   },
@@ -23971,7 +24031,7 @@
   },
   {
     "SourceText": "**Practice:** Practice skip counting up and down starting anywhere and by any number from 2 to 10. Not surprisingly, this is valuable for learning multiplication and division. It is also very helpful for getting better at mental addition and subtraction. One of the nice things about skip counting is that it can be done anywhere and at any time that you have some spare time.\n\n**Patterns on a 100 chart:** Look for patterns that show up as your child skip counts. This is most easily done using a 100 chart, but you can also do it by writing the numbers in a column and watching what happens to the ones and tens digits as they march down the column. Some numbers, such as 8 and 9, have interesting patterns in their ones digits, and other numbers, such as 3, are not as interesting.\n\n**Make it fun:** This is something you can make into an activity to do with two or more people. Someone says a number to start with, what the skip size will be, and whether to go up or down. Then go around the group with each person saying the next skip count number.",
-    "text": "**Pratik:** 2 ile 10 arasında herhangi bir sayı seçin, bir başlangıç noktası belirleyin ve ileri ya da geri doğru atlayarak sayın. Tahmin edebileceğiniz gibi, bu yöntem çarpma ve bölmeyi öğrenmek için oldukça değerlidir. Aynı zamanda zihinden toplama ve çıkarma becerilerini geliştirmek açısından da çok faydalıdır. Atlayarak saymanın en güzel yanlarından biri, boş zamanlarınızda istediğiniz her yerde ve her an yapabilmenizdir.\n\n**100’lük sayı tablosunda örüntüler:** Çocuğunuz atlayarak sayarken ortaya çıkan örüntülere dikkat edin. Bunu yapmanın en kolay yolu 100’lük bir sayı tablosu kullanmaktır. Aynı şekilde, sayıları bir sütun hâlinde yazarak ve aşağı doğru ilerledikçe birler ve onlar basamaklarında neyin değiştiğini gözlemleyerek de örüntüler fark edebilirsiniz. Bazı sayılarda (örneğin 8 ve 9’da) atlayarak sayıldığında birler basamağında ilginç örüntüler oluşur. Bazı sayılarda ise (örneğin 3’te) bu kadar belirgin ya da ilginç örüntüler görülmeyebilir.\n\n**Eğlenceli hale getirin:** Bu etkinliği iki ya da daha fazla kişiyle oynanabilecek bir oyuna dönüştürebilirsiniz. Bir kişi başlangıç sayısını, kaçar sayılacağını ve ileri mı yoksa geri mı sayılacağını söyler. Sonra sırayla herkes bir sonraki sayıyı söyler ve oyun böyle devam eder.",
+    "text": "**Pratik:** 2 ile 10 arasında herhangi bir sayı seçin, bir başlangıç noktası belirleyin ve ileri ya da geri doğru atlayarak sayın. Tahmin edebileceğiniz gibi, bu yöntem çarpma ve bölmeyi öğrenmek için oldukça değerlidir. Aynı zamanda zihinden toplama ve çıkarma becerilerini geliştirmek açısından da çok faydalıdır. Atlayarak saymanın en güzel yanlarından biri, boş zamanlarınızda istediğiniz her yerde ve her an yapabilmenizdir.\n\n**100’lük sayı tablosunda örüntüler:** Çocuğunuz atlayarak sayarken ortaya çıkan örüntülere dikkat edin. Bunu yapmanın en kolay yolu 100’lük bir sayı tablosu kullanmaktır. Aynı şekilde, sayıları bir sütun hâlinde yazarak ve aşağı doğru ilerledikçe birler ve onlar basamaklarında neyin değiştiğini gözlemleyerek de örüntüler fark edebilirsiniz. Bazı sayılarda (örneğin 8 ve 9’da) atlayarak sayıldığında birler basamağında ilginç örüntüler oluşur. Bazı sayılarda ise (örneğin 3’te) bu kadar belirgin ya da ilginç örüntüler görülmeyebilir.\n\n**Eğlenceli hale getirin:** Bu etkinliği iki ya da daha fazla kişiyle oynanabilecek bir oyuna dönüştürebilirsiniz. Bir kişi başlangıç sayısını, kaçar sayılacağını ve ileri mi yoksa geri mi sayılacağını söyler. Sonra sırayla herkes bir sonraki sayıyı söyler ve oyun böyle devam eder.",
     "type": "data_list",
     "note": ""
   },
@@ -23983,7 +24043,7 @@
   },
   {
     "SourceText": "**Good framework:** These numbers are usually quick to learn, and once learned they provide a good framework for learning the remaining numbers.\n\n**Multiplying by 5 and 10:** Knowing how to multiply by 10 is quick to learn, and it is important for understanding place value. It also can make it easier to learn how to multiply by 5.\n\nThe 5's can either be learned by skip counting by 5 until they become automatic, or they can be learned using the 10's. If you multiply 6 times 5, that will give you half as many 10's. Half of 6 is 3, so the answer is 30. If you multiply 7 times 5, you need to put one of the 5's off to the side and proceed as you would for 6 times 5. The answer for 6 times 5 is 30, and then adding in the 5 held in reserve gives the answer of 35.\n\n**Multiplying by 2, 4, and 8:** These three can be done with lots of doubling. Your child should have had lots of practice with doubling and multiplying by 2. Multiply by 4 either by skip counting or by doubling the answer from multiplying by 2. For example 4 times 3 is twice as much as 2 x 3, so the answer is 6 doubled, which is 12. Multiply by 8 by skip counting by 8 or by doubling the answer from multiplying by 4.",
-    "text": "**İyi bir temel:** Bu sayılar genellikle çabuk öğrenilir ve bir kez öğrenildikten sonra diğer çarpım işlemlerini öğrenmek için sağlam bir temel oluşturur.\n\n**5 ve 10 ile çarpma:** 0 ile çarpmayı öğrenmek kolaydır ve basamak değeri kavramını anlamak açısından oldukça önemlidir. Aynı zamanda, 5 ile çarpmayı öğrenmeyi de kolaylaştırır.\n\n5’in katları iki şekilde öğrenilebilir: 5’erli atlayarak sayarak ya da 10’un katlarını kullanarak. Örneğin, 6 kere 5 işlemi size 6’nın yarısı kadar 10 verir. 6’nın yarısı 3 olduğuna göre, sonuç 30’dur. 77 kere 5 işlemini yaparken, 5’lerden birini kenara ayırıp kalan 6 adet 5 ile 6 kere 5 işlemini yapabilirsiniz. Sonuç 30’dur. Ardından, kenara ayırdığınız 5’i de eklediğinizde sonuca ulaşırsınız: 35.\n\n**2, 4 ve 8 ile çarpma:** Bu üç sayı için genellikle bolca iki katına çıkarma işlemi yapılır. Çocuğunuz bu aşamada ikiyle çarpma konusunda bolca pratik yapmış olmalıdır. 4 ile çarpma, ya doğrudan 4’erli atlayarak sayma yoluyla ya da önce 2 ile çarpıp ardından sonucu iki katına çıkararak yapılabilir. Örneğin, 4 kere 3 işlemi, 2 kere 3’ün iki katıdır. 2 kere 3 eşittir 6, bunun iki katı ise 12 eder. 8 ile çarpmaysa ya 8’erli atlayarak ya da 4 ile çarpmanın sonucunu iki katına çıkararak yapılabilir.",
+    "text": "**İyi bir temel:** Bu sayılar genellikle çabuk öğrenilir ve bir kez öğrenildikten sonra diğer çarpım işlemlerini öğrenmek için sağlam bir temel oluşturur.\n\n**5 ve 10 ile çarpma:** 10 ile çarpmayı öğrenmek kolaydır ve basamak değeri kavramını anlamak açısından oldukça önemlidir. Aynı zamanda, 5 ile çarpmayı öğrenmeyi de kolaylaştırır.\n\n5’in katları iki şekilde öğrenilebilir: 5’erli atlayarak sayarak ya da 10’un katlarını kullanarak. Örneğin, 6 kere 5 işlemi size 6’nın yarısı kadar 10 verir. 6’nın yarısı 3 olduğuna göre, sonuç 30’dur. 77 kere 5 işlemini yaparken, 5’lerden birini kenara ayırıp kalan 6 adet 5 ile 6 kere 5 işlemini yapabilirsiniz. Sonuç 30’dur. Ardından, kenara ayırdığınız 5’i de eklediğinizde sonuca ulaşırsınız: 35.\n\n**2, 4 ve 8 ile çarpma:** Bu üç sayı için genellikle bolca iki katına çıkarma işlemi yapılır. Çocuğunuz bu aşamada ikiyle çarpma konusunda bolca pratik yapmış olmalıdır. 4 ile çarpma, ya doğrudan 4’erli atlayarak sayma yoluyla ya da önce 2 ile çarpıp ardından sonucu iki katına çıkararak yapılabilir. Örneğin, 4 kere 3 işlemi, 2 kere 3’ün iki katıdır. 2 kere 3 eşittir 6, bunun iki katı ise 12 eder. 8 ile çarpmaysa ya 8’erli atlayarak ya da 4 ile çarpmanın sonucunu iki katına çıkararak yapılabilir.",
     "type": "data_list",
     "note": ""
   },
@@ -24007,7 +24067,7 @@
   },
   {
     "SourceText": "**Missing piecees:** If your child memorizes the one or two remaining multiplication facts, they will then know all of single-digit multiplication! For example, they may not know what 7 times 7 is yet. Similar to adding twins, squares are a fun category for many children, and these can be practiced on their own. Keep all this practice light-hearted and do not get too goal oriented.\n\n**Pulling it all together and memorizing:** Bit by bit, with practice and repeated exposure, your child will memorize all the multiplication facts. While it is important that these eventually become easy and automatic for your child, it is not essential that this happens quickly. It is far more important that you make this fun and that your child enjoys seeing how the various multiplication facts in- terrelate – which ones are doubles or halves of others, which ones are one more or one less than others, and which ones have interesting patterns with their ones digits.\n\n**Limited and fun flashcards:** Used sparingly and lightheartedly, flash cards, or something similar, can be helpful. If your child has trouble remembering a handful of the multiplication facts, make a list of just those facts so they can be briefly practiced on their own.",
-    "text": "**Eksik bilgiler:** Çocuğunuzun tüm tek basamaklı çarpma işlemlerini öğrenmiş olması için geriye yalnızca bir ya da iki bilgi kaldı! Örneğin, çocuğunuz henüz 7 kere 7’nin sonucunu bilmiyor olabilir. İkiz sayıların toplamı gibi, kare sayılar da birçok çocuk için eğlencelidir ve kendi başlarına pratik edilebilir. Bu alıştırmalardan keyif almaya bakın ve hedef odaklı olmaktan kaçının.\n\n**Tüm bilgileri birleştirme ve ezberleme:** Adım adım, bol pratik ve tekrar yoluyla, çocuğunuz tüm çarpmayla ilgili tüm bilgileri ezberleyecektir. Bu bilgilerin zamanla kolay ve kendiliğinden uygulanabilir hâle gelmesi önemlidir, ancak bunun hemen olması gerekmez. Asıl önemli olan, sürecin eğlenceli olması ve çocuğunuzun farklı çarpma işlemleri arasındaki ilişkileri keşfetmekten keyif almasıdır. Örneğin, hangi işlemler diğerlerinin iki katı ya da yarısıdır, hangileri bir fazla ya da bir eksiktir, hangileri birler basamağında ilginç desenler oluşturur.\n\n**Sınırlı ve eğlenceli kartlar:** Ara sıra ve keyifli şekilde kullanıldığında bilgi verici kartlar veya buna benzer araçlar faydalı olabilir. Çocuğunuz bazı çarpma işlemlerini hatırlamakta zorlanıyorsa, yalnızca bu işlemlerden oluşan kısa bir liste oluşturun ve bunları tek başına kısaca tekrar edebileceği şekilde çalıştırın.",
+    "text": "**Eksik bilgiler:** Çocuğunuzun tüm tek basamaklı çarpma işlemlerini öğrenmiş olması için geriye yalnızca bir ya da iki bilgi kaldı! Örneğin, çocuğunuz henüz 7 kere 7’nin sonucunu bilmiyor olabilir. İkiz sayıların toplamı gibi, kare sayılar da birçok çocuk için eğlencelidir ve kendi başlarına pratik edilebilir. Bu alıştırmalardan keyif almaya bakın ve hedef odaklı olmaktan kaçının.\n\n**Tüm bilgileri birleştirme ve ezberleme:** Adım adım, bol pratik ve tekrar yoluyla, çocuğunuz çarpmayla ilgili tüm bilgileri ezberleyecektir. Bu bilgilerin zamanla kolay ve kendiliğinden uygulanabilir hâle gelmesi önemlidir, ancak bunun hemen olması gerekmez. Asıl önemli olan, sürecin eğlenceli olması ve çocuğunuzun farklı çarpma işlemleri arasındaki ilişkileri keşfetmekten keyif almasıdır. Örneğin, hangi işlemler diğerlerinin iki katı ya da yarısıdır, hangileri bir fazla ya da bir eksiktir, hangileri birler basamağında ilginç desenler oluşturur.\n\n**Sınırlı ve eğlenceli kartlar:** Ara sıra ve keyifli şekilde kullanıldığında bilgi verici kartlar veya buna benzer araçlar faydalı olabilir. Çocuğunuz bazı çarpma işlemlerini hatırlamakta zorlanıyorsa, yalnızca bu işlemlerden oluşan kısa bir liste oluşturun ve bunları tek başına kısaca tekrar edebileceği şekilde çalıştırın.",
     "type": "data_list",
     "note": ""
   },
@@ -24019,13 +24079,13 @@
   },
   {
     "SourceText": "**Divisors and factors:** If a number evenly divides into a number, then it is called a divisor of it. For example, 3 is a divisor of 6 because 3 divides into 6 exactly 2 times. 4 is not a divisor by 6 because it goes into it 1 1/2 times. The word factor means the same thing as divisor.\n\n**Common divisors:** In some mathematical situations, particularly with simplifying fractions, it is useful to find numbers that evenly divide two given numbers. Such numbers are called common divisors or common factors. The common divisors of 20 and 8 are 1, 2, and 4. You may enjoy exploring together why all the common divisors for a pair of numbers are divisors of the greatest of the common divisors.\n\n**Multiples:** A multiple of a number is anything that can be produced by multiplying the number by a whole number. For example, some multiples of 6 are 0, 6, 12, and 18. Notice that any multiple of a number has that number as a divisor. For example, each of the multiples of 6 has 6 as a divisor.\n\n**Common multiples:** A number which is a multiple of two given numbers is said to be a common multiple for them. Some common multiples of 6 and 4 are 0, 12, 24, and 36. Notice that all the common multiples are multiples of the least of the positive common multiples. Common multiples will be useful in adding and subtracting fractions.\n\n**Introduce these words:** Slowly introduce these new words to your child as you discuss situations that involve multiplication and division. They are useful words that simplify many discussions once the words are understood.",
-    "text": "**Bölenler ve çarpanlar:** Bir sayı başka bir sayıyı kalansız bölebiliyorsa o sayının böleni olarak adlandırılır. Örneğin, 3 sayısı 6’nın bölenidir çünkü 6’yı tam olarak 2 kez böler. Ancak 4, 6’nın böleni değildir çünkü 6’nın içinde 1.5 adet vardır. “Çarpan” kelimesi de burada “bölen” ile aynı anlamda kullanılır.\n\n**Ortak bölenler:** Matematikte bazı durumlarda (özellikle kesirleri sadeleştirirken) iki sayıyı ortak olarak kalansız bölen sayıları bulmak faydalı olur. Bu sayılara ortak bölenler ya da ortak çarpanlar denir. Örneğin, 20 ve 8’in ortak bölenleri 1, 2 ve 4’tür. İki sayının tüm ortak bölenlerinin en büyük ortak bölenin de bölenleri olduğunu keşfetmek eğlenceli olabilir.\n\n**Katlar:** Bir sayının katları, o sayının tam sayılarla çarpılmasıyla elde edilen sayılardır. Örneğin, 6’nın katlarından bazıları 0, 6, 12 ve 18’dir. Dikkat ederseniz, bir sayının katlarının o sayının çarpanlarını içerdiğini fark edersiniz. Örneğin, 6’nın tüm katları 6’nın çarpanlarını içerir.\n\n**Ortak katlar:** İki sayının katı olan sayılara ortak katlar denir. Örneğin, 6 ve 4’ün ortak katlarından bazıları 0, 12, 24 ve 36’dır. Tüm ortak katların, bu sayıların en küçük ortak katının katları olduğuna dikkat edin. Ortak katlar, özellikle kesirlerle toplama ve çıkarma işlemlerinde oldukça kullanışlıdır.\n\n**Bu kelimeleri tanıtın:** Çarpma ve bölme içeren durumlar hakkında konuşurken bu yeni kavramları çocuğunuza yavaş yavaş tanıtın. Bu terimler bir kez anlaşıldığında, pek çok matematiksel konuyu açıklamak çok daha kolay hale gelir.",
+    "text": "**Bölenler ve çarpanlar:** Bir sayı başka bir sayıyı kalansız bölebiliyorsa o sayının böleni olarak adlandırılır. Örneğin, 3 sayısı 6’nın bölenidir çünkü 6’yı tam olarak 2 kez böler. Ancak 4, 6’nın böleni değildir çünkü 6’nın içinde 1.5 adet vardır. “Çarpan” kelimesi de burada “bölen” ile aynı anlamda kullanılır.\n\n**Ortak bölenler:** Matematikte bazı durumlarda (özellikle kesirleri sadeleştirirken) iki sayıyı ortak olarak kalansız bölen sayıları bulmak faydalı olur. Bu sayılara ortak bölenler ya da ortak çarpanlar denir. Örneğin, 20 ve 8’in ortak bölenleri 1, 2 ve 4’tür. İki sayının tüm ortak bölenlerinin en büyük ortak bölenin de bölenleri olduğunu keşfetmek eğlenceli olabilir.\n\n**Katlar:** Bir sayının katları, o sayının tam sayılarla çarpılmasıyla elde edilen sayılardır. Örneğin, 6’nın katlarından bazıları 0, 6, 12 ve 18’dir. Dikkat ederseniz, bir sayının katlarının o sayının çarpanlarını içerdiğini fark edersiniz. Örneğin, 6’nın tüm katları 6’nın çarpanlarını içerir.\n\n**Ortak katlar:** İki sayının katı olan sayılara ortak katlar denir. Örneğin, 6 ve 4’ün ortak katlarından bazıları 0, 12, 24 ve 36’dır.Tüm ortak katların, bu sayıların en küçük ortak katının katları olduğuna dikkat edin. Ortak katlar, özellikle kesirlerle toplama ve çıkarma işlemlerinde oldukça kullanışlıdır.\n\n**Bu kelimeleri tanıtın:** Çarpma ve bölme içeren durumlar hakkında konuşurken bu yeni kavramları çocuğunuza yavaş yavaş tanıtın. Bu terimler bir kez anlaşıldığında, pek çok matematiksel konuyu açıklamak çok daha kolay hale gelir.",
     "type": "data_list",
     "note": ""
   },
   {
     "SourceText": "5.8 Primes, Composites, and Powers",
-    "text": "Adım 48: Asal Sayılar, Birleşik Sayılar ve Kuvvetler",
+    "text": "Adım 48: Asal Sayılar, Bileşik Sayılar ve Kuvvetler",
     "type": "data_list",
     "note": ""
   },
@@ -24049,7 +24109,7 @@
   },
   {
     "SourceText": "**Families:** In Stage 3 we explored the fact families that connect addition and subtraction, and we saw how useful they are in understanding the interconnections between those two operations. Similar to what was done for addition and subtraction, group multiplication and division facts by families to gain a deeper understanding of them. For example, 3 x 4 = 12, 4 x 3 = 12, 12 / 3 = 4, and 12 / 4 = 3 form a fact family.\n\n**Multiplying and dividing are related:** For the 3 x 4 = 12 fact family, visualize this interconnection using a rectangle that is 3 by 4. The area of this rectangle is 12, which is 3 times 4 or 4 times 3 – its width times its length. To get an area of 12 for a rectangle of width 3, the length must be 4. To get an area of 12 for a rectangle of length 4, its width must be 3. All these facts are tied together.\n\n**Multiplying and dividing undo each other:** Let's continue to use the example of 3 times 4. If we start with 3 and multiply it by 4 we arrive at 12. If we then take 12 and divide it by 4, the result is back to 3. Multiplying by 4 and then dividing by 4 gets back to where we started.\n\nSimilarly, if we take 12 and divide by 4 the answer is 3. If we then multiply 3 by 4 the answer is 12, which is where we started. Dividing by 4 and then multiplying by 4 returns things to the beginning.",
-    "text": "**Aileler:** 3. Aşamada, toplama ve çıkarma işlemleri arasındaki ilişkiyi kurmak için sayı ailelerinden faydalanmıştık. Bu yaklaşım, çocukların bu iki işlemi daha iyi kavramasını sağlamıştı. Benzer şekilde çarpma ve bölme arasındaki bağlantıları görmek ve bu işlemleri sayı aileleri şeklinde gruplayarak incelemek, çocuğunuzun bu konuları daha derinlemesine anlamasına yardımcı olur.\n\nÖrneğin, 3 × 4 = 12, 4 × 3 = 12, 12 ÷ 3 = 4 ve 12 ÷ 4 = 3 işlemleri bir sayı ailesi oluşturur.\n\n**Çarpma ve bölme birbirine bağlıdır:** 3 × 4 = 12 sayı ailesini ele alalım. Bu bağlantıyı, 3’e 4 boyutlarında bir dikdörtgen üzerinden görselleştirebiliriz. Bu dikdörtgenin alanı 12’dir. Yani 3 kere 4, 4 kere 3 veya başka bir deyişle, en ve boyunun çarpımıdır. Eğer genişliği 3 olan bir dikdörtgenin alanı 12 ise, uzunluğunun 4 olması gerekir. Aynı şekilde, uzunluğu 4 olan bir dikdörtgenin alanı 12 ise, genişliği 3 olmalıdır. Tüm bu işlemler birbiriyle ilişkilidir ve aynı sayı ailesinin parçalarıdır.\n\n**Çarpma ve bölme birbirinin tersidir:** 3 × 4 örneğiyle devam edelim. 3’ü 4 ile çarptığımızda 12 elde ederiz. Ardından 12’yi 4’e bölersek, yeniden 3’e ulaşırız. Yani 4 ile çarpıp sonra 4’e bölmek, bizi başladığımız sayıya geri götürür.\n\nBenzer şekilde, önce 12’yi 4’e bölersek sonuç 3 olur. Sonra 3’ü 4 ile çarptığımızda yine 12’ye ulaşırız. 4’e bölüp ardından 4 ile çarpmak da bizi başa döndürür.",
+    "text": "**Aileler:** Aşama 3’te, toplama ve çıkarma işlemleri arasındaki ilişkiyi kurmak için sayı ailelerinden faydalanmıştık. Bu yaklaşım, çocukların bu iki işlemi daha iyi kavramasını sağlamıştı. Benzer şekilde çarpma ve bölme arasındaki bağlantıları görmek ve bu işlemleri sayı aileleri şeklinde gruplayarak incelemek, çocuğunuzun bu konuları daha derinlemesine anlamasına yardımcı olur.\n\nÖrneğin, 3 × 4 = 12, 4 × 3 = 12, 12 ÷ 3 = 4 ve 12 ÷ 4 = 3 işlemleri bir sayı ailesi oluşturur.\n\n**Çarpma ve bölme birbirine bağlıdır:** 3 × 4 = 12 sayı ailesini ele alalım. Bu bağlantıyı, 3’e 4 boyutlarında bir dikdörtgen üzerinden görselleştirebiliriz. Bu dikdörtgenin alanı 12’dir. Yani 3 kere 4, 4 kere 3 veya başka bir deyişle, en ve boyunun çarpımıdır. Eğer genişliği 3 olan bir dikdörtgenin alanı 12 ise, uzunluğunun 4 olması gerekir. Aynı şekilde, uzunluğu 4 olan bir dikdörtgenin alanı 12 ise, genişliği 3 olmalıdır. Tüm bu işlemler birbiriyle ilişkilidir ve aynı sayı ailesinin parçalarıdır.\n\n**Çarpma ve bölme birbirinin tersidir:** 3 × 4 örneğiyle devam edelim. 3’ü 4 ile çarptığımızda 12 elde ederiz. Ardından 12’yi 4’e bölersek, yeniden 3’e ulaşırız. Yani 4 ile çarpıp sonra 4’e bölmek, bizi başladığımız sayıya geri götürür.\n\nBenzer şekilde, önce 12’yi 4’e bölersek sonuç 3 olur. Sonra 3’ü 4 ile çarptığımızda yine 12’ye ulaşırız. 4’e bölüp ardından 4 ile çarpmak da bizi başa döndürür.",
     "type": "data_list",
     "note": ""
   },
@@ -24061,7 +24121,7 @@
   },
   {
     "SourceText": "**You have prepared the way:** Your work with skip counting, learning multiplication facts, and fact families will smooth the way for dividing both with and without remainders. All those skills should be well mastered and understood before starting in on general single-digit division.\n\n**No remainder:** Division problems where the divisor goes in evenly without a remainder are mostly done by your child recognizing the corresponding multiplication fact. For example, if they are asked to divide 36 by 4, then remembering that 4 times 9 is 36 will get them straight to the answer. However, if that method doesn't work for a given problem, then they should use the next method.\n\n**Guessing and skip counting:** Suppose your child is asked to divide 29 by 4. Your child will not find 29 among their multiplication facts involving 4, so they will want to find a result that is less than 29 that does work. Have your child guess at a multiple of 4 that is less than 29. They might guess 24, which is 4 times 6. They can then skip count forward until they bump into 29. In this case that will mean moving forward to 28, which is 4 times 7. Seeing that they have to stop there, they have their answer that 29 divided by 4 is 7 with a remainder of 1.\n\n**Checking the answer:** Checking their answers is a good habit for your child to develop. In this last example, we think we found that 29 divided by 4 is 7 with a remainder of 1. Check this by multiplying 4 times 7 to get 28, and then adding 1 to get 29. So it all checks out!",
-    "text": "**Yolu hazırladınız:** Atlayarak sayma, çarpma işlemleri ve sayı aileleri üzerine yaptığınız çalışmalar, hem kalanlı hem de kalansız bölme işlemleri için sağlam bir zemin hazırlar. Bu becerilerin, tek basamaklı bölme konusuna geçmeden önce iyice öğrenilmiş ve pekişmiş olması gerekir.\n\n**Kalan yok:** Bölenin sayıyı tam böldüğü kalansız bölme işlemleri genellikle çocuğun ilgili çarpım işlemini hatırlamasıyla kolayca çözülür. Örneğin, çocuğunuz 36’yı 4’e bölecekse, 4 kere 9’un 36 ettiğini hatırlaması onu doğrudan sonuca götürür. Ancak bu yöntem belirli bir soruda işe yaramazsa, bir sonraki yönteme geçmesi gerekir.\n\n**Tahmin etme ve atlayarak sayma:** Diyelim ki çocuğunuzdan 29’u 4’e bölmesi isteniyor. 4 ile ilgili çarpım hakkında bildiği şeyler arasında 29 yer almadığı için, 29’dan küçük bir sayı tahmin etmesi gerekir. Çocuğunuzdan, 4’ün 29’dan küçük bir katını tahmin etmesini isteyin. Örneğin, 24’ü tahmin edebilir, bu da 4 kere 6’dır. Sonrasında, 29’a ulaşana kadar ileri doğru atlayarak sayabilir. Bu durumda 28’e ulaşır, yani 4 kere 7. Burada durması gerektiğini fark ederek “29 bölü 4 eşittir 7, kalan 1” sonucuna ulaşır.\n\n**Cevabı kontrol etme:** Çocuğunuzun işlem sonuçlarını kontrol etmeyi öğrenmesi, kazanması gereken güzel bir alışkanlıktır. Yukarıdaki örnekte, “29 bölü 4 eşittir 7, kalan 1” sonucunu elde etmiştik. Şimdi bunu çarpma kullanarak konrol edelim: 4 kere 7 eşittir 28 ve 28 artı 1 eşittir 29. Demek ki cevabımız doğru!",
+    "text": "**Yolu hazırladınız:** Atlayarak sayma, çarpma işlemleri ve sayı aileleri üzerine yaptığınız çalışmalar, hem kalanlı hem de kalansız bölme işlemleri için sağlam bir zemin hazırlar. Bu becerilerin, tek basamaklı bölme konusuna geçmeden önce iyice öğrenilmiş ve pekişmiş olması gerekir.\n\n**Kalan yok:** Bölenin sayıyı tam böldüğü kalansız bölme işlemleri genellikle çocuğun ilgili çarpım işlemini hatırlamasıyla kolayca çözülür. Örneğin, çocuğunuz 36’yı 4’e bölecekse, 4 kere 9’un 36 ettiğini hatırlaması onu doğrudan sonuca götürür. Ancak bu yöntem belirli bir soruda işe yaramazsa, bir sonraki yönteme geçmesi gerekir.\n\n**Tahmin etme ve atlayarak sayma:** Diyelim ki çocuğunuzdan 29’u 4’e bölmesi isteniyor. 4 ile ilgili çarpım hakkında bildiği şeyler arasında 29 yer almadığı için, 29’dan küçük bir sayı tahmin etmesi gerekir. Çocuğunuzdan, 4’ün 29’dan küçük bir katını tahmin etmesini isteyin. Örneğin, 24’ü tahmin edebilir, bu da 4 kere 6’dır. Sonrasında, 29’a ulaşana kadar ileri doğru atlayarak sayabilir. Bu durumda 28’e ulaşır, yani 4 kere 7. Burada durması gerektiğini fark ederek “29 bölü 4 eşittir 7, kalan 1” sonucuna ulaşır.\n\n**Cevabı kontrol etme:** Çocuğunuzun işlem sonuçlarını kontrol etmeyi öğrenmesi, kazanması gereken güzel bir alışkanlıktır. Yukarıdaki örnekte, “29 bölü 4 eşittir 7, kalan 1” sonucunu elde etmiştik. Şimdi bunu çarpma kullanarak kontrol edelim: 4 kere 7 eşittir 28 ve 28 artı 1 eşittir 29. Demek ki cevabımız doğru!",
     "type": "data_list",
     "note": ""
   },
@@ -25314,6 +25374,1182 @@
     "note": ""
   },
   {
+    "SourceText": "Stage 1 Overview",
+    "text": "Oyun Buluşmaları Aşama 1 — Seni Anlayabiliyorum!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Overview for Stage 1 playdates**\n\nThe Math Learning Step for the introduction for Stage 1 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities.",
+    "text": "Bu aşama en erken 4. ayda başlar. Çocuğunuzu farkli deneyimlerle tanıştırmak çok önemlidir. Sizi anladığını göstermese bile onunla konuşun. Her türlü nesneyi işaret edip tanımlamayı alışkanlık haline getirin. Çocuğunuz söylediklerinize tepki göstermeye başladığında, yanıt vermesi için ona sorular sorun.\n\nÇocuğunuz nesnelerin özellikleri olduğunu anlamaya başladığında, benzerlikleri ve farklılıkları ortaya çıkaran özelliklere dikkat çekin. Bu özellikler, örüntülerle oynamada da faydalıdır. Son olarak, şekilleri farklı özellikleri açısından tanımlamaya başlayın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 1-1",
+    "text": "Oyun Buluşması 1: Matematik Sohbeti – Erken ve Sık Sık",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Use Math Talk to point out and describe objects to your child. Talk about the properties of these objects.",
+    "text": "**Oyun Buluşması Odağı:** Matematik dilini kullanarak çocuğunuza nesneleri gösterin ve tanımlayın. Bu nesnelerin özellikleri hakkında konuşun.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has color words.",
+    "text": "Bu kitapta renk isimleri yer alır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve the properties of things.",
+    "text": "Bu etkinlik günlük hayattaki nesnelerin özellikleri ile ilgilidir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 1-2",
+    "text": "Oyun Buluşması 2: Matematik Sohbeti – Evde",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Continue to use Math Talk to point out and describe objects to your child.",
+    "text": "**Oyun Buluşması Odağı:** Çocuğunuza nesneleri göstermek ve tanımlamak için Matematik dilini kullanmaya devam edin.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This looks at how clothes can be too big or too small.",
+    "text": "Bu kitap, kıyafetlerin nasıl çok büyük ya da çok küçük olabileceğini inceler.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These practice shapes and descriptions.",
+    "text": "Bu etkinlikler, şekillerin ve özelliklerinin tanımlanmasına yönelik alıştırmalar içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 1-3",
+    "text": "Oyun Buluşması 3: Matematik Sohbeti– Dışarıda ve Çevrede",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Describe all the math that is all around you everywhere you go. Use Math Talk to chat about it with your child.",
+    "text": "**Oyun Buluşması Odağı:** Gittiğiniz her yerde çevrenizde bulunan matematiği inceleyin ve bu konuda Matematik Dilini kullanarak çocuğunuzla sohbet edin.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This talks about speed, colors, and small counting.",
+    "text": "Bu kitap, hız kavramını, renkleri ve sayma becerilerini anlatır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve descriptions of places and objects, and also the following of directions.",
+    "text": "Bu etkinlikler, mekanların ve nesnelerin betimlenmesini ve yönergeleri takip etmeyi içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 1-4",
+    "text": "Oyun Buluşması 4: Matematik Sohbeti – Tarif Et ve Karşılaştır",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Math is not just counting – math is also about properties and relationships. This should be brought out in your Math Talk.",
+    "text": "**Oyun Buluşması Odağı:** Matematik sadece sayı saymaktan ibaret değildir. Aynı zamanda özellikler ve ilişkilerle de ilgilidir. Bu noktalar Matematik Dilinde mutlaka vurgulanmalıdır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "The storybook talks about colors, shapes, and spatial relationships.",
+    "text": "Bu hikaye kitabında renkler, şekiller ve nesnelerin birbirine göre konumları anlatılır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve properties of objects and how those properties can create patterns.",
+    "text": "Bu etkinlikler, mekanların ve nesnelerin betimlenmesini ve yönergeleri takip etmeyi içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 1-5",
+    "text": "Oyun Buluşması 5: Matematik Sohbeti – Sayı Sayma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Use counting in your Math Talk. Count everything you come across.",
+    "text": "**Oyun Buluşması Odağı:** Matematik dilinde saymaya yer verin. Karşınıza çıkan her şeyi sayın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This involves counting and the ideas of one more and one less.",
+    "text": "Bu kitap saymanın yanı sıra ‘artı bir’ ve ‘eksi bir’ kavramları da içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve quantities of objects and building with various shapes.",
+    "text": "Bu etkinliklerde, nesnelerin miktarları ve farklı şekiller kullanarak yapı oluşturma becerileri ele alınır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 1-6",
+    "text": "Oyun Buluşması 6: Matematik Sohbeti – İşaret Et, Tarif Et, Sor",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Your Math Talk changes when your child is able to respond to your comments and questions.",
+    "text": "**Oyun Buluşması Odağı:** Çocuğunuz yorum ve sorularınıza yanıt verebildiğinde, Matematik diliniz buna göre şekillenir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This counts up to 5 and uses relationship words, which you can now use to ask your child about what's going on in the story.",
+    "text": "Bu etkinlik, beşe kadar saymayı içerir ve nesneler arası ilişkileri anlatan kelimeler kullanılır. Artık bu kelimeleri kullanarak çocuğunuza hikayede neler olduğunu sorabilirsiniz.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve describing things and finding properties that make things similar or different.",
+    "text": "Bu etkinlik, nesneleri betimlemeyi ve benzer ya da farklı kılan özelliklerini bulmayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 1-7",
+    "text": "Oyun Buluşması 7: Nesnelerin Özellikleri",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Continue to emphasize words that describe properties and relationships.",
+    "text": "**Oyun Buluşması Odağı:** Nesnelerin özelliklerini ve birbirleri arasındaki ilişkileri açıklayan kelimeler kullanmaya devam edin.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has relative sizes and shapes.",
+    "text": "Bu etkinlikte, nesnelerin birbirine göre boyutları ve farklı şekilleri ele alınır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve using properties to compare things and find patterns.",
+    "text": "Bu etkinlik, nesneleri karşılaştırmak için özelliklerini kullanmayı ve örüntüler bulmayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 1-8",
+    "text": "Oyun Buluşması 8: Aynı ve Farklı",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** This is centered on what makes objects the same and different.",
+    "text": "**Oyun Buluşması Odağı:** Bu etkinlik, nesneleri aynı ya da farklı kılan özelliklere odaklanır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has shapes, colors, relationships, and counting up to 5.",
+    "text": "Bu etkinlik, şekiller, renkler, nesneler arasındaki ilişkiler ve beşe kadar saymayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve grouping things with the same property.",
+    "text": "Bu etkinlik aynı özelliğe sahip nesneleri gruplamayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 1-9",
+    "text": "Oyun Buluşması 9: Örüntüler",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Use properties of things to establish patterns. Patterns are central to mathematics.",
+    "text": "**Oyun Buluşması Odağı:** Nesnelerin özelliklerini kullanarak örüntüler oluşturun. Örüntüler, matematiğin temelini oluşturur.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This talks about the daily feeding of hungry animals.",
+    "text": "Bu etkinlik, hayvanların günlük beslenmesini ele alır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve properties and finding patterns involving those properties.",
+    "text": "Bu etkinlik, nesnelerin özelliklerini ve bu özelliklerle ilgili örüntüleri bulmayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 1-10",
+    "text": "Oyun Buluşması 10: Temel Şekiller I",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Discuss basic shapes and emphasize their names and descriptions.",
+    "text": "**Oyun Buluşması Odağı:** Temel şekiller hakkında konuşun; adlarını ve tanımlarını vurgulayın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "his has shapes on every page.",
+    "text": "Her sayfada şekiller bulunmaktadır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These continue the ongoing discussions about properties and patterns.",
+    "text": "Özellikler ve örüntülerle ilgili konuşmalar devam eder.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stage 2 Overview",
+    "text": "Oyun Buluşmaları Aşama 2 — 5’e Kadar Sayabiliyorum!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Overview for Stage 2 playdates**\n\nThe Math Learning Step for the introduction for Stage 2 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities.",
+    "text": "Çocuğunuz beşe kadar saymayı öğrenmiş ve bu sayıları miktarları açısından da anlamaktadır. Ayrıca nesnelerin farklı özellikleri olduğunu ve bu özellikleri karşılaştırarak aralarındaki farkları da belirleyebilmektedir.\n\nBu aşamada, çocuğunuz 10’a kadar saymayı öğrenirken, küçük sayılarla toplama ve çıkarma işlemlerini de anlamaya başlayacaktır. Ayrıca küçük miktarlardaki nesnelerin büyüklüğünü çok daha iyi anlamaya başlayacaktır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 2-1",
+    "text": "Oyun Buluşması 11: 1 ve 0’dan Başlayarak İleri Sayma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Count up from 1, start at 0 sometimes. This is the basis of understanding quantities and helps with beginning addition and subtraction.",
+    "text": "**Oyun Buluşması Odağı:** Saymaya genellikle 1’den bazen de 0’dan başlayın. Bu, miktar kavrayışının temelini oluşturur ve toplama ve çıkarma becerilerinin gelişmesine yardımcı olur.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has counting from 0 to 9. It also has smallest, biggest, one more, one less, and colors.",
+    "text": "Bu etkinlikte 0’dan 9’a kadar sayma, en küçük ve en büyük kavramları, bir fazlası, bir eksiği ve renkler bulunur.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "One activity introduces the idea of counterexamples. The other activity is a 2-person strategy game making triangles.",
+    "text": "Etkinliklerde biri karşı örnek kavramını tanıtır. Diğeri ise iki kişilik, üçgen yapma üzerine bir strateji oyunudur.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 2-2",
+    "text": "Oyun Buluşması 12: 1 ve 0’a Kadar Geri Sayma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Count down to 1, ending at 0 sometimes. This deepens understanding of the number sequence. It also helps with subtraction.",
+    "text": "**Oyun Buluşması Odağı:** Bazen 0’da bitirerek 1’e kadar geriye saymak, sayı dizisinin daha iyi kavranmasını sağlar. Ayrıca çıkarma becerisinin gelişmesine de yardımcı olur.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has the numbers from 1 to 7. It also has color descriptions on every page.",
+    "text": "Bu etkinlikte 1’den 7’ye kadar olan sayılar ve renk tanımları yer alır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve lots of counting and small quantities. One activity also has adding or subtracting of 1 and 2.",
+    "text": "Bu etkinlikler çokça sayma ve küçük miktarlarla ilgili alıştırmalar içerir. Ayrıca etkinliklerden biri, 1 ya da 2 ekleme ve çıkarma çalışmalarını da içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 2-3",
+    "text": "Oyun Buluşması 13: Küçük Miktarları Karşılaştırma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Understand strategies for comparing small numbers and quantities.",
+    "text": "**Oyun Buluşması Odağı:** Küçük sayıları ve miktarları karşılaştırmaya yönelik stratejileri anlamak.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has counting from 1 to 10; relationship words such as too big or too small; and spatial relationship words such as above and under.",
+    "text": "Bu etkinlikte, 1’den 10’a kadar sayma; çok küçük ve çok büyük gibi büyüklük ilişkilerini anlatan kelimeler ve ayrıca üstünde ve altında gibi konumsal ilişkileri ifade eden kelimeler yer alır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve  discovering shapes for quantities and playing with the order of numbers.",
+    "text": "Bu etkinlikler, miktarları temsil eden şekilleri keşfetmeyi ve sayıların dizilişleriyle oynamayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 2-4",
+    "text": "Oyun Buluşması 14: Ekleyerek Saymak",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** This introduces the idea of Counting On and how valuable it is for understanding quantities and laying a foundation for addition.",
+    "text": "**Oyun Buluşması Odağı:** Bu etkinlik, saymanın ve miktarları anlamanın toplama için ne kadar önemli bir temel oluşturduğunu gösterir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve the order of numbers and how numbers compare to each other.",
+    "text": "Bu etkinlik sayı sırasını ve sayıların birbirleriyle nasıl karşılaştırıldığını içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 2-5",
+    "text": "Oyun Buluşması 15: Temel Şekiller II",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Develop further your child's understanding of shapes. Introduce more shapes and their names and properties. You can use counting now to discuss numbers of edges and corners.",
+    "text": "**Oyun Buluşması Odağı:** Çocuğunuzun şekilleri anlamasını geliştirin. Daha fazla şekli, adlarını ve özelliklerini tanıtın. Şimdi kenar ve köşe sayılarını anlamak için saymayı kullanabilirsiniz.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has lots of shapes on every page.",
+    "text": "Her sayfasında çok sayıda şekli var.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve creating lots of geometric shapes.",
+    "text": "Bu etkinlik çok sayıda geometrik şekil oluşturmayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 2-6",
+    "text": "Oyun Buluşması 16: Bir Fazla ve Bir Eksik",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Make a lot of use of \"one more\" and \"one less\" to help with the understanding of the number sequence as well as beginning an understanding of addition and subtraction.",
+    "text": "**Oyun Buluşması Odağı:** Sayı dizisini kavramasına yardımcı olmak ve toplama ile çıkarmaya giriş yapmak için “bir artı” ve “bir eksi” ifadelerini sıkça kullanın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has counting to 9, one more, one less, and many relationship words.",
+    "text": "Bu etkinlik 9'a kadar saymayı, bir artı, bir eksi, ve birçok alakası olan kelimeleri içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve the ordering of numbers and the use of a number line.",
+    "text": "Bu etkinlik sayıların sıralanmasını ve sayı doğrusunun kullanılmasını içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 2-7",
+    "text": "Oyun Buluşması 17: Parmaklarla 5’e Kadar Toplama ve Çıkarma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Enjoy adding of small numbers with totals up to 5.",
+    "text": "**Oyun Buluşması Odağı:** Toplamı 5'e kadar olan küçük sayıları toplamanın keyfini çıkarın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has counting up to 6, with colors and shapes.",
+    "text": "Bu etkinlik renkler ve şekillerle 6’ya kadar saymayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve very small counting and adding. For now, only use small sums (up to around 6)  for the Bonded Groups puzzles.",
+    "text": "Bu etkinlik küçük sayıları ve toplamayı  içerir. Şimdilik, Bağlı Gruplar bulmacaları için yalnızca küçük miktarlar ( 6'ya kadar) kullanın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 2-8",
+    "text": "Oyun Buluşması 18: Parmaklarla 10’a Kadar Toplama ve Çıkarma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Fingers are very useful for counting, adding, and subtracting. Show your child how to make good use of their fingers for numbers of 10 or less.",
+    "text": "**Oyun Buluşması Odağı:** Parmaklar sayma, toplama ve çıkarma işlemlerinde çok faydalıdır. Çocuğunuza 10 veya daha küçük sayılar için parmaklarını nasıl iyi kullanacağını gösterin.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has counting up to 12, shapes, and comparing.",
+    "text": "Bu etkinlik 12’ye kadar saymayı, şekilleri ve karşılaştırmayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve a number line for counting, adding, and subtracting, and Bonded Groups for practicing adding. Keep the totals for Bonded Groups small (perhaps around 7 or so), and slowly let the totals get larger.",
+    "text": "Bu etkinlik sayma, toplama ve çıkarma için sayı doğrusu etkinlikleri ve Bağlı Gruplar alıştırmalarını içerir. Bağlı Gruplar için toplamları küçük tutun (belki 7 civarı) ve toplamların yavaş yavaş artmasına izin verin.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 2-9",
+    "text": "Oyun Buluşması 19: 2’şer Sayma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Have fun skip counting by 2's with your child. It's a fun and fast way to count that helps them see numbers in a new way.",
+    "text": "**Oyun Buluşması Odağı:** Çocuğunuzla birlikte ikişer ikişer sayarak eğlenin. Bu, sayıları yeni bir şekilde görmelerine yardımcı olan eğlenceli ve hızlı bir sayma yöntemidir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has skip counting along with shapes and comparisons.",
+    "text": "Bu etkinlik şekiller ve karşılaştırmalarla birlikte ritmik saymayı da içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve number shapes (to practice pairing things up for skip counting) and making symmetric shapes.",
+    "text": "Bu etkinlik, ritmik sayma için eşleştirme pratiği sağlayan sayı şekillerini ve simetrik şekilleri içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 2-10",
+    "text": "Oyun Buluşması 20: Grupları Saymak",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Playfully find many different ways to count a group of objects. This helps with understanding quantities and that counting, adding, and subtracting can be playful.",
+    "text": "**Oyun Buluşması Odağı:** Eğlenceli bir şekilde bir grup nesneyi saymanın birçok farklı yolunu bulun. Bu, miktarları kavramasına ve saymanın, toplamanın ve çıkarmanın eğlenceli olabileceğini fark etmesine yardımcı olur.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has skip counting and counting up to 14.",
+    "text": "Bu etkinlik ritmik saymayı ve 14’e kadar saymayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve putting quantities of things into different shapes as well as playing with making estimates for quantities.",
+    "text": "Bu etkinlik miktarları farklı şekillerde yerleştirmeyi ve miktarlar için tahminlerde bulunmayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stage 3 Overview",
+    "text": "Oyun Buluşmaları Aşama 3 — 10’a Kadar Sayabiliyorum!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Overview for Stage 3 playdates**\n\nThe Math Learning Step for the introduction for Stage 3 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities.",
+    "text": "Çocuğunuz 10’a kadar saymaya alışmıştır ve bu sayılar ve miktarlar artık daha anlamlı. Çocuğunuz artık küçük sayıları toplama ve çıkarma konusunda çok daha iyi.\n\nBu aşama saymayı 20'ye kadar genişletir ve çocuğunuzun toplayıp çıkarabileceği sayı aralığını arttırıyor. Ayrıca çarpma ve bölmenin başlangıcıdır. Son olarak, çocuğunuzun gelişen analitik becerileri ve olgunluğu, strateji oyunlarına giriş niteliğinde fikirlerin konuşulmasını gerektirir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 3-1",
+    "text": "Oyun Buluşması 21: Zihinde Toplamak – Ekleyerek Sayma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Practice adding by using the idea of Counting On. The term  Counting On means that, if you count two groups, such as 4 and 3, you start your counting at 4 rather than 1.",
+    "text": "**Oyun Buluşması Odağı:** Toplama yaparken “ileri sayma” yöntemini kullanın. Örneğin 4 ve 3’ü toplarken saymaya 1’den değil, 4’ten başlayın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has lots of shapes and groupings of objects.",
+    "text": "Bu etkinlik birçok şekli ve nesneleri gruplaşmayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve addition and subtraction. Use the \"Numbered\" version of Dots and Boxes with small numbers to practice addition.",
+    "text": "Bu etkinlik toplama ve çıkarmayı içerir. Küçük sayılarla toplama işlemini uygulamak için Noktalar ve Kutular'ın \"Numaralandırılmış\" versiyonunu kullanın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 3-2",
+    "text": "Oyun Buluşması 22: Zihinde Çıkarmak – Eksiltme",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Practice subtracting by counting down from the larger number. Talk about how \"take away\" and \"difference\" are two good models for subtraction.",
+    "text": "**Oyun Buluşması Odağı:** Büyük rakamdan geriye sayarak çıkarma çıkarma işlemi yapın. \"Çıkarma\" ve \"fark\"ın çıkarma işlemi için iki iyi model olduğunu anlatın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has skip counting, shapes, and comparisons.",
+    "text": "Bu etkinlik ritmik saymayı, şekilleri ve karşılaştırmayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve comparing, adding, and subtracting.",
+    "text": "Bu etkinlik karşılaştırmayı, toplamayı ve çıkarmayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 3-3",
+    "text": "Oyun Buluşması 23: Zihinde Çıkarmak – Fark",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Practice subtracting by counting up to find the difference. Reinforce that \"take away\" and \"difference\" are two good models for subtraction.",
+    "text": "**Oyun Buluşması Odağı:** Farkı bulmak için sayarak çıkarma işlemini yapın. \"Çıkarma\" ve \"fark\"ın çıkarma işlemi için iki iyi model olduğunu vurgulayın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has counting to 10 and shapes.",
+    "text": "Bu etkinlik 10’a kadar saymayı ve şekilleri içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve addition and some estimating of small quantities.",
+    "text": "Bu etkinlik toplamayı ve küçük miktarlarla ilgili tahminlerde bulunmayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 3-4",
+    "text": "Oyun Buluşması 24: Sayı Bağları",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** The Part-Whole relationship, seeing something as made out of parts, is a significant developmental step for a child. Practice Number Bonds, which are groups of numbers that total to the same result, with your child. Practicing with Ten Frames is an important part of this.",
+    "text": "**Oyun Buluşması Odağı:** Parça–bütün ilişkisini görmek, bir sayının parçalardan oluştuğunu anlamak, çocuğun gelişmesi için önemli bir aşamadır. Çocuğunuzla, toplamı aynı olan sayı grupları alıştırması yapın. On kutucuk ile pratik yapmak bunun önemli bir parçasıdır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve lots of practice with number bonds.",
+    "text": "Bu etkinlik bol miktarda sayı grupları ile alıştırmaları içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 3-5",
+    "text": "Oyun Buluşması 25: Yer Değeri",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Ten has a very important role for our numbers. Practice adding and subtracting 10. Also practice taking the numbers from 10 to 19 and breaking them up into 10 plus some ones – for example, that 14 is 10 plus 4 more.",
+    "text": "10’un sayı sistemimizde çok önemli bir rolü vardır. 10’un toplama ve çıkarma alıştırmaları yapın. Ayrıca 10'dan 19'a kadar olan sayıları alıp 10 ve bir diğer rakamın toplamı olarak bölmeyi de deneyin; örneğin, 14, 10'un ve 4'ün toplamıdır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has lots of shapes and counting with small numbers.",
+    "text": "Bu etkinlik bol miktarda şekli ve küçük sayılarla saymayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve comparing and ordering numbers up to 20.",
+    "text": "Bu etkinlik 20’ye kadar sayıları karşılaştırmayı ve sıralamayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 3-6",
+    "text": "Oyun Buluşması 26: Sayı Aileleri",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Use Fact Families to emphasize the connection between addition and subtraction. This is a natural follow on to the last Playdate's focus on number bonds.",
+    "text": "**Oyun Buluşması Odağı:** Toplama ve çıkarma arasındaki bağlantıyı vurgulamak için işlem ailelerini kullanın. Bu buluşma, bir önceki buluşmada ele alınan sayı bağlarının doğal bir devamıdır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has counting to 12, colors, shapes, and patterns.",
+    "text": "Bu etkinlik 12’ye kadar saymayı, renkleri, şekilleri ve desenleri içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve lots of practice with number bonds and with addition and subtraction of small numbers.",
+    "text": "Bu etkinlik çok sayı gruplar alıştırmalarını ve küçük sayılarla toplama ve çıkarma işlemleri içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 3-7",
+    "text": "Oyun Buluşması 27: İkizleri ve Yakın İkizleri Toplama",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Adding Twins, where you add a number to itself, are often enjoyable addition facts for a child to learn. Near Twins, where you add a number to the next number (such as 3 + 4), are often easy to learn after adding twins have been learned, and they help your child to see how adding facts can be connected.",
+    "text": "**Oyun Buluşması Odağı:** İkizleri toplamak, bir sayıya kendisini eklemek, çocuğun öğrenmesi için genellikle eğlenceli bir toplama işlemidir. Yakın ikizleri öğrenmek, bir sayıya ondan bir sonraki sayıyı eklemek (Örneğin 3+4), ikiz toplamayı öğrendikten sonra daha kolaydır ve çocuğunuzun aile grupların nasıl bağlantılı olduğunu görmesine yardımcı oluyor.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has skip counting, adding twins, and counting to 14.",
+    "text": "Bu etkinlik ritmik saymayı, ikiz toplamayı ve 14’e kadar saymayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve adding practice and estimating using a number line.",
+    "text": "Bu etkinlik sayı doğrusunu kullanarak alıştırma yapmayı ve tahmin etmeyi içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 3-8",
+    "text": "Oyun Buluşması 28: 2 ile Çarpma ve Bölme",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** After skip counting by 2's and doing adding twins, it is a great time to start doing doubling, multiplying by 2, halving, dividing by 2, splitting things into two equal parts, and looking at odd and even numbers. This is a lot of topics; however, they go together very naturally.",
+    "text": "**Oyun Buluşması Odağı:** 2’şer ritmik sayma ve ikizleri topladıktan sonra ikiye katlamayı ve 2 ile çarpmayı öğrenmek için uygun bir zamandır. Ayrıca ikiye bölmeyi, bir şeyi iki eşit parçaya ayırmayı ve tek–çift sayıları tanımayı da içerir. Bunlar birçok konu; ancak hepsi bir arada çok doğal bir şekilde bir araya geliyor.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has lots of discussion of how to split something fairly among coorperating friends.",
+    "text": "Bu etkinlik işbirliği yapan arkadaşlar arasında bir şeyi nasıl adil bir şekilde paylaşıldığına dair çok sayıda eleştirileri içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve doubling and taking halves.",
+    "text": "Bu etkinlik ikiye katlamayı ve yarıları çıkarmayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 3-9",
+    "text": "Oyun Buluşması 29: İkişer Sayma II",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Do lots of practice skip counting by 2's – do this practice up and down, and start it anywhere (not just at multiples of 2). When this becomes easy, practice with other skip count amounts such as 5 and 10.",
+    "text": "**Oyun Buluşması Odağı:** 2’şer ritmik saymayı çok çalışın – bu alıştırmayı ileri-geri yapın ve herhangi bir sayıdan başlayın (sadece 2’den değil). Bu kolaylaşınca, 5 ve 10 gibi diğer sayılarda da ritmik saymayı çalışın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve practice with addition and subtraction as well as seeing which numbers can be seen as groups of pairs.",
+    "text": "Bu etkinlik bol miktarda toplama ve çıkarma alıştırmalarının yanı sıra hangi sayıların çiftler halinde görülebileceğini görmeyi de içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 3-10",
+    "text": "Oyun Buluşması 30: Strateji Oyunları I",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Play lots of strategy games with your child. Even games that don't involve numbers have a lot of math in them. They will develop important problem solving skills.",
+    "text": "**Oyun Buluşması Odağı:** Çocuğunuzla bol bol strateji oyunu oynayın. Sayı içermeyen oyunlarda bile pek çok matematiksel düşünme vardır. Bu oyunlar önemli problem çözme becerilerinin gelişmesine yardımcı olur.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has counting to 10, comparisons, and a discussion of problem solving.",
+    "text": "Bu etkinlik 10’a kadar saymayı, karşılaştırmayı ve sorun çözme tartışmaları içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve lots of problem solving while playing strategy games.",
+    "text": "Bu etkinlik strateji oyunlar sırasında sorun çözmeyi içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stage 4 Overview",
+    "text": "Oyun Buluşmaları Aşama 4 — 20’ye Kadar Sayabiliyorum!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Overview for Stage 4 playdates**\n\nThe Math Learning Step for the introduction for Stage 4 gives an overview of the topics that are covered during this stage. The individual Playdates each have a suggested storybook and some math activities.",
+    "text": "Bu aşamada çocuğunuz saymayı 100'e kadar genişletecektir. Sayma becerileri geliştikçe iki basamaklı sayıların basamak değerlerini da anlamaları gerekiyor. Ayrıca bir basamaklı sayıların toplama ve çıkarma işlemlerini de ustalıkla yapacaktır. Bu aynı zamanda 1'den 5'e kadar olan sayılarla çarpmanın öğrenilmeye başlandığı heyecanlı bir dönemdir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 4-1",
+    "text": "Oyun Buluşması 31: 100’e Kadar Sayma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Count up and down to 100 with your child, paying particular attention to transitions at multiples of 10.",
+    "text": "**Oyun Buluşması Odağı:** Çocuğunuzla birlikte 100’e kadar ileri-geri sayın, özellikle 10'un katlarındaki geçişlere dikkat edin.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has lots of shapes, counting, and groupings of objects.",
+    "text": "Bu etkinlik birçok şekli, saymayı ve nesneleri gruplandırılmasını içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve ordering and comparing of numbers. Use numbers to 100 for I'm Thinking of a Number.",
+    "text": "Bu etkinlik sayıları sıralanması ve karşılaştırmayı içerir. Bir Sayı Tuttum etkinliği için 100’e kadar sayıları kullanın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 4-2",
+    "text": "Oyun Buluşması 32: Çift Basamaklı Sayılar",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Use Expanded Form and 2-digit place value to understand the value and meaning of numbers. Expanded Form is breaking a number into tens and ones, such as 43 is 40 + 3. Place value is understanding that 43 means 4 tens and 3 ones – the place a digit is in is what gives it its value. Use Expanded Form and place value to help compare numbers.",
+    "text": "**Oyun Buluşması Odağı:** Sayıların değerini daha iyi kavramak için basamak değerlerini ve Genişletilmiş Formu kullanın. Bir sayının genişletilmiş formu, onu onlar ve birler basamağına ayırmaktır; örneğin 43, 40+3 ‘dır. Basamak değeri 43’un 4 onluk ve 3 birliğin toplamı olduğunu anlamaktır – Bir sayının bulunduğu yer ona değerini verir. Sayıları karşılaştırmak için Genişletilmiş Formu ve basamak değerlerini kullanın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has counting to 20, descriptions, and shapes.",
+    "text": "Bu etkinlik 20'ye kadar saymayı, tanımlamaları ve şekilleri içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve ordering and comparing games.",
+    "text": "Bu etkinlik oyunları sıralamayı ve karşılaştırmayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 4-3",
+    "text": "Oyun Buluşması 33: Parmaklarla Toplama",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Use fingers and Counting On to make it easy to add a single-digit number to any number. Use Compensation to make some addition problems much easier.",
+    "text": "**Oyun Buluşması Odağı:** Herhangi bir sayıya tek basamaklı bir sayı eklemeyi kolaylaştırmak için parmaklarınızı ve Saymayı kullanın. Bazı toplama problemlerini çok daha kolay hale getirmek için tamamlamaları kullanın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has shapes, quantities, and speeds.",
+    "text": "Bu etkinlik şekilleri, miktarları ve hızları var.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve lots of addition and subtraction, and some practice with number bonds.",
+    "text": "Bu etkinlik bol miktarda toplama ve çıkarmayı ve bazı sayı grupları alıştırmaları içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 4-4",
+    "text": "Oyun Buluşması 34: Parmaklarla Çıkarma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Use fingers to make it easy to subtract a single-digit number from any number, or to subtract any two numbers whose difference is a single-digit number.",
+    "text": "**Oyun Buluşması Odağı:** Tek basamaklı bir sayıyı herhangi bir sayıdan çıkarmayı veya farkı tek basamaklı bir sayı olan iki sayıyı çıkarmayı kolaylaştırmak için parmaklarınızı kullanın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has lots of shapes and polygons (many-sided flat shapes).",
+    "text": "Bu etkinlik birçok şekilleri ve poligonları içerir (çok kenarlı düz şekiller).",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve lots of practice with addition and subtraction.",
+    "text": "Bu etkinlik bol miktarda toplama ve çıkarma alıştırmaları içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 4-5",
+    "text": "Oyun Buluşması 35: Toplama ve Çıkarmada Dengeleme",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Use compensation to make adding and subtracting a lot easier.",
+    "text": "**Oyun Buluşması Odağı:** Toplama ve çıkarmayı daha da kolaylaştırmak için tamamlamaları kullanın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has counting of groups and lots of comparison words.",
+    "text": "Bu etkinlik birçok grup sayma etkinliğini ve karşılaştırmaları içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve adding and subtracting, as well as a little bit of probability.",
+    "text": "Bu etkinlik toplama ve çıkarmayı, ayrıca biraz da olasılıkları içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 4-6",
+    "text": "Oyun Buluşması 36: 10'u Ara Durak Olarak Kullanmak",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Use 10 as an intermediate stop to make mental arithmetic for adding and subtracting a lot easier, as well as reinforcing number relationships.",
+    "text": "**Oyun Buluşması Odağı:** Toplama ve çıkarmayı zihinden daha kolay yapmak ve sayı ilişkilerini pekiştirmek için 10'u durak olarak kullanın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has skip counting and number properties.",
+    "text": "Bu etkinlik ritmik saymayı ve sayı özellikleri içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve adding, subtracting, and number bonds.",
+    "text": "Bu etkinlik toplamayı, çıkarmayı ve sayı gruplarını içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 4-7",
+    "text": "Oyun Buluşması 37: 2’şer, 5’er ve 10’ar Sayma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Practice skip counting by 2's, 5's, and 10's starting anywhere and going up and down. This helps a lot with addition, subtraction, multiplication, and division. Skip counting by 10's also helps with place value.",
+    "text": "**Oyun Buluşması Odağı:** Herhangi bir sayıdan başlayıp, ileri-geri 2’şer, 5’er ve 10’ar sayma alıştırmaları yapın. Bu toplama, çıkarma, çarpma ve bölme işlemlerine çok yardım eder. 10’ar sayma basamak değerlerine de yardım eder.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has counting to 14 and skip counting.",
+    "text": "Bu etkinlik 14’e kadar saymayı ve ritmik saymayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve place value and simple additions with two-digit numbers.",
+    "text": "Bu etkinlik basamak değerlerini ve basit iki basamaklı sayılarla toplamayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 4-8",
+    "text": "Oyun Buluşması 38: Çarpmaya Başlangıç",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Use doubling and halving as a way to start using the words of multiplication and division without making a big deal about it.",
+    "text": "**Oyun Buluşması Odağı:** Çarpma ve bölme kelimelerini basitleştirerek tanıtmak için ikiye katlama ve yarıya bölme ile başlayın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has skip counting and shapes.",
+    "text": "Bu etkinlik ritmik saymayı ve şekilleri içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve doubling, adding or subtracting single-digit numbers with double-digit numbers, and place value.",
+    "text": "Bu etkinlik tek basamaklı sayıların iki basamaklı sayılarla ikiye katlanmasını, eklenmesini veya çıkarılmasını ve basamak değerini içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 4-9",
+    "text": "Oyun Buluşması 39: 1 ile 5 Arasındaki Sayıları Birbiriyle Çarpma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Do mental multiplication with your child for any two numbers from 1 to 5. This is the beginning of mastering multiplication!",
+    "text": "**Oyun Buluşması Odağı:** Çocuğunuzla birlikte 1'den 5'e kadar olan iki sayı için zihinsel çarpma işlemi yapın. Bu, çarpma işleminde ustalaşmanın başlangıcıdır!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has skip counting, shapes, and colors.",
+    "text": "Bu etkinlik ritmik saymayı, şekilleri ve renkleri içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve addition, subtraction, and multiplication. Number Scramble can now involve all three of these operations. War using multiplication should only use the cards from 1 to 5 until your child is comfortable with larger numbers.",
+    "text": "Bu etkinlik toplama, çıkarma ve çarpmayı içerir. Sayı Karışımları artık bu üç işlemin hepsini içerebilir. Çocuğunuz daha büyük sayılarla rahat hissedene kadar, çarpma savaşlarında yalnızca 1'den 5'e kadar olan kartları kullanmalıdır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 4-10",
+    "text": "Oyun Buluşması 40: Strateji Oyunları II",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** This is a chance to take a deeper look at problem solving using strategy games. A strategy game is any game where the players have choices that can make the outcome of the game better or worse.",
+    "text": "**Oyun Buluşması Odağı:** Strateji oyunları sorun çözmeye daha derinden bakma şansı verir. Strateji oyunu, oyuncuların farklı seçimlere sahip olduğu ve alınan kararların oyunu iyi veya kötü yönde etkileyebildiği herhangi bir oyundur.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "This has counting, comparisons, and problem solving.",
+    "text": "Bu etkinlik saymayı, karşılaştırmayı ve sorun çözmeyi içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve addition and subtraction. Use the numbered version of Dots and Boxes and write in two-digit numbers if your child is ready for them.",
+    "text": "Bu etkinlik toplama ve çıkarmayı içerir. Çocuğunuz hazırsa Numaralı Noktaları ve Kutuları kullanarak iki basamaklı sayıları oluşturun.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Stage 5 Overview",
+    "text": "Oyun Buluşmaları Aşama 5 — 100’e Kadar Sayabiliyorum!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Overview for Stage 5 playdates**\n\nThe Math Learning Step for the introduction for Stage 5 gives an overview of the topics that are covered during this stage. The individual Playdates each have some suggested math activities.",
+    "text": "Bu aşamada sayma becerisi, 100’ün üzerindeki üç basamaklı sayılara kadar ilerler. Basamak değerini anlama becerisi gelişir ve sayılar için genişletilmiş formu kullanmak bu kavrayışı daha da netleştirir. Tek basamaklı toplama ve çıkarma işlemlerinde ustalaştıktan sonra, artık bir basamaklı çarpmayı ve bölmeyi öğrenme zamanı geldi.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 5-1",
+    "text": "Oyun Buluşması 41: Üç Basamaklı Sayılar ve Basamak Değeri",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Your child's numbers are going above 100, and their adding and subtracting involves two-digit numbers. Practice 2-digit and 3-digit expanded form and place value with them.",
+    "text": "**Oyun Buluşması Odağı:** Çocuğunuzun sayıları 100’ün üzerine çıkıyor ve toplama ile çıkarma işlemleri artık iki basamaklı sayıları içerir. Onunla birlikte iki ve üç basamaklı sayılarda genişletilmiş formu ve basamak değerini çalışın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 5-2",
+    "text": "Oyun Buluşması 42: Çift Basamaklı Toplama ve Çıkarma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Use expanded form to practice double-digit addition and subtraction.",
+    "text": "**Oyun Buluşması Odağı:** Genişletilmiş Formlarını iki basamaklı toplama ve çıkarma alıştırmaları için kullanın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve two-digit addition and subtraction.",
+    "text": "Bu etkinlik iki basamaklı toplama ve çıkarmayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 5-3",
+    "text": "Oyun Buluşması 43: 2 ile 10 Arasındaki Sayılarla Ritmik Sayma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Practice skip counting up and down by any skip amount starting at any number (not just multiples). This skip counting is great practice for all four of the operations.",
+    "text": "**Oyun Buluşması Odağı:** Herhangi bir sayıdan başlayarak ileri-geriye herhangi bir ritmik saymayı çalışın (sadece katları değil). Ritmik sayma dört işlemin hepsi için harika bir alıştırmasıdır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve lots of practice with skip counting.",
+    "text": "Bu etkinlik bol miktarda ritmik sayma alıştırması içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 5-4",
+    "text": "Oyun Buluşması 44: Çarpma – 2, 4, 8, 5, 10",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Practice mental multiplication using doubling for 2, 4, and 8. Practice mental multiplication by 5 and 10 because they are useful and easy.",
+    "text": "**Oyun Buluşması Odağı:** 2, 4 ve 8’in ikiye katlama yöntemini kullanarak zihinden çarpma alıştırması yapın. Hem yararlı hem de kolayı olduğu için zihinden 5 ve 10’la çarpma alıştırmaları yapın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve doubling and general multiplication practice.",
+    "text": "Bu etkinlik ikiye katlama stratejisini ve temel çarpma alıştırmalarını içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 5-5",
+    "text": "Oyun Buluşması 45: Çarpma – 3, 4, 6, 9, 11",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Use the idea of one more and one less to practice mental multiplication for multiplying by 3, 4, 6, 9, and 11. For example, multiplying by 6 is one more than multiplying by 5.",
+    "text": "**Oyun Buluşması Odağı:** 3, 4, 6, 9 ve 11 ile çarpmayı zihinden “artı bir” ve “eksi bir” stratejileriyle çalışın. Örneğin, 6 ile çarpma 5’in çarpımına bir fazlasını eklemek gibidir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve lots of multiplication practice along with some mixed operation practice.",
+    "text": "Bu etkinlik bazı karışık işlemlerle birlikte birçok çarpma alıştırması içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 5-6",
+    "text": "Oyun Buluşması 46: Tek Basamaklı Sayılarla Çarpma",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** All the pieces are in place, and your child is ready to finish off the mastery of all single-digit multiplication!",
+    "text": "**Oyun Buluşması Odağı:** Tüm parçalar yerli yerinde ve çocuğunuz tek basamaklı çarpma işlemlerinin tümünde usta olmaya hazır!",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These are repeated from the last Playdate and involve lots of multiplication practice along with some mixed operation practice.",
+    "text": "Bunlar, bir önceki Oyun Buluşmasından tekrar edilen etkinliklerdir ve çok sayıda çarpma işleminin yanı sıra bazı karışık işlemleri de içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 5-7",
+    "text": "Oyun Buluşması 47: Bölenler, Çarpanlar ve Katlar",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Now that your child is getting comfortable with multiplying and dividing, it's time to develop a sense of how numbers can evenly divide other numbers. This involves in learning and practice the words: factor, divisor, and multiple.",
+    "text": "**Oyun Buluşması Odağı:** Çocuğunuz artık çarpma ve bölme konusunda rahatlıyor, şimdi sayıların diğer sayıları nasıl eşit şekilde bölünebileceğini anlatmanın zamanı geldi. Bu, çarpanlar, bölen ve kat kelimelerini öğrenmeyi ve uygulamayı içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve lots of practice with factors and multiples.",
+    "text": "Bu etkinlik çarpanlar ve katlarla ilgili çok sayıda alıştırma içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 5-8",
+    "text": "Oyun Buluşması 48: Asal Sayılar, Bileşik Sayılar ve Kuvvetler",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Using multiplication, primes are the building blocks of numbers. Help your child develop a strong sense of prime factorizations. The new words for this Playdate are: prime, composite, unit, and power.",
+    "text": "**Oyun Buluşması Odağı:** Çarpma işlemi açısından bakıldığında, asal sayılar sayıların yapı taşlarıdır. Çocuğunuzun asal çarpanlara ayırma konusunda güçlü bir anlayış geliştirmesine yardımcı olun. Bu oyun buluşmasında öğrenilecek yeni kelimeler: asal, bileşik, birim ve kuvvettir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice prime factorizations by using them when you play Beep.",
+    "text": "Bu etkinlik, Karışık Tablolar oyunu ile çarpma ve bölünebilirlik üzerine yoğun alıştırmalar içerir. BOM! oynarken asal çarpanlara ayırmayı pratik yapın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 5-9",
+    "text": "Oyun Buluşması 49: Sayı Aileleri II",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** Practicing with fact families is a good way to deepen your child's understanding of the interconnection between multiplication and division.",
+    "text": "**Oyun Buluşması Odağı:** Çocuğunuzun çarpma ve bölme arasındaki bağlantıyı güçlendirmek için sayı aileleri ile pratik yapmak etkili bir yoldur.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve lots of practice with multiplication and divisibility playing with Turning the Tables. Practice multiples by using them when you play Beep.",
+    "text": "Bu etkinlik, Karışık Tablolar oyunu ile çarpma ve bölünebilirlik üzerine yoğun alıştırmalar içerir. BOM! oynarken katları pratik yapın.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "Playdate 5-10",
+    "text": "Oyun Buluşması 50: Tek Basamaklı Sayılarla Bölme",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "**Playdate Focus:** This is a quick first step at practicing division with and without remainders.",
+    "text": "**Oyun Buluşması Odağı:** Bu etkinlik kalanlı ve kalansız bölmeyi çalışmanın ilk hızlı adımıdır.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
+    "SourceText": "These involve lots of practice with multiplication and division.",
+    "text": "Bu etkinlik çok sayıda çarpma ve bölme alıştırması içerir.",
+    "type": "data_list",
+    "note": ""
+  },
+  {
     "SourceText": "Next",
     "text": "Sonraki",
     "type": "global",
@@ -25354,6 +26590,12 @@
     "text": "**Temel Hikaye Kitapları**",
     "type": "template",
     "note": ""
+  },
+  {
+    "SourceText": "@local.book_title_in_table == \"NoTranslation\"",
+    "text": "@local.book_title_in_table == \"NoTranslation\"",
+    "type": "template",
+    "note": "The string @local.book_title_in_table should not be translated."
   },
   {
     "SourceText": "**Intermediate Storybooks**",
@@ -25694,6 +26936,12 @@
   {
     "SourceText": "Language",
     "text": "Dil",
+    "type": "template",
+    "note": ""
+  },
+  {
+    "SourceText": "Continue",
+    "text": "Devam Et",
     "type": "template",
     "note": ""
   },
