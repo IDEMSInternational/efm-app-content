@@ -123,6 +123,15 @@
       "language_label": "polski",
       "name": "@row.id",
       "text": "@row.language_label"
+    },
+    {
+      "id": "de_de",
+      "country_code": "de",
+      "country_label": "Germany",
+      "language_code": "de",
+      "language_label": "Deutsch",
+      "name": "@row.id",
+      "text": "@row.language_label"
     }
   ]
 }
