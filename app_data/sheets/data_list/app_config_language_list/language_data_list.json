@@ -121,6 +121,15 @@
       "language_label": "polski",
       "name": "pl_pl",
       "text": "polski"
+    },
+    {
+      "id": "de_de",
+      "country_code": "de",
+      "country_label": "Germany",
+      "language_code": "de",
+      "language_label": "Deutsch",
+      "name": "de_de",
+      "text": "Deutsch"
     }
   ],
   "_source": {
